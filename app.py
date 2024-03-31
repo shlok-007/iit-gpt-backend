@@ -39,6 +39,10 @@ chain = ConversationalRetrievalChain.from_llm(
   retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
 )
 
+@app.route('/', methods=['GET'])
+def index():
+    return 'Hello, World!'
+
 @app.route('/query', methods=['POST'])
 def query():
     data = request.json
