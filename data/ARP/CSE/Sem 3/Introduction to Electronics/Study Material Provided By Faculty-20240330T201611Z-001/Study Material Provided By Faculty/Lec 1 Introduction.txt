@@ -1,0 +1,24 @@
+Introduction to Electronics
+Lecture 1: Introduction
+1Reference Textbooks
+•“Microelectronic Circuits” by S. Sedra and K. C. Smith
+•“Electronic Circuits” by D. A. Neamen
+•“Design with operational amplifier and analog integrated circuits” by 
+Sergio Franco
+•“Electronic Principles” by A. Malvino and D. Bates 
+2Circuits
+•Meaningful interconnection of components  that perform a desired task.
+•Components:
+34
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16

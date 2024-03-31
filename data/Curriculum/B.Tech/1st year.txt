@@ -1,0 +1,55 @@
+Common Curriculum for B. Tech. /Deal 
+Degree  Programmes First Year (1st & 2nd 
+Semester)  
+Subject Name  Code  L-T-P Credit  Contact 
+Hour  
+SEMESTER - I 
+Mathematics – I MA1L001  3-1-0 4 4 
+Physics / Chemistry  PH1L001 / CY 1L001  3-1-0 4 4 
+Mechanics  / English for 
+Communications or Learning  
+English  ME1L001 / 
+HS1L001 or 
+HS1L002  3-1-0/3-0-2 or 
+3-1-0 4 4/5 or 4  
+Electrical Technology  / 
+Introduction to Programing and 
+Data  Structures  EE1L001 / CS1L001  3-1-0 4 4 
+Introduction to Manufacturing 
+Processes  / Engineering 
+Drawing and Graphics  ME1P001 / 
+CE1P001  0-0-3/1-0-3 2/3 3/4 
+Physics Laboratory  / Chemistry 
+Laboratory  PH1P001 / CY1P001  0-0-3 2 3 
+Electrical Technology 
+Laboratory    / Introduction to 
+Programing and Data Structures 
+Laboratory  EE1P001 / CS1P001  0-0-3 2 3 
+EAA  ID1T001  0-0-3 1 3 
+    Total  22/ 23 +1  25/ 27 or 
+26+3  
+SEMESTER - II 
+Mathematics – II MA1L002  3-1-0 4 4 
+Chemistry  / Physics  CY1L001 / PH1L001  3-1-0 4 4 
+English for Communication  or 
+Learning English  / Mechanics  HS1L001 or 
+HS1L002 / 
+ME1L001  3-0-2 
+or              3-
+1-0/3-1-0 4 5 or 4/4  
+Introduction to Programing and 
+Data Structures  / Electrical 
+Technology  CS1L001 / EE1L001  3-1-0 4 4 Chemistry Laboratory  / Physics 
+Laboratory  CY1P001 / PH1P001  0-0-3 2 3 
+Introduction to Programing and 
+Data Structures Laboratory  / 
+Electrical Technology 
+Laboratory  CS1P001 / EE1P001  0-0-3 2 3 
+Engineering Drawing and 
+Graphics  / Introduction to 
+Manufacturing Processes  CE1P001 / 
+ME1P001  1-0-3/0-0-3 3/2 4/3 
+EAA – 2 ID1T002  0-0-3 1 3 
+    Total  23/22+1  27or 26/ 25 
++3 
+ 

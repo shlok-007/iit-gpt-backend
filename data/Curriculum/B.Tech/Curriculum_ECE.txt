@@ -1,0 +1,2456 @@
+Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+1 
+ Table of Content s 
+1. Compliance report  for B. Tech. programme  
+2. B. Tech and Dual Degree ( 1st and 2nd Semester Common C ourses)  
+a. First Semester courses  
+b. Second Semester Courses  
+c. Syllabus  
+3. B. Tech and Dual Degree (3rd Semester – 6th Semester  Courses ) 
+a. Third to Sixth Semester Courses  
+b. Syllabus for Core Courses  
+4. B.Tech (7th and 8th Semester Courses)  
+a. Seventh and eighth Semester Courses  
+b. Syllabus for Core Courses  
+5. Elective Courses for B.Tech degree with syllabus  
+6. Lateral Courses  
+a. List of Lateral Courses for Other Schools  
+b. Syllab us 
+7. Complete List of Semester -Wise Courses with Credits   Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+2 
+ Complian ce Report  
+Components  Subjects  Credit 
+Recommended  Credit 
+Approved  
+1. Common Core  (i) English  4 4  
+(ii) Basic Science and 
+Mathematics  20 20 
+(iii) General Sciences  6 6 
+(iv) Engineering Sciences  27 27 
+2. Breadth Basket  (i) Breadth -1 
+(ii) Breadth -2 
+(iii) Breadth -3 
+(iv) Breadth -4 12-14 3/4 
+3  
+3/4 
+3/4 
+3. Misc ellaneous  (i) Seminar  
+(ii) Internship  
+(iii) Project  14 2 
+2 
+10 
+4. Laterals  (i) Lateral -1  
+(ii) Lateral -2  
+(iii) Lateral -3  9-12 3 
+3/4 
+3/4 
+5. Verticals  Theory  58-68 2nd year - 20 
+3rd year –23/24  
+4th year – 19/25  
+Laboratory  18-24 18 
+TOTAL   168-189 172/184  
+ 
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+3 
+ Curriculum for B.Tech. in Electronics and Communication Engineering  
+1. The curriculum for 1st and 2nd Semesters are same for all B Tech and dual degree programs.  
+2. For 7th and 8th Semester, the curriculum for B. Tech. program has a combination of core, 
+elective subjects and final year B. Tech. project.  
+3. The recommended total credit range for B. Tech program is 168 -189.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+4 
+ 1st Semester and 2nd Semester (Common  to All Disciplines of Study)  
+ 
+SEMESTER – I 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -1 MA1L001  3-1-0 4 4 4 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 4 5 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0/ 
+3-0-2 or  
+3-1-0 4 4/ 
+5 or 4  6/7 and 9  
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 4 10 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 3/4 11/12  
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 3 12 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 13 
+Extra Academic Activity -1 ID1T001  0-0-3 1 3  
+  Total  22/23+1  25/27 or 26+3   
+SEMESTER – II  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -2 MA1L002  3-1-0 4 4 14 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 4 5 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-0-2 or              
+3-1-0/ 
+3-1-0 4 5 or 4/  
+4 7 and 9/6  
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 4 10 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 4/3 12/11  
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 3 12 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 13 
+Extra Academic Activity -2 ID1T002  0-0-3 1 3  
+  Total  23/22+1  27 or 26/ 25+3   
+      
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+5 
+ Syllabus for First Year Courses (Common to All Disciplines of Study)  
+SEMESTER – I 
+Subject Code:  MA1L001  Subject  Name: 
+Mathematics -1 L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Calculus:  Rolle’s theorem, Lagranges theorem, Cauchy ’s mean value theorem 
+(Taylor’s and Maclaurin theorems with remainders), Indeterminate forms, Concavity 
+and convexity of a curve, points  of inflexion, maximum, minimum of a function, 2nd  
+derivative test for max min, Asymptotes and curvature, Cartesian curve tracing, polar 
+curve  tracing.   
+Calculus of Several Variables :  Limit, continuity and differentiability of functions of 
+several variab les, partial derivatives and their geometrical interpretation, differentials, 
+derivatives of composite and implicit functions, derivatives of higher order and their 
+commutativity, Euler’s theorem on homogeneous functions, harmonic functions, 
+Taylor’s expan sion of functions of several variables, maxima and minima of functions 
+of several variables, Lagrange’s method of multipliers.   
+Vector Calculus:  Double and triple integrals, Scalar and vector fields, level surfaces, 
+directional derivative, Gradient, Curl, Divergence, line and surface integrals, theorems 
+of Green, Gauss and Stokes. Beta and Gamma functions.  
+Ordinary Differential Equations:  First order differential equations, exact, linear and 
+Bernoulli’s form, second order differential equations with constan t coefficients, Euler’s 
+equations, particular integrals by: variation of parameters, undetermined coefficients, 
+operator method, system of differential equations.   
+ 
+Text Books:  
+1. Narayan S. and Mittal P. K.  Differential Calculus and Integral Calculus , S. Chand & 
+Company Ltd.  
+2. Thomas   G. B.  and Finney   R. L.  Calculus and Analytic Geometry , Pearson  
+3. Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons  
+5. Simmons G. F. and Robertson J. S.  Differential Equations with applications and 
+Historica l notes , Tata McGraw -Hill Publishing Company Limited, New Delhi, India  
+ 
+Reference Books:  
+1. Bartle R. G. and Sherbert D. R . Introduction to Real Analysis , Wiley India  
+2. Jain R. K. and Iyengar S. R. K.   Advanced Engineering Mathematics,  Narosa  
+3. Apostol T. M. Calculus - Vol.2, Wiley India  
+4. Ross S. L.  Differential Equations , Wiley India  
+5. Coddington E. A.  An Introduction to Ordinary Differential Equations , Prentice Hall  
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+6 
+ Subject Code:  PH1L001  Subject Name:  Physics  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Classical Physics: Review of Newtonian mechanics, Lagrangian mechanics, constraints, 
+principle of virtual work, D’Alembert’s  principle, Action Principle and Lagrange's 
+equations,   Velocity dependent potentials, Legendre Transformation and Hamiltonian 
+equations, Central forces, Kepler’s problem, Waves and Oscillations, Damped and 
+Forced Oscillations, normal modes, Basics of Spec ial Relativity, Galilean and Lorentz 
+transformations, Time dilation and length contraction, relativistic kinematics and 
+mass-energy equivalence. Electromagnetic Waves and Optics: Maxwell’s equations, 
+wave equation, plane electromagnetic waves, longitudinal  and transverse waves, 
+superposition, wave packets, two and three dimensional waves, energy - momentum, 
+Poynting’s theorem, electromagnetic boundary conditions, Laser, Young’s experiment, 
+interferometers, diffraction, Fraunhofer diffraction (single slit), d ispersion. Wave 
+Mechanics: Failure of classical physics, qualitative review of relevant experiments, de 
+Broglie waves, uncertainty principle, wave function and Schrodinger equation, 
+probability interpretation, particle on a chain, potential barrier and qua ntum tunneling, 
+potential well, Harmonic oscillator, operator algebra, Hydrogen atom and angular 
+momentum algebra.  
+ 
+Text/ Reference Books:  
+ 
+1.   Crawford F.S.   Waves,  Vol. 3, Berkely Physics Series . 
+2.   Goldstein,  Classical Mechanics , Pole and Safko, Pear son Education Inc.  
+3.   Saleh and Teich.  Fundamentals of Photonics , Wiley -Interscience.  
+4.   Ghatak A.  Optics , McGraw -Hill. 
+5.   Griffiths D.J.  Introduction to Quantum Mechanics , Pearson Education Inc.  
+6.   Pain H. J.  The Physics of Vibrations and Waves , Wiley. 
+7.   Resnick R.  Introduction to Special Relativity , John Wiley (Asia).  
+8.   Landau L. and Lifshitz E.  Mechanics , Oxford   
+9.   Zweibach B.   A First Course in String Theory , Cambridge University Press  
+10.  Hecht E.  Introduction to Optics , Addison -Wesle y.  
+11.  Feynmann Lecture series on Physics.  
+12.  Sakurai J. J.  Modern Quantum Mechanics , Benjamin -Cummings.  
+ 
+Subject Code: CY1L001  Subject Name: Chemistry  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Energetics & Kinetics:  (a) Basic Concepts and Laws of Thermodynamics; Entropy; 
+Engineering Devices: Efficiency & Conversion; Thermochemistry; Bioenergetics. (b) 
+Basic Rate Laws; Multistep Reactions; Activation Energy. (c) Transport of Ions and 
+Gases in bi ofluids and across biom embranes; Equilibrium:  Proton Equilibrium (aqueous 
+& non -aqueous) including Buffers. Phase Equilibrium.  Redox & Electrochemistry:  Basic 
+Concepts & Laws; Battery (Automobile to Ni -Cd and beyond); Fuel Cells; Latimer, Frost, 
+and Pourbaix diagram; Corrosion.  Bonding Models & Properties:  (a) In Molecules, 
+Supramolecules, Metals and Metal Complexes; (b) Implications on electrical, ma gnetic, 
+and optical properties, (c) Absorption and  Emission Spectroscopy.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+7 
+ Functional Materials - Design & Application:  (a) Synthetic Polymers (carbon framework, 
+silicon framework, fluorinated polymer), Bio & biodegradable polymers. (b) Surfactants. 
+(c) Nanostructures, Soft materials and Thin Films. (b) Emerging app lications in Energy 
+harvesting, Memory  Storage  and Micro -fabric ation. Industrial & Bio -inspired 
+Chemistry:  (a) Case studies on Industrial organics with emphasis to Drugs (b) 
+Oxidation, Reduction, Catalytic hydrogenation and Electron transfer.  Molecules in Daily 
+Life: A short tour on molecules behind taste, smell, pain , colour and sex.  
+ 
+ 
+Text/Reference Books:   
+1. Brown L. and Holme, T.  Chemistry for Engineering Students , Thomson Brooks.  
+2. Atkins P. and Paula J. D. Atkins’  Physical Chemistry , Oxford.  
+3. Shriver, D. F. and Atkins, P. W. Atkins’  Inorganic Chemistry , Oxfor d. 
+4. Morrison R. T. and Boyd R. N.  Organic Chemistry , Prentice Hall.  
+5. Steed J. W. and Atwood J. L.  Supramolecular Chemistry , John -Wiley.   
+6. Caruther W.  Reagents in Organic Chemistry , Cambridge University Press.  
+7. Wiseman P.  An Introduction to Industri al Organic Chemistry , Applied Science.   
+8. Hall N.  The New Chemistry , Cambridge University Press.  
+9. Atkins P. Atkins’  Molecules  Cambridge University Press.  
+10. Cengel Y. A. and Boles M. A.  Thermodynamics -An Engineering Approach , Tata 
+McGraw - Hill 
+ 
+Subject Code:   ME1L001  Subject Name:   Mechanics  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Force systems:  Moment of a force about a point an d about an axis; couple moment; 
+reduction of a force system to a force and a couple.  Equilibrium:  Free body diagram; 
+equations of equilibrium; problems in two and three dimensions; plane frames and 
+trusses.  Friction:  Laws of Coulomb friction, problems involving large and small contact 
+surfaces;  square threaded screws; belt friction; rolling resistance.  Kinematic s and 
+Kinetics of particles:  Particle dynamics in rectangular coordinates cylindrical coordinates 
+and in terms of path variables; central force motion.  Properties of areas:  Moments of 
+inertia and product of inertia of areas, polar moment of inertia, princi pal axes and 
+principal moments of inertia.  Concept of stress and strain:  Normal stress, shear stress, 
+state of stress at a point, ultimate strength, allowable stress, factor of safety; normal 
+strain, shear strain, Hooke’s law, Poisson’s ratio, generalized Hooke’s law; analysis of 
+axially loaded members.  Torsion:  Torsion of cylindrical bars, torsional stress, modulus 
+of rigidity and deformation.  Flexural loading:  Shear and moment in beams; load, shear 
+and moment relationship; shear and moment diagrams; flexu re formula; shear stress 
+in beams; differential equation of the elastic curve, deflection of beams.  Transformation 
+of stress and strain:  Transformation of stress and strain, principal stresses, principal 
+strains, Mohr’s circle for stress and strain.  Combin ed loading:  Axial and torsional; axial 
+and bending; axial, torsional and bending.  Column:  Buckling of slender columns, Euler 
+bucking load for different end conditions . 
+ 
+ 
+Text/Reference Books:  
+1. Vector Mechanics for Engineers:   Statics and Dynamics  - Ferdinand P. Beer, E. 
+Russell   Johnston, Jr. (TMH)  
+2. Engineering Mechanics:  Statics and Dynamics  - I.H. Shames (Pearson)  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+8 
+ 3. Engineering Mechanics  - S. Timoshenko,   D. H. Young (TMH)  
+4. Mechanics of Materials  - Ferdinand Beer , E. Russell Johnston, Jr., J.  DeWolf (TMH)  
+1. 5. Elements of Strength of Materials  - S. Timoshenko,   D. H. Young (East West Press)  
+2. 6. Mechanics of Materials  - James M. Gere, Barry J. Goodno (CL Engg)  
+3. 7. Engineering Mechanics  -  Stephan Timoshenko, D. Young (TMH)  
+4. 8. Strength of Materials (Part 1)  – S P Timoshenko (CBS)  
+ 
+Subject Code: 
+HS1L001  Subject Name: English for 
+Communication  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+English for Communication is an amalgamation of Literature, Language and 
+Communication.  The Literature component of the course comprises of Prose and 
+Poetry.   
+Poetry:   
+A selection of poetry pieces spanning from 16th century to the Post -Modern Period in 
+English, American and Indian Literature are chosen to introduce to the students to the 
+different poets from differen t ages and countries and also to acquaint them with the 
+various poetic forms like Sonnet, Ballad, Elegy, Didactic, Dramatic, Nature, Lyric,  
+Romantic, etc. The list is an indicative one . 16th century - 17th century - Geoffrey 
+Chaucer, William Shakespeare, Edm und Spenser, Ben Johnson, Thomas Wyatt.  
+17th century - 18th century - John Milton, John Donne, George Herbert, John Dryden, 
+Oliver Goldsmith.  18th century - 19th century - Alexander  Pope, Thomas Gray, Robert 
+Burns, William Blake, William Wordsworth, Samuel Tay lor Coleridge, Lord Byron, P.B.  
+Shelley, John Keats, Robert Bridges, Robert Southey, Samuel Johnson.  19th century - 
+20th century - Alfred Tennyson, Robert Browning, Walter de la Mare, Thomas Hardy, 
+A.E. Housman, Rudyard Kipling, D.H. Lawrence, Wilfred Owen, D.G. Rossetti, Christina 
+Rossetti, Emily Dickinson, Gerald Manley Hopkins, Charlotte Bronte, Lewis Caroll, 
+Edward Fitzgerald, Walt Whitman.  20th century - Present - Ted Hughes, Louis MacNeice, 
+W.B. Yeats, Stephen Spender, W.H. Auden, Nissim Ezekiel, Sarojini  Naidu, Jayanta 
+Mahapatra, Robert Frost, , Ezra Pound, E.E. Cummings, T.S. Eliot, Walt Whitman, A.K. 
+Ramanujan, Kamala Das, Rabindranath Tagore, Jack Prelutsky,   Chinua Achebe, Maya 
+Angelou, Margaret Atwood, Leonard Cohen, Louise Erdrich, Leslie Marmon Sil ko. 
+Prose:  
+A selection of fictional and non -fictional prose pieces spanning from 17th century to the 
+Post-Modern Period.   Fiction and non -fictional pieces from English, American, Russian 
+and Indian Literature are chosen to introduce the students to differe nt writings from 
+different ages and countries. The list is an inclusive one consisting of short stories, 
+essays, excerpts, extracts from novels, biographies and memoirs, history, travel and 
+other forms.  17th century -18th century:  Charles Dickens, William Makepeace 
+Thackeray, George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudyard Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe , Jonathan Swift, Lewis 
+Carroll; 19th century -20th century:  Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughaum, Nathaniel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David Thoreau, 
+Anton Chekov,  Maxim Gorky, Leo Tolstoy, George Orwell, Rabindranath Tagore, M.K. 
+Gandhi, J. Nehru, Virginia Woolf, Guy De Maupassant, Washington Irving, Margaret 
+Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, Ernest Hemingway, 
+Edgar Allan Poe.  20th ce ntury -Present:  J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. 
+Abdul Kalam, Khushwant Singh, Anita Desai, Yann Martel, Ken Kesey, Stephen King, Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+9 
+ Thomas King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, 
+Virginia Woolf, Gerald Vizenor, A lice Walker, Chinua Achebe, Jeffrey Archer, Issac 
+Asimov, Roald Dahl, J.R.R. Tolkien, D.H. Lawrence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.            
+Communication:  
+Because communication is so  important in business, businesses want and need people 
+with good communication skills. Business communication is a blend of skills like writing 
+and speaking well, displaying proper etiquettes and listening attentively.  
+Communications through technology gr eatly enhances one’s ability to communicate 
+effectively and articulately. For example, E -mails often result in a sender’s language 
+skills being placed in front of different people simultaneously; while audio and video will 
+reveal the calibre of one’s verba l and diplomatic strengths. The communication aspect 
+of the English for Communication Course includes:   
+ 
+1. The Basics of Business Communication  
+2. Importance of Listening  
+3. Barriers in the Communication Process  
+4. Business Letters (Letter of Inquiry, Com plaint, Cover Letter)  
+5. Resume Writing  
+6. Memo and Memo Reports  
+7. Report Writing  
+8. Fax and E Mail  
+ 
+English Laboratory:  
+Objective: The laboratory component included in the course provides an ideal platform 
+for students to prepare themselves into confident and self -assured individuals. The Lab 
+course is designed to inculcate confidence and clarity in presentation and expression of 
+thought, views and ideas through practice and exercises. It constitutes six basic 
+components to improve listening, read ing and writing skill of the students.   
+Lessons:  
+1. Pronunciation (Basic sounds of English like   Long/Short Vowels; All consonants)  
+2. Stress Intonation (Rising and Falling)  
+3. Speaking - Oral Presentations, Group Discussions, Story Telling, Role Plays  
+4. Listening – Importance and Practice  
+5. Reading - Practice  
+6. Writing (Paragraph writing, good writing and bad writing with samples, Indianism),  
+Grammar (Basic - Articles, Prepositions, Verbs, Common Errors , etc)  
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman,  Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Communication , 
+Macmillan.   
+5. Herta A. Murphy, et al.,  Effective Business Communication , Tata Mc -Graw Hill: New 
+Delhi  
+6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Pr ess:  New York  
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+10 
+ Subject Code: HS1L002  Subject Name: Learning 
+English  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+The Learning English Course is designed to improve the English Listening, Speaking, 
+Reading and Speaking skills of students.  
+I. Prose  
+A selection of fictional and non -fictional prose pieces spanning from 17th century to 
+the Post -Modern Period.   Fiction and non -fictional pieces from English, American, 
+Russian and Indian Literature are chosen to introduce the students to different 
+writings f rom different ages and countries. The list is an inclusive one consisting of 
+short stories, essays, excerpts, extracts from novels, biographies and memoirs, 
+history, travel and other forms.   
+17th century - 18th century - Charles Dickens, William Makepeace Th ackeray, 
+George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudyard Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe, Jonathan Swift, Lewis 
+Carroll.  
+19th c entury - 20th century - Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughaum, Nathaniel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David 
+Thoreau, Anton Chekov, Maxim Gork y, Leo Tolstoy, George Orwell, Rabindranath 
+Tagore, M.K. Gandhi, J. Nehru, Virginia Woolf, Guy De Maupassant, Washington 
+Irving, Margaret Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, 
+Ernest Hemingway, Edgar Allan Poe.  
+20th century - Present- J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. Abdul 
+Kalam, Khushwant Singh, Anita Desai, Yann Martel, Ken Kesey, Stephen King, Thomas 
+King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, Virginia 
+Woolf, Gerald Vizenor, Alice Walke r, Chinua Achebe, Jeffrey Archer, Issac Asimov, 
+Roald Dahl, J.R.R. Tolkien, D.H. Lawrence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.  
+II. Writing - Paragraph, Essay, Précis, Dictation, Comprehensio n, Letter Writing  
+III. English Tutorial - Practice Listening and Speaking English   
+IV. English Practice - Grammar Assignments and Workbook (Everyday English Level 
+I/II) 
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman , Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Co mmunication , 
+Macmillan.  
+5. Herta A. Murphy, et al.,  Effective Business Communication , Tata Mc -Graw Hill: New 
+Delhi 
+1. 6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Press:   New York   
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+11 
+ Subject Code: 
+EE1L001  Subject Name: Electrical 
+Technology  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Introduction: Sources of energy; General structure of electrical power systems, Power 
+transmission and distribution via overhead lines and underground cables, Steam, 
+Hydel, and Nuclear power generation; DC Networks: Kirchhoff’s laws, node voltage 
+and mesh current methods, Delta -star and star -delta conversion, Superposition 
+principle, Thevenin’s, Norton’s theorems and Maximum power transfer theorem; 
+Single phase AC Circuits: Single phase EMF generation, average and effective values 
+of sinusoids, solution of R,L,C series circuits, the j operator, complex representation of 
+impedances, phasor diagram, power factor, power in complex notation, solution of 
+parallel and series – parallel circuits; Three phase AC Circuits: Three phase EMF 
+generation, delta and Y – connections, line and phase quantities, solution of three 
+phase circuits, balanced supply voltage and balanced load, phasor diagram, 
+measurement of power in three phase circuits, Three phase four wire circuits; 
+Magnetic Circuits: Ampere’s circuital law, B – H curve, solution of magnetic circuits, 
+hysteresis and eddy current losses; Transformers: Construction, EMF equation, 
+ratings, phasor diagram on no load and full load, equivalent circuit, regulation and 
+efficiency calculations, open and short circuit tests , auto -transformers; DC Machines: 
+Construction, EMF and Torque equations, Characteristics of DC generators and 
+motors, speed control of DC motors and DC motor starters; Electrical Measuring 
+Instruments: DC PMMC instruments, shunt and multipliers, multimete rs, Moving iron 
+ammeters and voltmeters, dynamometer, wattmeter, AC watthour meter, extension of 
+instrument ranges.   
+ 
+Text/Reference Books:  
+1. 1. E. Hughes , “Electrical Technology,”  Pearson Education, 2010.  
+2. 2. V. Del Toro,  “Electrical Engg Fundamentals,”  PHI Learning, 2009.  
+3. 3. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA Mc Graw Hill 
+Education, 2009.  
+4. 4. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1L001  Name: Introduction to 
+Programming and Data Structure  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Digital computer fundamentals, concepts of algorithms and introduction to 
+programming – examples; Constants and variables – data types, operators and 
+expressions - type conversions, types of expressions; Assignment statements, input -
+output statements - concepts of data formats; Control statements: branching – if-else 
+statements; iteration – while, do -while, for statements. nested control structures, 
+switch, break and continue statements; Funct ions and recursion – examples; concepts 
+of parameter passing by values and by reference; Arrays – single and 
+multidimensional, examples – searching and sorting; Introduction to pointers, 
+character strings and arrays, pointers and arrays; Structures, linked  lists, dynamic 
+allocation, stacks and queues, binary trees and tree traversals; Data files – creating, 
+opening, closing and operating data files; (The programming language C to be used as 
+the basis language).  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+12 
+ Text Books:  
+1. 1. B. Gottfried, “ Schaum’ s   Programming with C ,” Tata McGraw -Hill. 
+2. 2. E. Balaguruswamy, “ Programming in ANSI C ,” Tata McGraw -Hill. 
+3. 3. Y.  Kanetkar, “ Let us C ,” BPB Publications.  
+4. 4. S. Lipschutz, “ Data Structures, Schaum’s Outlines Series ,” Tata McGraw -Hill. 
+Reference Books:  
+1. 1. Brian W. Kernighan and Dennis M. Ritchie, “ The C Programming Language ,” 
+Prentice Hall of India.  
+2. 2. Ellis Horowitz, Satraj Sahni and Susan Anderson -Freed, “ Fundamentals of Data 
+Structures in C ,” W. H. Freeman and Company.  
+ 
+Subject Code: 
+ME1P001  Name: Introduction to 
+Manufacturing Processes  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Nil  
+Machining:  
+ Introducing to various machine tools and demonstration on machining  
+ Making a steel pin as per drawing by machining in centre lathe  
+ External screw thread on lathe  
+ Making a cast iron Vee block by shaping  
+ Making a regular polygon prism (MS)/ hexagon by milling machine  
+ Slot fitting by milling machine  
+ Study of machining in machining in machining centre (CNC)  
+ Study of Electro discharge machining (EDM)  
+Foundry Practice:     
+ Orientation, demonstration and practice on metal casting  
+ Practicing sand moulding using split and uneven parting line pattern  
+ Practice on CO2 moulding and machine moulding  
+ Mechanised sand preparation and melting practice  
+Welding Practice:  
+ Practice on electric arc welding  
+ Practice on oxy -acetylene gas welding  
+ Introduction and demonstration on submerged arc welding  
+Metal Forming:   
+Demonstration of deep drawing and other forming process   
+ 
+Text/Reference Books:  
+1. Chapman W.A.J.,  Workshop Technology - Part I, CBS Publishers.  
+2. Chapman W.A.J.,  Workshop Technology - Part II , CBS Publishers.  
+3. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. I , Media Promoters.  
+4. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. II , Media Promoters.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+13 
+ Subject Code:   CE1P001  Subject Name: Engineering 
+Drawing  and Graphics  L-T-P: 
+1-0-3 Credit: 3  
+Pre-requisite(s): Nil  
+Introduction to IS code of drawing; Conics and Engineering Curves – ellipse, parabola, 
+hyperbola, cycloid, trochoid, involute; Projection of lines – traces, true length; Projection 
+of planes and solids; sold objects – cube, prism, pyramid, cylinder, cone and sphere; 
+Projection on Auxiliary planes; Isometric projection, isometric scale; Section of solids – 
+true shape of section; Introduction to CAD tools – basics; Introduction of Development 
+and Intersection of surfaces.  
+Text/Reference Books:  
+1. Bhatt N.D. Elementary Engineering Drawing , Charotar Publishing House.  
+2. Gill P.S. Engineering Drawing & Engg. Graphics , S. K. Kataria & Sons.  
+3. Lakshminarayan  L.V.  and Vaish R.S. Engineering Graphics , Jain Brothers.  
+Subject 
+Code:   PH1P001  Subject Name:   Physics 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-Requisite(s): Nil  
+1. To determine the damping constant of the pendulum for different eddy damping current.  
+2. To verify Malus’s Law of polarization of light.  
+3. To determine the wave length of the prominent lines of mercury source by a plane 
+transmission diffraction grating and to calculate the resolving power and dispersive power 
+of the grating.  
+4. To study the intensity distribution of Fraunhofer diffraction pattern by a single slit and 
+measure the width of the slit for a given wavelength of laser light.  
+5. To determine the wavelength of the given source using the Michelson interferometer.  
+6. To determine the wave length of the  given source using Fresnel’s biprism.  
+7. To find out the resonance and beat time period of the coupled pendulum and find out the 
+spring constant.  
+8. To study the interference pattern and determine the radius of curvature of the plano 
+convex lens using Newton’s rings apparatus.  
+Text/Reference Books:  
+1. 1. Ghatak  A. Optics , McGraw -Hill. 
+2. 2. Pain H. J.  The Physics of Vibrations and Waves , Wiley.  
+ 
+Subject Code: 
+CY1P001  Subject Name: Chemistry 
+Laboratory  L-T-P: 0-
+0-3 Credit: 2  
+Prerequisite(s): Nil  
+Experiment -1: Determination of the surface tension and parachor of a homologous 
+series.  
+Experiment -2: Measurement of the coefficient of viscosity of ethanol & ethanol -water 
+system.  
+Experiment -3: Studies on acid -base conductometric titration.  
+Experiment - 4: Studies on PH metric titration of strong base with strong acid.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+14 
+ Experiment -5: Estimation of sulphate ion in tap water by nepheloturbidimetric 
+analysis.  
+Experiment - 6: Spectrophotometric determination of acid dissociation constant (pka) 
+of methyl red (MR) an acid base indicator.  
+Experiment -7: Determination of solubility and solubility product of a sparingly soluble 
+salt at room temperature by conductometric method.  
+Experiment - 8: Potentiometric titration of a given sodium carbonate solution with 
+aques ous hydrochloric acid solution.  
+Experiment -9:  kinetics of ester hydrolysis.  
+Experiment -10: Detection of functional groups in an organic compound for solid 
+sample.  
+Experiment -11:  Detection of functional groups in an organic compound for liquid 
+sample.  
+Experiment -12: Thin layer chromatography (TLC).  
+ 
+Text/Reference Books:  
+1. 1. Nad, A. K.; Mahapatra, B. and Ghoshal A.  An advanced course in practical 
+chemistry , New Central Book Agency (P) Ltd.  
+2. 2. Elias A. J.  A collection of general chemistry experiments , University Press.  
+3. 3. Maity S. and Ghosh N.  Physical Chemistry Practical , New Central Book Agency (P) 
+Ltd. 
+ 
+Subject Code: 
+EE1P001  Subject Name: Electrical 
+Technology Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite(s): Electrical Technology  
+Experiments as per the topics in the syllabus for the course `Electrical Technology’ 
+(EE1L001) will be conducted in the laboratory class.  
+Text Books:  
+1. E. Hughes,  “Electrical Technology,”  Pearson Education, 2010.  
+2. V. Del Toro, “Electrical Engg  Fundamentals,” PHI Learning, 2009.  
+Reference Books:  
+1. 1. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA McGraw Hill 
+Education, 2009.  
+2. 2. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1P001  Subject Name: Introduction to 
+Programming and Data Structures 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Prerequisite(s): Introduction to Programing and Data Structures  
+Familiarization of a computer and the environment; Execution of sample programs 
+related to Expression evaluation, Conditionals and branching, Iteration, Functions, 
+Recursion, Tail -recursion, Arrays, String manipulation, Structures, Linked lists, 
+Doubly -linked lists and Binary Trees. Execution of programs involving abstract data 
+types like Stacks  and Queues.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+15 
+ Semester -II 
+Subject Code:   MA1L002  Subject Name: 
+Mathematics -II L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Linear Algebra:  Vector spaces, subspaces, span,   Linear dependence, independence 
+of vectors, basis, dimension,   linear transformations, range, kernel, rank, nullity of 
+linear transformation, space of all linear transformations, Operator equations, matrix 
+associated with a linear map, linear map associated with a matrix, elementary row 
+operations, solution of algebraic equa tions, consistency conditions. Matrix inversion by 
+row operations, Eigenvalues and eigenvectors, Hermitian and skew Hermitian 
+matrices, orthogonal and unitary matrices, application to reduction of quadrics.   
+Complex Analysis:  Limit, continuity, differentia bility and analyticity of functions 
+Cauchy -Riemann equations (cartesian and polar), Harmonic functions,   Elementary 
+complex functions, Line integrals, upper bounds for moduli of contour integrals, 
+Cauchy’s integral theorem, Cauchy’s integral formula, deriv atives of analytic functions, 
+Power series, Taylor’s series, Laurent’s series, Zeros and singularities, Residue 
+theorem, evaluation of improper integrals by residue theorem.   
+ 
+Text books:  
+1.   Strang G.  Linear Algebra and its applications, Cengage Learning  
+2.   Churchill R.V. and Brown J.W.  Complex Variables and Applications , Mc-Graw Hill  
+3.   Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons   
+ 
+Reference Books:  
+J1. ain  R. K. and Iyengar S. R. K.  Advanced Engineering Mathematics , Narosa  
+1. 2. Krishnamurthy V., Mainra V. P. and Arora J.L.   An Introduction to Linear Algebra , 
+Affiliated East -West Press Pvt Ltd New Delhi  
+2. 3. Axler S.  Linear Algebra Done Right , UTM, Springer  
+3. 4. Poole D.  Linear Algebra : A Modern Introduction , Brooks/Cole  
+ 
+All other courses are same as Semester -I Courses.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+16 
+ SEMESTER – III to VI II 
+SEMESTER - III  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Breadth I   3-0-0 3 3  
+Math III (Probability & Statistics)  MA2L003  3-1-0 4 4  
+Introduction to Material  Science and 
+Engineering  ID2L001  2-0-0 2 2  
+Introduction to Bio Science and 
+Technology  ID2L002  2-0-0 2 2  
+Introduction to Electronics  EC2L001  3-1-0 4 4 19 
+Signal and Systems  EC2L002  3-1-0 4 4 19 
+Introduction to Electronics Lab  EC2P001  0-0-3 2 3 19 
+Signal and Systems Lab  EC2P002  0-0-3 2 3 20 
+Project Seminar  EC2S001  0-0-3 2 3 20 
+  Total  25 28  
+SEMESTER - IV  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral 1   3-0/1-0 3/4 3/4  
+Breadth 2   3-0/1-0 3/4 3/4  
+Environmental Science Technology 
+and Management  ID2L003  2-0-0 2 2  
+Network Theory  EE2L001  3-1-0 4 4 21 
+Digital Electronic Circuits  EC2L004  3-1-0 4 4 21 
+Analog Communication  EC2L009  3-1-0 4 4 22 
+Digital Electronics Circuit lab  EC2P004  0-0-3 2 3 22 
+Analog Communication Lab  EC2P005  0-0-3 2 3 22 
+  Total  24/26  26/28   
+SEMESTER - V  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral 2   3-0/1-0 3/4 3/4  
+Breadth 3   3-0/1-0 3/4 3/4  
+Electromagnetic waves and 
+Radiating Systems  EC3L005  3-1-0 4 4 23 
+Digital Communication  EC3L006  3-1-0 4 4 23 
+Microprocessor and Microcontroller  EC3L007  3-1-0 4 4 23 
+Digital Communication Lab  EC3P003  0-0-3 2 3 24 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+17 
+ Microprocessor and Microcontroller 
+Lab EC3P004  0-0-3 2 3 24 
+  Total  22/24  24/26   
+SEMESTER - VI  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral 3   3-0/1-0 3/4 3/4  
+Breadth 4   3-0/1-0 3/4 3/4  
+Digital Signal processing  EC3L003  3-1-0 4 4 25 
+Control Systems  EE3L003  3-1-0 4 4 26 
+VLSI Design  EC3L009  3-0-0 3 3 26 
+Digital Signal Processing Lab  EC3P002  0-0-3 2 3 27 
+Control Systems Lab  EE3P003  0-0-3 2 3 27 
+VLSI Lab  EC3P005  0-0-3 2 3 27 
+  Total  23/25  26/28   
+SEMESTER - VII  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Communication Networks and 
+Switching  EC4L011  3-0-0 3 3 28 
+RF and Microwave Engineering  EC4L012  3-0-0 3 3 28 
+Elective 1   3-0-0 3 3 30 – 35 
+Elective 2   3-0-0 3 3 30 – 35 
+Electronic System Design Lab  EC4P001  0-0-3 2 3 28 
+Industrial Training Defence  EC4T001  0-0-0 2 3 29 
+Project 1  EC4D001  0-0-6 4 6 29 
+  Total  20/22  24/26   
+SEMESTER - VIII   
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Elective 3   3-0-0 3 3 36 – 46 
+Elective 4   3-0-0 3 3 36 – 46 
+Elective 5   3-0-0 3 3 36 – 46 
+Elective 6   3-0/1-0 3 3 36 – 46 
+Project 2  EC4D002  0-0-9 6 9 29 
+RF and Microwave Engineering Lab  EC4P002  0-0-3 2 3 29 
+  Total  20 24  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+18 
+ List of Elective Courses  
+Subject Name  Code  L-T-P Credit  Contact Hour  
+Elective – 1, 2 
+Compiler Design  CS4L001  3-0-0 3 3 
+Artificial Intelligence  CS6L019  3-0-0 3 3 
+Semiconductor Devices  EC4L001  3-0-0 3 3 
+Opto-Electronics  EC4L002  3-0-0 3 3 
+Advanced Communication 
+Engineering  EC6L001  3-1-0 4 4 
+Image and Video Processing  EC6L002  3-1-0 4 4 
+Statistical Signal Processing  EC6L005  3-0-0 3 3 
+Remote Sensing Systems  EC6L011  3-0-0 3 3 
+Antenna Theory  EC6L013  3-0-0 3 3 
+Speech Signal Processing  EC6L028  3-0-0 3 3 
+Renewable and Distributed 
+Energy Sources  EE6L006  3-0-0 3 3 
+Industrial Instrumentation  EE6L007  3-0-0 3 3 
+Energy Storage Systems  EE6L011  3-0-0 3 3 
+Elective – 3, 4, 5, 6  
+Networks and Systems 
+Security  CS6L002  3-0-0 3 3 
+Information Theory and 
+Coding  EC6L003  3-1-0 4 4 
+Advanced Digital Signal 
+Processing  EC6L004  3-1-0 4 4 
+Optical Communication  EC6L012  3-0-0 3 3 
+Photonic Network  EC6L014  3-0-0 3 3 
+Biomedical Signal Processing  EC6L015  3-0-0 3 3 
+Computational 
+Electromagnetics  EC6L016  3-0-0 3 3 
+Semiconductor Device 
+Modeling  EC6L017  3-0-0 3 3 
+Satellite Communication  EC6L018  3-0-0 3 3 
+Fiber Optic Sensors  EC6L019  3-0-0 3 3 
+Wireless and Mobile 
+Communication  EC6L020  3-0-0 3 3 
+Microwave Design and 
+Measurement  EC6L021  3-0-0 3 3 
+Modern Radar Systems  EC6L022  3-0-0 3 3 
+Adaptive Signal Processing  EC6L023  3-0-0 3 3 
+Array Signal Processing  EC6L024  3-0-0 3 3 
+Multimedia Network  EC6L025  3-0-0 3 3 
+Pattern Recognition  EC6L027  3-0-0 3 3 
+Natural Language Processing  CS6L027  3-0-0 3 3 
+Embedded Systems  EC4L008  3-0-0 3 3 
+Computer Vision  EC6L030  3-0-0 3 3 
+Smart Grid Technology  EE6L014  3-0-0 3 3 
+ 
+ 
+Syllabus for each course is given in the following pages.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+19 
+ B. Tech (3rd Semester – 6th Semester Core Courses)  
+SEMESTER – III 
+Subject Code: EC2L001  Name: Introduction to 
+Electronics  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s): None 
+Introduction to Electronic Devices: passive devices, Diode, bipolar junction transistor (BJT), 
+metal oxide semiconductor field -effect transistor (MOSFET); Diode: basic structure and types, 
+operating principle, current -voltage characteristic, large and smal l signal models; Diode 
+Applications: rectifier circuits, zener voltage regulator Regards, clipper and clamper circuits; BJT 
+and their Application: structure and modes of operation; NPN and PNP transistor in active mode, 
+DC analysis, BJT as a switch and amp lifier, small signalequivalent circuits, single stage CE 
+amplifier; MOSFET and Applications: switch and amplifier; Operational Amplifier and 
+applications: Basics, summing amplifier, inverting and non -inverting configuration, voltage 
+follower, differentiato r and integrator; Feedback: Basic concepts of feedback, ideal feedback 
+topologies; Oscillators: Basic principle of sinusoidal oscillation, phase -shift oscillator, wien -
+bridge oscillator; Digital Electronics: Boolean algebra and rules of simplification and 
+combinational circuits.  
+Text Books:  
+1. S. Sedra and K. C. Smith, “Microelectronic Circuits,” Oxford University Press, India, 
+2005.  
+2. A. Malvino and D. J. Bates; “Electronic Principles,” Tata McGraw Hill, India, 2007.  
+Reference Books:  
+1. R C Jaeger, T N Blalock, Microelectronic Circuit Design; Tata McGraw Hill, India, 2006.  
+ 
+Subject Code: EC2L002  Name: Signals and Systems  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s):  Mathematics – I 
+Objective and overview, signal and system types and classifications, LTI system: Causality, 
+stability, step response, impulse response and convolution integral; Periodic signal analysis: 
+Fourier series and properties; Aperiodic signal analysis : Fourier Tr ansform - its properties and 
+sinusoidal steady state analysis of systems; Discrete -time Fourier transform; Fourier transform 
+for periodic signals; Time and frequency characterization of signals and systems: magnitude -
+phase representation of Fourier transfo rms; Unilateral and Bilateral Laplace Transforms and 
+properties: Analysis and characterization of LTI systems using Laplace transform; System 
+function and block diagram representation, Bode plot; Discrete signals: Sampling, digitization 
+and reconstruction of analog signals; Fourier transform of discrete signals: DFT, z -transforms; 
+Discrete systems, transfer functions and convolution;  Analog filter design: Butterworth, Sallen 
+Key, frequency transformation and scaling.  
+Text Books : 
+1. A. Papoulis and S. U. Pilla i, “Probability, Random Variables, and Stochastic Processes,” 
+McGraw Hill, 2001.  
+2. A. V. Oppenheim, A. S. Willsky and H. Nawab, “Signals and Systems,” 2nd Ed., Prentice -
+Hall, 1996.  
+Reference Books:  
+1. A. V. Oppenheim, Ronald W. Schafer and John R. Buck,“ Discrete -Time Signal 
+Processing,” 2nd Ed., Prentice Hall, 1999.  
+2. J. G. Proakis, and D. K. Manolakis,“Digital Signal Processing,” 4th Ed., Prentice Hall, 2006.  
+Subject Code: EC2P001  Name: Introduction to 
+Electronics Lab  L-T-P: 0-0-3 Credits: 2  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+20 
+ Pre-requisite(s): Introduction to Electronics  
+Familiarization with electronic components; Familiarization and usage with oscilloscope, signal 
+generator, multimeter ; Frequency -response of R -C, C-R and R -L networks; Square -wave testing, 
+V-I characteristics of PN junction diode and zener diode; Voltage Rectifiers; Common -Emitter 
+amplifiers; Analog circuits using OP -AMP; logic gates.  
+ 
+Text Books:  
+ S. Sedra, K. C. Smith, “Microelectronic Circuits ,” Oxford University Press, India, 2005.  
+ A Malvino, D J Bates; “ Electronic Principles ,” Tata McGraw Hill, India, 2007.  
+Reference Books:  
+ R C Jaeger, T N Blalock,  “Microelectronic Circuit Design ,” Tata McGraw Hill, India, 2006.  
+Subject Code: EC2P002  Subject Name: Signals and 
+Systems Laboratory  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s) : Signals and Systems  
+Basic MATLAB Programming: Manipulation of Vectors, Arrays and Matrices, Arithmetic 
+Operations, Logical Operations, Loops, M-files & Functions, Mathematical Functions; Graphics 
+and 3 -D Visualization: Plotting of One -dimensional and Two -dimensional Signals, Plotting 
+Symbolic Functions, 3 -D Plotting; Mathematical Functions: Finding Roots of Polynomials, 
+Computing Integration and  Differentiation, Solving Differential and Difference Equations, 
+Polynomial Curve Fitting, Recording, Storing, Reading, and M -File; Functions: Recording and 
+Playing Signals, Storing and Reading Data in Different Formats, Creating M -Functions for 
+Generating  Different Elementary Signals, Creating M -Functions for Computing Different 
+Statistical Parameters; Analysis of Systems: Finding Convolution, Finding Laplace and Inverse 
+Laplace Transforms, Finding Z -and Inverse -Z Transforms, Zero -Pole Analysis; Analysis o f Signals 
+and Systems: Sampling of Signals, Fourier Series of Signals, Finding Magnitude and Phase 
+Spectrum of Signals, Frequency Response of System; Convolution and Filtering, Creating GUI in 
+MATLAB, MATLAB Simulink Modelling.  
+ 
+Texts/References:  
+ A. V. Oppenheim, A. S. Willsky and S. H. Nawab, “ Signals and Systems ,” 2ndEd., 
+Pearson Prentice Hall, 2008.  
+ S. Haykin and B. V. Veen, “ Signals and Systems ,” 2ndEd., Wiley India, 2007.  
+ H. P. Hsu, “ Signals and Systems  – Schaum’s  Outline Series,” McGraw Hill, 1995.  
+ 
+Subject Code: EE2S001  Subject Name: Project 
+Seminar  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s) : None 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+21 
+ SEMESTER – IV 
+Subject Code: EE2L001  Name: Network Theory  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s):  Electrical Technology, Signals and Systems  
+Nodal and Loop Analysis: Review, modified nodal analysis; Network Theorems: Substitution 
+theorem, Compensation theorem, Reciprocity theorem, Maximum power transfer theorem, 
+Millman’s theorem, Tellegen’s theorem;  Transient analysis of RLC circuit and higher order 
+circuits; Frequency domain analysis of dynamic circuits using Fourier series, Fourier transforms 
+and Laplace transforms;  Network functions: poles and zeros, driving point and transfer 
+functions, restrict ions on poles and zeros for network functions, time domain behaviour, 
+frequency response plots; Two -port networks and passive filters: z -parameters, y -parameters, 
+h-parameters, and ABCD parameters; reciprocity and symmetry in two -port networks; 
+Introductio n to network topology: Graph theory: Tree, Co -tree, fundamental cut -set, 
+fundamental loop analysis of network; State variable analysis of networks.  
+ 
+Text Books : 
+1. M. E. Valkenburg, “Network Analysis,” 3rd Ed., Pearson Prentice Hall, 2006.  
+2. F. F. Kuo, “Network Analysis and Synthesis,” 2nd Ed., Wiley India, 2007.  
+Reference Books:  
+3. W. H. Hyat, J. E. Kemmerly and S. M. Durbin, “Engineering Circuit Analysis,” 6th Edition, 
+Tata McGraw Hill, 2007.  
+4. R. A. DeCarlo and P -M Lin, “Linear Circuit Analysis,” 2nd Ed., Oxford University Press, 
+2007.  
+Subject Code: EC2L004  Name: Digital Electronic 
+Circuits  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s):  Introduction to Electronics  
+Logic gates – AND, OR, NOT, XOR, XNOR, NAND, NOR; Combinational logic circuits: Switching 
+functions, Boolean algebra – axioms and laws, minimization of switching functions – algebraic 
+method, K -map, Quine -McCluskey’s method; Number systems & representation – binary, octal, 
+decimal and hexadecimal, code conversion of numbers. Addition and subtra ction of binary and 
+decimal numbers; Comparators, multiplexer -demultiplexer, codes and code conversion, PLA; 
+Universal logic gates – NAND -NOR, circuit realization; TTL logic family – circuit operations, fan -
+in and fan -out, noise margin, tri -state, open -collector circuits; CMOS – circuit operations, fan -in 
+and fan -out, noise margin; TTL -to-CMOS and CMOS -to-TTL interfacing; IC555 chip circuit 
+operation and applications; Astable, monostable, bistable multivibrators – discrete component 
+and IC555 based circuits ; Different types of flip -flops – RS, JK, D and T flip -flops; gated, master -
+slave and edge triggered flip -flops; Different types of Registers; Counters - asynchronous and 
+synchronous counters, design of synchronous counter; Finite state machine – Moore and  Mealey 
+models; Synchronous sequential circuit synthesis: state transition diagrams, state tables, 
+minimization, state assignments, realization with different types of flip -flops; Analysis of 
+synchronous sequential circuits; Concepts of asynchronous sequen tial circuits - races.  
+ 
+Text Books : 
+1. S. Lee, “Digital Circuits and Logic Design,” 1st Ed., Prentice Hall India, 2008.  
+2. D. P. Leach, A. P. Malvino and G. Saha, “Digital Principles and Applications,” 8th Ed. 
+McGraw Hill Education, 2014.  
+3. M. Morris Mano, “Digital Logic and Computer Design,” 1st Ed., Prentice Hall, 1979, 15th 
+Reprint 2013.  
+Reference Books:  
+1. Z. Kohavi and N. K. Jha, “Switching and Finite Automata Theory,” 3rd Ed., Cambridge 
+Univ Press, 2011.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+22 
+ Subject Code: EC2L009  Name: Analog Communications  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite(s):  Signals and Systems  
+Introduction: Signals, Fourier Series, Complex Fourier Spectrum, Fourier Transform,  
+Convolution, Parseval's  Theorem, Linear Systems; Analog Modulation: Concept Of Modulation, 
+Amplitude modulation: Double -Sideband Suppressed Carrier, Double -Sideband Full Carrier, 
+Single Sideband and vestigial sideband modulation; Demodulation: Carrier Recovery in AM, 
+coherent De modulation, Envelope Detector, Square -Law Demodulator; Integrated Circuit  
+Modulators And Demodulators, Superheterodyne Receiver; Angle Modulation: Frequency 
+Modulation,  Phase Modulation, Narrow Band Angle Modulation, Wideband FM, Modulators, 
+Demodulators , Broadcast FM And Stereo, QAM; Effects Of Noi se In Analog Modulation Systems, 
+Sampling, Pulse amplitude modulation, pulse width modulation, pulse position modulation, PCM.  
+Textbooks:  
+1. J. G. Proakis and M.Salehi, “Fundamentals of Communication Systems,” Prentice Hall, 
+2004.  
+2. S.Haykin, “Communication Systems,” John Wiley & Sons, 5th Ed., 2009.  
+ 
+Reference Books:  
+1. B.P. Lathi and Z. Ding, “Modern Digital and Analog Communication Systems,”4th Ed., 
+Oxford University Press, 2009.  
+2. Louis E. Frenzel , “Principles of Electonic Communication Systems,” 3rd Ed., Tata 
+McGraw -Hill, 2008.  
+3. Dennis Roddy and John Coolen, “Electronic Communications,” 4th Ed., Pearson, 2008.  
+Subject Code: EC2P004  Name: Digital Electronics 
+Circuits Laboratory  L-T-P: 0-0-3 Cred its: 2  
+Pre-requisite(s):  Digital Electronic Circuit s 
+Truth tables of Logic gates; Half Adder and Full Adder; Multiplexer and De -multiplexer; 
+Comparators; Encoders; Schmitt Trigger; Multivibrators: Astable, Monostable  and Bi -stable; Flip 
+Flops: S -R, J-K and D; Asynchronous and Synchronous Counters: Up -Down, Ripple counter, Ring 
+counter;  
+ 
+Text Books:  
+1. S. Lee, “ Digital Circuits and Logic Design ” Prentice Hall India, 2008.  
+2. D. P. Leach, A. P. Malvino and G. Saha, “ Digital Principles and Applications ,” Tata 
+McGraw Hill, 2005.  
+3. M. Morris Mano, “ Digital Logic and Computer Design ,” Prentice Hall, 2006.  
+Reference Book:  
+1. Z. Kohavi and N. K. Jha, “ Switching and Finite Automata Theory ,” Tata McGraw Hill, 
+2004.  
+Subject: EC2P005  Name:  Analog Communication 
+Lab L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s):  
+Carrier modulation and Demodulation; AM: DSB, SSB, Envelope detector, mixer; FM: 
+Modulation and demodulation; Superheterodyne  receiver; Sampling, Pulse amplitude 
+modulation, pulse width modulation, pulse position modulation.  
+ 
+Text Book:  
+1. S. Haykin, "Communication Systems", 4th Ed., John Wiley and Sons, 2006.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+23 
+ SEMESTER – V 
+Subject Code: EC3L005  Name: Electromagnetic Waves 
+and Radiating Systems  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite(s): Mathematics – 1, Mathematics – 2 
+Vectors analysis: Vector algebra, vector calculus - divergence, gradient, curl, Laplacian; 
+Coordinate systems - Cartesian, cylindrical and spherical; Electrostatics: Coulomb’s law, Gauss’s 
+law, electric scalar potential, Laplace and Poisson’s equations, co nduction and polarization, 
+boundary conditions, resistance and capacitance; Magnetostatics : Biot -Savart law, Ampere’s 
+law, magnetic vector potential, Lorentz force, magnetization, boundary conditions, magnetic 
+energy and inductance; Electrodynamics : Maxw ell’s equations, Faraday’s induction, 
+displacement current, Plane wave propagation in free space and in materials; Poynting vector, 
+reflection and transmission of plane waves at media boundary, Transmission lines, Smith chart; 
+Advanced Topics: Antenna fund amentals, dipole antenna, Microstrip transmission lines, Waves 
+along guiding structures  
+Text Books:  
+1. J. D. Kraus and D. A. Fleisch, “Electromagnetics:with Applications,” McGraw Hill, 1999.  
+2. D. K. Cheng, ‘Field and Wave Electromagnetics,’ Addison -Wesleyseries , 1989.  
+Reference Books:  
+1. W. H. Hayt, “Engineering Electromagnetic s”, 5th Ed., TMH, 1999.  
+2. J. A. Edminister, “Schaum’s Outline of Theory and Problems in Electromagnetics,” 
+1984.  
+Subject Code: EC3L006  Name: Digital Communications  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite(s):  Analog Communications  
+Introduction to Digital Communications, Nyquist Sampling Theorem, Information Sources, 
+Random process, Quantization, Pulse Code Modulation, Delta Modulation,Signal Space 
+Representation: Orthogoal expansion of signal s, Gram -Schmidt Procedure, Representation of 
+digitally modulated signals; Digital Transmission over the AWGN Channel, Matched Filters, ML 
+and MAP Receivers, Power Density Spectra and Probability of Bit Error; Modulation for 
+Bandwidth -Limited Channels: Inte rsymbol interference, Equalization, error 
+performance;Passband Digital Transmission via Carrier Modulation: BPSK, QPSK, MPSK, BFSK, 
+MFSK, CPFSK, OQPSK, MSK, GMSK and Continuous phase modulation, ,  Communication over 
+fading channels,  Spread spectrum syste ms: direct sequence modulation and frequency hopping 
+Case study — code division multiple access (CDMA); Multichannel and multicarrier systems: 
+OFDM; Introduction to information theory: Entropy, Channel Capacity in AWGN;  
+Text Books:  
+1. J. G. Proakis and M.S alehi, “Fundamentals of Communication Systems,” Prentice Hall, 
+2004.  
+2. S.Haykin, “Communication Systems,” John Wiley & Sons, 5th Ed., 2009.  
+Reference Books:  
+1. B.P. Lathi and Z. Ding, “Modern Digital and Analog Communication Systems,” 4th Ed., 
+Oxford University Press, 2009.  
+2. U. Madhow, “Fundamentals of Digital Communication,” Cambridge Univ. Press, 2008.  
+3. T. M. Cover and J. A. Thomas, “Elements of Information Theory,” Wiley Student Edition, 
+1999, Reprint 2009.  
+Subject Code: EC3L007  Name: Microprocessor and 
+Microcontrollers  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite(s): Digital Electronic Circuits  
+Historical background; organization and architectural features of microprocessor and 
+microcontrollers; the instruction set: instruction format, addressing modes; assembly language 
+programming of 8085 and 8051; interfacing of memory devices; data transfer t echniques and 
+I/O ports; interfacing of keyboard and display devices; programmable interrupt and DMA 
+controllers; interfacing of sensors, transducers, actuators, A/D and D/A Converters, analog 
+signal conditioning circuits, data acquisition systems; standar d interfaces - RS232, USB; Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+24 
+ development aids and troubleshooting techniques; Microprocessor Programming: Modular 
+programming; Structured programming. Embedded C programming; Exception handling and 
+programming: types of exception; exception vector table; sta cks and its role in exception 
+processing; Interrupts and Interrupt service routines; Interrupt priority. Basic I/O and I/O 
+Programming: I/O organization and structure, I/O ports and their configuration; serial interface; 
+Polling techniques; interrupt -driven I/O; ARM Processor Fundamentals: Basic features and 
+comparison of ARM, PIC, AVR, Arduino, Raspberry Pie microcontrollers, ARM architecture, I/O 
+pins, Ports, timers, interrupts, memory organization, pipelining and Hazards, ARM processor 
+families, ARM inst ruction set, addressing modes, assembly language programming of ARM; 
+Advanced Microprocessor Features: protected mode, real address mode, system management 
+mode, memory models and management, paging and virtual memories, support for multitasking 
+operating systems: privilege levels and protection, input -output architecture.  
+Text Books:  
+1. R. Gaonkar, Microprocessor Architecture, Programming, and Applications with the 8085, 
+6th Edition, Penram Intl. Publishing (India) Pvt. Ltd., 2013  
+2. K. J. Ayala, The 8051 Microcontroller Architecture, Programming and Applications, 
+Penram Intl. Publishing (India) Pvt.Ltd., 2007.  
+Reference Books:  
+1. M. A. Mazidi, Microcontroller and Embedded Systems, Pearson Education, 2008.  
+2. R. Kapadia, “8051 Microcontroll er and Embedded Systems,”Jaico Publishing House, 1st 
+Ed., 2004.  
+3. Steve Furber, “ARM System –On –Chip architecture,”Addision Wesley, 2000.  
+4. DanielTabak, “Advanced Microprocessors,” Mc Graw Hill. Inc., 1995  
+5. James L. Antonakos, “The Pentium Microprocessor,” Pea rson Education, 1997.  
+6.  John .B. Peatman, “Design with PIC Microcontroller,” Prentice Hall, 1997.  
+Subject: EC3P003  Name: Digital 
+Communication Lab  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s): Digital Communication  
+Delta modulation and demodulations; PAM, PPM  and PWM modulation and demodulation; 
+Frequency division multiplexing (FDM) and Time division multiplexing (FSM), PSK, FSK 
+modulations.  
+Text Books:  
+1. M. Salehi, J. G. Proakis, "Fundamentals of Communication Systems", 1st Ed., Prearson 
+Education, 2006.  
+2. S. Haykin, "Communication Systems", 4th Ed., John Wiley and Sons, 2006.  
+Reference Books:  
+1. P. Lathi, Zhi Ding, "Modern Digital and Analog Communication Systems", 4th Ed., Oxford 
+University Press, 2009.  
+2. Roddy, J. Coolen, "Electronic Communications", 4th Ed., Pea rson Education, 2008.  
+Subject Code: EC3P004  Name: Microprocessor and 
+Microcontrollers Lab  L-T-P: 0-0-
+3 Credits: 2  
+Pre-requisite(s): Microprocessor and Microcontrollers  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+25 
+ Familiarization with 8/16 bit microprocessors/microcontroller kits and interfaces; 
+Experiments related to interfacing ADC, DAC, Motors, Timers, Serial and Parallel ports; 
+Assembly and machine language programming, signal generators, interfacing basic I/O 
+devices like keypad, LED display, usage of timers and USART peripherals, multi -port device 
+access, stepper motor movement control, DC motor speed control, bootstrap programming 
+and interfacing various peripherals for embedded applications; building a complete 
+microcontroller -based system; ARM Processor Programming Experiments; Embedded C 
+Language Programming Experiments.  
+Texts/ Reference Books :  
+1. R. Gaonkar, Microprocessor Architecture, Programming, and Applications with the 8085, 
+6th Edition, Penram Intl. Publishing (India) Pvt. Ltd., 2013  
+2. K. J. Ayala, The 8051 Microcontroller Architecture , Programming and Applications, 
+Penram Intl. Publishing (India) Pvt.Ltd., 2007.  
+ 
+SEMESTER – VI 
+Subject Code: EC3L003  Name: Digital Signal Processing  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite(s): Signals and Systems  
+Introduction to DSP, Signals and Systems Characterization, FIR and IIR : Recursive and Non 
+Recursive, Z -Transform, Discrete Time Signals and Systems in Frequency Domain, Sampling, 
+Quantization, Discrete Fourier Transform, Fast Fourier Transform, Short -time Fourier Transform, 
+Digital Filter Struct ure, Analog Filter Design, Digital Filter Design.  
+Text Books:  
+1. J. G. Proakis and D. G. Manolakis, “Digital Signal Processing: Principles, Algorithms and 
+Applications, 4th Ed., Pearson, 2012.  
+2. A. V. Oppenheim and R. W. Shafer, “Discrete -Time Signal Processing,” Prentice Hall, 
+2009.  
+Reference Books:  
+1. R. G. Lyons, “Understanding Digital Signal Processing,” 3rd Ed., Prentice Hall, 2010.  
+2. V. K. Ingle and J. G. Proakis, “Digital Signal Processing using MATLAB,” Thomson 
+Learning, 2000.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+26 
+ Subject Code: EE3L003  Name: Control Systems  L-T-P: 3 -1-
+0 Credits: 4  
+Pre-requisite(s): Signals and Systems  
+Introduction to Control Systems: Definition, Examples of control systems, Open loop and closed -
+loop control systems, Review of Laplace and inverse Laplace transforms; System Modeling: 
+Signal flow graph, Block diagram, Transfer function, Poles and zeros, Bl ock diagram reduction 
+using signal flow graph and block diagram reduction techniques, Mechanical, electrical and 
+electromechanical systems, First and second order models; Transient Response and Steady 
+State Error Analysis: Definitions of transient response  parameters, analysis of second order 
+system as prototype, Routh -Hurwitz stability criterion, Classification of systems based on steady 
+state characteristics, Steady state error coefficients; Root Locus Method: Definition of root locus, 
+Properties of root locus, Sketching of root locus, Effect of open loop poles and zeros, Root locus 
+design concepts; Frequency Response Analysis: Bode diagram, Polar plot, Nichols plot, Nyquist 
+stability criterion: nonmathematical description of Nyquist criterion, interpretat ion of stability, 
+Relative stability – Gain and Phase margin, Closed loop frequency response – M and N contours, 
+Nichols chart; Compensation Techniques: Compensation techniques: lag, lead and lag -lead 
+compensation, PD, PI and PID controllers, Cascade compe nsation based on root locus method, 
+Introduction to feedback compensation; State Space Analysis: Concepts of state, state 
+variables, and state model, State models for linear continuous -time systems, Diagonalization, 
+Solution of state equations, Concepts of  Controllability and Observability. Nonlinear Systems: 
+Common physical nonlinearities, Phase plane method, Singular points, Stability of nonlinear 
+systems, Phase trajectories, Describing function method and stability analysis, Lyapunov’s 
+stability criterio n. 
+Text Books:  
+1. R. Stefani, B. Shahrian, C. Savant & G. Hostetter, “Design of Feedback Control Systems”, 
+Oxford University Press, 2002.  
+2. K. Ogata, “Modern Control Engineering”, Prentice Hall, 1997.  
+Reference Books:  
+1. B. C. Kuo& F. Golnaraghi, “Automatic Control Systems”, John Wiley, 2003.  
+2. M. Gopal, “Control Systems: Principles and Designs”, 2nd Edition, McGraw Hill, 2002.  
+3. R. C. Dorf & R. H. Bishop, “Modern Control Systems”, Prentice Hall, 2000.  
+Subject Code: EC3L009  Name: VLSI Design  L-T-P: 3-0-
+0 Credits : 3 
+Pre-requisite(s):  Semiconductor Devices, Digital Electronics  
+Introduction: Design hierarchy, layers of abstraction, integration density and Moore’s law, VLSI 
+design styles, packaging styles, design automation principles; Fabrication Technology: Basic 
+steps of fabrication, bipolar, CMOS and Bi -CMOS fabrication proces ses, layout design rules; MOS 
+and Bi -CMOS characteristics and circuits: MOS transistor characteristics, MOS switch and 
+inverter, Bi -CMOS inverter, latch -up in CMOS inverter, super -buffers, propagation delay models, 
+switching delay in logic circuits, CMOS a nalog amplifier; Logic Design: switch logic, gate 
+restoring logic, various logic families and logic gates, PLA; Dynamic Circuits: Basic concept, 
+noise considerations, charge sharing, cascading dynamic gates, domino logic, clocking schemes; 
+Sequential Circu its: Basic regenerative circuits, bi -stable circuit elements, CMOS SR latch, 
+clocked latch and flip -flops; Low -power Circuits: low -power design through voltage scaling, 
+estimation and optimization of switching activity, reduction of switched capacitance, a diabatic 
+logic circuits; Subsystem Design: design of arithmetic building blocks like adders, multipliers, 
+shifters, area -speed -power tradeoff; Semiconductor Memories: SRAM, DRAM, non -volatile 
+memories; Bipolar ECL Inverter: Features of ECL gate, logic desi gn in ECL, single -ended and 
+differential ECL gates; Testability of VLSI: Fault models, scan -based techniques, BIST, test 
+vector generation; Physical Design: Brief ideas on partitioning, placement, routing and 
+compaction.  
+Text Books:  
+1. S. Kang and Y Leblebici , “CMOS Digital Integrated Circuits: Analysis and Design,” 3rd Ed., 
+Tata McGraw Hill, New Delhi, 2003.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+27 
+ 2. J. P. Uyemura, “Introduction to VLSI circuits and Systems,” John Wiley, New Delhi, 2002.  
+Reference Books:  
+1. L Wang, C.Wu  and X. wen, VLSI Test Principles and Architecture, Morgan Kaufmann, San 
+Francisco, 2006.  
+Subject Code: EC3P002  Name: Digital Signal 
+Processing Laboratory  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s):  Digital Signal Processing  
+Fourier transform; Z-transform; Discrete Fourier transform (DFT); Fast Fourier transform 
+(FFT); Infinite impulse response (IIR) and Finite impulse response (FIR) filter designs.  
+ 
+Texts/Reference Books:  
+1. J. G. Proakis and D. G. Manolakis, “ Digital Signal Processing: Principles , Algorithms and 
+Applications, 4th Ed. , Pearson, 2012.  
+2. A. V. Oppenheim and R. W. Shafer, “ Discrete -Time Signal Processing ,” Prentice Hall, 
+2009.  
+3. R. G. Lyons, “ Understanding Digital Signal Processing,” 3rd Ed ., Prentice Hall, 2010.   
+4. V. K. Ingle and J. G. Pr oakis, “ Digital Signal Processing using MATLAB ,” Thomson 
+Learning, 2000.  
+Subject Code: EE3P003  Name: Control Systems 
+Lab L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s): Control Systems  
+Transfer function evaluation of a DC motor; Study of an AC servomotor; Study of digital control 
+systems; DC servo motor position control; Closed loop speed control of DC motor; Study of 
+temperature control systems; Feedback control of magnetic levitation system; PID stabilization 
+of an inverted cart -pendulum system; Study of coupled tank system; PID stabilization of a twin 
+rotor MIMO system; PID control of two link flexible manipulator.  
+Texts/Reference Books:  
+1. B. C. Kuo, ‘Automatic Control Systems’, Wiley, 2003  
+2. K. Ogata, Modern Control Engineering, Prentice Hall, 1997  
+3. R. C. Dorf and R. H. Bishop, ‘Modern Control Systems’, Pearson Education, Inc, 2008.  
+4. W. A. Wolovich, ‘Automatic Control Systems’, Saunders College, 1994  
+5. R. T. Stefani, ‘Design of Feedback Control Systems’, Oxford University Press, 2002.  
+Subject Code: EC3P 005 Name: VLSI Laboratory  L-T-P: 0-0-3 Credits:2  
+Pre-requisite(s): VLSI Design  
+Analog circuits simulation using SPICE; Simple analog and digital circuits, mixed signal 
+simulation using mixed signal simulators; Layout extraction for analog&  mixed signal circuits; 
+Parasitic values estimation from Layout; Net list extraction; Design and simulate operational 
+amplifier performance parameters; Design of various routing - local routing, area routing, 
+channel routing and global routing; Design and simulation of gate -level modeling; Design and 
+implement reducing power consumption in memories, Design of NMOS and CMOS inverters -DC 
+and transient characteristics and switching times, Estimation of resistance, capacitance and 
+inductance, Design of multipl exers, decoders and comparators, Design of designing digital filters 
+using FPGA . 
+Text/Reference Books:  
+1. S. Kang and Y Leblebici, “CMOS Digital Integrated Circuits: Analysis and Design,” 3rd Ed., 
+Tata McGraw Hill, New Delhi, 2003.  
+2. J. P. Uyemura, “Introduction to VLSI circuits and Systems,” John Wiley, New Delhi, 2002.  
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+28 
+ SEMESTER – VII 
+Subject Code: EC4L011  Name: Communication Networks 
+and Switching  L-T-P: 3-0-
+0 Credits: 3  
+Prerequisite: Analog and Digital Communications  
+Introduction to Communication Networks; Communication Switching: Circuit Switching, 
+Message and Packet Switching, Connectionless and Connection oriented packet switching; 
+Communication Process and Layered Architecture: Communication between computers and 
+layering concept, OSI Layers, Protocols; Standards: Physical Layer, Data link layer - HDLC, 
+Network layer – X. 25, Transport and Session layers, Application and Presentation layers; Local 
+Area Networks: LAN topologies, access mechanisms and media, contention  based LANS, Token 
+passing LANS; Metropolitan Area Networks: Distributed Queue Dual Bus (DQDB), Fiber 
+Distributed Data Interface (FDDI); Internet and Internet Protocol Suite: Internet, IPV4, IP 
+addressing, ICMP, IPV6, Transport control protocol, UDP protoc ol suite; Routing: Concept, 
+Techniques – Next-hop specific, Network -specific and Host -specific, routing algorithms, 
+Protocols - RIP, OSPF, Link state routing, BGP; Flow -based routing, Hierarchial routing; Digital 
+Switching: Space switching, Multistage switc hing, Time multiplexed space and time switching, 
+time and space switches;  Frame relay; ATM: Concepts and Header, virtual path, virtual channel, 
+ATM adaptation layer (AAL); Narrowband and Broadband ISDN: Data rates, Access channel 
+types, reference points, services and standards, B -ISDN; Synchronous Digital Hierarchy; 
+Network Security.  
+Texts Books:  
+1. B. A Forouzan, “Data Communications and Networking,” 4th Ed., McGraw Hill, 2012.  
+2. D. Bertsekas and R. Gallager, “Data Networks,” 2nd Ed., PHI learning, 2011.  
+Reference Books:  
+1. A. S. Tanenbaum, “Computer Networks,” 4th Ed., Prentice Hall, 2009.  
+Subject Code: EC4L012  Name: RF and Microwave 
+Engineering  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s):  Electromagnetic waves and Radiating Systems  
+Review of electromagnetics: Maxwell's equations, plane wave solutions;Transmission lines: 
+coaxial lines, rectangular waveguides, Microstrip; Network analysis: scattering matrix, 
+transmission matrix formulations;Matching networks: Lumped element designs and  limitations, 
+single and double -stub tuned designs, Quarter -wavelength transformers, multi -section 
+matching transformers; Active microwave circuit design: characteristics of microwave 
+transistors, mixers and detectors, Oscillators; Amplifier design: LNA an d Power amplifiers, gain 
+and stability, design for noise figure, Single -stage amplifier design; Antenna Analysis and 
+Design: Dipole, Monopole, Loop, Antenna arrays and Pattern synthesis, Complex Wire Antennas 
+(Helical, Spiral, LPDA, Turnstile), Aperture an tennas, Broadband and Ultra -wideband Antennas; 
+Noise in microwave circuits: dynamic range and noise sources, equivalent noise temperature, 
+system noise figure considerations.  
+Text Books:  
+1. David M. Pozar, ‘Microwave Engineering,’ 3rd. ed., John Wiley & Sons,  2005.  
+Reference Books:  
+1. Guillermo Gonzalez, Microwave Transistor Amplifiers, 2nd. ed., Prentice -Hall, 1997.  
+2. Thomas H. Lee, Planar Microwave Engineering: A Practical Guide to Theory, 
+Measurement, and Circuits, 1st Edition, Cambridge University Press, 2004.  
+Subject Code: EC4P001  Name: Electronic System 
+Design Laboratory  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s): Digital Electronic Circuits  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+29 
+ The objective of the electronic system design (ESD) laboratory is to pursue industrially relevant 
+research in innovative design of electrical and electronic system technologies and assembling in 
+PCB for signal, image and video processing, communication and  wireless sensors, power 
+generation and distribution, energy and health monitoring applications. The design of electrical 
+and electronic systems includes: audio amplifier, AC/DC voltage regulator, inverter, data 
+acquisition system, process control timer, c ommunication systems, wireless Transceiver, 
+microcontroller based system, DSP based system, digital system, and PCB layout design.  
+Texts/Reference Book:  
+1. S. Sedra and K. C. Smith, “Microelectronic Circuits,” Oxford University Press, India, 2005.  
+2. A. Malvin o and D. J. Bates; “Electronic Principles,” Tata McGraw Hill, India, 2007.  
+Subject Code: EC4T001  Subject Name: Industrial 
+Training Defence  L-T-P: 0-0-3 Credits: 2  
+Subject Code: EC4D001  Subject Name: B.Tech. 
+Project – I L-T-P: 0-0-6 Credits: 4  
+ 
+SEMESTER – VIII  
+Subject Code: EC4P002  Name: RF and Microwave 
+Laboratory  L-T-P: 0-0-3 Credits: 2  
+Pre-requisite(s): RF and Microwave Engineering  
+I:Basic microwave measurement techniques for power, frequency, wavelength, standing wave 
+ratio,impedance , S parameters and noise  
+1. Measurement of frequency and wavelength using frequency meter  
+2. Measurement of SWR and impedance using slotted line  
+3. Measurement of S parameters using Vector Network Analyzer  
+4. Measurement of power using Gunn Diode  
+5. Measurement of noise  
+II. Characterization of some basic microwave components.  
+1. Stub Tuner - λ/4 transformer (impedance matching and tuning)  
+2. Klystron tube (microwave generation and tuning)  
+3. Cavity Resonators (resonant frequency)  
+4. Directional Couplers (inserti on loss, directivity)  
+5. Dipole Antenna (radiation pattern and gain)  
+Text Books:  
+1. David M. Pozar, ‘Microwave Engineering,’ 3rd. Ed., John Wiley & Sons, 2005.  
+Reference Books:  
+1. Guillermo Gonzalez, Microwave Transistor Amplifiers, 2nd. ed., Prentice -Hall, 1997.  
+2. Thomas H. Lee, Planar Microwave Engineering: A Practical Guide to Theory, 
+Measurement, and Circuits, 1st Edition, Cambridge University Press, 2004.  
+Subject Code: EC4D002  Subject Name: B.Tech. 
+Project – II L-T-P: 0-0-9 Credits: 6  
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+30 
+ Syllabus for Electives – I, II (Semester VII)  
+Subject Code: CS4L001  Name: Compiler Design  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s) : Introduction to Programing and Data Structures, Formal Languages & 
+Automat Theory  
+ Introduction: Overview and phases of compilation; Lexical Analysis: Non -deterministic and 
+deterministic finite automata (NFA & DFA), regular grammar, regular expressions and regular 
+languages, design of a lexical analyser as a DFA, lexical analyser generator; 
+Syntax  Analysis : Role of a parser, context free gramma rs and context free languages, parse 
+trees and derivations, ambiguous grammar;  Top Down Parsing:  Recursive descent parsing, 
+LL(1) grammars, non -recursive predictive parsing, error reporting and recovery;  Bottom Up 
+Parsing : Handle pruning and shift reduces parsing, SLR parsers and construction of SLR parsing 
+tables, LR(1) parsers and construction of LR(1) parsing tables, LALR parsers and construction 
+of efficient LALR parsing tables, parsing using ambiguous grammars, error reporting and 
+recovery, parser gene rator; Syntax Directed Translation: Syntax directed definitions (SDD), 
+inherited and synthesized attributes, dependency graphs, evaluation orders for SDD, semantic 
+rules, application of syntax directed translation; Symbol Table: Structure and features of s ymbol 
+tables, symbol attributes and scopes; Intermediate Code Generation: DAG for expressions, 
+three address codes - quadruples and triples, types and declarations, translation of expressions, 
+array references, type checking and conversions, translation of  Boolean expressions and control 
+flow statements, back patching, intermediate code generation for procedures; Run Time 
+Environment: storage organizations, static and dynamic storage allocations, stack allocation, 
+handlings of activation records for calling  sequences; Code Generations: Factors involved, 
+registers allocation, simple code generation using stack allocation, basic blocks and flow graphs, 
+simple code generation using flow graphs; Elements of Code Optimization: Objective, peephole 
+optimization, el imination of local common sub -expressions, redundant and un -reachable codes, 
+flow of control optimization.   
+Text Books:  
+1. K. D. Cooper and L. Torczon, “Engineering a Compiler,” Morgan Kaufman.  
+2. Alfred V. Aho, Monica S. Lam, Ravi Sethi  and Jeffrey D. Ullman, “Compilers: Principles, 
+Techniques and Tools,” Pearson Education.  
+Reference Book:  
+1. Compiler Design in C by Holub – PHI. 
+2. Modern Compiler Design by Dick Grune et al – Wiley India.  
+Subject Code: CS6L019  Name: Artificial Intelligence  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: None  
+ 
+Introduction to Artificial Intelligence: What is AI? Related Fields, Agents and Environments  
+Problem Solving: problem representation paradigms, state space, satisfiability vs optimality  
+Search  Techniques:   Principles of search, uninformed search, informed search, constraint 
+satisfaction problems, adversarial search and games  
+Knowledge Representation: Knowledge  representation :  First order and non -monotonic 
+logic;  rule based , frame and semantic network approaches, mixed representations, Theorem 
+Proving, knowledge bases and inference  
+Uncertainty  Treatment :  formal and empirical approaches including Bayesian theory, belief 
+functions, certainty factors  
+Fuzzy Logic: Tagaki -Sugeno  Fuzzy Logic;, Mamdani Fuzzy Logic, Fuzzy Bayesian Decision 
+Method, Membership Functions, Fuzzification and Defuzzification, Fuzzy system Modeling  
+Planning and making decisions  
+Reinforcement learning: MDPs, Q -learning algorithm, applications, Bandits and Monte carlo tree 
+search  
+ 
+Text books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+31 
+ 1. Russell and Norvig. Artifiicial  Intelligence: A Modern Approach. Pearson Education (Low 
+Priced Edition), 2004.  
+2. Nils J. Nilsson, Artificial Intelligence - A New Synthesis, Morgan Kaufmann Publishers, 
+2000 
+3. George F.Luger  and William A. Stubblefield, AI:  Strcutures  and Strategies for Complex 
+problem solving, 2nd edition, Benjamin Cummins Publishers  
+ 
+Refere nce books:  
+1. Mark Stefik, Introduction to Knowledge Systems, Morgan Kaufmann.  
+2. E. Rich and K.Knight, Artificial Intelligence, Tata McGraw Hill  
+3. E. Charniack  and D. Mcdermott, Artificial Intelligence, Addison Wesley  
+ 
+Subject Code: EC4L001  Name: Semiconductor Devices  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Introduction to Electronics  
+Semiconductor Fundamentals, Crystal Structure, Energy bands, Intrinsic and extrinsic 
+semiconductors, Fermi Level, Carrier concentrations at thermal equilibrium, Carrier transport 
+phenomenon: drift and diffusion, Scattering, Excess carriers in semiconductor s: generation, 
+recombination and injection of carriers, transient and steady state response, Basic governing 
+equations in semiconductors; Physical description of p -n junctions, Transport equations, 
+current -voltage characteristics, deviations from simple th eory, small -signal ac analysis, metal -
+semiconductor junctions, heterojunctions; BJT fundamentals, operation regions, BJT equivalent 
+circuits and modelling frequency response of transistors, pnpn diodes, SCR; MOS structure, flat -
+band threshold voltages, MOS  static characteristics, small signal parameters and equivalent 
+circuit, charge sheet model, strong, moderate and weak inversion, short channel effects, scaling 
+laws of MOS transistors, LDD MOSFET, NMOS and CMOS IC technology, CMOS latch -up 
+phenomenon; opt ical absorption in a semiconductors, photovoltaic effect, solar cell, 
+photoconductors, PIN photodiode, avalanche photodiode, LED, semiconductor lasers; Negative 
+conductance in semiconductors, transit time devices, IMPATT, Gunn device, BiCMOS devices.  
+Text Books/Reference Books : 
+1. Ben G Streetman, S K Banarjee, Solid State Electronic Devices, 6th edition, PHI India, 
+New Delhi, 2007.  
+2. R S Muller, T.I.Kamins, Device Electronics for Integrated Circuits, 3rd edition, Wiley -India, 
+New Delhi, 2012.  
+3. S M Sze, K K Ng, P hysics of Semiconductor Devices, 3rd edition, John Wiley, New Jersey, 
+2007.  
+4. P Bhattacharya, Semiconductor Optoelectronics, 2nd edition, Pearson, New Jersey, 1997.  
+Subject Code: EC4L002  Name: Opto -Electronics  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s): Introduction to Electronics  
+Review of basic principles from physics, optical wave representation, interferometers, optical 
+resonators, planar mirror resonators, modes of resonators, spherical mirror resonators, 
+confinement, Gaussian beams, photons and mat ter, energy levels; Photon optics: interactions 
+of photons and atoms, population inversion, spontaneous and stimulated emission; Lasers: gain 
+mechanism, rate equations, pumping, gain and gain coefficient,  laser oscillation theory,  laser 
+types, power and spectral distribution , polarization, mode selection, light emitting diodes, 
+fabry-perot lasers, erbium -doped fiber amplifiers (EDFA); Photo detectors: properties of photo 
+detectors, photoconductors, photodiodes. Avalanche photodiodes, phototransistors and  noise 
+mechanisms, signal -to-noise analysis, and modulation of optical signals, formats, and receivers; 
+Noise and detection:  types of noise and distortion which affects optical signals, methods of 
+reducing effects of noise and distortion, optimal detectio n methods and devices; Overview of 
+opto-electronic networks: FDDI, Fiber channel, sonnet.  
+Text Books:  
+1. Saleh and Teich,  “Fundamentals of Photonics,”  Wiley Interscience, 2nd edition, 2007.    Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+32 
+ 2. J. Senior, “Optical Fiber  Communications. Principle and Practice,” Prentice Hall, 2011.  
+Reference Books:  
+1. Wilson and Hawkes, “Optoelectronics: An Introduction, 3rd. Ed., Prentice Hall, 1997.  
+Subject Code: EC6L001  Name: Advanced 
+Communication Engineering  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s):  Analog and Digital Communication  
+Noise in amplitude modulation, frequency modulation, pulse code, delta modulation, MPSK, 
+MQAM and MFSK, CPFSK, OQPSK, CPM; Information theory and coding;  Optimum reception of 
+digital signals, Performance  analysis of digital communication systems; Multi carrier 
+communications, Multi -channel communications and Multi -user communications; Introduction 
+to software defined radios, Spectrum sensing, Dynamic spectrum access and management, 
+Distributed learning; I ntroduction to sensor networks, Deployment and configuration, Protocols 
+routing and application;  
+Text Books:  
+1. J. G. Proakis and MasoudSalehi, “Fundamentals of Communication Systems,” 1st Edition, 
+Prearson Education, 2006.  
+2. Simon Haykin, “Communication Systems,” John Wiley & Sons, 5th Ed., 2009.  
+Reference Books:  
+1. B.P. Lathi and Zhi Ding, “Modern Digital and Analog Communication Systems,” Oxford 
+University Press, 4th Ed., 2009.  
+2. U. Madhow, “Fundamentals of Digital Communication,” Cambridge Univ. Press , 2008.  
+3. Cauligi S Raghavendra, Krishna M Sivalingam, TaiebZnati, “Wireless Sensor Network”, 
+Springer, 2006.  
+4. HüseyinArslan,“Cognitive Radio, Software Defined Radio and Adaptive Wireless Systems”, 
+Springer, 2007.  
+5. Kwang -Cheng Chen, RamjeePrasad,“ Cognitive Radio Networks”, John Wiley & Sons, 2009.  
+Subject Code: EC6L002  Name: Image and Video 
+Processing  L-T-P: 3-1-0 Credits: 4  
+Pre-requisite(s): Digital Signal Processing  
+Introduction to digital image processing, intensity transformation, spatial filtering, frequency 
+domain filtering, point and line detection, edge detection, Hough Transform, image restoration, 
+color processing, thresholding, image segmentation, affine tran sformation, image transforms, 
+multi-resolution image analysis, shape and texture representation and description, introduction 
+to object recognition, image compression, JPEG, introduction to digital video, video compression 
+standards, motion estimation.  
+Text Books/Reference Books:  
+1. Gonzalez and Woods, “Digital Image processing,” 3rd Ed., Pearson and Prentice Hall, 
+2009.  
+2. W.K. Pratt, “Digital image processing,” 4th Ed., Wiley India, 2007.  
+3. K.R. Castleman, “Digital image processing,” 2nd Ed., Pearson, 2012.  
+4. A.K. Jain, “Fundamentals of digital image processing,” Prentice Hall, 1989.  
+Subject Code: EC6L005  Name: Statistical Signal 
+Processing  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s): Digital Signal Processing  
+Review of Probability and Stochastic Process; Estimation Theory:  Minimum -variance unbiased 
+estimator (MVUE), Cramer -Rao Lower bound, Best Linear Unbiased Estimator, Maximum 
+likelihood Estimator, General Bayesian Estimator , Detection Theory: Neyman Pearson Theorem, 
+Receiver Operating Characteristics, Matched Filters, Composite Hypothesis Testing; 
+Nonparametric Spectral Estimation: Estimation of power spectrum of stationary random signal 
+using periodogram -various methods, Joint signal analysis and estimation of cross power Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+33 
+ spectrum; Linear Signal Model:  Synthesis of coloring filter and Analysis of whitening filter, 
+Rational power spectra (AR, MA, ARMA), Relationship between filter parameters and 
+autocorrelation sequences, Lattice -Ladder filter realization; Parametric Spectral Estimation: 
+Order selection criterion of AR model , Minimum -variance, Maximum entropy and Maximum 
+likelihood spectrum estimation Harmonic models and frequency estimation techniques Harmonic 
+Decomposition, MUSIC algorithm, ESPRIT algorithm; Linear Optimum Filter: Optimum FIR Filter, 
+PCA of optimum linear estimator and its frequency domain interpretation, Forward and Backward 
+Linear prediction and optimum reflection coefficients Optimum causal and non -causal IIR Filters, 
+De-convolution and Signal restoration Algorithms and Structure of Optimum Linear Filters 
+Levinson Recursion for optimum estimate, Order -recursive algorithms for optimum FIR filters 
+and its lattice structures.  
+Text Books/Reference Books : 
+1. S. M. Kay, Fundamentals of Statistical Signal Processing, Vol I: EstimationTheory, V ol 
+II: Detection Theory, Prentice Hall, 1993/1998.  
+2. Harry L. Van Trees, Detection, Estimation, and Modulation Theory, Part I, Wiley -Inter 
+science, 2001  
+3. Monson H. Hayes, Statistical Digital Signal Processing and Modeling, John Wiley, 1996.  
+Subject Code: EC6L011  Name: Remote Sensing 
+Systems  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s):  None  
+Electromagnetics basis: Electromagnetic waves, Polarization, Spectra and Fourier transform, 
+Doppler effect, Angular distribution of radiation, Thermal radiation, diffraction, Interactions of 
+electromagnetic radiation: Propagation through homogeneous materi als, Reflection and 
+emission from real materials, Propagation through the atmosphere Molecular absorption and 
+scattering, Radiative transfer equation Electro optical remote sensing system: Spectral Imagery, 
+VIR imaging systems, Thermal infrared imagers, Pa ssive Microwave Systems: Antenna Theory, 
+Microwave Radiometry, Ranging Systems: Laser profiling, Radar altimetry, Scattering Systems: 
+Lidar, Microwave Scatterometry,   Synthetic Aperture Radar, Data Processing: Image Processing, 
+Classification and Segmentat ion, Applications of Remote Sensing Systems.  
+Text Books:  
+1. W. G. Rees,  Physical Principles of Remote Sensing, Cambridge University Press; 3rd 
+edition,  2013.  
+Reference Books:  
+1. Remote Sensing from Air And Space  by R. C. Olsen, SPIE Press, 2007.  
+2. James B. Campbell, Randolph H. Wynne,  Introduction to Remote Sensing, 5th 
+Edition,  Guilford Press, 2011.  
+Subject Code: EC6L013  Name: Antenna Theory  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s): Electromagnetic Engineering or equivalent  
+Introduction, Definitions, EM radiation, Friis and Radar Equations, Basic antenna elements 
+(Dipole, Monopole, Loop), Antenna arrays (Linear and End -fire arrays) and Pattern synthesis  
+Complex Wire Antennas (Helical, Spiral, LPDA, Turnstile), Aperture antenn as, Broadband and 
+Ultra-wideband Antennas, Antennas in Communication Link Budgets, Introduction to 
+Computational Methods (including Integral Equations, Method of Moments), Novel Antenna 
+Concepts and Emerging Trends (e.g. Metamaterial Antennas, Fractal Ante nnas, Reconfigurable 
+Antennas, Nanoantennas).  
+ 
+Text Books:  
+1. C.A. Balanis, “ Antenna Theory Analysis and Design ,” 3rd Ed., John Willey & Sons, 2005.  
+Reference Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+34 
+ 1. R. S. Elliott, “ Antenna Theory and Design ,” revised Ed., Willey -Interstice & IEEE Press, 
+2003.  
+2. W. L. Stuzman and G. A. Thiele, “ Antenna Theory and Design ,” 2nd Ed., John Wiley, 
+1997.  
+3. S. Silver, “ Microwave Antenna Theory and Design ,” M.I.T. Radiation Laboratory Series, 
+1986.  
+Subject Code : EC6L028  Name: Speech Signal 
+Processing  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s) : Digital Signal Processing  
+Introduction, Physiological and Mathematical Models, Categorization of Speech Sounds; 
+Discrete time speech signals, Fourier transform and Z -transform, convolution, filter banks. 
+Spectral estimation, Pole -zero modeling and linear prediction (LP) analysis. H omomorphic 
+deconvolution, cepstral analysis; Feature extraction, Static and dynamic features, robustness, 
+feature selection. Mel frequency cepstral coefficients (MFCC), linear prediction cepstral 
+coefficients (LPCC), Perceptual LPCC; Distance measures: Log  spectral distance, cepstral 
+distances, weighted cepstral distances, distances for linear and warped scales, Dynamic Time 
+Warping for Isolated Word Recognition; Statistical models for speech recognition: Vector 
+quantization model, Gaussian mixture model, D iscrete and Continuous Hidden Markov 
+modeling.  
+ 
+Texts/References Books:  
+1. Thomas F. Quatieri,  “Discrete -Time Speech Signal Processing: Principles and Practice ,” 
+Prentice -Hall, 2001.  
+2. L. Rabiner and B. Juang,  “Fundamentals of Speech Recognition,”  Prentice -Hall, 1993.  
+3. B. Gold and B. Morgan,  “Speech and Audio Signal Processing: Processing and 
+Perception of Speech and Music,”  Wiley 2000.  
+Subject Code: EE6L006  Name: Renewable and 
+Distributed Energy Sources  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s) : Electrical Technology or equivalent  
+Brief idea on renewable and distributed sources, their usefulness and advantages, Wind Energy: 
+Estimates of wind energy potential, wind maps, instrumentation for wind velocity 
+measurements, aerodynamic and mechanical aspects of wind machine design, convers ion to 
+electrical energy, aspects of location of wind farms, Solar Energy: Present and new technological 
+developments in photovoltaic, estimation of solar irradiance, components of solar energy 
+systems, solar -thermal system applications to power generation , heating, Hydel Power: Water 
+power estimates, use of hydrographs, hydraulic turbine, characteristics and part load 
+performance, design of wheels, draft tubes and penstocks, plant layouts, Brief idea of other 
+sources viz., tidal, geothermal, gas -based, etc , Requirements of hybrid/combined use of 
+different renewable and distributed sources, need of energy storage.  
+ 
+Texts/References Books:  
+1. M. J. Bollen and Fainan Hassan,  “Integration of Distributed Generation in the Power 
+System,”  IEEE Press, 2011.  
+2. L. L. Lai and T. F. Chan, “ Distributed Generation: Induction and Permanent Magnet 
+Generators,”  Wiley -IEEE Press, 2007.  
+3. C. Anderson and R. I. Howard,  “Wind and Hydropower Integration: Concepts, 
+Considerations and Case,”  Nova Publisher, 2012.  
+4. A. E. Niemi and C. M. Fin cher, “ Hydropower from Small and Low -Head Hydro 
+Technologies,”  Nova Publisher, 2011.  
+5. D. Y. Goswami, F. Kreith and J. F. Kreider, “ Principles of Solar Engineering.”  Taylor & 
+Francis 2000.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+35 
+ 6. G. N. Tiwari, “ Solar Energy Technology,”  Nova Science Publishers, 200 5. 
+Subject Code: EE6L007  Name: Industrial 
+Instrumentation  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s): Measurement and Electronic Instruments  
+Introduction to Instrumentation system; Static and Dynamic characteristics of Instrument; 
+Pressure measurement: Elastic transducers (Bourdon Gauge, Bellow and Diaphragm Gauge); 
+Temperature measurement: Thermocouple, Resistance Temperature Detector (RTD), 
+Thermistor, Radiation Pyrometer; Flow and pressure measurements: Differential Pressure flow 
+meter, Variable area flow meter, Variable reluctance transducer, Turbine flow meter, Ultrasonic 
+flow meter (Both transit time and Doppler Shift), Electromagnetic flow meter and Mass flow 
+meter; Measurement of level: Capacitance based and Float based method; Measurement of 
+strain: Strain Gauge; Position sensor: Linear Variable Differential Transformer (LVDT), Synchro; 
+Load and torque cell; pH probe and viscosity measurement; Piezoelectric sensors; Ultrasonic 
+sensors; Pollution measurement; Smart sensors; Actuators and Control va lves; Signal 
+conditioning; Pneumatic and Hydraulic Instrumentation system.  
+Text Books/References:  
+1. D. Patranabis, ‘Principles of Industrial Instrumentation’, Tata Mcgraw -Hill, 2001.  
+2. W. C. Dunn, ‘Fundamentals of Industrial Instrumentation and Process Contro l’, 
+Mcgraw -Hill, 2005.  
+3. N. A. Anderson, ‘Instrumentation for process measurement and control’, CRC press, 
+1998.  
+4. E. Doebelin ‘Measurement Systems: Application and Design ’, Mcgraw -Hill, 2003.  
+Subject Code: EE6L011  Name: Energy Storage 
+Systems  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s): Introduction to Electronics  
+Energy Storage Need of energy storage; Different modes of Energy Storage. Potential energy: 
+Pumped hydro storage; KE and Compressed gas system: Flywheel storage, compressed air 
+energy storage; Electrical and magnetic energy storage: Capacitors, electromagn ets; Chemical 
+Energy storage: Thermo -chemical, photo -chemical, bio -chemical, electro -chemical, fossil fuels 
+and synthetic fuels. Hydrogen for energy storage. Solar Ponds for energy storage. 
+Electrochemical Energy Storage Systems Batteries: Primary, Seconda ry, Lithium, Solid -state 
+and molten solvent batteries; Lead Lead acid batteries; Nickel Cadmium Batteries; Advanced 
+Batteries. Role of carbon nano -tubes in electrodes. Magnetic and Electric Energy Storage 
+Systems Superconducting Magnet Energy Storage(SMES)  systems; Capacitor and Batteries: 
+Comparison and application; Super capacitor: Electrochemical Double Layer Capacitor (EDLC), 
+principle of working, structure, performance and application, role of activated carbon and carbon 
+nano-tube. 
+ 
+Text Books/Referenc e Books:  
+1. R. Huggins, Robert ‘Energy Storage’, Springer, 2010.  
+2. Ter-Gazarian ‘Energy Storage for Power Systems’, Institution of Engineering and 
+Technology, 1994.  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+36 
+ Syllabus for Electives – III, IV, V, VI  (Semester VIII)  
+Subject Code:CS6L002  Name: Networks and Systems 
+Security  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s) : Introduction to Programing and Data Structures  
+Introduction: computer security concepts, the OSI security architecture, security 
+attacks,   security services,   security mechanisms, a model for network security: Basic 
+cryptography: historical background, transposition/substitution, caesar cipher, introdu ction to 
+symmetric crypto primitives, asymmetric crypto primitives, and hash functions,   block ciphers, 
+message authentication, symmetric -key encryption, public -key encryption, digital signatures; 
+Secret key cryptography: applications, data encryption stan dard (des), encrypting large 
+messages (ecb, cbc, ofb, cfb, ctr), multiple encryption des (ede), Public key cryptography 
+applications, theory: Euclidean algorithm, Euler theorem, Fermat theorem, multiplicative and 
+additive inverse, RSA, selection of public and private keys. Authentication: security handshake 
+pitfalls, online vs. Offline password guessing, reflection attacks, per -session keys and 
+authentication tickets, key distribution centers and certificate authorities. Real -time 
+communication security: in troduction to TCP/IP protocol stack, implementation layers for 
+security protocols and implications, Network security applications:   key distribution and user 
+authentication ,   symmetric key distribution using symmetric encryption, key distribution using 
+asymmetric encryption, certificates, public -key infrastructure, federated identity management, 
+transport -level security, web security considerations, secure socket layer and transport layer 
+security, transport layer security, https, secure shell (SSH), wirel ess network security, IEEE 
+802.11 wireless LAN overview, IEEE 802.11i wireless LAN security, wireless application protocol 
+overview, wireless transport layer security, WAP end -to-end security, Electronic mail security: 
+distribution lists, establishing keys , privacy, source authentication, message integrity, non -
+repudiation, proof of submission, proof of delivery, message flow confidentiality, anonymity, 
+pretty good privacy (PGP), Firewalls and web security: packet filters, application level gateways, 
+encryp ted tunnels, cookies, web security problems.  
+ 
+Text Books:  
+1. William Stallings,  “Network Security Essentials Applications and Standards ” 5th Ed., 
+Prentice Hall, 1997.  
+2. Kaufman, Perlman and Speciner, “ Network Security: Private Communication in a Public 
+World ,” 2ndEd., Prentice Hall, 2002.  
+Reference Books:   
+1. W. Richard Stevens,“ TCP/IP Illustrated, Vol. 1: The Protocols ,” US Edition,Addison -
+Wesley Professional Computing Series,   1993.  
+2. ERIC Cole, “ Network Security Bible ,” Willey, 2013.  
+3. J. M. Kizza“ Computer Network S ecurity ”, 1998.  
+Subject Code: EC6L003  Name: Information Theory and 
+Coding  L-T-P: 3-1-
+0 Credits: 4  
+Pre-requisite:  Digital Communication  
+Introduction: Entropy and mutual information theory: joint entropy, conditional entropy, 
+relationship between entropy and mutual information, chain rules for entropy, relative entropy, 
+mutual information, jensen’s inequality fano’s inequality; An introduct ion to codes: coding: kraft 
+inequality, optimal codes, bounds on optimal code length, kraft inequality for uniquely decodable 
+codes, shannon and huffman codes, shannon, fano, elias codes, block codes, linear block codes, 
+cyclic codes; Efficient encoding, i nformation sources; average code word length; huffman 
+encoding;   noiseless coding: the noiseless coding theorem; Channel capacity: discrete 
+memoryless channels and capacity, examples of channel capacity, symmetric channels, 
+properties of channel capacity, channel coding theorem; Theory and practice of error -control Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+37 
+ coding: trellis diagram and the viterbi algorithm, convolution coding in mobile communications 
+and modern graph -based codes (turbo -codes and ldpc codes), the main coding theory problem.  
+ 
+Text Boo ks: 
+1. T. M. Cover and J. A. Thomas, “Elements of Information Theory,” 2nd Ed., Wiley -Inter 
+Science, 2006.   
+2. S. Lin and D. J. Costello, “Error Control Coding,” 2ndEd., Pearson Prentice Hall, 2004.  
+Reference Books:   
+1. R. G. Gallager, “Information Theory and Reliable Communication,” Wiley, 1968.  
+2. I Csiszar and J. Korner, “Information Theory: Coding Theorems for Discrete 
+Memoryless Systems,” AkademiaiKiado, December 1981.  
+3. T. S. Han, “Information -Spectrum Methods in Information Theory,” Springer, 2002.  
+4. Andre Neub auer, Jurgen Freedenberg, Volker Kuhn, “Coding theory Algorithm, 
+Architectures and Applications,” Willey India Editions, 2007.  
+5. Ranjan Bose, “Information theory, Coding and Cryptography,” TMH publication, 2008.  
+6. Roman, Steven, “Introduction to Coding and Inf ormation Theory”, Springer, 2000.  
+Subject Code: EC6L004  Name: Advanced Digital Signal 
+Processing  L-T-P: 3 -1-
+0 Credits: 4  
+Pre-requisite(s): Digital Signal Processing  
+Multi-rate digital signal processing: decimation, interpolation, sampling rate conversion, digital 
+filter banks, two -channel quadrature mirror filter bank, M -channel QMF bank, Linear prediction 
+and optimum linear filters: forward and backward linear predic tion, normal equations, AR lattice 
+and ARMA lattice -ladder filters, Wiener filters, Power spectrum estimation: nonparametric and 
+parametric methods, filter bank methods, Eigen analysis algorithms, Time -frequency analysis: 
+uncertainty principle, Short -time Fourier transform, Wigner distribution, Kernel design, Gabor 
+wavelets, multi -resolution analysis.  
+Texts/Reference Books:  
+1. Proakis and Manolakis, “Digital Signal Processing: Principles, Algorithms and 
+Applications,” 4th Ed., Pearson, 2012.  
+2. Cohen, “Time -frequency Analysis,” Prentice -Hall, 1995.  
+3. Vaseghi, “Advanced digital signal processing,” 4th Ed., Wiley, 2008.  
+4. Vaidyanathan, “Multi -rate systems and filter banks,” Pearson, 1992.  
+Subject Code: EC6L012  Name: Optical Communication  L-T-P: 3-0-
+0 Credits : 3 
+Pre-requisite(s): Analog and Digital Communications  
+Introduction:Fundamentals of Light, Optics, Optical Fibers , Dielectric waveguides: Attenuation, 
+wavelength dispersion, modes, fields; Light sources and optical amplifiers: Semiconductor laser, 
+light-emitting diode, rate equations, output power, modulation response, chirp, noise, optical 
+amplifiers. Detectors: PIN -diode, avalanche diode, responsivity, bandwidth, noise. Transmission 
+systems: Optical links, direct detection systems, soliton systems, coherent systems, multilevel 
+signaling, dispersion limitations, attenuation limitations, additive noise, signal depende nt noise, 
+bit error rate, optical networks, Wavelength -Division -Multiplexing and challenges, Optical 
+System Design and Performance  analysis using software tools, Current issues & topics of optical 
+fibre systems  
+Text Books:  
+1. G. Keiser, “Optical Fibre Co mmunications”,  Tata McGraw -Hill Education,  4th Ed. , 2008.  
+2. Govind Agrawal, “Fibre -Optic Communication Systems,’4th Ed., Wiley, 2010.  
+References :  
+1.J. Senior, “Optical Fibre Communications: Principles and Practice,” 3rd Ed., Prentice Hall, 2008.  
+2.R. Ramaswami, K. N. Sivarajan, “Optical Networks: A Practical Perspective,” 3rd Ed., Morgan 
+Kaufmann, 2009.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+38 
+ 3. S. C. Gupta, “Textbook on Optical Fiber Communication and Its Applications,” PHI Learning, 
+2004.  
+4.John A,“Buck Fundamental of Optical Fiber,” Wiley -Interscience, 2004.  
+Subject Code: EC6L014  Name: Photonic Network  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Optical Communication  
+Introduction to photonics networks, bandwidth management, internet growth, topology, osi  
+reference model, photonic system technologies and issues, tdm and wdm multiplexing and 
+demultiplexing. Routing. Wavelength blocking and conversion, Photonic network topologies and 
+architectures,   modulation and demodulation techniques, modulation related effects & nonlinear 
+optical effects, photonic components,   signal amplification and regeneration, link budget, 
+network technologies and issues, Photonic network components: multiplexer/demultiplexer, 
+switches/routers, cross connectors -converter, Network pr otocols:   ip, g-ethernet, sdh/sonet, 
+fddi, atm, etc., System performance and management, dispersion management, ber& sources 
+of noise, power budgets; optical switching & routing, network safety, regulations & standards, 
+current issues of photonic systems.  
+Text / Reference Books:  
+1. G. Prati “Photonic Networks:  Advances in Optical Communications ” Springer Verlag, 
+1997.  
+2. R. Ramaswami and K.N.Sivarajan,  “Optical networks: A practical perspective,” 2nd Ed., 
+Morgan Kaufman, 2000.  
+3. U. Black,  “Optical Networks: Third Generation Transport Systems ,” Prentice Hall, 2008.  
+4. R. Sabella and P. Lugli, “ High speed optical communications ,” Kluwer, 1997.  
+Subject Code: EC6L015  Name: Biomedical Signal 
+Processing  L-T-P: 3 -0-
+0 Credits: 3  
+Prerequisite: Digital Signal Processing  
+Nature of biomedical signals, Artifacts removal, Event detection, Wave shape analysis, 
+Frequency ‐domain characterization, Biomedical system modeling, Non -stationary signal 
+analysis,  Detection of region of interests in biomedical images, Shape and texture analysis,  
+oriented pattern analysis, Image reconstruction of projections, Pattern classification and 
+diagnostic decision, presentation of different case studies.  
+Text Books/Reference Books:  
+1. R. M. Rangayyan, “Biomedical signal analysis,” Wiley, 2011.  
+2. R. M. Rangayyan, “Biomedical image analysis,” CRC press, 2005.  
+3. D. C. Reddy, Biomedical signal processing: principles and techniques, Tata McGraw Hill, 
+2012.  
+4. Tompkins, Biomedical digital signal processing, Prentice Hall India, 1995.  
+Subject Code: EC6L016  Name: Computational 
+Electromagnetics  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Electromagnetic Engineering, Introduction to Programming and Data 
+Structure  
+Applications of electromagnetics in the 21st century. Numerical Methods: ODE solvers, Euler, 
+Runge -Kutta . Review of Basic Electromagnetics: Electrostatics, Magnetostatics, Wave 
+Equations. Numerical Techniques: Method of Moements, Finite Difference Method, Finite 
+Element method, Charge Simulation Method, Monte carlo method. Time Varying Electromagnetic 
+Fiels:  Eddy currents & skin depth, introduction to wavelets, families of wavelets. Microwaves, 
+Optics, Micromagnetics, Bio -electromagnetics. Tutorials and demonstration on PC, programming 
+assignments.  
+Text/ Reference Books : 
+1. M.N.O. Sadiku, “Numerical Techniques i n Electromagnetic,” 2nd Ed., CRC Press.  
+2. E. Weber, “Electromagnetic Fields,” Dover, 1951.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+39 
+ 3. P. P. Silvester, and R. L. Ferrari, “Finite Elements for Electrical Engineers,” Cambridge 
+University Press 1996.  
+4. J. Kiusalaas, “Numerical Methods in Engineering with P ython,” Cambridge.  
+Subject Code: EC6L017  Name: Semiconductor Device 
+Modelling  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s):  Semiconductor Devices  
+Review of semiconductor physics: Quantum foundation, Carrier scattering, high field effects; P - 
+N junction diode modeling: Static model, Large signal model and SPICE models; BJT modeling: 
+Ebers - Moll, Static, large -signal, small - signal models. Gummel - Poon model. Temperature and 
+area effects. Power BJT model, SPICE models, Limitations of GP model; Advanced Bipolar 
+models: VBIC, HICUM and MEXTARM;MOS Transistors: LEVEL 1, LEVEL 2 ,LEVEL 3, BSIM, 
+HISIMVEKV Models, Threshold voltage modeling, Punchthrough, Carrier velocity modeling, Short 
+channel effects, Channel -length modulation, Barrier lowering, Hot carrier effects, Mobility 
+modeling, Model parameters; Analytical and Numerical modeling of BJT and MOS transistors; 
+Types of models for Heterojunction Bipola r Transistors, Compact modeling concepts, Modeling 
+of HBTs, HBT noise models, Measurement and parameter extraction.  
+Text Books:  
+5. G. Massobrio, P. Antognetti, Semiconductor Device Modeling with SPICE, 2nd edition, 
+McGraw -Hill, New York,1993.  
+6. M. Rudolph, Intr oduction to Modeling HBTs, Artech House, Boston, 2006.  
+Reference Books:  
+1. S. M. Sze, K. K. Ng, Physics of Semiconductor Devices, 3rd edition, John Wiley, New 
+Jersey, 2007.  
+2. G. A. Armstrong, C. K. Maiti, Technology Computer Aided Design for Si, SiGe  and GaAs 
+Integrated Circuits,IET Series, London, 2007.  
+Subject Code: EC6L018  Name: Satellite Communication  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s) : Electromagnetic Engineering, Communication Engineering   
+Introduction,   general overview, types of satellite communications systems, historical 
+developments, Link budgets:   antennas, propagation, noise, c0/n0, c/n calculation, 
+transmitters, propagation and rain, receivers, lnas, figure of merit, total system per formance; 
+Orbital mechanics:   basic equations,   special orbits, geometry and movement , constellations, 
+real world effects; Rf and licensing issues : spectrum allocations, modulation, multiplexing, 
+multiple access   
+Current and future trends; Spectrum shari ng, additional noise issues, interference and 
+coordination, telemetry and tracking, power limitations, reliability.  
+ 
+Text/Reference Books:  
+1. T. Pratt, C. Bostian and J. Allnutt, “ Satellite Communications,” 2nd Edition , Wiley India, 
+2006.  
+2. W. L. Pritchart, H. G. Suyderhoud and R. A. Nelson, “ Satellite Communication Systems 
+Engineering,” 2nd Edition , Pearson Education, 2012.  
+3. G. Gordon and W. Morgan, “ Principles of Communications Satellites ,” 
+4. D. I. Dalgleish “ An Introduction to Satellite Communications ,” IET Publisher, ISBN: 
+0863411320, 9780863411328  
+5. D. Roddy, “  Satellite Communication ,” Tata McGraw -Hill Education.  
+Subject Code: EC6L019  Name: Fibre Optic Sensors  L-T-P: 3 -0-
+0 Credits: 3  
+Prerequisite: None 
+Classification of sensors, modulation and demodulation mechanism of sensors, interferometric 
+sensors, optical fibres Doppler systems, polarization modulation sensors, fibre optic sensors for Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+40 
+ the measurement of temperature, pressure, displacement, turbidity , pollution, etc., multiplexed 
+sensor systems, other sensor applications.  
+Text Books/References Books:  
+1. R.  Kasyap, ‘Fiber Bragg Gratings’, Academic Press, 2009.  
+2. B. Glisic, D. Inaudi, ‘Fibre Optic Methods for Structural Health Monitoring’, Wiley, 2008.  
+Subject Code: EC6L020  Name: Wireless and Mobile 
+Communication  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s) : Digital Communication or equivalent  
+Review of Digital Communication: Block diagram of digital communication, Modulation Schemes 
+( BPSK, M -PSK, M -QAM, M -FSK),   Pulse Shaping, Bandwidth efficiency, MAP -Receivers, AWGN 
+Channel and Performance analysis; Wireless Channels:    Fading Wireless Chann el Modeling , 
+Rayleigh/Ricean Fading Channels ,BER Performance in Fading Channels , Diversity modeling for 
+Wireless Communications, BER Performance Improvement with diversity, RMS Delay Spread , 
+Doppler Fading, Jakes Model, Jakes Spectrum , Impact of Doppl er Fading, Types of Diversity – 
+Frequency, Time, Space; Cellular Communications: Introduction to Cellular Communications, 
+Frequency reuse, Multiple Access Technologies, Cellular Processes ‐ Call Setup, Handover, 
+Introduction to CDMA ,Walsh codes,    PN Sequ ences , Multipath diversity, RAKE Receiver; 
+MIMO/OFDM: Introduction to MIMO, MIMO Channel Capacity, SVD and Eigenmodes of the MIMO 
+Channel, MIMO Spatial Multiplexing – BLAST, MIMO Diversity – Alamouti, OSTBC, Introduction 
+to OFDM , Multicarrier Modulation and Cyclic Prefix, OFDM Issues; Wireless Standards: GSM, 
+GPRS, WCDMA, LTE, WiMAX.  
+ 
+Texts/References Books:  
+1. D. Tse and P. Viswanath, “ Fundamentals of Wireless Communications ,” Cambridge 
+University Press, 2005.  
+2. A. Goldsmith, “ Wireless Communications ,” Cambridge University Press, 2005.  
+3. T. S. Rappaport, “ Wireless Communications:  Principles and Practice ,” 2nd Ed., Prentice 
+Hall. 
+ 
+Subject Code: EC6L021  Name: Microwave Design and 
+Measurement  L-T-P: 3-0-
+0 Credit: 3  
+ 
+This course will be an introduction to microwave circuit design and analysis techniques, with 
+particular emphasis on applications for modern microwave communication and sensing systems. 
+Also, it will cover fundamental measurement techniques for device and circuit characterization 
+at microwave f requencies The specific content of the course may be as follows:  
+Review of electromagnetics: Maxwell's equations, plane wave solutions.  
+Types of transmission lines and their properties: coaxial lines, rectangular waveguides, 
+Microstrip.  
+Network analysis: s cattering matrix, transmission matrix formulations.  
+Matching networks: lumped element designs and limitations, single and double -stub tuned 
+designs, Quarter -wavelength transformers, multisection matching transformers.  
+Active microwave circuit design: char acteristics of microwave transistors, mixers and detectors, 
+Oscillators.  
+Amplifier design: LNA and Power amplifiers, gain and stability, design for noise figure. Single -
+stage amplifier design.  
+Noise in microwave circuits: dynamic range and noise sources, equivalent noise temperature, 
+system noise figure considerations.  
+Prerequisites:  None.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+41 
+ Text Books:  
+1. David M. Pozar, Microwave Engineering, 3rd. ed., John Wiley & Sons, 2005.  
+ 
+Reference Books:  
+1. Guillermo Gonzalez, Microwave Transistor Amplifiers, 2nd. ed., Prentice -Hall, 1997.  
+2. Thomas H. Lee, Planar Microwave Engineering: A Practical Guide to Theory, 
+Measurement, and Circuits, 1st Edition, Cambridge University Press, 2004.  
+ 
+Subject Code: EC6L022  Name: Modern Radar Systems  L-T-P: 3-0-
+0 Credits:3  
+Pre-requisite(s):  Communication Engineering  
+Introduction, Radar Basics, Radar Equation including its search and track forms, Displays, 
+Receivers, Transmitters, Radar Antennas including Reflectors and Phased Array Antennas, 
+Radar Cross Section, Statistical Models for Noise and Target RCS, General Cha racteristics of 
+Clutter and Clutter Modeling, Clutter Reduction Techniques of Doppler and MTI, Pulse 
+compression, Radar Measurements, Radar Tracking, Radar Detection and Target Classification, 
+Constant False Alarm Rate Detectors, DPCA and STAP, Types of Ra dar and Emerging Trends.  
+ 
+Text Books:  
+1. M.A. Richards et al,  Principles of Modern Radar, Basic Principles Vol. 1, 1st Ed.,, SciTech 
+2010.  
+Reference Books:  
+1. Skolnik, “ Introduction to Radar Systems,” 3rd Ed ., Tata McGraw Hill, 2008.  
+2. H. Meikle, “ Modern Radar Systems,” 2ndEd., ARTECH House, 2005.  
+Subject Code: EC6L023  Name: Adaptive Signal 
+Processing  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Digital Signal Processing  
+Introduction to adaptive filters, optimal estimation, linear estimation: normal equation, 
+orthogonality principle, linear models. Constrained linear estimation: minimum variance 
+unbiased estimation, steepest descent algorithms, stochastic gradient algorith ms: LMS 
+algorithm, normalized LMS algorithm, RLS algorithm. Steady -state performance of adaptive 
+filters, transient performance of adaptive filters, block adaptive filters, the least -squares 
+criterion, recursive least -squares, lattice filters  
+Texts/Referen ce Books:  
+1. A. H. Sayed, “Fundamentals of Adaptive Filtering,” Wiley, 2003.  
+2. S. Haykin, “Adaptive filter theory,” Fourth edition, Pearson, 2012.  
+3. Widrow and Stearns, “Adaptive Signal Processing,” Pearson, 2007.  
+Subject Code: EC6L024  Name: Array Signal Processing  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Digital Signal Processing, Probability and Statistics Processes  
+Introduction: Array Processing and Applications, Arrays and Spatial Filters: Uniform Linear 
+Array, Array Steering, Array Performance, Lin ear Aperture, Synthesis of Linear Arrays and 
+Apertures: Spectral Weighting, Array Polynomials, Minimum Beamwidth, Null Steering, Spatially 
+Non-uniform Linear Arrays, Broadband Arrays, Planar Arrays and Apertures: Rectangular Arrays, 
+Circular Arrays, Circul ar Apertures, Non -planar Arrays, Characterization of Space -time 
+Processes: Snapshot Models, Space -time Random Process, Optimum Waveform Estimation: 
+Optimum Beamformers, MVDR and MPDR Beamformers, LCMV and LCMP Beamformers, 
+EigenspaceBeamformer, BeamspaceBe amformer, Broadband Beamformer, Adaptive 
+Beamformers: Parametric Estimation, RLS, LMS, Gradient Algorithms, Parameter Estimation and Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+42 
+ Direction of Arrival Estimation: Cramer -Rao Bounds, Maximum Likelihood Estimation, Capon 
+methods, Subspace methods - MUSIC,  Minimum -Norm and ESPRIT techniques.  
+Text Books:  
+1. Harry L. Van Trees, Optimum Array Processing (Part IV of Detection, Estimation, and 
+Modulation Theory), Wiley -Interscience, 2002.  
+Reference Books:  
+1. D. E. Dugeon  and D. H. Johnson, “Array Signal Processing: Concepts and Techniques,” 
+Prentice Hall, 1993.  
+2. P. Stoica and R. L. Moses, “Spectral Analysis of Signals,” Prentice Hall, 2005.  
+ 
+Subject Code: EC6L025  Name: Multimedia Network  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s ): Digital Communication or equivalent  
+Introduction: multimedia information representation – text, images, audio, video,   digital coding 
+techniques and standards, audio coding, image coding, video coding; Multimedia compression 
+and resilien cy, codecs, adaptive coding, error handling techniques, multimedia network services 
+and applications; Wireless broadband, broadcast TV and video streaming, QOS, media transport 
+protocols, session initiation protocol (sip), real -time streaming protocol (RTS P), real -time 
+transport protocol (RTP), session description protocol (SDP), media transport - security 
+issues/techniques and compression; Firewalls, NATS, IPSEC and secure RTP, header 
+compression, next -generation multimedia network architecture standards: multiservice 
+switching forum architecture.  
+ 
+Text/Reference Books:  
+1. Perkins, “RTP: Audio and Video for the Internet,” Addison -Wesley, 2003.  
+2. Hwang, “Multimedia Networking: From Theory to Practice,” Cambridge, 2005.  
+3. F. Halsall, Multimedia Communications Applications, Networks, Protocols and 
+Standards,  Addison Wesley, 2001.  
+4. K.R. Rao and Z.S. Bojkovic,  “Packet Video Communications over ATM Networks,” 
+Prentice Hall, 2000.  
+5. C. -H. Wu and J.D. Irwin, “Emerging Multimedia Computer Communication 
+Technologies,” P rentice Hall, 1998.  
+Subject Code: EC6L027  Name: Pattern Recognition  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Digital signal processing, Probability and stochastic processes  
+Introduction to pattern recognition; Bayesian decision theory : Classifiers, Discriminant 
+functions, Decision surface, Normal density and discriminant functions, Parameter estimation 
+methods: Maximum -Likelihood estimation, Gaussian mixture models, Expectat ion-maximization 
+method, Bayesian estimation, Hidden Markov models: Discrete hidden Markov models, 
+Continuous density hidden Markov models; Dimensionality reduction methods: Fisher 
+discriminant analysis, Principal component analysis; Non -parametric techniq ues for density 
+estimation: Parzen -window method, K -Nearest Neighbour method, Linear discriminant function 
+based classifiers: Perceptron , Support vector machines, Non -metric methods for pattern 
+classification: Non -numeric data or nominal data  
+Decision tr ees, Unsupervised learning and clustering: Criterion functions for clustering 
+Algorithms for clustering: K -means, Hierarchical and other methods, Cluster validation.  
+Text Books/References:  
+1. R.O.Duda, P.E.Hart and D.G.Stork, “Pattern Classification,” John Wi ley, 2001.  
+2. S.Theodoridis and K.Koutroumbas, “Pattern Recognition,” 4th Ed., Academic Press, 
+2009.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+43 
+ 3. C.M.Bishop, “Pattern Recognition and Machine Learning,” Springer, 2006.  
+Subject Code: CS6L027  Name: Natural Language 
+Processing  L-T-P: 3-0-
+0 Credits:3  
+Pre-requisite(s) : Introduction to Programing and Data Structures, Formal Languages & 
+Automat Theory  
+Introduction to Natural Language Processing, Finite -state automata and transducers 
+Computational morphology, N -gram language models; smoothing; interpolation; backoff Part -
+of-speech tagging,  Syntactic parsing: rule -based parsing; CYK algorithm; Earley's al gorithm, 
+Computational semantics and lexical semantics, Computational lexicons: WordNet Word Sense 
+Disambiguation and Induction, Roles and frames: FrameNet, Semantic Role Labeling, 
+Discourse and dialogue, Statistical Machine Translation.  
+ 
+Text Books:  
+1. Jurafsky and Martin, “ Speech and Language Processing ”, Prentice Hall, 2009.  
+2. Manning and Schűtze,  “Foundations of Statistical Natural Language Processing ,” MIT 
+Press, 1999.  
+3. Larry Wall, Tom Christiansen and Jon Orwant,  “Programming Perl ,” O'Reilly, 1996.  
+Subject Code: EC4L008  Name: Embedded Systems  L-T-P: 3 -0-
+0 Credits: 3  
+Prerequisite: Digital Electronics and Microprocessor  
+Embedded Processing Systems: Introduction, Components of Embedded Systems – Embedded 
+Processor, Microcontrollers (PIC and ARM architectures), DSP and ASICs and SoC, Memory 
+Devices: ROM and RAM family, Interfacing Memory, Simple I/O programming, Interrupts and 
+their servicing, Timing Devices and Interfacing, Analog I/O Techniques, Introduction to HDL, 
+Design of Embedded Processors and Components, Design Case Studies, Embedded 
+Communication: Parallel Bus Standards, Serial Bus Standards, Networking Standards a nd 
+Wireless Standards, Real Time Operating Systems (RTOS): Introduction, Memory Management, 
+I/O Management and Device Drivers, Scheduling, Introduction to Software Design: Embedded 
+System Life Cycle, Multicore and Heterogeneous Embedded Systems.  
+Text Books : 
+1. W. Wolf, Computers as Components: Principles of Embedded Computing System Design, 
+2nd Ed., Burlington, 2008.  
+2. T Noergaard, Embedded Systems Architecture: A comprehensive Guide for Engineers 
+and Prgrammers, Elsevier,Oxford,  2005.  
+Reference Books:  
+1. Steve Heath, Embedded System Design, 2nd Edition, Newnes, Burlington, 2003.  
+Subject Code: EC6L030  Name: Computer Vision  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): Image & Video Processing  
+Introduction to computer vision, geometric camera models, light and shad ing, local image 
+features: SIFT, HOG, texture and shape descriptors, active contour, segmentation, deformable 
+models, RANSAC, image registration, learning and classification strategies, image classification, 
+object detection and recognition, stereopsis, tr acking, applications  
+Text Books/References:  
+1. Forsyth and Ponce, “Computer vision: a modern approach,” 2nd Ed., Pearson, 2012.  
+2. Sonka, Hlavac and Boyle, “Digital image processing and computer vision,” Cengage 
+learning, 2008.  
+3. Rick Szeliski, “Computer Vision: Algorithms and Applications,” Springer,2011.  
+Subject Code: EE6L014  Name: Smart Grid Technology  L-T-P: 3 -0-
+0 Credits: 3  
+Pre-requisite(s): None  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+44 
+ Review of basic elements of electrical power systems, desirable traits of a modern grid, principal 
+characteristics of the smart grid, key technology areas; Smart grid communication: Two way 
+digital communication paradigm, network architectures, IP -based sy stems, Power line 
+communications, advanced metering infrastructure; Renewable Generation: Renewable 
+Resources: Wind and Solar, Microgrid Architecture, Tackling Intermittency, Distributed Storage 
+and Reserves; Wide Area Measurement: Sensor Networks, Phasor Measurement Units, 
+Communications Infrastructure, Fault Detection and Self -Healing Systems, Application and 
+Challenges; Security and Privacy: Cyber Security Challenges in Smart Grid, Defense Mechanism, 
+Privacy Challenges.  
+Texts/Reference Books:  
+1. J. Momoh ‘S mart Grid: Fundamentals of Design and Analysis’ Wiley -IEEE Press, 2012.  
+2. P.  F. Schewe ‘The Grid: A Journey through the Heart of our Electrified World’ Joseph 
+Henry Press, 2006.  
+ 
+List and Syllabus of Lateral Courses for Other Schools  
+Subject Name  Code  L-T-P Credit  Contact 
+Hour  
+Lateral – 1 (Any one will be offered)   
+  
+Introduction to Signal Processing  EC2L008  3-0-0 3 3 
+Communication Systems  EC2L007  3-0-0 3 3 
+Lateral – 2 (Any one will be offered)   
+Biomedical Systems  EC3L004  3-0-0 3 3 
+Lateral – 3 (Any one will be offered)   
+Satellite Communication Engineering  EC3L008  3-0-0 3 3 
+Subject Code: EC2L008  Name: Introduction to 
+Signals and Systems  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s):  None 
+Introduction and Basics: Signals and Systems; Classification of Signals, System Properties; 
+Linear Algebra Basics -Vectors, Orthogonality, Eigenvalues and Eigenvectors; Probability and 
+Random Signals: Random variables; probability density functions (PDFs); Moments and 
+Cumulants; Multivariate distributions; Time averages, Ensemble averages, Autocorrelation 
+functions, Crosscorrelation function; Estimation of parameters of random signals; Linear 
+prediction; Auto -regressive model; Nonlinear models of signals; An alysis of Nonstationary 
+signals; Continuous Signals and Systems: Laplace Transform, Transfer Functions, Causality and 
+Stability, Poles/Zeros; Differential Equations, Steady State and Transient Responses, and 
+Convolution Integral; Discrete -Time Signals and Systems: LTI Systems; Z -transform; Digital 
+filters; Difference Equations; Causality and stability; Convolution and Correlation; Discrete 
+Fourier Transform (DFT), FFT and Window Function; Frequency Analysis of Signals and Systems; 
+Data Acquisition: Sampling theorem; Sampling of Bandpass Signals; Quantization; A/D 
+conversion; D/A conversion; Sampling and Reconstruction; Interpolation and Decimation; 
+Digital Filter Design: Butterworth, Elliptic, Chebyshev low -pass filters. Filter Real izations; 
+Conversion to high -pass, band -pass, band -stop filters. Discrete -time filters: IIR and FIR. Linear 
+phase filters. Frequency sampling filters.  
+Text Books : 
+1. A. Papoulis and S. U. Pillai, “Probability, Random Variables, and Stochastic Processes,” 
+McGraw Hill, 2001.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+45 
+ 2. A. V. Oppenheim, A. S. Willsky and H. Nawab, “Signals and Systems,” 2nd Ed., Prentice -
+Hall, 1996.  
+Reference Books:  
+1. A. V. Oppenheim, Ronald W. Schafer and John R. Buck,“Discrete -Time Signal 
+Processing,” 2nd Ed., Prentice Hall, 1999.  
+2. J. G. P roakis, and D. K. Manolakis,“Digital Signal Processing,” 4th Ed., Prentice Hall, 2006.  
+Subject Code:EC2L007  Name: Communication 
+Systems  L-T-P: 3-0-
+0 Credits: 3  
+Pre-requisite(s): None  
+Introduction, Communication process,  Communication Signals, Fourier Transform and 
+Properties Modulation techniques: Amplitude Modulation: Principle, DSB -FC, DSB -SC, SSB 
+and VSB, AM Receiver; Frequency Modulation: Principle, Wideband FM, Narrowband FM, FM 
+Receiver; Superheterodyne Receiver, Time -Division Modulation (TDM), PCM, PCM -TDM, PAM, 
+PPM, PWM and Shift Keying: Amplitude Shift Keying (ASK) and Frequency Shift Keying (FSK); 
+Random variables and Processes: Introduction, Random variables, statistical ave rages, 
+random processes, mean correlation and covariance functions, PSD, Gaussian Process; Analog 
+and Digital Receiver performance in AWGN.  
+Text Books:  
+1. Simon Haykin and Michel Moher, Communication Systems, 5th Ed., John Wiley, 2009.  
+2. Leon W. Couch, Digital  and Analog Communication Systems, 4th Ed., Macmillan Coll 
+Div., 1993.  
+Reference Books:  
+1. R, E. Ziemer and W. H. Tranter, “Principles of Communications, Systems, Modulation, and 
+Noise,” 5th Ed., Wiley, 2001.  
+2. P. L. Meyer, “Introductory Probability and Statistical Applications,” 2nd Ed., Addison Wesley, 
+1970.  
+3. M. H. DeGroot, “Probability and Statistics,” 4th Ed, Pearson, 2011.  
+4. B. P. Lathi, “Modern Digital and Analog Communication Systems,” 4th Ed., Oxford, 2011.  
+Subject Code: 
+EC3L004  Name: Biomedical Systems  L-T-P: 3-0-0 Credits: 3  
+Pre-requisite(s):  None 
+Introduction to Signals and Systems: Classification of signals, Systems and properties; Signal 
+Processing Techniques: Convolution and Correlation, Interpolations, DFT, STFT, DCT, KLT, 
+Wavelet Transform, Hilbert Transform, Singular Value Decomposition, Prin cipal component 
+Analysis (PCA), Independent Component Analysis (ICA), Random Signal Modeling, Spectral 
+Estimation, Information -theoretic,  Nonnegative Matrix Factorization, Total Variation, Sparse 
+Representation, Empirical Mode Decomposition, and Variation al Mode Decomposition; Anatomy 
+and Physiology: Structure and function of the human biology including cells, tissues and organs 
+of the following systems: Nervous, Cardiovascular, Respiratory, Muscular, Skeletal, Digestion 
+and Endocrine and special Senses, M embrane Potentials and Action Potentials; Biomedical 
+Signals: The nature of biomedical signals, introduction to the biosignals (ECG, PPG, EEG, EEG, 
+ERG, EOG, EEG, EGG, VMG, VMG and internal body sounds (heart, lung and bowel); Analog 
+Signal Processing: Bio sensors, Instrumentation Amplifier, Analog Filter design, Sampling and 
+Quantization, A/D Conversion, D/A Conversion, compressive sensing and Key Challenges in 
+Wearable Medical Devices; Biosignal Signal Analysis: Removal of Artifacts -Time-domain Filters, 
+Frequency -domain Filters, Adaptive Filters and Homomorphic Filtering; Event Detection and 
+Classification, Modeling Biomedical Systems, Biosignal Watermarking and Compression; Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+46 
+ Biomedical Applications: Brain Computer Interface, Physical Rehabilitation, Emotion al and 
+Biometric Recognition Systems  
+Text Books:  
+1. A. C. Guyton and J. E. Hall, “Textbook of Medical Physiology,” 11th Ed., 2006.  
+2. S. J. Cooper, and D. K. Vaughan, “Human Physiology Course Handbook” UW -Oshkosh, 
+2015 
+3. Martini and Welch, “Fundamentals of Anato my and Physiology Applications Manual,” 10th 
+Ed., Pearson Education, Benjamin Cummings, San Francisco, CA 2015.  
+Reference Books:  
+1. R. M. Rangayyan, “Biomedical Signal Analysis: A Case -Study Approach,” Wiley India, 
+2009.  
+2. E. N. Bruce, “Biomedical Signal Proces sing and Signal Modeling,” 1st Ed., Wiley -
+Interscience, 2000.  
+3. J. L. Semmlow, “Biosignal and biomedical image processing: MATLAB -based 
+applications,” 1st Ed., CRC, 2004.  
+4. M. Akay, “Time Frequency and Wavelets in Biomedical Signal Processing,” 1st Ed., Wiley -
+IEEE Press, 1997.  
+Subject Code: EC3L008  Name: Satellite 
+Communication Engineering  L-T-P: 3-
+0-0 Credits: 3  
+Pre-requisite : None  
+Overview of Principles of communication, modulation and receiver; Introduction to Satellite 
+Communication: Principle, types of satellite communications systems, historical developments, 
+Link budgets:   antennas, propagation, noise, Carrier to noise ratio ca lculation, transmitters, 
+propagation and rain, receivers, lnas, figure of merit, total system performance; Orbital 
+mechanics:   Basic equations,   special orbits (LEO, MEO, GEO), geometry and movement , 
+constellations, real world effects; Rf and licensing is sues: spectrum allocations, modulation, 
+multiplexing, multiple access ; Current and future trends; Spectrum sharing, additional noise 
+issues, interference and coordination, telemetry and tracking, power limitations, reliability.  
+ 
+Text Books:  
+1. T. Pratt, C. Bostian and J. Allnutt, “Satellite Communications,” 2ndEd., Wiley India, 2006.  
+2. W. L. Pritchart, H. G. Suyderhoud and R. A. Nelson, “ Satellite Communication Systems 
+Engineering,” 2ndEd., Pearson Education, 2012.  
+Reference Books:  
+1. G. D. Gordon and W. L. Morgan, “Communications Satellite Handbook,” Wiley India, 
+2010.  
+2. D. Roddy, “ Satellite Communications,” 4th Ed., Tata McGraw -Hill Education, 2006.  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+47 
+ Complete List of Semester -wise Courses with Credits  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+48 
+ Course Name  Code L-T-P Credit  Contact Hours  
+SEMESTER  - I 
+Mathematics – 1 MA1L001  3-1-0 4 4 
+Physics / Chemistry  PH1L001 / 
+CY1L001  3-1-0 4 4 
+Mechanics / English for 
+Communications or Learning English  ME1L001 / 
+HS1L001 
+or 
+HS1L002  3-1-0/ 
+3-0-2 
+or 3-1-
+0 4 4/5 or 4  
+Electrical Technology / Introduction 
+to Programing and Data Structures  EE1L001 / 
+CS1L001  3-1-0 4 4 
+Introduction to Manufacturing 
+Processes / Engineering Drawing and 
+Graphics  ME1P001 / 
+CE1P001  0-0-3/ 
+1-0-3 2/3 3/4 
+Physics Laboratory / Chemistry 
+Laboratory  PH1P001 / 
+CY1P001  0-0-3 2 3 
+Electrical  Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001 / 
+CS1P001  0-0-3 2 3 
+Extra Academic Activity – 1        ID1T001  0-0-3 1 3 
+  Total 22/23 
++1 25/26 +3  
+SEMESTER - II 
+Mathematics – 2 MA1L002  3-1-0 4 4 
+Chemistry /  Physics  CY1L001 / 
+PH1L001  3-1-0 4 4 
+English for Communication or 
+Learning English / Mechanics  HS1L001 
+or 
+HS1L002 / 
+ME1L001  3-0-2 
+or              
+3-1-
+0/3-1-0 4 5 or 4/4  
+Introduction to Programing and Data 
+Structures / Electrical Technology  CS1L001 / 
+EE1L001  3-1-0 4 4 
+Engineering Drawing and Graphics / 
+Introduction to Manufacturing 
+Processes  CE1P001 / 
+ME1P001  1-0-3/ 
+0-0-3 3 / 2 4/3 
+Chemistry Laboratory / Physics 
+Laboratory  CY1P001 / 
+PH1P001  0-0-3 2 3 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+49 
+ SEMESTER - III 
+Breadth 1   3-0-0 3 3 
+Math III (Probability & Statistics)  MA2L003  3-1-0 4 4 
+Introduction to Material Science and 
+Engineering  ID2L001  2-0-0 2 2 
+Introduction to Bio Science and 
+Technology  ID2L002  2-0-0 2 2 
+Introduction to Electronics  EC2L001  3-1-0 4 4 
+Signal and Systems  EC2L002  3-1-0 4 4 
+Introduction to Electronics Lab  EC2P001  0-0-3 2 3 
+Signal and Systems Lab  EC2P002  0-0-3 2 3 
+Project Seminar  EC2S001  0-0-3 2 3 
+  Total  25 28 
+SEMESTER - IV 
+Lateral 1   3-0/1-0 3/4 3/4 
+Breadth 2   3-0/1-0 3/4 3/4 
+Environmental Science Technology 
+and Management  ID2L003  2-0-0 2 2 
+Network Theory  EE2L001  3-1-0 4 4 
+Digital Electronic Circuits  EC2L004  3-1-0 4 4 
+Analog Communication  EC2L009  3-1-0 4 4 
+Digital Electronics Circuit lab  EC2P004  0-0-3 2 3 
+Analog Communication Lab  EC2P005  0-0-3 2 3 
+  Total  24/26  26/28  
+SEMESTER - V 
+Lateral 2   3-0/1-0 3/4 3/4 
+Breadth 3   3-0/1-0 3/4 3/4 
+Electromagnetic waves and Radiating 
+Systems  EC3L005  3-1-0 4 4 
+Digital Communication  EC3L006  3-1-0 4 4 
+Microprocessor and Microcontroller  EC3L007  3-1-0 4 4 
+Digital Communication Lab  EC3P003  0-0-3 2 3 
+Microprocessor and Microcontroller 
+Lab EC3P004  0-0-3 2 3 
+  Total  22/24  24/26  
+SEMESTER - VI 
+Lateral 3   3-0/1-0 3/4 3/4 
+Breadth 4   3-0/1-0 3/4 3/4 Introduction to Programing and Data 
+Structures Laboratory / Electrical 
+Technology Laboratory  CS1P001 / 
+EE1P001  0-0-3 2 3 
+Extra Academic Activity – 2 ID1T002  0-0-3 1 3 
+  Total 23/22 
++1 27 or 26/25 
++3 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+50 
+ Digital Signal processing  EC3L003  3-1-0 4 4 
+Control Systems  EE3L003  3-1-0 4 4 
+VLSI Design  EC3L009  3-0-0 3 3 
+Digital Signal Processing Lab  EC3P002  0-0-3 2 3 
+Control Systems Lab  EE3P003  0-0-3 2 3 
+VLSI Lab  EC3P005  0-0-3 2 3 
+  Total  23/25  26/28  
+SEMESTER - VII 
+Communication Networks and 
+Switching  EC4L011  3-0-0 3 3 
+RF and Microwave Engineering  EC4L012  3-0-0 3 3 
+Elective 1   3-0-0 3 3 
+Elective 2   3-0-0 3 3 
+Electronic System Design Lab  EC4P001  0-0-3 2 3 
+Industrial Training Defence  EC4T001  0-0-0 2 3 
+Project 1  EC4D001  0-0-6 4 6 
+  Total  20/22  24/26  
+SEMESTER - VIII 
+Elective 3   3-0-0 3 3 
+Elective 4   3-0-0 3 3 
+Elective 5   3-0-0 3 3 
+Elective 6   3-0/1-0 3 3 
+Project 2  EC4D002  0-0-9 6 9 
+RF and Microwave Engineering Lab  EC4P002  0-0-3 2 3 
+  Total  20 24 
+ 
+Grand Total Credits: 181/188  
+ 
+ 
+ 
+ 
+ 

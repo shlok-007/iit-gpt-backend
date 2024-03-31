@@ -1,0 +1,82 @@
+Curriculum for B. Tech. (Mechanical 
+Engineering) 3rd Sem to 8th Sem  
+ 
+  
+Subject Name  Subject Code  L-T-P  Credit  Contact Hour  
+SEMESTER - III 
+Theory of Machines - I ME2L001  3-1-0 4 4 
+Basic Electronics  EC2L005  3-1-0 4 4 
+Transform Calculus  
+(Mathematics – V) MA2L005  3-0-0 3 3 
+Introduction to Material 
+Science and Engineering  ID2L001  2-0-0 2 2 
+Introduction to Bioscience 
+and Technology  ID2L002  2-0-0 2 2 
+Fluid Mechanics    3-1-0 4 4 
+Workshop Processes  ME2P001  0-0-3 2 3 
+Basic Electronics 
+Laboratory  EC2P005  0-0-3 2 3 
+Fluid Mechanics Laboratory  ME2P002  0-0-3 2 3 
+Project Seminar  ME2S001  0-0-0 2 0 
+    Total  27 28 
+SEMESTER – IV 
+Thermodynamics  ME2L003  3-0-0 3 3 
+Partial Differential 
+Equations (Mathematics – 
+IV) MA2L004  3-1-0 4 4 
+Environmental Science, 
+Techn ology and 
+Management  2-0-0 2 2 
+Breadth -1     3/4 3/4 
+Mechanics of Solids  ME2L004  3-1-0 4 4 
+Theory of Machines - II ME2L005  3-1-0 4 4 
+Lateral - 1     3/4 3/4 
+Machines & Mechanisms 
+Laboratory  ME2P003  0-0-3 2 3 ID2L003Materials Testing 
+Laboratory  ME2P004  0-0-3 2 3 
+    Total  27/29  29/31  
+SEMESTER – V 
+Lateral Theory -2     3/4 3/4 
+Heat Transfer  ME3L001  3-1-0 4 4 
+Design of Machine 
+Elements  ME3L002  3-0-0 3 3 
+Casting, Welding and 
+Forming  ME3L003  3-0-0 3 3 
+Systems & Control  ME3L004  3-0-0 3 3 
+Thermo -Fluid Lab - 1 ME3P001  0-0-3 2 3 
+Casting, Welding and 
+Forming Laboratory  ME3P002  0-0-3 2 3 
+Machine Design Practice  ME3P00 3 0-0-3 2 3 
+    Total  22/23  25/26  
+SEMESTER - VI 
+Lateral Theory -3 ME3LXXX    3/4 3/4 
+IC Engines  ME3L005  3-0-0 3 3 
+Refrigeration & Air -
+Conditioning  ME3L006  3-0-0 3 3 
+Elective -1 ME3LXXX  3-0-0 3 3 
+Machine Tool & Machining 
+(MTM)  ME3L007  3-0-0 3 3 
+Power Plant Engineering  ME3L008  3-0-0 3 3 
+Thermo -Fluid Lab - 2 ME3P004  0-0-3 2 3 
+MTM Laboratory  ME3P005  0-0-3 2 3 
+    Total  22/23  24/25  
+INDUSTRIAL SUMMER TRAINING  
+Subject Name  Subject Code  L-T-P Credit  Contact Hour  
+SEMESTER - VII 
+Elective - 2 ME4LXXX/ME6LXXX  3-0-3 5 6 
+Elective – 3 ME4LXXX/ME6LXXX  3-0/1-0 3/4 3/4 
+Breadth - 2   3-0/1-0 3/4 3/4 
+Industrial Training   Defense  ME4T001  0-0-0 2 0 Project – Part 1  ME4D001  0-0-0 4 0 
+    Total  17/19  12/14  
+SEMESTER - VIII  
+Breadth - 3   3-0-0 3 3 
+Breadth - 4   3-0-0 3 3 
+Elective – 4 ME4LXXX/ 
+ME6LXXX  3-0/1-0 3/4 3/4 
+Elective – 5 ME4LXXX/ 
+ME6LXXX  3-0-0 3 3 
+Project – Part 2  ME4D002  0-0-0 6 0 
+    Total  18/20  12/13  
+    G. Total  178/188    
+    *Excluding EAA -1 & 2  
+ 

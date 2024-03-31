@@ -1,0 +1,69 @@
+Introduction to Electronics  
+ 
+This course will be your first encounter with semiconductor devices. It is pretty much a linear 
+course (though the devices you study are non -linear) and hardly involves complex 
+mathematical concepts.  The whole course can be divided into two parts:  
+• Semiconductor Devices  
+• Applications of Semiconductor Devices  
+ 
+For basic understanding: All About Electronics (YouTube)  
+ 
+Semiconductor Devices   
+ 
+• Diode : Basic structure and types, operating principle, current -voltage characteristic, large 
+and small -signal models, zener diode operating principle.  
+ 
+• Bipolar Junction Transistor (BJT) : Structure and modes of operation; NPN and PNP 
+transistor in active mode, DC analysis. (Revise Thevenin/ Norton for smooth circuit 
+analysis)  
+ 
+• Metal -oxide semiconductor field -effect transistor (MOSFET) : Working principle, nmos, 
+pmos. (foundation for the ‘VLSI Design’ course introduced to the ECE students in 6th sem)  
+ 
+• Operational Amplifier : Principle, the concept of feedback, offset voltage, bias current.   
+ 
+• Oscillators : Basic principle of sinusoidal oscillation, phase -shift oscillator, Wien -bridge 
+oscillator.  
+ 
+Application of Semi -Conductor D evices   
+ 
+• Diode applications : Rectifier circuits, Clipper and Clamper circuits, Zener diode as a 
+voltage regulator.   
+ 
+• BJT applications : BJT as a switch and amplifier, small -signal equivalent circuits, single -
+stage CE amplifier.  
+ 
+• MOSFET application : MOSFET as a switch and amplifier.  
+ 
+• Operational amplifier applications :  Principle, summing amplifier, inverting and non -
+inverting configuration, voltage follower, differentiator, and integrator. (highly important 
+from the core interviews point of view)   
+ 
+Examination Hacks   
+ 
+Dr. Srinivas Boppu (Batch of 2017)  
+Most of the paper is from the tutorials, lecture notes (slides) as well as pre vious years’ papers 
+so please go through them thoroughly. As most of the concepts involve critical reasoning, it will be prudent to listen to the class with a great focus which will save a lot of time for other 
+subjects.  
+Grading is lenient. Step marks are given, hence write all the steps. Even if the final answer is 
+wrong, as long as you've written your arguments veneered by a little understanding, you will 
+obtain marks for that question.   
+ 
+Dr. Anoop Thomas (Batch of 2018)   
+ 
+There will be two class tests which are basically nothing but a direct bonus of 20 marks in the 
+name of ‘teacher assessment’, so savour the opportunity. As most of the concepts involve 
+critical reasoning, it will be prudent to listen to the class with a gr eat focus which will save a 
+lot of time for other subjects. Grading is strict, Final answers are very important, marks for 
+steps are usually not given, hence avoid silly mistakes. Usually, there will be one tougher exam  
+(either mid -sem or end -sem), so if th e mid -sem felt easy, the end -sem might be tougher. Pay 
+extra attention to the assignments, most of the exam questions are framed around those.   
+ 
+Dr. Anoop Thomas (Batc h of 2019)  
+You can learn the most in the class . Just be focused and go with the class flow. The subject 
+will be very interesting  but requires practice . Practice solving questions as much as you can . 
+Your main focus in the examination should be solving the questions with complete accuracy 
+and most importantly  as quick as you can. Managing  the time during the exam would be a 
+challenge. Avoid silly mistakes (that is what happens with this subject mostly) . 
+ 
+Grading for 2019 Ba tch. 

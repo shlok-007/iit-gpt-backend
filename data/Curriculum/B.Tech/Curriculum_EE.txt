@@ -1,0 +1,3091 @@
+Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+1 
+ Table of Content  
+1. Compliance report  
+2. Curriculum for B.Tech. in Electrical Engineering and Dual Degree Program with B.Tech. in 
+Electrical Engineering and M.Tech. in Power Electronics and Drives  
+3. B. Tech and Dual Degree ( 1st and 2nd Semester Common C ourses)  
+a. First Semester courses  
+b. Second Semester Courses  
+c. Syllabus  
+4. B. Tech (3rd Semester – 8th Semester  Courses ) 
+a. Third – Eighth  Semester courses  
+b. Syllabus for Core Courses  
+c. Elective Courses  
+d. Syllabus for Elective Courses  
+5. Dual Degree (7th - 10th Semester  Courses ) 
+a. Sevent h to Tenth Semester Courses  
+b. Syllabus  
+6. Lateral Courses offered to Other Schools  
+a. List of Courses  
+b. Syllabus  
+7. Summary of Course Credits  
+a. B.Tech program  
+b. Dual Degree program  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+2 
+ Complian ce Report  (B.Tech. Program)  
+Components  Subjects  Credit 
+Recommended  Credit 
+Approved  
+1. Common Core  (i) English  4 4  
+(ii) Basic Science and 
+Mathematics  20 20 
+(iii) General Sciences  6 6 
+(iv) Engineering Sciences  27 27 
+2. Breadth Basket  (i) Breadth -1 
+(ii) Breadth -2 
+(iii) Breadth -3 
+(iv) Breadth -4 12-14 3/4 
+3  
+3/4 
+3/4 
+3. Misc ellaneous  (i) Seminar  
+(ii) Internship  
+(iii) Project  14 2 
+2 
+10 
+4. Laterals  (i) Lateral -1  
+(ii) Lateral -2  
+(iii) Lateral -3  9-12 3 
+3/4 
+3/4 
+5. Verticals  Theory  58-68 2nd year - 20 
+3rd year –23/24  
+4th year – 19/25  
+Laboratory  18-24 18 
+TOTAL   168-189 172/184  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+3 
+ Curriculum for B.  Tech. in Electrical Engineering  
+ & 
+ Dual Degree Program me (B. Tech. in Electrical Engineering and M.  Tech. in 
+Power Electronics and Drives )  
+ 
+1. The curriculum for 1st and 2nd Semesters are same for all B Tech and dual degree programs.  
+2. The curriculum for (1) B.  Tech. Degree in Electrical Engin eering and (2) B.  Tech. Degree in 
+Electrical Engineering and M.  Tech. Degree in Power Electronics and Drives Dual Degree 
+program are same up  to 6th Semester.  
+3. For 7th and 8th Semester, the curriculum for B.  Tech. program has a combination of core, 
+elective subjects and final year B.  Tech. project.  
+4. From  7th up to 10th Semester, there are combination of core and elective subjects  for dual 
+degree program . All core subjects of B.  Tech and M.  Tech Programs are included.  
+5. Ther e are final year B.  Tech project part 1  and 2 in both B.  Tech and Dual Degree programs . 
+6. In dual degree programme, t here are M. Tech Thesis part 1 and 2 in the 9th and 10th Semesters, 
+respectively, similar to M.  Tech programs . 
+7. The recommended total credit range for B.  Tech program is 168 -189. For Dual Degree program 
+the recommended total credit range is 220 -225.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+4 
+ 1st Semester and 2nd Semester (Common to All Disciplines of Study)  
+SEMESTER – I 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -1 MA1L001  3-1-0 4 4 5 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 4 6-7 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0/ 
+3-0-2 or  
+3-1-0 4 4/ 
+5 or 4  7-10 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 4 11-12 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 3/4 12-13 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 3 13-14 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 14 
+Extra Academic Activity -1 ID1T001  0-0-3 1 3  
+  Total  22/23+1  25/27 or 26+3   
+SEMESTER – II  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -2 MA1L002  3-1-0 4 4 15 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 4 6-7 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-0-2 or              
+3-1-0/ 
+3-1-0 4 5 or 4/  
+4 7-10 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 4 11-12 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 4/3 13-14 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 3 12-13 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 14 
+Extra Academic Activity -2 ID1T002  0-0-3 1 3  
+  Total  23/22+1  27 or 26/ 25+3   
+ 
+ 
+Syllabus for each course is given in the following pages.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+5 
+ Syllabus for First Year Courses (Common to All Disciplines of Study)  
+SEMESTER – I 
+Subject Code:  MA1L001  Subject Name: 
+Mathematics -1 L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Calculus:  Rolle’s theorem, Lagranges theorem, Cauchy ’s mean value theorem 
+(Taylor’s and Maclaurin theorems with remainders), Indeterminate forms, Concavity 
+and convexity of a curve, points of inflexion, maximum, minimum of a function, 2nd  
+derivative test for max min, Asymptotes and curvature, Cartesian curve tracing, polar 
+curve  tracing.   
+Calculus of Several Variables :  Limit, continuity and differentiability of functions of 
+several variables, partial derivatives and their geometrical inte rpretation, differentials, 
+derivatives of composite and implicit functions, derivatives of higher order and their 
+commutativity, Euler’s theorem on homogeneous functions, harmonic functions, 
+Taylor’s expansion of functions of several variables, maxima and minima of functions 
+of several variables, Lagrange’s method of multipliers.   
+Vector Calculus:  Double and triple integrals, Scalar and vector fields, level surfaces, 
+directional derivative, Gradient, Curl, Divergence, line and surface integrals, theorems 
+of Green, Gauss and Stokes. Beta and Gamma functions.  
+Ordinary Differential Equations:  First order differential equations, exact, linear and 
+Bernoulli’s form, second order differential equations with constant coefficients, Euler’s 
+equations, particular integ rals by: variation of parameters, undetermined coefficients, 
+operator method, system of differential equations.   
+ 
+Text Books:  
+1. Narayan S. and Mittal P. K.  Differential Calculus and Integral Calculus , S. Chand & 
+Company Ltd.  
+2. Thomas   G. B.  and Finney   R. L.  Calculus and Analytic Geometry , Pearson  
+3. Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons  
+5. Simmons G. F. and Robertson J. S.  Differential Equations with applications and 
+Historical notes , Tata McGraw -Hill Publishing Compa ny Limited, New Delhi, India  
+ 
+Reference Books:  
+1. Bartle R. G. and Sherbert D. R . Introduction to Real Analysis , Wiley India  
+2. Jain R. K. and Iyengar S. R. K.   Advanced Engineering Mathematics,  Narosa  
+3. Apostol T. M.  Calculus - Vol.2, Wiley India  
+4. Ross S. L. Differential Equations , Wiley India  
+5. Coddington E. A.  An Introduction to Ordinary Differential Equations , Prentice Hall  
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+6 
+ Subject Code:  PH1L001  Subject Name:  Physics  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Classical Physics: Review of Newtonian mechanics, Lagrangian mechanics, constraints, 
+principle of virtual work, D’Alembert’s principle, Action Principle and Lagrange's 
+equations,   Velocity dependent potentials, Legendre Transformation and Hamiltonian 
+equat ions, Central forces, Kepler’s problem, Waves and Oscillations, Damped and 
+Forced Oscillations, normal modes, Basics of Special Relativity, Galilean and Lorentz 
+transformations, Time dilation and length contraction, relativistic kinematics and 
+mass-energy equivalence. Electromagnetic Waves and Optics: Maxwell’s equations, 
+wave equation, plane electromagnetic waves, longitudinal and transverse waves, 
+superposition, wave packets, two and three dimensional waves, energy - momentum, 
+Poynting’s theorem, electroma gnetic boundary conditions, Laser, Young’s experiment, 
+interferometers, diffraction, Fraunhofer diffraction (single slit), dispersion. Wave 
+Mechanics: Failure of classical physics, qualitative review of relevant experiments, de 
+Broglie waves, uncertainty p rinciple, wave function and Schrodinger equation, 
+probability interpretation, particle on a chain, potential barrier and quantum tunneling, 
+potential well, Harmonic oscillator, operator algebra, Hydrogen atom and angular 
+momentum algebra.  
+ 
+Text/ Reference Books:  
+ 
+1.   Crawford F.S.   Waves,  Vol. 3, Berkely Physics Series . 
+2.   Goldstein,  Classical Mechanics , Pole and Safko, Pearson Education Inc.  
+3.   Saleh and Teich.  Fundamentals of Photonics , Wiley -Interscience.  
+4.   Ghatak A.  Optics , McGraw -Hill. 
+5.   Griffiths D.J.  Introduction to Quantum Mechanics , Pearson Education Inc.  
+6.   Pain H. J.  The Physics of Vibrations and Waves , Wiley.  
+7.   Resnick R.  Introduction to Special Relativity , John Wiley (Asia).  
+8.   Landau L. and Lifshitz E.  Mechanics , Oxford   
+9.   Zweibach B.   A First Course in String Theory , Cambridge University Press  
+10.  Hecht E.  Introduction to Optics , Addison -Wesley.   
+11.  Feynmann Lecture series on Physics.  
+12.  Sakurai J. J.  Modern Quantum Mechanics , Benjamin -Cummings.  
+ 
+Subject Code: CY1L 001 Subject Name: Chemistry  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Energetics & Kinetics:  (a) Basic Concepts and Laws of Thermodynamics; Entropy; 
+Engineering Devices: Efficiency &  Conversion; Thermochemistry; Bioenergetics. (b) 
+Basic Rate Laws; Multistep Reactions; Activation Energy. (c) Transport of Ions and 
+Gases in bi ofluids and across biomembranes; Equilibrium:  Proton Equilibrium (aqueous 
+& non -aqueous) including Buffers. Phase  Equilibrium.  Redox & Electrochemistry:  Basic 
+Concepts & Laws; Battery (Automobile to Ni -Cd and beyond); Fuel Cells; Latimer, Frost, 
+and Pourbaix diagram; Corrosion.  Bonding Models & Properties:  (a) In Molecules, 
+Supramolecules, Metals and Metal Complexes;  (b) Implications on electrical, ma gnetic, 
+and optical properties, (c) Absorption and  Emission Spectroscopy.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+7 
+ Functional Materials - Design & Application:  (a) Synthetic Polymers (carbon framework, 
+silicon framework, fluorinated polymer), Bio & biodegradable  polymers. (b) Surfactants. 
+(c) Nanostructures, Soft materials and Thin Films. (b) Emerging app lications in Energy 
+harvesting, Memory  Storage  and Micro -fabrication. Industrial & Bio -inspired 
+Chemistry:  (a) Case studies on Industrial organics with emphasis to Drugs (b) 
+Oxidation, Reduction, Catalytic hydrogenation and Electron transfer.  Molecules in Daily 
+Life: A short tour on molecules behind taste, smell, pain, colour and sex.  
+ 
+ 
+Text/Reference Books:   
+1. Brown L. and Holme, T.  Chemistry for Engineering Students , Thomson Brooks.  
+2. Atkins P. and Paula J. D. Atkins’  Physical Chemistry , Oxford.  
+3. Shriver, D. F. and Atkins, P. W. Atkins’  Inorganic Chemistry , Oxford.  
+4. Morrison R. T. and Boyd R. N.  Organic Chemistry , Prentice Hall.  
+5. Steed J. W. and Atwood  J. L. Supramolecular Chemistry , John -Wiley.   
+6. Caruther W.  Reagents in Organic Chemistry , Cambridge University Press.  
+7. Wiseman P.  An Introduction to Industrial Organic Chemistry , Applied Science.   
+8. Hall N.  The New Chemistry , Cambridge University Pres s. 
+9. Atkins P. Atkins’  Molecules  Cambridge University Press.  
+10. Cengel Y. A. and Boles M. A.  Thermodynamics -An Engineering Approach , Tata 
+McGraw - Hill 
+ 
+Subject Code:   ME1L001  Subject Name:   Mechanics  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Force systems:  Moment of a force about a point an d about an axis; couple moment; 
+reduction of a force system to a force and a couple.  Equilibrium:  Free body diagram; 
+equations of equilibrium; problems in two and three dimensions; plane frames and 
+trusses.  Friction:  Laws of Coulomb friction, problems involving large and small contact 
+surfaces;  square threaded screws; belt friction; rolling resistance.  Kinematics and 
+Kinetics of particles:  Particle dynamics in rectangular coordinates cylindrical coordinates 
+and in terms of path variables; central force motion.  Properties of areas:  Moments of 
+inertia and product of inertia of areas, polar moment of inertia, principal axes and 
+principal moments of inertia.  Concept of stress and strain:  Normal stress, shear stres s, 
+state of stress at a point, ultimate strength, allowable stress, factor of safety; normal 
+strain, shear strain, Hooke’s law, Poisson’s ratio, generalized Hooke’s law; analysis of 
+axially loaded members.  Torsion:  Torsion of cylindrical bars, torsional st ress, modulus 
+of rigidity and deformation.  Flexural loading:  Shear and moment in beams; load, shear 
+and moment relationship; shear and moment diagrams; flexure formula; shear stress 
+in beams; differential equation of the elastic curve, deflection of beams.  Transformation 
+of stress and strain:  Transformation of stress and strain, principal stresses, principal 
+strains, Mohr’s circle for stress and strain.  Combined loading:  Axial and torsional; axial 
+and bending; axial, torsional and bending.  Column:  Buckling of slender columns, Euler 
+bucking load for different end conditions . 
+ 
+ 
+Text/Reference Books:  
+1. Vector Mechanics for Engineers:   Statics and Dynamics  - Ferdinand P. Beer, E. 
+Russell   Johnston, Jr. (TMH)  
+2. Engineering Mechanics:  Statics and Dynamics  - I.H. Shames (Pearson)  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+8 
+ 3. Engineering Mechanics  - S. Timoshenko,   D. H. Young (TMH)  
+4. Mechanics of Materials  - Ferdinand Beer , E. Russell Johnston, Jr., J. DeWolf (TMH)  
+1. 5. Elements of Strength of Materials  - S. Timoshenko,   D. H. Young (East West Press)  
+2. 6. Mechanics of Materials  - James M. Gere, Barry J. Goodno (CL Engg)  
+3. 7. Engineering Mechanics  -  Stephan Timoshenko, D. Young (TMH)  
+4. 8. Strength of Materials (Part 1)  – S P Timoshenko (CBS)  
+ 
+Subject Code: 
+HS1L001  Subject Name: English for 
+Communication  L-T-P: 
+3-0-2 Credit: 4  
+Pre-requisite(s): Nil  
+English for Communication is an amalgamation of Literature, Language and  
+Communication.  The Literature component of the course comprises of Prose and 
+Poetry.   
+Poetry :  
+A selection of poetry pieces spanning from 16th  century to the Post -Modern Period in 
+English, American and Indian Literature are chosen to introduce to the students to the 
+different poets from different ages and countries and also to acquaint them with the 
+various poetic forms like Sonnet, Ballad, Eleg y, Didactic, Dramatic, Nature, Lyric,  
+Romantic, etc. The list is an indicative one . 16th century - 17th century - Geoffrey 
+Chaucer, William Shakespeare, Edmund Spenser, Ben Johnson, Thomas Wyatt.  
+17th century - 18th century - John Milton, John Donne, George He rbert, John Dryden, 
+Oliver Goldsmith.  18th century - 19th century - Alexander  Pope, Thomas Gray, Robert 
+Burns, William Blake, William Wordsworth, Samuel Taylor Coleridge, Lord Byron, P.B.  
+Shelley, John Keats, Robert Bridges, Robert Southey, Samuel Johnson.  19th century - 
+20th century - Alfred Tennyson, Robert Browning, Walter de la Mare, Thomas Hardy, 
+A.E. Housman, Rudyard Kipling, D.H. Lawrence, Wilfred Owen, D.G. Rossetti, Christina 
+Rossetti, Emily Dickinson, Gerald Manley Hopkins, Charlotte Bronte, Lewis Car oll, 
+Edward Fitzgerald, Walt Whitman.  20th century - Present - Ted Hughes, Louis MacNeice, 
+W.B. Yeats, Stephen Spender, W.H. Auden, Nissim Ezekiel, Sarojini Naidu, Jayanta 
+Mahapatra, Robert Frost, , Ezra Pound, E.E. Cummings, T.S. Eliot, Walt Whitman, A.K. 
+Ramanujan, Kamala Das, Rabindranath Tagore, Jack Prelutsky,   Chinua Achebe, Maya 
+Angelou, Margaret Atwood, Leonard Cohen, Louise Erdrich, Leslie Marmon Silko.  
+Prose : 
+A selection of fictional and non -fictional prose pieces spanning from 17th century to the 
+Post-Modern Period.   Fiction and non -fictional pieces from English, American, Russian 
+and Indian Literature are chosen to introduce the students to different writings from 
+different ages and countries. The list is an inclusive one consisting of short storie s, 
+essays, excerpts, extracts from novels, biographies and memoirs, history, travel and 
+other forms.  17th century -18th century:  Charles Dickens, William Makepeace 
+Thackeray, George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudya rd Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe , Jonathan Swift, Lewis 
+Carroll; 19th century -20th century:  Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughaum, Natha niel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David Thoreau, 
+Anton Chekov, Maxim Gorky, Leo Tolstoy, George Orwell, Rabindranath Tagore, M.K. 
+Gandhi, J. Nehru, Virginia Woolf, G uy De Maupassant, Washington Irving, Margaret 
+Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, Ernest Hemingway, 
+Edgar Allan Poe.  20th century -Present:  J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. 
+Abdul Kalam, Khushwant  Singh, Anita Desai, Yann Martel, Ken Kesey, Stephen King, Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+9 
+ Thomas King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, 
+Virginia Woolf, Gerald Vizenor, Alice Walker, Chinua Achebe, Jeffrey Archer, Issac 
+Asimov, Roald Dahl, J.R.R. Tolkien,  D.H. Lawrence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.            
+Communication : 
+Because communication is so important in business, businesses want and need people 
+with good communication skill s. Business communication is a blend of skills like writing 
+and speaking well, displaying proper etiquettes and listening attentively.  
+Communications through technology greatly enhances one’s ability to communicate 
+effectively and articulately. For example , E-mails often result in a sender’s language 
+skills being placed in front of different people simultaneously; while audio and video will 
+reveal the calibre of one’s verbal and diplomatic strengths. The communication aspect 
+of the English for Communication  Course includes:   
+ 
+1. The Basics of Business Communication  
+2. Importance of Listening  
+3. Barriers in the Communication Process  
+4. Business Letters (Letter of Inquiry, Complaint, Cover Letter)  
+5. Resume Writing  
+6. Memo and Memo Reports  
+7. Report Writing  
+8. Fax and E Mail  
+ 
+English Laboratory : 
+Objective: The laboratory component included in the course provides an ideal platform 
+for students to prepare themselves into confident and self -assured individuals. The Lab 
+course is designed to inculcate confidence and clarity in presentation and expression of 
+thought, views and ideas through practice and exercises. It constitutes six basic 
+components to improve listening, reading and writing skill of the students.   
+Lessons:  
+1. Pronunciation (Basic sounds of English like  Long/Short Vowels; All consonants)  
+2. Stress Intonation (Rising and Falling)  
+3. Speaking - Oral Presentations, Group Discussions, Story Telling, Role Plays  
+4. Listening – Importance and Practice  
+5. Reading - Practice  
+6. Writing (Paragraph writing, good  writing and bad writing with samples, Indianism),  
+Grammar (Basic - Articles, Prepositions, Verbs, Common Errors , etc)  
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman,  Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Communication , 
+Macmillan.   
+5. Herta A. Murphy, et al.,  Effective Business Communication , Tata Mc -Graw Hill: New 
+Delhi  
+6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Press:   New York  
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+10 
+ Subject Code: HS1L002  Subject Name: Learning 
+English  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+The Learning English Course is designed to improve the English Listening, Speaking, 
+Reading and Speaking skills of students.  
+I. Prose  
+A selection of fictional and non -fictional prose pieces spanning from 17th century to 
+the Post -Modern Period.   Fiction and non -fictional pieces from English, American, 
+Russian and Indian Literature are chosen to introduce the students to different 
+writings from different ages and countries. The list is an inclusive one consisting of 
+short s tories, essays, excerpts, extracts from novels, biographies and memoirs, 
+history, travel and other forms.   
+17th century - 18th century - Charles Dickens, William Makepeace Thackeray, 
+George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudyard Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe, Jonathan Swift, Lewis 
+Carroll.  
+19th century - 20th century - Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughau m, Nathaniel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David 
+Thoreau, Anton Chekov, Maxim Gorky, Leo Tolstoy, George Orwell, Rabindranath 
+Tagore, M.K. Gandhi, J. Nehru, Virginia Woolf, Guy De Maupassant, Washington 
+Irving, Margaret Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, 
+Ernest Hemingway, Edgar Allan Poe.  
+20th century - Present - J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. Abdul 
+Kalam, Khushwant Singh, A nita Desai, Yann Martel, Ken Kesey, Stephen King, Thomas 
+King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, Virginia 
+Woolf, Gerald Vizenor, Alice Walker, Chinua Achebe, Jeffrey Archer, Issac Asimov, 
+Roald Dahl, J.R.R. Tolkien, D.H. Law rence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.  
+II. Writing - Paragraph, Essay, Précis, Dictation, Comprehension, Letter Writing  
+III. English Tutorial - Practice Listening and Speaking English   
+IV. English Practice - Grammar Assignments and Workbook (Everyday English Level 
+I/II) 
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman , Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Communication , 
+Macmillan.  
+5. Herta A. Murphy, et al.,  Effective Business Commu nication , Tata Mc -Graw Hill: New 
+Delhi 
+1. 6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Press:   New York   
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+11 
+ Subject Code: 
+EE1L001  Subject Name: Electrical 
+Technology  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Introduction: Sources of energy; General structure of electrical power systems, Power 
+transmission and distribution via overhead lines and underground cables, Steam, 
+Hydel, and Nuclear power generation; DC Networks: Kirchhoff’s laws, node voltage 
+and mesh current methods, Delta -star and star -delta conversion, Superposition 
+principle, Thevenin’s, Norton’s theorems and Maximum power transfer theorem; 
+Single phase AC Circuits: Single phase EMF generation, average and effective values 
+of sinusoids, solution of R,L,C series circuits, the j operator, complex representation of 
+impedances, phasor diagram, power factor, power in complex notation, solution of 
+parallel and series – parallel circuits; Three phase AC Circuits: Three phase EMF 
+generation, delta and Y – connections, line and phase quantities, solution of three 
+phase circuits, balanced supply voltage and balanced load, phasor diagram, 
+measurement of power in three phase circuits, Three phase four wire circuits; 
+Magnetic Circuits: Ampere’s circuital law, B – H curve, solution of magnetic circuits, 
+hysteresis and eddy current losses; Transformers: Construction, EMF equation, 
+ratings, phasor diagram on no load and full load, equivalent circuit, regulation and 
+efficiency calculations, open and short circuit tests , auto -transformers; DC Machines: 
+Construction, EMF and Torque equations, Characteristics of DC generators and 
+motors, speed control of DC motors and DC motor starters; Electrical Measuring 
+Instruments: DC PMMC instruments, shunt and multipliers, multimete rs, Moving iron 
+ammeters and voltmeters, dynamometer, wattmeter, AC watthour meter, extension of 
+instrument ranges.   
+ 
+Text/Reference Books:  
+1. 1. E. Hughes , “Electrical Technology,”  Pearson Education, 2010.  
+2. 2. V. Del Toro,  “Electrical Engg Fundamentals,”  PHI Learning, 2009.  
+3. 3. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA Mc Graw Hill 
+Education, 2009.  
+4. 4. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1L001  Name: Introduction to 
+Programming and Data Structure  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Digital computer fundamentals, concepts of algorithms and introduction to 
+programming – examples; Constants and variables – data types, operators and 
+expressions - type conversions, types of expressions; Assignment statements, input -
+output statements - concepts of data formats; Control statements: branching – if-else 
+statements; iteration – while, do -while, for statements. nested control structures, 
+switch, break and continue statements; Funct ions and recursion – examples; concepts 
+of parameter passing by values and by reference; Arrays – single and 
+multidimensional, examples – searching and sorting; Introduction to pointers, 
+character strings and arrays, pointers and arrays; Structures, linked  lists, dynamic 
+allocation, stacks and queues, binary trees and tree traversals; Data files – creating, 
+opening, closing and operating data files; (The programming language C to be used as 
+the basis language).  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+12 
+ Text Books:  
+1. 1. B. Gottfried, “ Schaum’ s   Programming with C ,” Tata McGraw -Hill. 
+2. 2. E. Balaguruswamy, “ Programming in ANSI C ,” Tata McGraw -Hill. 
+3. 3. Y.  Kanetkar, “ Let us C ,” BPB Publications.  
+4. 4. S. Lipschutz, “ Data Structures, Schaum’s Outlines Series ,” Tata McGraw -Hill. 
+Reference Books:  
+1. 1. Brian W. Kernighan and Dennis M. Ritchie, “ The C Programming Language ,” 
+Prentice Hall of India.  
+2. 2. Ellis Horowitz, Satraj Sahni and Susan Anderson -Freed, “ Fundamentals of Data 
+Structures in C ,” W. H. Freeman and Company.  
+ 
+Subject Code: 
+ME1P001  Name: Introduction to 
+Manufacturing Processes  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Nil  
+Machining:  
+ Introducing to various machine tools and demonstration on machining  
+ Making a steel pin as per drawing by machining in centre lathe  
+ External screw thread on lathe  
+ Making a cast iron Vee block by shaping  
+ Making a regular polygon prism (MS)/ hexagon by milling machine  
+ Slot fitting by milling machine  
+ Study of machining in machining in machining centre (CNC)  
+ Study of Electro discharge machining (EDM)  
+Foundry Practice:     
+ Orientation, demonstration and practice on metal casting  
+ Practicing sand moulding using split and uneven parting line pattern  
+ Practice on CO2 moulding and machine moulding  
+ Mechanised sand preparation and melting practice  
+Welding Practice:  
+ Practice on el ectric arc welding  
+ Practice on oxy -acetylene gas welding  
+ Introduction and demonstration on submerged arc welding  
+Metal Forming:   
+Demonstration of deep drawing and other forming process   
+ 
+Text/Reference Books:  
+1. Chapman W.A.J.,  Workshop Technology - Part I , CBS Publishers.  
+2. Chapman W.A.J.,  Workshop Technology - Part II , CBS Publishers.  
+3. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. I , Media Promoters.  
+4. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. II , Media Promoters.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+13 
+ Subject Code:   CE1P001  Subject Name: Engineering 
+Drawing  and Graphics  L-T-P: 
+1-0-3 Credit: 3  
+Pre-requisite(s): Nil  
+Introduction to IS code of drawing; Conics and Engineering Curves – ellipse, parabola, 
+hyperbola, cycloid, trochoid, involute; Projection of lines – traces, true length; Projection 
+of planes and solids; sold objects – cube, prism, pyramid, cylinder, cone and sphere; 
+Projection on Auxiliary planes; Isometric projection, isometric scale; Section of solids – 
+true shape of section; Introduction to CAD tools – basics; Introduction of Development 
+and Intersection of surfaces.  
+Text/Reference Books:  
+1. Bhatt N.D. Elementary Engineering Drawing , Charotar Publishing House.  
+2. Gill P.S. Engineering Drawing & Engg. Graphics , S. K. Kataria & Sons.  
+3. Lakshminarayan  L.V.  and Vaish R.S. Engineering Graphics , Jain Brothers.  
+Subject 
+Code:   PH1P001  Subject Name:   Physics 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-Requisite(s): Nil  
+1. To determine the damping constant of the pendulum for different eddy damping current.  
+2. To verify Malus’s Law of polarization of light.  
+3. To determine the wave length of the prominent lines of mercury source by a plane 
+transmission diffraction grating and to calculate the resolving power and dispersive power 
+of the grating.  
+4. To study the intensity distribution of Fraunhofer diffraction pattern by a single slit and 
+measure the width of the slit for a given wavelength of laser light.  
+5. To determine the wavelength of the given source using the Michelson interferometer.  
+6. To determine the wave length of the  given source using Fresnel’s biprism.  
+7. To find out the resonance and beat time period of the coupled pendulum and find out the 
+spring constant.  
+8. To study the interference pattern and determine the radius of curvature of the plano 
+convex lens using Newton’s rings apparatus.  
+Text/Reference Books:  
+1. 1. Ghatak  A. Optics , McGraw -Hill. 
+2. 2. Pain H. J.  The Physics of Vibrations and Waves , Wiley.  
+ 
+Subject Code: 
+CY1P001  Subject Name: Chemistry 
+Laboratory  L-T-P: 0-
+0-3 Credit: 2  
+Prerequisite(s): Nil  
+Experiment -1: Determination of the surface tension and parachor of a homologous 
+series.  
+Experiment -2: Measurement of the coefficient of viscosity of ethanol & ethanol -water 
+system.  
+Experiment -3: Studies on acid -base conductometric titration.  
+Experiment - 4: Studies on PH metric titration of strong base with strong acid.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+14 
+ Experiment -5: Estimation of sulphate ion in tap water by nepheloturbidimetric 
+analysis.  
+Experiment - 6: Spectrophotometric determination of acid dissociation constant (pka) 
+of methyl red (MR) an acid base indicator.  
+Experiment -7: Determination of solubility and solubility product of a sparingly soluble 
+salt at room temperature by conductometric method.  
+Experiment - 8: Potentiometric titration of a given sodium carbonate solution with 
+aques ous hydrochloric acid solution.  
+Experiment -9:  kinetics of ester hydrolysis.  
+Experiment -10: Detection of functional groups in an organic compound for solid 
+sample.  
+Experiment -11:  Detection of functional groups in an organic compound for liquid 
+sample.  
+Experiment -12: Thin layer chromatography (TLC).  
+ 
+Text/Reference Books:  
+1. 1. Nad, A. K.; Mahapatra, B. and Ghoshal A.  An advanced course in practical 
+chemistry , New Central Book Agency (P) Ltd.  
+2. 2. Elias A. J.  A collection of general chemistry experiments , University Press.  
+3. 3. Maity S. and Ghosh N.  Physical Chemistry Practical , New Central Book Agency (P) 
+Ltd. 
+ 
+Subject Code: 
+EE1P001  Subject Name: Electrical 
+Technology Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite(s): Electrical Technology  
+Experiments as per the topics in the syllabus for the course `Electrical Technology’ 
+(EE1L001) will be conducted in the laboratory class.  
+Text Books:  
+1. E. Hughes,  “Electrical Technology,”  Pearson Education, 2010.  
+2. V. Del Toro, “Electrical Engg  Fundamentals,” PHI Learning, 2009.  
+Reference Books:  
+1. 1. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA McGraw Hill 
+Education, 2009.  
+2. 2. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1P001  Subject Name: Introduction to 
+Programming and Data Structures 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Prerequisite(s): Introduction to Programing and Data Structures  
+Familiarization of a computer and the environment; Execution of sample programs 
+related to Expression evaluation, Conditionals and branching, Iteration, Functions, 
+Recursion, Tail -recursion, Arrays, String manipulation, Structures, Linked lists, 
+Doubly -linked lists and Binary Trees. Execution of programs involving abstract data 
+types like Stacks  and Queues.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+15 
+ Semester -II 
+Subject Code:   MA1L002  Subject Name: 
+Mathematics -II L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Linear Algebra:  Vector spaces, subspaces, span,   Linear dependence, independence 
+of vectors, basis, dimension,   linear transformations, range, kernel, rank, nullity of 
+linear transformation, space of all linear transformations, Operator equations, matrix 
+associated with a linear map, linear map associated with a matrix, elementary row 
+operations, solution of algebraic equa tions, consistency conditions. Matrix inversion by 
+row operations, Eigenvalues and eigenvectors, Hermitian and skew Hermitian 
+matrices, orthogonal and unitary matrices, application to reduction of quadrics.   
+Complex Analysis:  Limit, continuity, differentia bility and analyticity of functions 
+Cauchy -Riemann equations (cartesian and polar), Harmonic functions,   Elementary 
+complex functions, Line integrals, upper bounds for moduli of contour integrals, 
+Cauchy’s integral theorem, Cauchy’s integral formula, deriv atives of analytic functions, 
+Power series, Taylor’s series, Laurent’s series, Zeros and singularities, Residue 
+theorem, evaluation of improper integrals by residue theorem.   
+ 
+Text books:  
+1.   Strang G.  Linear Algebra and its applications, Cengage Learning  
+2.   Churchill R.V. and Brown J.W.  Complex Variables and Applications , Mc-Graw Hill  
+3.   Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons   
+ 
+Reference Books:  
+J1. ain  R. K. and Iyengar S. R. K.  Advanced Engineering Mathematics , Narosa  
+1. 2. Krishnamurthy V., Mainra V. P. and Arora J.L.   An Introduction to Linear Algebra , 
+Affiliated East -West Press Pvt Ltd New Delhi  
+2. 3. Axler S.  Linear Algebra Done Right , UTM, Springer  
+3. 4. Poole D.  Linear Algebra : A Modern Introduction , Brooks/Cole  
+ 
+All other courses are same as Semester -I Courses.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+16 
+ B. Tech in Electrical Engineering (3rd Semester – 8th Semester Courses)  
+SEMESTER – III 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Breadth – 1  3-0-0 3 3  
+Introduction to Electronics  EC2L001  3-1-0 4 4 19 
+Introduction to Material Science and 
+Engineering  ID2L001  2-0-0 2 2  
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 2  
+Probability Statistics and Stochastic 
+Processes  MA2L003  3-1-0 4 4  
+Signals and Systems  EC2L002  3-1-0 4 4 19 
+Introduction to Electronics Laboratory  EC2P001  0-0-3 2 3 20 
+Signals and Systems Laboratory  EC2P002  0-0-3 2 3 20 
+Seminar  EE2S001  0-0-3 2 0  
+  Total  25 25  
+ 
+SEMESTER – IV 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral -1  3-0-0/3-1-0 3/4 3/4  
+Breadth – 2  3-0-0/3-1-0 3/4 3/4  
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 2  
+Network Theory  EE2L001  3-1-0 4 4 21 
+Electric Machines  EE2L003  3-1-0 4 4 21 
+Digital Electronics and Microprocessor  EC2L006  3-1-0 4 4 22 
+Electric Machines Laboratory  EE2P00 1 0-0-3 2 3 22 
+Digital Electronics and Microprocessor 
+Laboratory  EC2P006  0-0-3 2 3 23 
+  Total  24/25  26/27   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+17 
+ SEMESTER – V 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral - 2  3-0-0/3-1-0 3/4 3/4  
+Breadth - 3  3-0-0 3 3  
+Power Electronics  EE3L004  3-1-0 4 4 24 
+Electrical Power Transmission and 
+Distribution  EE3L007  3-1-0 4 4 24-25 
+Measurement and Instrumentation  EE3L010  3-0-0 3 3 25-26 
+Electromagnetic Field Theory  EE3L011  3-0-0 3 3 26 
+Power Electronics  Laboratory  EE3P004  0-0-3 2 3 26 
+Measurement and Instrumentation 
+Laboratory  EE3P005  0-0-3 2 3 27 
+  Total  24/25  26/27   
+ 
+SEMESTER – VI 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral -3  3-0-0/3-1-0 3/4 3/4  
+Breadth – 4  3-0-0/3-1-0 3/4 3/4  
+Control Systems  EE3L003  3-1-0 4 4 28 
+Digital Signal Processing  EC3L003  3-1-0 4 4 28-29 
+Power System Operation and Control  EE3L012  3-1-0 4 4 29 
+Control Systems Laboratory  EE3P003  0-0-3 2 3 30 
+Digital Signal Processing Laboratory  EC3P002  0-0-3 2 3 30 
+Power Systems Laboratory  EE3P006  0-0-3 2 3 30 
+  Total  24/26  27/29   
+ 
+SEMESTER – VII  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Digital Control Systems  EE4L005  3-0-0 3 3 31 
+Renewable Energy Systems  EE4L006  3-0-0 3 3 31-32 
+Elective – 1  3-0-0 3 3  
+Elective – 2  3-0-0 3 3  
+Industrial Training  Defence  EE4T001   2 2  
+Project - Part 1  EE4D001  0-0-6 4 0  
+  Total  18 14  
+SEMESTER – VIII  
+Elective – 3  3-0-0 3 3  
+Elective – 4  3-0-0 3 3  
+Elective – 5  3-0-0 3 3  
+Elective – 6  3-0-0 3 3  
+Renewable Energy Systems Laboratory  EE4P002  0-0-3 2 3 33 
+Project - Part 2  EE4D002  0-0-9 6 0  
+  Total  20 15  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+18 
+ List of Elective Courses  
+Subject Name  Subject Code  L-T-P Credit  Contact 
+Hour  Syllabus 
+Page No. 
+Elective – 1, 2  
+Semiconductor Devices  EC4L001  3-0-0 3 3 34 
+Statistical Signal Processing  EC6L005  3-0-0 3 3 34-35 
+High Voltage Engineering  EE6L009  3-0-0 3 3 35 
+Energy Storage Systems  EE6L011  3-0-0 3 3 35 
+Opto -Electronics  EC4L002  3-0-0 3 3 36 
+Image and Video Processing  EC6L002  3-1-0 4 4 36 
+Electric Power Quality  EE6L002  3-0-0 3 3 36-37 
+Advanced Power Electronics  EE6L010  3-0-0 3 3 37 
+Industrial Instrumentation  EE6L007  3-0-0 3 3 37-38 
+Elective – 3, 4, 5, 6   
+Biomedical Signal Processing  EC6L015  3-0-0 3 3 39 
+Fiber Optic Sensors  EC6L019  3-0-0 3 3 39 
+Embedded Systems  EC4L008  3-0-0 3 3 39-40 
+Pattern Recognition  EC6L027  3-0-0 3 3 40 
+Array Signal Processing  EC6L024  3-0-0 3 3 40-41 
+Power System Dynamics & Control  EE6L003  4-0-0 4 4 41 
+Power System Protection  EE6L004  4-0-0 4 4 41 
+Distribution System Engineering  EE6L017  3-0-0 3 3 42 
+Information Theory and Coding  EC6L003  3-0-0 3 3 42-43 
+Computational Electromagnetics  EC6L016  3-0-0 3 3 43 
+Adaptive Signal Processing  EC6L023  3-0-0 3 3 43 
+HVDC and Flexible AC Transmission Systems  EE6L005  3-0-0 3 3 44 
+Smart Grid Technology  EE6L014  3-0-0 3 3 44 
+Advanced Digital Signal Processing  EC6L004  3-0-0 3 3 45 
+Semiconductor Device Modelling  EC6L017  3-0-0 3 3 45 
+Advanced High Voltage Engg.  EE6L015  3-0-0 3 3 46 
+Advanced Electric Machines  EE4L004  3-0-0 3 3 46-47 
+Electric Drives  EE4L003  3-0-0 3 3 47 
+Power System Planning  EE6L018  3-0-0 3 3 47-48 
+ 
+The syllabus for Lateral and Breadth Courses are available in the syllabus 
+document  of the Schools offering the courses . 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+19 
+ Syllabus for Core Courses for B.Tech Program (School of Electrical Sciences ) 
+SEMESTER – III 
+Subject Code: 
+EC2L001  Name: Introduction to Electronics  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: None  
+Introduction to Electronic Devices: passive devices, Diode, bipolar junction transistor (BJT), 
+metal oxide semiconductor field -effect transistor (MOSFET); Diode: basic structure and types, 
+operating principle, current -voltage characteristic, large and smal l signal models; Diode 
+Applications: rectifier circuits, zener voltage regulator Regards, clipper and clamper circuits; BJT 
+and their Application: structure and modes of operation; NPN and PNP transistor in active mode, 
+DC analysis, BJT as a switch and amp lifier, small signal  
+equivalent circuits, single stage CE amplifier; MOSFET and Applications: switch and amplifier; 
+Operational Amplifier and applications: Basics, summing amplifier, inverting and non -inverting 
+configuration, voltage follower, differentiat or and integrator; Feedback: Basic concepts of 
+feedback, ideal feedback topologies; Oscillators: Basic principle of sinusoidal oscillation, phase -
+shift oscillator, wien -bridge oscillator; Digital Electronics: Boolean algebra and rules of 
+simplification and  combinational circuits.  
+Text Books:  
+1. S. Sedra, K. C. Smith, “Microelectronic Circuits,” Oxford University Press, India, 2005.  
+2. A Malvino, D J Bates; “Electronic Principles,” Tata McGraw Hill, India, 2007.  
+Reference Books:  
+1. R C Jaeger, T N Blalock, Microelectronic Circuit Design; Tata McGraw Hill, India, 2006.  
+Subject Code: 
+EC2L002  Name: Signals and Systems  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite:  Mathematics – 1 
+Objective and overview, signal and system types and classifications, LTI system: Causality, 
+stability, step response, impulse response and convolution integral; Periodic signal analysis: 
+Fourier series and properties; Aperiodic signal analysis : Fourier Tr ansform - its properties and 
+sinusoidal steady state analysis of systems; Discrete -time Fourier transform; Fourier transform 
+for periodic signals; Time and frequency characterization of signals and systems: magnitude -
+phase representation of Fourier transfo rms; Unilateral and Bilateral Laplace Transforms and 
+properties: Analysis and characterization of LTI systems using Laplace transform; System 
+function and block diagram representation, Bode plot; Discrete signals: Sampling, digitization 
+and reconstruction of analog signals; Fourier transform of discrete signals: DFT, z -transforms; 
+Discrete systems, transfer functions and convolution;  Analog filter design: Butterworth, Sallen 
+Key, frequency transformation and scaling. Text Books:  
+1. A. V. Oppenheim, A. S. Wills ky and S. H. Nawab, “Signals and Systems,” 2nd Ed., Pearson Prentice Hall, 2008.  
+2. S. Haykin and B. V. Veen, “Signals and Systems,” 2nd Ed., Wiley India, 2007.  
+Reference Books:  
+1. H. P. Hsu, “Signals and Systems – Schaum’s Outline Series,” McGraw Hill, 1995.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+20 
+ Subject Code: 
+EC2P001  Name: Introduction to Electronics Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Introduction to Electronics  
+Familiarization with electronic components; Familiarization and usage with oscilloscope, signal 
+generator, multimeter ; Frequency -response of R -C, C-R and R -L networks; Square -wave testing, 
+V-I characteristics of PN junction diode and zener diode; Voltage Rectifiers; Common -Emitter 
+amplifiers; Analog circuits using OP -AMP; logic gates.  
+Subject Code: 
+EC2P002  Name: Signals  and Systems Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Signals and Systems  
+Basic MATLAB Programming: Manipulation of Vectors, Arrays and Matrices, Arithmetic Operations, 
+Logical Operations, Loops, M -files & Functions, Mathematical Functions; Graphics and 3 -D Visualization: 
+Plotting of One -dimensional and Two -dimensional Signals, Plotting Symbolic Functions, 3 -D Plotting; 
+Mathematical Functions: Finding Roots of Polynomials, Computing Integration and Differentiation, 
+Solving Differential and Di fference Equations, Polynomial Curve Fitting, Recording, Storing, Reading, and 
+M-File; Functions: Recording and Playing Signals, Storing and Reading Data in Different Formats, Creating 
+M-Functions for Generating Different Elementary Signals, Creating M -Functions for Computing Different 
+Statistical Parameters; Analysis of Systems: Finding Convolution, Finding Laplace and Inverse Laplace 
+Transforms, Finding Z -and Inverse -Z Transforms, Zero -Pole Analysis; Analysis of Signals and Systems: 
+Sampling of Signals, F ourier Series of Signals, Finding Magnitude and Phase Spectrum of Signals, 
+Frequency Response of System; Convolution and Filtering, Creating GUI in MAT LAB, MATLAB Simulink 
+Modelling.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+21 
+ SEMESTER – IV 
+Subject Code: 
+EE2L001  Name: Network Theory  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Signals and Systems  
+Nodal and Loop Analysis: review, modified nodal analysis; Network Theorems: Substitution 
+theorem, Compensation theorem, Reciprocity theorem, Maximum power transfer theorem, 
+Millman’s theorem, Tellegen’s theorem; Transient analysis of RLC circuit and higher order 
+circuits; Frequency domain analysis of dynamic circuits using Fourier series, Fourier transforms 
+and Laplace transforms;  Network functions: poles and zeros, driving point and transfer 
+functions, restrictions on poles and zeros for network functions, time domain behaviour, 
+frequency response plots; Two -port networks and passive filters: z -parameters, y -parameters, 
+h-parameters, and ABCD parameters; reciprocity and symmetry in two -port ne tworks; 
+Introduction to network topology: Graph theory: Tree, Co -tree, fundamental cut -set, 
+fundamental loop analysis of network; State variable analysis of networks.  
+Text Books:  
+1. M. E. Valkenburg, “Network Analysis,” 3rd Ed., Pearson Prentice Hall, 2006.  
+2. F. F. Kuo, “Network Analysis and Synthesis,” 2nd Ed., Wiley India, 2007.  
+Reference Books:  
+1. W. H. Hyat, J. E. Kemmerly and S. M. Durbin, “Engineering Circuit Analysis,” 6th Edition, Tata McGraw Hill, 
+2007.  
+2. R. A. DeCarlo  and P -M Lin, “Linear Circuit Analysis,” 2nd Ed., Oxford University Press, 2007.  
+Subject Code: 
+EE2L003 Name: Electric Machines  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Electrical Technology  
+Production of rotating magnetic field with proof, Magneto motive force and flux distribution on 
+AC machines, Induced voltage and torque; Generator Construction, Winding configuration, 
+Internal Generated Voltage, Equivalent Circuit, Phasor Diagram, Power and Torque, Losses & 
+Efficiency, Regulation, Effect of Load Changes  on a Synchronous Generator operation, Parallel 
+operation of AC Generators, Frequency -power and Voltage -Reactive Power characteristics, 
+Parallel Operation; Equivalent Circuit, Steady state operation of synchronous motor, Power and 
+torque, Torque -Speed char acteristic, Losses & Efficiency, Effect of load and field current 
+changes, Different methods of starting; Induction Motor Construction, Basic Induction Motor 
+Concepts, Torque and Power in Induction Motor,  Torque -Speed Characteristics, Equivalent 
+Circuit o f an Induction Motor, Losses & Efficiency, Starting, Tests;  Construction and operation 
+of 3-phase transformer, Different configurations including Y -Y,  Y -Δ , Δ - Y and Δ - Δ, Phase Angle 
+Displacement and Phase Rotation (Different Vector Group), Zigzag Conne ction, Three -Phase to 
+Two -Phase conversion, Scott Connection, Autotransformer, Three winding Transformer.  
+Text Books:   
+1. S. J. Chapman “Electric Machinery Fundamental,” 4th Ed., MG Hill International Edition, 2006.  
+2. A. E.  Fitzgerald, C. Kingsley, Jr, and S. D. Umans, “Electric Machinery,” 6th Ed., Mc Graw Hill International 
+Edition, 2002.  
+3. P.S Bimbhra, “Generalized Theory of Electrical Machines,” Khana Publisher.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+22 
+ Subject Code:  
+EC2L006  Name: Digital Electronics and Microprocessor  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Introduction to Electronics  
+ 
+Introduction to Boolean algebra and Switching Function, Boolean minimization; Combinational 
+Logic Design using MSI circuits : Full Adder / Subtractor, BCD Adder, LAC Adder,  Decoder, 
+MUX/DEMUX three structure, Combinational logic design using ROM array, Applications of MSI 
+designs; Integrated Circuits: Difference between combinational and sequential circuits, Flip 
+Flops, Counters, Shift Registers and PLA; Analysis and Synthes is of Sequential Circuits: Basic 
+models of sequential M/C, Analysis of Asynchronous and Synchronous circuits, Synthesis of 
+completely and incompletely specified synchronous sequential M/Cs; Introduction to 
+Microprocessor: Overview of architecture of Intel 8085 Microprocessor (Register, Stack, 
+Interrupt) Instruction set and programming; Introduction to 16 Bit Microprocessor : Architecture 
+of 8086 CPU architecture, Internal operations, Machine Language instructions, Addressing 
+mode, Instruction Format, Instru ction executions, Addressing mode, Instruction Format, 
+Instruction execution timing, comparison of 8088 with 8086; Assembly language programming 
+and Instructions: Assembler instruction format, Data Transfer, Arithmetic, Branch, Flag 
+manipulation, Logical, Shift and Rotate. String Manipulation Stack Manipulation, all and return 
+instructions, REP Prefix, segment override prefix, and simple assembler directives such as real, 
+variable, DB, DW, DD, EQU, END, Assume, pointer (byte, word, double word, Near, Short,  and 
+Far).  
+Text Books:  
+1. S. Lee, “Digital Circuits and Logic Design” Prentice Hall India.  
+2. D. P. Leach, A. P. Malvino and G. Saha, “Digital Principles and Applications,” Tata McGraw Hill.  
+3. M. Morris Mano, “Digital Logic and Computer Design,” Prentice Hall.  
+Reference Books:  
+1. B. N Jain and R. P. Jain, Modern Digital Electronics, Tata McGraw Hill, 2006.  
+2. B. B. Bray, The Intel Microprocessors - 8086/8088, 80186, 80286, 80386, and 80486 -Architecture, 
+Programming and Interfacing, Prentice Hall, 2000.  
+3. D. V. Hall, Micr oprocessor and Interfacing programming & Hardware, TMH, 2001.  
+4. A. K. Ray and K. M. Bhurchandi, Advanced Microprocessors & Peripherals: Architecture, Programming & 
+Interfacing, TMH, 2008.  
+ 
+Subject Code:  
+EE2P001  Name: Electric Machines Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Electric Machines  
+ 
+Performance testing (regulation, efficiency) ,  characteristics (no -load and load characteristics) 
+and parameters (equivalent circuit parameters, sequence components) of 3 -phase alternator, 
+performance test and characteristics of 3 -phase synchronous motor, 3 -phase induction motor, 
+1-phase induction motor, performance, characteristics and parameters of 1 -phase and 3 -phase 
+transformers,  type of connections of transformers, synchronization of alternators.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+23 
+ Subject Code: 
+EC2P00 6 Name: Digital Electronics and Microprocessor 
+Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Digital Electronics Circuit  
+Truth tables of Logic gates; Half Adder and Full Adder; Multiplexer and De -multiplexer; 
+Comparators; Encoders; Schmitt Trigger; Multivibrators: Astable, Monostable and Bi -stable; Flip 
+Flops: S -R, J-K and D; Asynchronous and Synchronous Counters: Up -Dow n, Ripple counter, Ring 
+counter, Familiarization with 8/16 bit microprocessors/microcontroller kits and  interfaces;  
+Assembly and machine language  programming , interfacing basic I/O devices like  
+keypad, LED display, usage of timers and USART peripherals, mu lti-port  
+device access, stepper motor movement control, DC motor speed control.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+24 
+ SEMESTER – V 
+Subject Code: EE3L004  Name: Power Electronics  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Introduction to Electronics  
+ 
+Characteristics of Power Semiconductor Devices: Power diode, power transistors (BJT, 
+MOSFET,IGBT) and Thyristors (SCR, GTO, TRIAC), Gate drive circuit, Desired characteristics of 
+controllable switches, Snubber circuits, Cooling and heat sinks; Rectifiers: Analysis and design of 
+diode rectifier circuits and controlled rectifier circuits, Phase control, power factor, DC load 
+voltage, Polyphase rectifiers, Current and voltage waveforms analysis , Applications for DC motor 
+drives ; AC-AC Phase control: Static swi tch, integral cycle control, Application of AC -AC Phase 
+Control, Single -phase and polyphase control circuits , Applications for AC motor drives ; DC-DC 
+Converters: Chopper circuits using  GTOs , buck, boost and buck -boost chopper, Discontinuous 
+current analy sis, Non -ideal effects and dynamic performance , Applications for DC motor drives ; 
+Inverters: Split source, half -bridge inverters, full bridge inverters, Output control, polyphase 
+inverters, power factor, Current and voltage waveforms analysis, Applications  for AC motor 
+drives, Pulse Width Modulation (PWM): Types of PWM, Microprocessor control, Harmonics and 
+reactive power; Power Supply Applications: Switching power supplies, Electrical isolation, 
+Protection circuits, Power supply specifications, Power line disturbances, Power conditioners, 
+Uninterruptible power supplies.  
+Text Books:  
+1. Muhammad H. Rashid, “Power Electronics: Circuits, Device and Applications”, 2nd Ed. 1993, Prentice -Hall, 
+Inc. 
+2. Ned Mohan, T M Undeland, W P Robbins, “Power Electronics: Converters, Application and Design”, John 
+Wiley, 3rd Edition, 2003  
+3. Thedore Wildi , “Electrical Machines, Drives and Power System”, Prentice Hall International, Inc, 1997  
+ 
+Subject Code: EE3L007  Name: Electrical Power Transmission and 
+Distribution  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Electrical Technology, Network Theory  
+ 
+Power System Network: Basic structure of power system, Transmission voltages, Bundled 
+conductors, Choice of economics voltages, Transmission of Network in India; Line Parameters: 
+Line resistance, Inductance, Flux Linkages within the conductor producing the  flux, Flux linkage 
+outside the conductor producing the flux, Inductance of bundled conductor lines, capacitance 
+of two wire line, Capacitance of three phase line with equilateral spacing, Capacitance of three 
+phase line with Unsymmetrical spacing, Capacit ance of bundled conductor of lines, Double 
+circuit three phase lines; Performance of Transmission Lines: Representation of lines, Per unit 
+method, Short transmission line, Medium length transmission line, Long transmission line, 
+Evaluation of ABCD paramete rs, Equivalent and T circuits, Application of Matrix methods, Line 
+voltage regulation and compensation, Regulating transformer; Overhead Line Insulators: 
+Insulator materials, Types of insulators, voltage distribution over insulator string, Improvement Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+25 
+ of string efficiency, Insulator failure, testing of insulators; Mechanical Design of Overhead Lines: 
+General consideration, Line supports, Span conductor configuration, spacing and clearances, sag 
+and tension calculations, Conductor vibration; Corona: The phen omenon of corona, Corona loss, 
+Factors and conditions affecting coronal loss, Coronal in bundled conductor lines; Interference 
+between Power and Communication Lines: Electromagnetic Induction, Electro Static induction, 
+Reduction of interference; Undergroun d Cables: Classification of cables, Pressurized cables, 
+Effective conductor register, conductor inductive reactance, parameters of single core cables, 
+Capacitance of three core belted cable; Power System Transients : Circuit closing transient, 
+Sudden symme trical short circuit of alternator, Recovery transient due to removal of short 
+circuit, Travelling waves on transmission lines, Wave equations, Arcing grounds, Line design 
+based on direct strokes, Surge arrestors Insulation coordination; Extra High Voltage  
+Transmission: Need for EHV transmission, Use of bundled conductors, Radio noise from EHV 
+lines, Shunt compensation static -var systems, Series compensation, EHV systems in India; 
+Distribution: Comparison of various distribution systems, voltage drop in dis tribution, Kelvin’s 
+Law, General design consideration, Load estimation; Design of Transmission Lines: Choice of 
+voltage, Selection of conductor size, Choice of span, number of circuit, conductor, configuration; 
+Power System Earthing.  
+Text Books:  
+1. C. L. Wadh wa, Electrical Power Systems, New Age . 
+2. L. M. Faulkenberry and W. Coffer, Electrical Power Distribution and Transmission, PHI, 1996.  
+3. W. D. Stevenson, Elements of Power System analysis, McGraw Hill, 1982.    
+ 
+Subject Code: EE3L010  Name: Measurement and Instrumentation  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Introduction to Electronics  
+ 
+Measurement of Electrical Quantities Standards of Measurement & Errors, Voltmeter, 
+Ammeter, Multimeter Wattmeter and Energy meter; Measurement of Electrical Elements : 
+Measurement of low, medium and high resistances, insulation resistance measurement AC 
+bridges for inductance and capacitance measurement; Instrument Transformers Current and 
+Potential transformers, ratio and phase angle errors; Electronic Measurements: Electronic 
+voltmeter, multimeter, wattmeter & energy meter. Time, Frequency and phase angle 
+measurements using CRO; Spectrum & Wave analyzer.; Digital counter, frequency meter, 
+voltmeter, multimeter and storage oscilloscope; Instrumentation: Transducers, clas sification & 
+selection of transducers, strain gauges, inductive & capacitive transducers, piezoelectric and 
+Hall-effect transducers, thermisters, thermocouples, photo -diodes & photo -transistors, encoder 
+type digital transducers, Signal conditioning and tel emetry, basic concepts of smart sensors and 
+applications. Data Acquisition Systems.  
+Text Books:  
+1. A. K. Sawhney , “Electronics Measurements & Instrumentation,” Dhanpat Rai & Co., 2012.  
+2. A. D. Helfrick and W. D. Cooper , “Modern Electronic Instrumentation and Measurement Techniques,” PHI 
+Learning, 2011.  
+3. A. S. Morris , R. Langari and Butterworth -Heinemannm,, “Measurement and Instrumentation: Theory and 
+Appli cation,” 1st Ed., Butterworth -Heinemann Ltd, USA, 2011.   Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+26 
+ 4. H. M. Berlin  and F. C. Getz , “Principle of Electronics Instrumentation and Measurement,”  Prentice Hall 
+College Div., 1988.  
+5. E.W. Golding and F.C. Widdis, “Electrical Measurements and Measuring Instruments,” Reem Publications, 
+2011.  
+Subject Code: EE3L011  Name: Electromagnetic Field Theory  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Mathematics – 1, Mathematics – 2 
+ 
+Review of Electrostatic &  Electromagnetics, Maxwell’s equations, Boundary conditions in 
+Electromagnetic Field, Energy Theorems and Pointing Vector, Electromagnetic Wave Equation 
+in Dielectrics and Conductors, Solution of Wave equation in Cartesian Coordinates in 
+homogeneous Dissip ative and Non dissipative Regions, Waves at interface between conductors 
+and Dielectrics; Transmission Lines: Introduction, Line Transmission Theory, Variation of Voltage 
+and Current at distance x from the sending end, Primary Line Constant, Phase Velocity  and Line 
+wavelength, Characteristics impedance, The Propagation Coefficient, Computation of Primary 
+constants from values of short circuit and open circuit impedances, Phase and Group velocities, 
+Standing Waves, Lossless Lines at Radio Frequencies, Voltag e Standing Wave Ratio, Reflection 
+Coefficient, Transmission Lines as Circuit Elements, Smith Chart, Solution of problems using 
+Smith Chart, Stub Matching; Wave Guides: Introduction, Physical Mechanism of Wave Guide 
+Propagation, Phase and Group Velocities, Rectangular Wave Guides, Cut off in a Rectangular 
+Wave Guide, Wave Guide dimension, Wave Guide Impedance; Antennas: Introduction, Antenna 
+Equivalent Circuits, Coordinate System, Radiation Fields, Polarization, The Isotropic Radiator, 
+Power Gain of an Anten na, Effective Area of an Antenna, The Hertzian Dipole, Half Wave Dipole, 
+Vertical Antennas, Folded Elements, Non -Resonant Antennas, Driven Arrays, Parasitic Arrays.     
+Text Books:  
+1. D. J. Griffiths, ‘Introduction to Electrodynamics’, Addison Wesley, 1999.  
+2. D. K. Cheng, ‘Field and Wave Electromagnetics’, Addison Wesley, 1999.  
+3. W. H. Hayt,  ‘Engineering  Electromagnetic’,   Fifth  Edition.  TMH,  1999.  
+4. N. N. Rao,  ‘Elements  of Engineering  Electromagnetics’,  Pearson  Education,  Inc, 2004.  
+ 
+Subject Code: EE3P004  Name: Power Electronics  Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Power Electronics  
+Study the operation of controlled single phase bridge converter with different types of loads; 
+Study the operation of single phase AC voltage regulator with different types of loads; Study the 
+operation of a three -phase bridge rectifier; Study   the workin g of a three phase sinusoidal PWM 
+Inverter; Study the load voltage waveforms of first quadrant chopper and verify calculated 
+output voltage with measured value with R Load; Verification of the output waveforms of single 
+phase cyclo converter with R Load; C ontrolling of the speed of induction motor by Variable 
+Voltage and Variable Frequency (VVVF) method; Controlling of the speed of a DC Shunt Motor 
+by using single Quadrant Chopper; Controlling of the speed of a separately excited DC Motor by 
+three phase con trolled convertor; Controlling of the Speed of separately excited DC Motor by 
+single phase fully controlled convertor.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+27 
+ Subject Code: EE3P005  Name: Measurement and Instrumentation 
+Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Measurement and Instrumentation  
+Measurement of displacement by linearly variable differential transformer (LVDT); 
+Measurement of inductance by linearly variable inductive transformer (LVIT) and Maxwell 
+bridge; Measurement of resistance by linearly variable resistor trans ducer (LVRT) and Kelvin 
+bridge; Measurement of strain by strain gauge, Measurement of tension and compression by 
+load cell module; Measurement of deflection torque by torque transducer; Measurement of 
+angular position by angular potentiometer; Measurement of capacitance by Schering bridge; 
+Characteristics of vibrations of a mechanical system; Study of Piezo -electric and opto -electric 
+transducers; Study of flow measurement and level measurement with DP transmitter; Study of 
+thermistor and RTD characteristics ; Measurements with pressure transducers and Hall effect 
+transducers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+28 
+ SEMESTER – VI 
+Subject Code: 
+EE3L003  Name: Control Systems  L-T-P: 
+3-1-0 Cred its: 4  
+Prerequisite: Signals and Systems  
+Introduction to Control Systems: Definition, Examples of control systems, Open loop and closed -
+loop control systems, Review of Laplace and inverse Laplace transforms; System Modeling: 
+Signal flow graph, Block diagram, Transfer function, Poles and zeros, Bl ock diagram reduction 
+using signal flow graph and block diagram reduction techniques, Mechanical, electrical and 
+electromechanical systems, First and second order models; Transient Response and Steady State 
+Error Analysis: Definitions of transient response  parameters, analysis of second order system as 
+prototype, Routh -Hurwitz stability criterion, Classification of systems based on steady state 
+characteristics, Steady state error coefficients; Root Locus Method: Definition of root locus, 
+Properties of root locus, Sketching of root locus, Effect of open loop poles and zeros, Root locus 
+design concepts; Frequency Response Analysis: Bode diagram, Polar plot, Nichols plot, Nyquist 
+stability criterion: nonmathematical description of Nyquist criterion, interpretat ion of stability, 
+Relative stability – Gain and Phase margin, Closed loop frequency response – M and N contours, 
+Nichols chart; Compensation Techniques: Compensation techniques: lag, lead and lag -lead 
+compensation, PD, PI and PID controllers, Cascade compe nsation based on root locus method, 
+Introduction to feedback compensation; State Space Analysis: Concepts of state, state variables, 
+and state model, State models for linear continuous -time systems, Diagonalization, Solution of 
+state equations, Concepts of  Controllability and Observability. Nonlinear Systems: Common 
+physical nonlinearities, Phase plane method, Singular points, Stability of nonlinear systems, 
+Phase trajectories, Describing function method and stability analysis, Lyapunov’s stability 
+criterio n. 
+ 
+Text Books:  
+1. R. Stefani, B. Shahrian, C. Savant & G. Hostetter, “Design of Feedback Control Systems”, Oxford University 
+Press, 2002.  
+2. K. Ogata, “Modern Control Engineering”, Prentice Hall, 1997.  
+Reference Books:  
+1. B. C. Kuo & F. Golnaraghi, “Automatic Control Systems”, John Wiley, 2003.  
+2. M. Gopal, “Control Systems: Principles and Designs”, 2nd Edition, McGraw Hill, 2002.  
+3. R. C. Dorf & R. H. Bishop, “Modern Control Systems”, Prentice Hall, 2000.  
+Subject Code: 
+EC3L003  Name: Digital Signal Processing  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Signals & Systems  
+Introduction to DSP, Signals and Systems Characterization, FIR and IIR : Recursive and Non 
+Recursive, Z -Transform, Discrete Time Signals and Systems in Frequency Domain, Sampling, 
+Quantization, Discrete F ourier Transform, Fast Fourier Transform, Short -time Fourier Transform, 
+Digital Filter Structure, Analog Filter Design, Digital Filter Design.  
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+29 
+ 1. J. G. Proakis and D. G. Manolakis, “Digital Signal Processing: Principles, Algorithms and Applications, 4th 
+Ed., Pearson, 2012.  
+2. A. V. Oppenheim and R. W. Shafer, “Discrete -Time Signal Processing,” Prentice Hall, 2009.  
+Reference Books :  
+1. R. G. Lyons, “Understanding Digital Signal Processing,” 3rd Ed., Prentice Hall, 2010.  
+2. V. K. Ingle and J. G. Proakis, “Digital Signal Processing using MATLAB,” Thomson Learning, 2000.  
+ 
+Subject Code: 
+EE3L012  Name: Power System Operation and Control  L-T-P: 
+3-1-0 Credits: 4  
+Prerequisite: Electrical Power Transmission and Distribution  
+ 
+Fundamentals of Power System : Concepts of real and reactive powers, complex power, per -unit 
+representation of power system, Transmission capacity, load characteristics, real power balance 
+and its effect on system frequency, load frequency mechanism, react ive power, balance and its 
+effect, on -load tap changing transformer and regulating transformer; Power Circle diagram: 
+Receiving and sending end power circle diagram, universal power circle diagram, use of power 
+circle diagram; Load flow analysis: Static lo ad flow equation for a low -bus system, characteristics 
+of a load flow equation, generalization to n -bus system, Gauss -Seidel and Newton -Raphson 
+method of solution of load flow equations for 2 bus and 3 bus system; Load frequency control : 
+Automatic voltage , regulator, exciter modelling, generator modelling and static performances 
+of AVR loop, automatic load frequency, control of single area systems, speed governing system, 
+hydraulic valve actuator, turbine generator response, static performance of speed gov ernor, 
+closing the ALFC loop, Concept of control area static response of primary ALFC loop, dynamic 
+response of ALFC loop, ALFC for multicontrol area system, the two area system, modelling of the 
+tie-line block diagram representation of two are system, sta tic response of two area system, 
+dynamic response of two area system, dynamic response of two area system tie -line bias 
+control, tie -line bias control of two area system, static response, steady state instabilities; 
+Economic Operation of power system : Dis tribution of load between units within a plant, 
+transmission loss as function of plant generation, calculation of loss -coefficient, distribution of 
+loads between plants with special reference to steam and hydel plants, automatic load 
+dispatching; Power sys tem stability: Steady state stability, transient stability, swing equation, 
+equal area criteria for stability methods of improvement of transient stability.  
+Text Books:  
+1. John J. Grainger & W. D. Stevenson, Jr, “Power System Analysis”, Tata Mcgraw -Hill, 2003 Edition, 15th 
+Reprint, 2010.  
+2. Stephen J Chapman, “Electric Machinery and Power System Fundamentals”, Mc Graw Hill, International 
+Edition, 2002.  
+3. C.L Wadhwa, “Electrical  Power System”, New age  International (p) Limited Publisher, Reprint, 2008.  
+4. I. J. Nagrath and D. P. Kothari, Modern Power System Analysis, TMH, 2003.  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+30 
+ Subject Code: 
+EE3P00 3 Name: Control Systems Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Control Systems  
+Transfer function evaluation of a DC motor; Study of an AC servomotor; Study of digital control 
+systems; DC servo motor position control; Closed loop speed control of DC motor; Study of 
+temperature control systems; Feedback control of magnetic levitation system; PID stabilization 
+of an inverted cart -pendulum system; Study of coupled tank system; PID stabilization of a twin 
+rotor MIMO system; PID control of  two link flexible manipulator.  
+Subject Code: 
+EC3P002  Name: Digital Signal Processing  Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Digital Signal Processing  
+Fourier transform; Z -transform; Discrete Fourier transform (DFT); Fast Fourier transform (FFT); 
+Infinite impulse response (IIR), Finite impulse response (FIR) filter designs  and power spectrum 
+estimation.  
+Subject Code: 
+EE3P006  Name: Power Systems  Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Electrical Power Transmission and Distribution  Renewable Energy Systems 
+Laboratory  
+Performance of Transmission line (regulation and efficiency), parameter calculation (ABCD parameter), 
+characteristics with and without compensation (voltage profile, Ferranti effect), fault transient studies 
+(transient, sub -transient conditions, symmetrical and un -symmetrical faults), protection relay 
+characteristics (over current, distance, differential relays), insulator testing (string  efficiency), dielectric 
+strength of insulation, underground cable parameter calculation, earth insulation resistance test.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+31 
+ SEMESTER – VII 
+Subject Code: 
+EE4L005  Name: Digital Control System  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Control Systems  
+Introduction: Basic structure of digital control systems, Sampled -data control systems, DAC, 
+ADC, Sample -and-hold operation, Sampling and reconstruction: ZOH and frequency domain 
+considerations, Shanon’s  sampling theorem, Frequency spectrum; Transform Analysis of 
+Sampled -Data Systems: Linear difference equation, Pulse response, Z -transform: review of 
+properties and theorems, Inverse Z -transform, Relationship between z -plane and s -plane, 
+Transform pairs; D iscrete -Time System Modeling: Pulse transfer function, z -transfer function, 
+discrete -time system with cascaded elements separated and not -separated by a sampler, Pulse 
+transfer function of ZOH, Closed -loop systems, Characteristic equation, Sampled signal f low 
+graph, Mason’s gain formula; Stability Analysis: Introduction, Theorems, Stability tests: Bilinear 
+transformation method and Jury’s test, Performance specifications in time domain, Prototype 
+second order system and response analysis, Steady state error  analysis, Root loci; Frequency 
+Domain Analysis: Introduction, Polar Plot, Nyquist stability criterion, Bode plot, Gain and phase 
+margin, Closed -loop frequency response, z -domain equivalents of s -domain transfer functions; 
+State Space Analysis: State equat ions and state transition equations with S/H devices, 
+Relationship between state equations and transfer functions, Diagonalization, Computation of 
+state transition matrix, State diagram, Decomposition of transfer functions, Realization of digital 
+filters, Controllability and observability; Pole Placement Design and State Observers: 
+Introduction, State feedback, Pole assignment by state feedback, Ackerman’s formula, Deadbeat 
+control, State observers, Deadbeat observer, The Separation Principle, Reduce order observer; 
+Design of Digital Compensators: Frequency response based designs: Lead compensator, Lag 
+compensator, Lead -lag compensator, Design using root locus plots: Lead compensator, Lag 
+compensator, Lead -lag compensator, Digital PID controller design.  
+ 
+Text Books:  
+1. B. C. Kuo, “Digital Control Systems”, 2nd Edition, Oxford University Press, 2012.  
+2. K. Ogata, “Discrete -Time Control Systems”, 2nd Edition, Prentice Hall, 2009.  
+3. Charles L. Phillips , Troy Nagle , James Brickley, “Digital Control System Analysis and Design”, Prentice Hall, 
+2014.  
+4. M. Gopal, “Digital Control Engineering”, New Age International Publishers, 1996.  
+Subject Code: 
+EE4L006  Name: Renewable Energy System s L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite:  Power Electronics,  Power System Operation and Control  
+Brief idea on renewable and distributed sources, their usefulness and advantages; Wind Energy  
+Systems: Estimates of wind energy potential, wind maps, Instrumentation for wind velocity 
+measurements, Aerodynamic and mechanical aspects of wind machine design , Conversion to 
+electrical energy, Aspects of location of wind farms, Wind speed and energy, Speed and power 
+relations, Power extraction from wind, Tip speed ratio (TSR), Functional structure of wind energy 
+conversion systems, Pitch and speed control, Powe r-speed -TSR characteristics, Fixed speed and 
+variable speed wind turbine control, Power optimization, Electrical generators, Self -Excited and Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+32 
+ Doubly -Fed Induction Generators operation and control; Solar PV Systems: Present and new 
+technological development s in photovoltaic, estimation of solar irradiance, components of solar 
+energy systems, solar -thermal system applications to power generation, heating, Types of PV 
+systems, Modeling of PV cell, current -voltage and power -voltage characteristics, Effects of 
+temperature, Solar array simulator, Sun tracking, Peak power operations, PV system, MPPT 
+techniques, Effects of partial shading on the characteristic curves and associated MPPT 
+techniques; Hydel Power: Water power estimates, use of hydrographs, hydraulic tu rbine, 
+characteristics and part load performance, design of wheels, draft tubes and penstocks, plant 
+layouts; Brief idea of other sources viz., tidal, geothermal, gas -based, etc. Requirements of 
+hybrid/combined use of different renewable and distributed so urces, Need of energy storage; 
+Control of frequency and voltage of distributed generation in Stand -alone and Grid -connected 
+mode, use of energy storage and power electronics interfaces for the connection to grid and 
+loads, Design and optimization of size o f renewable sources and storages; Concept of microgrid, 
+operation of microgrid in grid -connected as well as isolated mode, power quality problems and 
+fault -ride through capability of microgrid; Integration of large capacity renewable sources to 
+grid: Opera tion and control, trends and challenges, future needs viz., advanced characteristics 
+of renewable energy generating units and plants, improved flexibility in conventional 
+generation, transmission technology.  
+ 
+Text Books:  
+1. Math J. Bollen, Fainan Hassan ‘Inte gration of Distributed Generation in the Power System’, IEEE 
+Press, 2011.  
+2. Loi Lei Lai and Tze Fun Chan ‘Distributed Generation: Induction and Permanent Magnet Generators’, 
+Wiley -IEEE Press, 2007.  
+3. Studies’ Craig Anderson and Rudolf I. Howard ‘Wind and Hydro power Integration: Concepts, 
+Considerations and Case, Nova Publisher, 2012.  
+4. Amanda E. Niemi and Cory M. Fincher ‘Hydropower from Small and Low -Head Hydro Technologies’, 
+Nova Publisher, 2011.  
+5. D. Yogi Goswami, Frank Kreith and Jan F. Kreider  ‘Principles of Solar Engineering’, Taylor & Francis 
+2000.  
+6. G. N. Tiwari ‘Solar Energy Technology’, Nova Science Publishers, 2005.  
+7. Math J. Bollen, Fainan Hassan ‘Integration of Distributed Generation in the Power System’, IEEE 
+Press, 2011.  
+8. S. Heier  and R. Waddington ‘Grid Intergration of Wind Energy Conversion Systems’, Wiley, 2006.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+33 
+ SEMESTER – VIII  
+Subject Code: 
+EE4P002  Name: Renewable Energy Systems  Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite: Renewable Energy Systems  
+Experiments on characteristics and control aspects of various renewable energy systems such 
+as wind energy conversion system, photovoltaic systems, wave energy systems and hybrid 
+systems etc. will be performed. Both isolated and grid -connected systems will be used in the  
+experiments  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+34 
+ Syllabus for Elective Courses 1 and 2  
+Subject Code: EC4L001  Name: Semiconductor Devices  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Introduction to Electronics  
+ 
+Semiconductor Fundamentals, Crystal Structure, Energy bands, Intrinsic and extrinsic 
+semiconductors, Fermi Level, Carrier concentrations at thermal equilibrium, Carrier transport 
+phenomenon: drift and diffusion, Scattering, Excess carriers in semiconductor s: generation, 
+recombination and injection of carriers, transient and steady state response, Basic governing 
+equations in semiconductors; Physical description of p -n junctions, Transport equations, 
+current -voltage characteristics, deviations from simple th eory, small -signal ac analysis, metal -
+semiconductor junctions, hetero junctions; BJT fundamentals, operation regions, BJT equivalent 
+circuits and modelling frequency response of transistors, pnpn diodes, SCR; MOS structure, flat -
+band threshold voltages, MO S static characteristics, small signal parameters and equivalent 
+circuit, charge sheet model, strong, moderate and weak inversion, short channel effects, scaling 
+laws of MOS transistors, LDD MOSFET, NMOS and CMOS IC technology, CMOS latch -up 
+phenomenon; op tical absorption in a semiconductors, photovoltaic effect, solar cell, 
+photoconductors, PIN photodiode, avalanche photodiode, LED, semiconductor lasers; Negative 
+conductance in semiconductors, transit time devices, IMPATT, Gunn device, BiCMOS devices.  
+Text s/References : 
+1. Ben G Streetman, S K Banarjee, Solid State Electronic Devices, 6th edition, PHI India, New Delhi, 2007.  
+2. R S Muller, T.I.Kamins, Device Electronics for Integrated Circuits, 3rd edition, Wiley -India, New Delhi, 2012.  
+3. S M Sze, K K  Ng, Physics of Semiconductor Devices, 3rd edition, John Wiley, New Jersey, 2007.  
+4. P Bhattacharya, Semiconductor Optoelectronics, 2nd edition, Pearson, New Jersey, 1997.  
+ 
+Subject Code: EC6L005  Name: Statistical Signal Processing  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Digital Signal Processing  
+ 
+Review of Probability and Stochastic Process; Estimation Theory:  Minimum -variance unbiased 
+estimator (MVUE), Cramer -Rao Lower bound, Best Linear Unbiased Estimator, Maximum 
+likelihood Estimator, General Bayesian Estimator , Detection Theory: Neyman Pearson Theorem, 
+Receiver Operating Characteristics, Matched Filters, Composite Hypothesis Testing; 
+Nonparametric Spectral Estimation: Estimation of power spectrum of stationary random signal 
+using periodogram -various me thods, Joint signal analysis and estimation of cross power 
+spectrum; Linear Signal Model: Synthesis of coloring filter and Analysis of whitening filter, 
+Rational power spectra (AR, MA, ARMA), Relationship between filter parameters and 
+autocorrelation seque nces, Lattice -Ladder filter realization; Parametric Spectral Estimation: 
+Order selection criterion of AR model , Minimum -variance, Maximum entropy and Maximum 
+likelihood spectrum estimation Harmonic models and frequency estimation techniques 
+Harmonic Decom position, MUSIC algorithm, ESPRIT algorithm; Linear Optimum Filter: Optimum 
+FIR Filter, PCA of optimum linear estimator and its frequency domain interpretation, Forward 
+and Backward Linear prediction and optimum reflection coefficients Optimum causal and n on-
+causal IIR Filters, De -convolution and Signal restoration Algorithms and Structure of Optimum Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+35 
+ Linear Filters Levinson Recursion for optimum estimate, Order -recursive algorithms for 
+optimum FIR filters and its lattice structures.  
+Texts/References : 
+1. S. M.  Kay, Fundamentals of Statistical Signal Processing, Vol I: EstimationTheory, Vol II: Detection Theory, 
+Prentice Hall, 1998.  
+2. Harry L. Van Trees, Detection, Estimation, and Modulation Theory, Part I, Wiley -Inter science, 2001  
+3. Monson H. Hayes, Statistical D igital Signal Processing and Modeling, John Wiley, 1996.  
+ 
+Subject Code: EE6L009  Name: High Voltage Engineering  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: None  
+Break Down in Solid Dielectrics: Intrinsic breakdown, electromechanical breakdown, thermal 
+breakdown, breakdown of solid dielectrics in practice, Breakdown in composite dielectrics, solid 
+dielectrics used in practice; Break Down in Gaseous and Liquid Diele ctrics: Gases as insulating 
+media, collision process, Ionization process, Townsend’s criteria of breakdown in gases, 
+Paschen’s law; Generation of High Voltages and Currents: Generation of High Direct Current 
+Voltages, Generation of High alternating voltage s, Generation of Impulse Voltages, Generation 
+of Impulse currents, Tripping and control of impulse generators; Measurement of High Voltages 
+and Currents: Measurement of High Direct Current voltages, Measurement of High Voltages 
+alternating and impulse, Mea surement of High Currents -direct, alternating and Impulse, 
+Oscilloscope for impulse voltage and current measurements.  
+Texts/References:  
+1. E. Kuffel, and W. S. Zaengl, J. Kuffel, “High Voltage Engineering: Fundamentals,” CBS Publishers, 2005.  
+2. R. Arora and W. Mosch, ‘High Voltage and Electrical Insulation Engineering’ John Wiley & Sons, 2011.  
+3. W. Peek, and F. W. Peek “Dielectric Phenomena in High Voltage Engineering,: Rough Draft Printing, 2008.  
+4. L. L. Alston, “High Voltage Technology,” Oxford University Press, 2 011.  
+ 
+Subject Code: EE6L011  Name: Energy Storage Systems  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Introduction to Electronics  
+ 
+Energy Storage Need of energy storage; Different modes of Energy Storage. Potential energy: Pumped 
+hydro storage; KE and Compressed gas system: Flywheel storage, compressed air energy storage; 
+Electrical and magnetic energy storage: Capacitors, electromagn ets; Chemical Energy storage: Thermo -
+chemical, photo -chemical, bio -chemical, electro -chemical, fossil fuels and synthetic fuels. Hydrogen for 
+energy storage. Solar Ponds for energy storage. Electrochemical Energy Storage Systems Batteries: 
+Primary, Seconda ry, Lithium, Solid -state and molten solvent batteries; Lead Lead acid batteries; Nickel 
+Cadmium Batteries; Advanced Batteries. Role of carbon nano -tubes in electrodes. Magnetic and Electric 
+Energy Storage Systems Superconducting Magnet Energy Storage(SMES)  systems; Capacitor and 
+Batteries: Comparison and application; Super capacitor: Electrochemical Double Layer Capacitor (EDLC), 
+principle of working, structure, performance and application, role of activated carbon and carbon nano -
+tube.  
+ 
+Texts/References:  
+1. R. Huggins, Robert ‘Energy Storage’, Springer, 2010.  
+2. Ter-Gazarian ‘Energy Storage for Power Systems’, Institution of Engineering and Technology, 1994 . 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+36 
+ Subject Code: EC4L002  Name: Opto -Electronics  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Introduction to Electronics  
+ 
+Review of basic principles from physics, optical wave representation, interferometers, optical 
+resonators, planar mirror resonators, modes of resonators, spherical mirror resonators, 
+confinement, gaussian  beams, photons and matter, energy levels; Photon optics: interactions of 
+photons and atoms, population inversion, spontaneous and stimulated emission; Lasers: gain 
+mechanism, rate equations, pumping, gain and gain coefficient,  laser oscillation theory,  laser 
+types, power and spectral distribution , polarization, mode selection, light emitting diodes, 
+fabry -perot lasers, erbium -doped fiber amplifiers (edfa); Photo detectors: properties of photo 
+detectors, photoconductors, photodiodes. Avalanche photodiode s, phototransistors and noise 
+mechanisms, signal -to-noise analysis, and modulation of optical signals, formats, and receivers; 
+Noise and detection:  types of noise and distortion which affects optical signals, methods of 
+reducing effects of noise and disto rtion, optimal detection methods and devices; Overview of 
+opto -electronic networks: fddi, fiber channel, sonnet.  
+Text Books:  
+1. Saleh and Teich,  “Fundamentals of Photonics,”  Wiley Interscience, 2nd edition, 2007.    
+2. J. Senior, “Optical Fiber Communications.  Principle and Practice,” Prentice Hall.  
+Reference Books:    
+1. Wilson and Hawkes  “Optoelectronics: An Introduction,  Prentice Hall; 3rd Ed., 1997.  
+2. Journal Readings (IET - Optoelectronics)  
+ 
+Subject Code: EC6L002  Name: Image and Video Processing  L-T-P: 3-1-0 Credits: 4 
+Prerequisite: Digital Signal Processing  
+ 
+Introduction to digital image processing, intensity transformation, spatial filtering, frequency 
+domain filtering, point and line detection, edge detection, Hough Transform, image restoration, 
+color  processing, thresholding, image segmentation, affine transformation, image transforms, 
+multi -resolution image analysis, shape and texture representation and description, introduction 
+to object recognition, image compression, JPEG, introduction to digital video, video compression 
+standards, motion estimation.  
+Texts/References:  
+1. Gonzalez and Woods, “Digital Image processing,” 3rd Ed., Pearson and Prentice Hall, 2009.  
+2. W.K. Pratt, “Digital image processing,” 4th Ed., Wiley India, 2007.  
+3. K.R. Castleman, “Digital  image processing,” 2nd Ed., Pearson, 2012.  
+4. A.K. Jain, “Fundamentals of digital image processing,” Prentice Hall, 1989.  
+ 
+Subject Code: EE6L002  Name: Electric Power Quality  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Electrical Technology, Power Electronics  
+ 
+Brief review of various power quality (PQ) problems: Source of generation and their impacts on 
+equipment and systems, need of monitoring, international power quality standards, Passive 
+Filters: Control of harmonics using passive L -C filters, tuned and de -tuned filters, their design 
+criterion and implementation, Active Power Filters: Power factor improvement, reactive power Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+37 
+ compensation, mitigation of harmonics and voltage sag compensation using active power filters. 
+Study of various active power filters vi z., static shunt compensators (STATCOM), dynamic 
+voltage restorer (DVR), unified power quality conditioner (UPQC), etc. Suitability of type of active 
+filters for mitigation of various power quality problems, Design of active power filters, various 
+topologi es and control schemes.  
+Texts/References:  
+1. A. Ghosh and Gerard Ledwich ‘Power Quality Enhancement Using Custom Power Devices (Power 
+Electronics and Power Systems)’, Springer; 2002.  
+2. S. Santoso, H. W. Beaty, R. C. Dugan, and M. F. McGranaghan, ‘Electrical Power Systems Quality’, McGraw -
+Hill Professional, 2002.  
+3. M. H. Bollen ‘Understanding Power Quality Problems: Voltage Sags and Interruptions’, Wiley -IEEE Press, 
+1999.  
+4. N. G. Hingorani and L. Gyugy ‘Understanding FACTS: Concepts and Technology of Flexible AC T ransmission 
+Systems’, Wiley -IEEE Press, 1999.  
+ 
+ 
+Subject Code: EE6L010  Name: Advanced Power Electronics  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Power Electronics  
+Advanced Switch Mode Power Converters: Cuk   dc-dc converter, Full bridge dc -dc converter, 
+Half-bridge converter  Forward converter, Flyback converter, Push -pull converter, Resonant 
+Converters: Introduction, classification of resonant converters, series and parallel resonant 
+inverters, load resonan t converters, resonant switch converters, zero voltage and zero current 
+switching resonant converters, Multilevel Inverters: Concept, types of multilevel inverters, 
+diode -clamped, flying -capacitor, and cascaded multilevel inverters, applications, compariso n; 
+FACTS: Principles of shunt and series compensation, compensators: TCR, TCS, SVC, TSSC, TCSC, 
+UFC, comparison, Matrix converters: Basic principles and analysis, applications.  
+Texts/References:  
+1. M. H. Rashid, “Power Electronics: Circuits, Device and Applications”, 2nd Ed. 1993, Prentice -Hall, Inc.  
+2. N. Mohan, T. M. Undeland, and W. P. Robbins, “Power Electronics: Converters, Application and Design”, 
+3rd. Ed., John Wiley, 2003  
+3. A. M. Trzynadlowski, “Introduction to Modern Power Electronics” John Wiley, 19 98. 
+ 
+Subject Code: EE6L007  Name: Industrial Instrumentation  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Measurement and Electronic Instruments  
+ 
+Introduction to Instrumentation system; Static and Dynamic characteristics of Instrument; 
+Pressure measurement: Elastic transducers (Bourdon Gauge, Bellow and Diaphragm Gauge); 
+Temperature measurement: Thermocouple, Resistance Temperature Detector (RTD), 
+Thermistor, Radiation Pyrometer; Flow and pressure measurements: Differential Pressure flow 
+meter, Variable area flow meter, Variable reluctance transducer, Turbine flow meter, Ultrasonic 
+flow meter (Both transit time and Doppler Shift), Electromagnetic flo w meter and Mass flow 
+meter; Measurement of level: Capacitance based and Float based method; Measurement of 
+strain: Strain Gauge; Position sensor: Linear Variable Differential Transformer (LVDT), Synchro; 
+Load and torque cell; pH probe and viscosity measur ement; Piezoelectric sensors; Ultrasonic Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+38 
+ sensors; Pollution measurement; Smart sensors; Actuators and Control valves; Signal 
+conditioning; Pneumatic and Hydraulic Instrumentation system.  
+Texts/References:  
+1. D. Patranabis , ‘Principles of Industrial Instrumentation’, Tata Mcgraw -Hill, 2001.  
+2. W. C. Dunn, ‘Fundamentals of Industrial Instrumentation and Process Control’, Mcgraw -Hill, 2005.  
+3. N. A. Anderson, ‘Instrumentation for process measurement and control’, CRC press, 1998.  
+4. E. Doebelin ‘Measurement Systems: Application and Design ’, Mcgraw -Hill, 2003.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+39 
+ Syllabus for Elective Courses 3 -6 
+Subject Code: 
+EC6L015  Name: Biomedical Signal Processing  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Digital Signal Processing  
+ 
+Nature of biomedical signals, Artifacts removal, Event detection, Wave shape analysis, 
+Frequency‐domain characterization, Biomedical system modeling,  Non -stationary signal 
+analysis,  Detection of region of interests in biomedical images, Shape and textur e analysis,  
+oriented pattern analysis, Image reconstruction of projections, Pattern classification and 
+diagnostic decision, presentation of different case studies.  
+Texts/References:  
+1. R. M. Rangayyan, “Biomedical signal analysis,” Wiley, 2011.  
+2. R. M. Rangayyan, “Biomedical image analysis,” CRC press, 2005.  
+3. D. C. Reddy, Biomedical signal processing: principles and techniques, Tata McGraw Hill, 2012.  
+4. Tompkins, Biomedical digital signal processing, Prentice Hall India, 1995.  
+Subject Code: 
+EC6L019  Name: F iber Optic Sensors  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: None  
+ 
+Classification of sensors, modulation and demodulation mechanism of sensors, interferometric 
+sensors, optical fibres Doppler systems, polarization modulation sensors, fibre optic sensors for 
+the measurement of temperature, pressure, displacement, turbidity, pollution, etc., multiplexed 
+sensor systems, other sensor applications.  
+Text/References Books:  
+1. R.  Kasyap, ‘Fiber Bragg Gratings’, Academic Press, 2009.  
+2. B. Glisic, D. Inaudi, ‘Fibre Optic Methods for Structural Health Monitoring’, Wiley, 2008.  
+ 
+Subject Code: 
+EC4L008  Name: Embedded Systems  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Digital Electronics and Microprocessor  
+ 
+Embedded Processing Systems: Introduction, Components of Embedded Systems – Embedded 
+Processor, Microcontrollers (PIC and ARM architectures), DSP and ASICs and SoC, Memory 
+Devices: ROM and RAM family, Interfacing Memory, Simple I/O programming, Interrupts and 
+their servicing, Timing Devices and Interfacing, Analog I/O Techniques, Introduction to HDL, 
+Design of Embedded Processors and Components, Design Case Studies, Embedded 
+Communication: Parallel Bus Standards, Serial Bus Standards, Networking Standards a nd 
+Wireless Standards, Real Time Operating Systems (RTOS): Introduction, Memory Management, 
+I/O Management and Device Drivers, Scheduling, Introduction to Software Design: Embedded 
+System Life Cycle, Multicore and Heterogeneous Embedded Systems.  
+Text Books : Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+40 
+ 1. W. Wolf, Computers as Components: Principles of Embedded Computing System Design, 2nd Ed.,  
+Burlington, 2008.  
+2. T Noergaard, Embedded Systems Architecture: A comprehensive Guide for Engineers and Prgrammers, 
+Elsevier,Oxford,  2005.  
+Reference Books:  
+1. Steve Heath, Embedded System Design, 2nd Edition, Newnes, Burlington, 2003.  
+ 
+Subject Code: 
+EC6L027  Name: Pattern Recognition  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Digital signal processing, Probability and stochastic processes  
+ 
+Introduction to pattern recognition; Bayesian decision theory : Classifiers, Discriminant 
+functions, Decision surface, Normal density and discriminant functions, Parameter estimation 
+methods: Maximum -Likelihood estimation, Gaussian mixture models, Expectat ion-
+maximization method, Bayesian estimation, Hidden Markov models: Discrete hidden Markov 
+models, Continuous density hidden Markov models; Dimensionality reduction methods: Fisher 
+discriminant analysis, Principal component analysis; Non -parametric techniq ues for density 
+estimation: Parzen -window method, K -Nearest Neighbour method, Linear discriminant function 
+based classifiers: Perceptron , Support vector machines, Non -metric methods for pattern 
+classification: Non -numeric data or nominal data  
+Decision tr ees, Unsupervised learning and clustering: Criterion functions for clustering 
+Algorithms for clustering: K -means, Hierarchical and other methods, Cluster validation.  
+Texts/References:  
+1. R.O.Duda, P.E.Hart and D.G.Stork , “Pattern Classification,” John Wiley, 2001.  
+2. S.Theodoridis and K.Koutroumbas, “Pattern Recognition,” 4th Ed., Academic Press, 2009.  
+3. C.M.Bishop, “Pattern Recognition and Machine Learning,” Springer, 2006.  
+ 
+ 
+Subject Code: 
+EC6L024  Name: Array Signal Processing  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisites: Digital Signal Processing, Probability and Statistics processes  
+ 
+Introduction: Array Processing and Applications, Arrays and Spatial Filters: Uniform Linear Array, 
+Array Steering, Array Performance, Linear Aperture, Synthesis of Linear Arrays and Apertures: 
+Spectral Weighting, Array Polynomials, Minimum Beamwidth, Null Steering, Spatially Non -
+uniform Linear Arrays, Broadband Arrays, Planar Arrays and Apertures: Rectangular Arrays, 
+Circular Arrays, Circular Apertures, Non -planar Arrays, Characterization of Space -time 
+Processes: Snapshot Models, Space -time Random Process, Optimum Waveform Estimation: 
+Optimum Beamformers, MVDR and MPDR Beamformers, LCMV and LCMP Beamformers, 
+Eigenspace Beamformer, Beamspace Beamformer, Broadband Beamformer, Adaptive 
+Beamformers: Parametric Estimation, RLS, LMS, Gradient Algorithms, Parameter  Estimation and 
+Direction of Arrival Estimation: Cramer -Rao Bounds, Maximum Likelihood Estimation, Capon 
+methods, Subspace methods - MUSIC, Minimum -Norm and ESPRIT techniques.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+41 
+ Text Books:  
+1. Harry L. Van Trees, Optimum Array Processing (Part IV of Detection, Estimation, and Modulation Theory), 
+Wiley -Interscience, 2002.  
+Reference Books:  
+1. D. E. Dugeon and D. H. Johnson, “Array Signal Processing: Concepts and Techniques,”  Prentice Hall, 
+1993.  
+2. P. Stoica  and R. L. Moses, “Spectral Analysis of Signals,” Prentice Hall, 2005.   
+ 
+Subject Code: 
+EE6L003  Name: Power System Dynamics & Control  L-T-P: 
+4-0-0 Credits: 4  
+Prerequisites: Power System Operation and Control  
+Basic Ideas of Modeling  of Synchronous machines, excitation systems and Governors - Steady 
+state, Dynamic and Transient stability. State space formulation of single and multi -machine 
+models with control equipments. Damping effects of FACTS devices.  
+Sub-synchronous Resonance: Mod al Analysis, Torsional Oscillations, induction generator effect, 
+Torsional interaction effect, countermeasure.  
+Application of numerical techniques to multi -machine dynamic and transient stability studies. 
+Generation/Frequency Characteristics and load frequ ency characteristics, tie -line bias control, 
+Automatic Generation Control, Alert and emergency system operation control. Control of reactive 
+power flow: AVR, OLTC Transformers, FACTS, Static var compensators, system loss 
+minimization, Emergency control, Re liability and security, Protective relaying.  
+ 
+Texts/References:  
+1. Yao-Nan Yu ‘Electric Power System Dynamics’, Academic Press, 1983.  
+2. Olle I. Elgerd ‘Electric Energy Systems Theory: An Introduction’, Tata McGraw Hill, 2001.  
+3. K. R. Padiyar  ‘Power System Dynamics: Stability and Control’, B P B Publications, 2002.  
+ 
+ 
+ 
+ 
+Subject Code: 
+EE6L004  Name: Power System Protection  L-T-P: 
+4-0-0 Credits: 4 
+Prerequisites: Electrical Power Transmission and Distribution  
+ 
+Generation, propagation and interaction of electrical transients in electric power systems. 
+Analysis of single and multiple transients including three phase and switching transients. 
+Mathematical modeling of transmission lines and other power equipment in the presence of 
+surge phenomena. Evolution in Protection systems, Characteristic of protective relays, Basic 
+elements of Digital protection, signal conditioning and conversion, Fourier analysis and least 
+square based techniques, Differential equation based  techniques for transmission line 
+applications, Fundamentals of travelling wave based techniques, Digital differential protection 
+of transformers and transmission systems. Intelligent protection using ANN and Fuzzy systems, 
+Application of advanced DSP in n umerical relaying.  
+Texts/References Books:  
+1. A. T. Johns and S. Kalman ‘Digital Protection for Power Systems’, IET, 1997.  
+2. A. G. Phadke and J. Thorp ‘Computer Relaying for Power Systems’, Wiley, 2009.  
+3. A. Greenwood ‘Electrical Transient in Power Systems’, McGr aw Hill, 1990.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+42 
+ Subject Code: 
+EE6L017  Name: Distribution System Engineering  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisites: Electrical Power Transmission and Distribution  
+Introduction to power distribution system, Distribution transformer, Substation Bus Schemes, 
+Substation Location, The Rating of a Distribution Substation , Substation Service Area with n 
+Primary Feeders , Comparison of the Four -and Six -Feeder Patterns, Der ivation of the K Constant, 
+Substation Application Curves, Interpretation of the Percent Voltage Drop Formula, Advanced 
+SCADA Concepts and  Substation Automation, substation grounding, Radial and Loop Type 
+Primary Feeder, Primary Network, Primary -Feeder Vol tage Levels and Loading, Radial Feeders 
+with Uniformly and Nonuniformly Distributed Load, A,B,C,D General Circuit Constants to Radial 
+Feeders, Design of Radial Primary and Secondary Distribution Systems, Secondary Voltage Levels 
+and Networks, Economic Desi gn, Three -Phase Balanced Primary Lines, Non three -Phase Primary 
+Lines, Four -Wire Multigrounded Common Neutral Distribution System, Distribution Costs, 
+Economic Analysis of Equipment Losses, Capacitors in Distribution Systems and Optimum 
+allocation, Dynamic  Behavior of Distribution Systems, Quality of Service and Voltage Standards, 
+Voltage Control, Feeder Voltage Regulators, Line -Drop Compensation, Distribution Capacitor 
+Automation, Voltage Fluctuations.  
+Text Books:   
+1. J. J. Burke  “Power Distribution Engineering: Fundamentals and Applications”,  CRC Press, 1994.  
+2. T. Gönen  “Electric power distribution system engineering”,  McGraw -Hill, 1986  
+Reference Book:   
+1. Pabla, “ Electric Power Distribution”, McGraw -Hill Education, 2005  
+ 
+ 
+Subject Code: 
+EC6L003  Name: Information Theory and Coding  L-T-P: 
+3-0-0 Credits: 3 
+Prerequisites: Digital Communication / Communication Systems  
+Introduction: entropy and mutual information theory: joint entropy, conditional entropy, 
+relationship between entropy and mutual information, chain rules for entropy, relative entropy, 
+mutual information, jensen’s inequality fano’s inequality; An introduction to codes: coding: kraft 
+inequality, optimal codes, bounds on optimal code length, kraft inequality for uniquely 
+decodable codes,  shannon and huffman codes, shannon, fano, elias codes, block codes, linear 
+block codes, cyclic codes; Efficient encoding, information sources; average code word length; 
+huffman encoding;  noiseless coding: the no iseless coding theorem; Channel capacity: discrete 
+memoryless channels and capacity, examples of channel capacity, symmetric channels, 
+properties of channel capacity, channel coding theorem; Theory and practice of error -control 
+coding: trellis diagram and the viterbi algorithm, convolution coding in mobile communications  
+and modern graph -based codes (turbo -codes and ldpc codes), the main coding theory problem.  
+Text Books:  
+1. T. M. Cover and J. A. Thomas, “Elements of Information Theory,” 2nd Ed., Wiley -Interscience,  2006.  ISBN -
+13: 978 -0471241959.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+43 
+ 2. S. Lin and D. J. Costello, “Error Control Coding,” 2nd  Ed., Pearson Prentice Hall, 2004, ISBN -13: 978 -             
+0130426727.  
+Reference Books:   
+1. R. G. Gallager, “Information Theory and Reliable Communication, ” Wiley, 1968, ISBN -13: 978 -0471290483.  
+2. I Csiszar and J. Korner, “Information Theory: Coding Theorems for Discrete Memoryless Systems,” 
+Akademiai Kiado, December 1981, ISBN -13: 978 -9630574402.  
+3. T. S. Han, “Information -Spectrum Methods in Information Theory, ” Springer, 2002, ISBN -13: 978 -
+3642078125.  
+4. Andre Neubauer, Jurgen Freedenberg, Volker Kuhn, “Coding theory Algorithm, Architectures and 
+Applications”,Willey India Editions, ISBN: 978 -81-265-3432 -6, 2007.  
+5. Ranjan Bose, “Information theory, Coding and Cryptog raphy,” TMH publication, ISBN: 978 -0-07-0669017, 
+2008.  
+6. Roman , Steven ,  “Introduction to Coding and Information Theory”, Springer, ISBN 978 -0-387-94704 -4 
+7. Journal readings.  
+ 
+Subject Code: 
+EC6L016  Name: Computational Electromagnetics  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Electromagnetic Field Theory  
+ 
+Applications of electromagnetics in the 21st century. Numerical Methods: ODE solvers, Euler, 
+Runge -Kutta. Review of Basic Electromagnetics: Electrostatics, Magnetostatics , Wave Equations. 
+Numerical Techniques: Method of Moements, Finite Difference Method, Finite Element 
+method, Charge Simulation Method, Monte carlo method. Time Varying Electromagnetic Fiels: 
+Eddy currents & skin depth, introduction to wavelets, families of  wavelets. Microwaves, Optics, 
+Micromagnetics, Bio -electromagnetics. Tutorials and demonstration on PC, programming 
+assignments.  
+Text/ Reference Books : 
+1. M.N.O. Sadiku, “Numerical Techniques in Electromagnetic,” 2nd Ed., CRC Press.  
+2. E. Weber, “Electromagnetic  Fields,” Dover, 1951.  
+3. P. P. Silvester, and R. L. Ferrari, “Finite Elements for Electrical Engineers,” Cambridge University Press 1996.  
+4. J. Kiusalaas, “Numerical Methods in Engineering with Python,” Cambridge.  
+ 
+Subject Code: 
+EC6L023  Name: Adaptive Signal Processing  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Digital Signal Processing  
+ 
+Introduction to adaptive filters, optimal estimation, linear estimation: normal equation, 
+orthogonality principle, linear models. Constrained linear estimation: minimum variance 
+unbiased estimation, steepest descent algorithms, stochastic gradient algorith ms: LMS 
+algorithm, normalized LMS algorithm, RLS algorithm. Steady -state performance of adaptive 
+filters, transient performance of adaptive filters, block adaptive filters, the least -squares 
+criterion, recursive least -squares, lattice filters  
+Texts/Reference Books:  
+1. A. H. Sayed, “Fundamentals of Adaptive Filtering,” Wiley, 2003.  
+2. S. Haykin, “Adaptive filter theory,” Fourth edition, Pearson, 2012.  
+3. Widrow and Stearns, “Adaptive Signal Processing,” Pearson, 2007.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+44 
+ Subject Code: 
+EE6L005  Name: HVDC and Flexible AC Transmission Systems  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Power System Operation and Control, Power Electronics  
+ 
+Description and application of HVDC transmission, DC System components and their functions, 
+Converter configuration, Principles of DC Link control and Converter control characteristics, 
+Firing angle, Current and extinction angle control, DC link power cont rol, Reactive power control 
+and VAR sources, MTDC system types; Power flow in AC Systems, Definition of FACTS, 
+Constraints of maximum transmission line loading. Benefits of FACTS, Uncompensated line, 
+shunt and series compensation, Phase angle control. SVC and STATCOM, Operation and Control 
+of TSC, TRC and STATCOM, Compensator Control; TSSC, SSSC, Static voltage and phase angle 
+regulators TCVR and TCPAR. Operation and Control applications, Unified Power Flow Controller,  
+Circuit Arrangement, Basic Principle of P and Q Control, independent real and reactive power 
+flow control, Applications; Introduction to interline power flow controller, Compensation 
+Devices, STS, SSC, SVR, Backup energy supply devices, Special purpose FA CTS controllers, 
+Thyristor controlled voltage limiter and voltage regulator, Thyristor controlled braking resistor 
+and current limiter.  
+Text Books:  
+1. N.G Hingorani, L. Gyugyi, “Understanding FACTS: Concepts and Technology of Flexible AC Transmission 
+System s”, IEEE Press Book, Standard Publishers and Distributors, Delhi, 2001.  
+2. Padiyar K.R., “HVDC Power Transmission System”, Wiely Eastern PVT Limited.  
+Reference Books:  
+1. E.W. Kimbark “Direct Current transmission”, Vol.1, John Wielly, New York.  
+2. T,J.E  Miller, “Reactive Power Control in Electric Systems”, John Wiley & Sons.  
+ 
+Subject Code: 
+EE6L014  Name: Smart Grid Technology  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Power System Operation and Control, Power Electronics  
+ 
+Review of basic elements of electrical power systems, desirable traits of a modern grid, principal 
+characteristics of the smart grid, key technology areas; Smart grid communication: Two way 
+digital communication paradigm, network architectures, IP -based sy stems, Power line 
+communications, advanced metering infrastructure; Renewable Generation: Renewable 
+Resources: Wind and Solar, Microgrid Architecture, Tackling Intermittency, Distributed Storage 
+and Reserves; Wide Area Measurement: Sensor Networks, Phasor Measurement Units, 
+Communications Infrastructure, Fault Detection and Self -Healing Systems, Application and 
+Challenges; Security and Privacy: Cyber Security Challenges in Smart Grid, Defense Mechanism, 
+Privacy Challenges.  
+Texts/Reference Books:  
+1. J. Momoh  ‘Smart Grid: Fundamentals of Design and Analysis’ Wiley -IEEE Press, 2012.  
+2. P.  F. Schewe ‘The Grid: A Journey through the Heart of our Electrified World’ Joseph Henry Press, 2006.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+45 
+ Subject Code: 
+EC6L004  Name: Advanced Digital Signal Processing  L-T-P: 
+3-0-0 Credits: 3 
+Prerequisite: Digital Signal Processing  
+ 
+Multi -rate digital signal processing: decimation, interpolation, sampling rate conversion, digital 
+filter banks, two -channel quadrature mirror filter bank, M -channel QMF bank, Linear prediction 
+and optimum linear filters: forward and backward linear predic tion, normal equations, AR lattice 
+and ARMA lattice -ladder filters, Wiener filters, Power spectrum estimation: nonparametric and 
+parametric methods, filter bank methods, Eigen analysis algorithms, Time -frequency analysis: 
+uncertainty principle, Short -time Fourier transform, Wigner distribution, Kernel design, Gabor 
+wavelets, multi -resolution analysis.  
+Texts/Reference Books:  
+1. Proakis and Manolakis, “Digital Signal Processing: Principles, Algorithms and Applications,” 4th Ed., 
+Pearson, 2012.  
+2. Cohen , “Time -frequency Analysis,” Prentice -Hall, 1995.  
+3. Vaseghi, “Advanced digital signal processing,” 4th Ed., Wiley, 2008.  
+4. Vaidyanathan, “Multi -rate systems and filter banks,” Pearson, 1992.  
+ 
+Subject Code: 
+EC6L017  Name: Semiconductor Device Modelling  L-T-P: 
+3-0-0 Credits: 3  
+Pre-requisite:  Semiconductor Devices  
+ 
+Review of semiconductor physics: Quantum foundation, Carrier scattering, high field effects; P - 
+N junction diode modeling: Static model, Large signal model and SPICE models; BJT modeling: 
+Ebers - Moll, Sta tic, large -signal, small - signal models. Gummel - Poon model. Temperature and 
+area effects. Power BJT model, SPICE models, Limitations of GP model; Advanced Bipolar 
+models: VBIC, HICUM and MEXTARM;MOS Transistors: LEVEL 1, LEVEL 2 ,LEVEL 3, BSIM, 
+HISIMVEKV  Models, Threshold voltage modeling, Punchthrough, Carrier velocity modeling, 
+Short channel effects, Channel -length modulation, Barrier lowering, Hot carrier effects, Mobility 
+modeling, Model parameters; Analytical and Numerical modeling of BJT and MOS tra nsistors; 
+Types of models for Heterojunction Bipolar Transistors, Compact modeling concepts, Modeling 
+of HBTs, HBT noise models, Measurement and parameter extraction.  
+Text Books:  
+1. G. Massobrio, P. Antognetti, Semiconductor Device Modeling with SPICE, 2nd edition, McGraw -Hill, New York,1993.  
+2. M. Rudolph, Introduction to Modeling HBTs, Artech House, Boston, 2006.  
+Reference Books:  
+1. S. M. Sze, K. K. Ng, Physics of Semiconductor Devices, 3rd edition, John Wiley, New Jersey, 2007.  
+2. G. A. Armstrong, C. K. Maiti, Te chnology Computer Aided Design for Si, SiGe and GaAs Integrated Circuits ,IET Series, 
+London, 2007.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+46 
+ Subject Code: 
+EE6L015  Name: Advanced High Voltage Engineering  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: None  
+High Voltage Testing of Electrical Apparatus: Testing of Insulators and bushings, Testing of Isolators and 
+circuit breakers, Testing of cables, Testing of Transformers, Testing of Surge Arresters, Radio Interference 
+measurements;  
+Partial discharges and th eir measurement: Introduction, Partial discharge degradation mechanisms, 
+Partial discharge measurements.  
+Non Thermal Atmospheric Pressure Plasma: Non -thermal plasma stabilization at high pressure, 
+Townsend and spark breakdown mechanisms, corona discharge, pulse corona discharge, dielectric 
+barrier discharge, spark discharge, atmospheric pressure glows, microplasmas.  
+Text/ Reference Books : 
+1. D. K. K. Feser, and Y. N. Rao “High -Voltage Test Techniques” Newnes, 2001.  
+2. D. A. Lloyd “Electrostatic Precipitator Handb ook,” Institute of Physics Publishing, 1988.  
+3. M. Haddad and D. Warne “Advances in High Voltage Engineering” IET, 2009.  
+4. J. Ernest Harry ‘Introduction to Plasma Technology’ Wiley -vch Verlag Gmbh, 2010.  
+5. J. Reece Roth, J. Reece Roth, and Roth J. Reece ‘Industri al Plasma Engineering – Volume -2’ Taylor & Francis Group, 
+2001.  
+6. B. M. Penetrante, ‘Non -Thermal Plasma Techniques for Pollution Control: Part B: Electron Beam and Electrical 
+Discharge Processing’ Springer, 2012.  
+ 
+ 
+ 
+ 
+Subject Code: 
+EE4L004  Name: Advanced Electric Machines  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite: Electric Machines, Electromagnetic Field Theory  
+ 
+Single Phase Induction Motors And Special Machines: Constructional details of single phase 
+induction motor  – Double revolving field theory and operation  – Equivalent circuit  – No load 
+and blocked rotor test  – Performance analysis – Starting methods of single -phase induction 
+motors - Shaded pole induction motor  - Linear reluctance motor  - Repulsion motor  - Hysteresis 
+motor - AC series motor; Synchronous Reluctance Motors: Constructional features – Types – 
+Axial and radial air gap motors – Operating pr inciple – Reluctance – Phasor diagram - 
+Characteristics – Vernier motor; Stepping Motors: Constructional features – Principle of 
+operation – Variable reluctance motor – Hybrid motor – Single and multi -stack configurations – 
+Theory of torque predictions – Linear and non -linear analysis – Characteristics – Drive circuits.  
+Switched Reluctance Motors: Constructional features – Principle of operation – Torque 
+prediction – Power controllers – Non -linear analysis – Microprocessor based control - 
+Characteristics – Computer control; Permanent magnet brushless d.c. Motors: Principle of 
+operation – Types – Magnetic circuit analysis – EMF and torque equations – Power controllers – 
+Motor characteristics and control; Permanent Magnet Synchronous Motors: Principle of 
+opera tion – EMF and torque equations – Reactance – Phasor diagram – Power controllers - 
+Converter - Volt-ampere requirements – Torque speed characteristics - Microprocessor based 
+control.   
+Text Book:  
+1. T.J.E. Miller, “Brushless Permanent Magnet and Reluctance Motor Drives”, Clarendon Press, Oxford, 1989.  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+47 
+ 2. P.P. Aearnley, “Stepping Motors – A Guide to Motor Theory and Practice”, Peter Perengrinus, London, 
+1982.  
+3. D.P. Kothari and I.J. Nagrath, ‘Electric Machines’, Tata McGraw Hill Publishing Company Ltd, 2002.  
+4. P.S. Bhimbhra, ‘Electrical Machinery’, Khanna Publishers, 2003.  
+ 
+Reference Book:   
+1. T. Kenjo, “Stepping Motors and Their Microprocessor Controls”, Clarendon Press London, 1984.  
+2. T. Kenjo and S. Nagamori, “Permanent Magnet and Brushless DC Motors”, Clarendon Press , London, 1988.  
+3. A.E. Fitzgerald, Charles Kingsley, Stephen.D.Umans, ‘Electric Machinery’, Tata McGraw Hill publishing 
+Company Ltd, 2003.  
+4. J.B. Gupta, ‘Theory and Performance of Electrical Machines’, S.K.Kataria and Sons, 2002.  
+5. K. Murugesh Kumar, ‘Electric M achines’, Vikas Publishing House Pvt Ltd, 2002.  
+ 
+Subject Code: 
+EE4L003  Name: Electric Drives  L-T-P: 
+3-0-0 Credits:  3 
+Prerequisites: Power Electronics, Electric Machines  
+Introduction : Parts of electric drives, choice of drive, relative features of AC and DC drives, 
+Dynamics and control of electric drives:  Fundamental equations, multi -quadrant convention, 
+equivalent drive parameters, load torque components, steady state stability, modes of 
+operation, closed -loop control, PLL control, position control, selection of motor power rating, 
+DC motor drives:  Performance of dc motors, starting, braking, transient analysis, speed control, 
+methods of armature voltage control, modes of speed control, Ward -Leonard drives, single 
+phase and three phase controlled rect ifier-fed dc drives, dual converter control, chopper 
+controlled dc drives, rectifier control of dc series motor, performance analysis, Induction motor 
+drives: Analysis and performance, starting, braking, speed control, stator voltage control, 
+variable volt age variable frequency control, rotor resistance control, slip power recovery, 
+Synchronous motor drive: Analysis and performance, characteristics of synchronous motor, 
+power factor rating, operation from fixed frequency supply, variable speed drives, Tract ion 
+drives: Traction load and motors, dc and ac traction drives.  
+Text Books:  
+1. M. H. Rashid, “Power Electronics: Circuits, Device and Applications”, 2nd Ed. 1993, Prentice -Hall, Inc.  
+2. N. Mohan, T. M. Undeland,  and W. PRobbins, “Power Electronics: Converters,  Application and Design”, 3rd 
+Ed., John Wiley, 2003.  
+3. G. K. Dubey, “Fundamentals of Electrical Drives”, Narosa Publishing House, 1995.  
+ 
+Subject Code: 
+EE6L018  Name: Power System Planning  L-T-P: 
+3-0-0 Credits: 3  
+Prerequisite:  Power System Operation and Control  
+ 
+Basic Planning Issues: Introduction, Power system elements and structure, Static and dynamic 
+planning, Transmission and distribution planning; Ling -term and short -term planning, Basic 
+issues in transmission planning; Optimization Techniques: Introduction; Problem definition and 
+modelling, Mathematical and heuristic solution algorithms; Economic Principles: Introduction, 
+Definition of various terms, Cash flow concept: time value of money and economic terms, 
+Economic analysis: present worth method, annual cos t method, Rate of return method, 
+Example; Load Forecasting: Introduction, Load characteristics and driving parameters, Spatial Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+48 
+ load forecasting, Long -term forecasting methods: trend analysis, econometric modelling, end -
+use analysis, combined analysis, Exam ples - load forecasting of small and large scale utility; 
+Single and Multi -bus Generation Expansion Planning: Problem description and mathematical 
+formulation, Objective functions and constraints, Solution approaches; Substation Expansion 
+Planning: Problem  definition and formulation, Mathematical view: objection function and 
+constraints, required data; Solution methodologies, Case studies; Network Expansion Planning: 
+Problem definition and formulation: objective function and constraints, Solution methodolog ies: 
+enumeration and heuristic methods, Case study; Reactive Power Planning:  Introduction, 
+Voltage profile and stability, Performance control parameters, Static and dynamic reactive 
+power sources, Static reactive resource allocation and sizing, Dynamic re active resource 
+allocation and sizing, Solution methods, Case study; Planning with System Uncertainties: 
+Introduction, Deregulation, Uncertainties in regulated and deregulated environment, Practical 
+planning issues in deregulated environment, Dealing with uncertainties in planning: expected 
+cost criterion, min -max regret criterion, Laplace criterion, and VNM criterion.  
+ 
+Text  Books:  
+1. H. Seifi and M. S. Sepasian, “Electric Power System Planning: Issues, Algorithms and Solutions”, 2011, Springer.  
+2. R. L. Sullivan , “Power System Planning”, 1987, McGraw Hill.  
+ 
+Reference Books:  
+1. J. Schlabbach and K -H. Rofalsk, “Power System Engineering: Planning, Design, and Operation of Power Systems 
+and Equipment”, 2008, Wiley.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+49 
+ Dual Degree: B. Tech. (Electrical Engineering) + M. Tech. (Power Electronics 
+and Drives) (7th Semester – 10th Semester Courses)  
+SEMESTER – VII  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Switched Mode Power Conversion  EE6L051  3-1-0 4 4  
+Digital Control Systems  EE4L005  3-0-0 3 3 31 
+Renewable Energy Systems  EE4L006  3-0-0 3 3 31-32 
+Theory and Analysis of Electric Drives  EE6L052  3-1-0 4 4  
+Switched Mode Power Conversion Laboratory  EE6P052  0-0-3 2 3  
+Industrial Training  Defence  EE4T001  0-0-0 2 2  
+Project - Part 1  EE4D001  0-0-6 4 0  
+  Total  22 17  
+SEMESTER – VIII  
+Advanced Power Electronic Converters  EE6L053  3-0-0 3 3  
+Advanced Machine Drives  EE6L055  3-1-0 4 4  
+Grid Integration of Renewable Energy 
+Systems  EE6L013  3-0-0 3 3  
+Power Converter and Electric Drives 
+Laboratory  EE6P053  0-0-3 2 3  
+Renewable Energy Systems Laboratory  EE4P002  0-0-3 2 3 33 
+Project - Part 2  EE4D002  0-0-9 6 0  
+  Total  20 16  
+SEMESTER – IX 
+Elective I    3-0-0 3 3  
+Elective II   3-0-0/3-1-0 3/4 3/4  
+Power Electronics System Simulation 
+Laboratory  EE6P051  0-0-3 2 3 50 
+Thesis Part I  EE6D051  0-0-0 12 0  
+  Total  20/21  9/10   
+SEMESTER – X 
+Elective III   3-0-0/3-1-0 3/4 3/4  
+Thesis Part II  EE6D053  0-0-0 13 0  
+  Total  16/17  3/4  
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+50 
+ List of Elective Courses  
+Subject Name  Subject Code  L-T-P Credit  Contact 
+Hour  Syllabus 
+Page No.  
+Elective – 1, 2  
+Semiconductor Devices  EC4L001  3-0-0 3 3 34 
+Dynamics of Linear Systems  EE6L056  3-0-0 3 3 56 
+Statistical Signal Processing  EC6L005  3-0-0 3 3 34-35 
+High Voltage Engineering  EE6L009  3-0-0 3 3 35 
+Energy Storage Systems  EE6L011  3-0-0 3 3 35 
+Opto -Electronics  EC4L002  3-0-0 3 3 36 
+Image and Video Processing  EC6L002  3-1-0 4 4 36 
+Electric Power Quality  EE6L002  3-0-0 3 3 36-37 
+Industrial Instrumentation  EE6L007  3-0-0 3 3 37-38 
+Artificial Intelligence  CS6L019  3-0-0 3 3 56 
+Optical Communication  EC6L012  3-0-0 3 3 57 
+Elective – 3, 4, 5, 6   
+Biomedical Signal Processing  EC6L015  3-0-0 3 3 39 
+Fiber Optic Sensors  EC6L019  3-0-0 3 3 39 
+Embedded Systems  EC4L008  3-0-0 3 3 39-40 
+Pattern Recognition  EC6L027  3-0-0 3 3 40 
+Array Signal Processing  EC6L024  3-0-0 3 3 40-41 
+Power System Dynamics & Control  EE6L003  4-0-0 4 4 41 
+Power System Protection  EE6L004  4-0-0 4 4 41 
+Distribution System Engineering  EE6L017  3-0-0 3 3 42 
+Computational Electromagnetics  EC6L016  3-0-0 3 3 43 
+Adaptive Signal Processing  EC6L023  3-0-0 3 3 43 
+HVDC and Flexible AC Transmission Systems  EE6L005  3-0-0 3 3 44 
+Computer Vision  EC6L029  3-0-0 3 3 57 
+Smart Grid Technology  EE6L014  3-0-0 3 3 44 
+Semiconductor Device Modelling  EC6L017  3-0-0 3 3 45 
+Advanced High Voltage Engg.  EE6L015  3-0-0 3 3 46 
+Power System Planning  EE6L018  3-0-0 3 3 47-48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+51 
+ SEMESTER – VII 
+Subject Code: 
+EE6L0 51 Name: Switched Mode Power Conversion  L-T-P: 3-1-0 Credits: 4  
+Linear voltage regulators, basic structures, advantages and disadvantages; Steady state 
+analysis of basic DC -DC converters (Buck, boost, buck -boost) Steady state analysis of derived 
+DC-DC (Cuk, SEPIC, Quadratic) converters. Steady state analysis of transformer isolated DC -DC 
+converters (Forward, Flyback, push -pull, bridge) Switch ed mode voltage regulator 
+specifications, block diagram, Modeling approach, assumptions and approximations. Dynamic 
+models and transfer functions of hard switched converters in CCM and DCM modes. Regulator 
+design example Current Programmed converters, Bloc k diagram, stabilization, modeling and 
+transfer functions. Single phase PFC circuits. Resonant Converters, Soft switching principles: 
+ZVS, ZCS, ZVZCS Resonant Load Converters: Variable frequency series and parallel resonant 
+converters (Resonant Switch Conv erters (quasi resonant): Half and full wave operations and 
+control. Resonant Transition Phase Modulated Converters, Reduction of VA ratings, fixed 
+frequency operation and advantageous usages of device and transformer non -idealities; Soft 
+Switched Bidirecti onal DC -DC Converters (Dual Active Bridge): Soft -switching under buck mode 
+and boost mode operations with or without active clamp PWM Converters with Auxiliary 
+Switch, ZVT /ZCT PWM Converters: Isolated and Non -isolated topologies with auxiliary switch; 
+Auxiliary Resonant Commutated Pole Inverters: ZVT and ZCT concepts used for Inverters; 
+Resonant DC Link Inverters: Forced oscillation of DC Link voltage by auxiliary switch.  
+Texts/References:  
+1. M H. Rashed , ‘Power Electronics Circuits, Devices and Applications’, Prentice Hall of India Pvt. Ltd, 2004.  
+2. R. W. Erickson and D. Maksimovic, ‘Fundamental of Power Electronics’, Springer International Edition, 2005.  
+3. N. Mohan, T. M. Underland, and W. Robbins, ‘Power Electronics Converters, Applications and Design’, John Wiley 
+and Sons. Inc., 2004.  
+ 
+Subject Code: 
+EE6L0 52 Name: Theory and Analysis  of Electric 
+Drives  L-T-P: 3-1-0 Credits: 4  
+Introduction and review of electrical machines; Principles of electromagnetic energy 
+conversion: General expression of stored magnetic energy, co -energy and force/torque, 
+example using single and doubly excited system. Calculation of air gap mmf and per ph ase 
+machine inductance using physical machine data; Voltage and torque equation of dc machine, 
+three phase symmetrical induction machine and salient pole synchronous machines in phase 
+variable form. Introduction to reference frame theory: static and rotati ng reference frames, 
+transformation relationships, examples using static symmetrical three phase passive circuits. 
+Generalized theory of rotating electrical machine and Krons primitive machine; Modelling of 
+D.C and 3 - phase symmetrical induction and synchr onous machines; voltage and torque 
+equations, derivation of steady state phasor relationship from dynamic model. Analysis and 
+dynamic modelling of two phase asymmetrical induction machine and single phase induction 
+machine.  
+ 
+Introduction to Electric Drives – Need of electric drives, basic parts, present scenario of electric 
+drives Mechanical Dynamics in an Electric Drive - Speed -torque characteristics of some 
+common motors and loads, multi quadrant operation, equivalent values  of drive parameters, 
+stability of an electric drive General Block Diagram of a Closed Loop Drive System – Speed, Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+52 
+ torque and position control Selection of Motor Power Rating – Thermal model of motor for 
+heating and cooling, classes of motor duty, determina tion of motor rating Chopper Controlled 
+DC Motor Drive – Different types of choppers and their quadrants of operations, PWM 
+strategies for different choppers, chopper control of series DC motor. Power Semiconductor 
+Switches Used in an Electric Drive System  - Basic structure, V -I characteristics and switching 
+characteristics of thyristors and IGBTs, gate drive and protection circuits of thyristors and 
+IGBTs. DC Motor Drive Using Phase Controlled Rectifier – DC motor drive using half controlled 
+and fully cont rolled single phase and three phase rectifiers, continuous and discontinuous 
+conduction modes of operation, 4 -quadrant operation using dual converter. Closed Loop 
+Control of DC Motor – Operating limits of a separately excited DC motor drive, dynamic model 
+of DC motor, dynamic model of chopper and phase controlled rectifier, design of single loop 
+speed controller, cascaded controller design for DC motor using inner current control loop and 
+outer speed control loop, field weakening operation.  
+Texts/References : 
+1. P. C. Krause, O. Wasynczuk and S. D. Sudhoff,‘ Analysis of Electric Machinery and Drive Systems’, John Wiley & 
+Sons, New York, 2006.  
+2. Chee -Mun Ong, ‘Dynamic Simulation of Electric Machinery using MATLAB’, Prentice Hall PTR, 1998.  
+3. P. S. Bimbhra ‘Generaliz ed theory of electrical machines’, Khanna Publishers Delhi, 1995.  
+4. G. K. Dubey, ‘Fundamentals of Electrical Drives’, CRC Press, 2002.  
+ 
+ 
+Subject Code: 
+EE6P052 Name: Switched Mode Power Conversion 
+Laboratory  L-T-P: 0-0-3 Credits: 2  
+Constant current Load, 15V Voltage regulator with current limit, Constant current -constant 
+voltage regulator, Non -isolated Boost converter, Non -isolated Fly -back converter, Non -isolated 
+Forward converter, Current mode control of Boost Converter, Current m ode control of Forward 
+Converter, soft -switched converter . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+53 
+ SEMESTER – VIII  
+Subject Code: 
+EE6L0 53 Name: Advanced Power Electronic 
+Converters  L-T-P: 3-0-0 Credits: 3  
+High -Power Semiconductor Devices, Diodes, SCR, GTO, GCT, IGBT. Operation of series 
+connected devices: main cause of unbalance, voltage equalizations for GCTs, IGBTs. Multi -
+pulse Diode and SCR Rectifiers, Definition of THD and PF, THD and PF of six -pulse di ode 
+rectifier, 12, 18, 24 - pulse series -type and separate -type diode rectifiers, Six -pulse and 12 -pulse 
+SCR rectifier, Effect of line and leakage inductances, and Phase -Shifting Transformers, 
+Harmonic current cancellation. Cascaded HBridge Multilevel Inver ters, Introduction, Sinusoidal 
+PWM, Space Vector PWM in two level voltage source inverters; H -bridge inverter, multilevel 
+inverter topologies: CHB Inverter with equal dc voltages, H -bridges with unequal dc voltages, 
+Carrier based PWM schemes: Phase shifted  multi -carrier modulation, Level shifted multi -
+carrier modulation, over -modulation of cascaded H -bridges, Control of dc bus voltages of the 
+H-bridges. Diode -Clamped Multilevel Inverters, Three level inverter: Converter configuration, 
+switching states, Carrier based PWM: Naturally sampled PD PWM, APOD and POD PWM; Space 
+vector modulation: Optimized space vector sequences, modulator for selecting switching 
+states, decomposition method, hexagonal co -ordinate system, optimal space vector position 
+within a switching period; Neutral point voltage control, over modulation of three -level 
+inverter, High -level diode clamped inverters. Hybrid Multilevel Inverters: Hybridization of 
+Fundamental frequency switching (FFS) and PWM switching inverters: inverter topologies with 
+isolation transformer, PWM switching strategy; Transformerless hybrid  inverter: Binary H -
+bridge multilevel converter, Control of dc bus voltages of different modules. Multilevel Flying 
+Capacitor Inverters: Inverter configuration, Modulation scheme. PWM Current Source 
+Rectifiers and Inverters: Trapezoidal modulation, Selecti ve harmonic Elimination, Space vector 
+modulation, Parallel current source inverters, Single -bridge current source rectifier, Dual -
+bridge current source rectifier, Power factor control, Active Damping C ontrol, Wide Band -gap 
+devices and Performance and Desig n of Converters using Wide Band -gap devices.  
+ 
+Texts/References:  
+1. L.  Umanand ‘Power Electronics – Essentials and Applications’, Wiley India Pvt. Ltd., 
+2009.  
+2. B. Wu, ‘High Power Converter and AC Drives’, IEEE Press Wiley Interscience, 2006.  
+3. M. P. Kazmierkows ki, R. Krishnan and F. Blaabjerg ‘Control in Power Electronics - 
+Selected Problems’, Academic Press Series in Engineering, 2002.  
+ 
+Subject Code: 
+EE6L013  Name: Grid Integration of Renewable 
+Energy Systems  L-T-P: 3-0-0 Credits: 3  
+Control of frequency and voltage of distributed generation in Stand -alone and Grid -connected 
+mode, use of energy storage and power electronics interfaces for the connection to grid and 
+loads. Design and optimization of size of renewable sources and storage s.  
+Concept of microgrid, operation of microgrid in grid -connected as well as isolated mode, power 
+quality problems and fault -ride through capability of microgrid.  
+Integration of large capacity renewable sources to grid: Operation and control, present tre nds, 
+challenges, future technological needs viz., advanced characteristics of renewable energy Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+54 
+ generating units and plants, improved flexibility in conventional generation, transmission 
+technology.  
+ 
+Texts/References:  
+1. Math J. Bollen, Fainan Hassan ‘Integration of Distributed Generation in the Power System ’, IEEE Press, 2011.  
+2. S. Heier and R. Waddington ‘Grid Intergration of Wind Energy Conversion Systems ’, Wiley, 2006.  
+3. Loi Lei Lai and Tze Fun Chan ‘Distributed Generation: Induction and Permanent Magn et Generators’ , Wiley -IEEE 
+Press, 2007.  
+ 
+ 
+Subject Code: 
+EE6L055  Name: Advanced Machine 
+Drives  L-T-P: 
+3-1-0 Credits: 4  
+Induction Motor Drives: Field oriented control - Direct and indirect field orientation, stator -flux, 
+rotor -flux and airgap -flux orientation. Flux -torque decoupling, Extended speed operation and 
+Field weakening. Direct torque control of Induction Motor, Flux and speed observers, Induction 
+generators, Doubly Fed Induction Machines (DFIM): Different modes of oper ation, Equivalent 
+circuit, Active and reactive power control, Vector control of DFIM. Identification of Induction 
+Motor Parameters: Linear Model, Nonlinear least square identification, Parameter error 
+indices. Speed sensor -less control: Signal injection an d model based techniques, zero/low 
+speed operation. Synchronous Motor Drives, Vector controlled Cycloconverter fed Drive, 
+Parameter estimation and sensor -less control. Introduction to PM Synchronous Motor, Various 
+rotor configurations of PMSM, Sinusoidal B ack-Emf PMSM: Field oriented control, Direct 
+torque control. Interior PM Machine: Maximum torque per ampere control, Field weakening 
+Introduction to Brushless DC Motor: EMF and Torque of BLDC machine, Voltage Source Inverter 
+fed BLDC: Half -wave and Full -wave operation, Speed control, Torque ripple minimization, 
+Sensor -less operation.  
+ 
+Texts/References:  
+1. P. C. Krause, O. Wasynczuk and S. D. Sudhoff,‘ Analysis of Electric Machinery and Drive Systems’, John Wiley & 
+Sons, New York, 2006.  
+2. B. K. Bose , ‘Modern Power Electronics and AC Drives ’, Pearson Education , 2005 .  
+3. W. Leonhard,  ‘Control of Electric Drives ’, Springer International Edition , 2001 . 
+ 
+ 
+ 
+Subject Code: 
+EE6P053 Name: Power Converter and 
+Electric Drives Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+ 
+Active Power Factor control, Parameterization of Industrial Drive, Converter Drive with 
+Universal motors, Self -Commutated Four quadrant converter, Slip control of asynchronous 
+motor, Frequency converter with three phase asynchronous motor, Electronically commutat ed 
+Synchronous machine, Smooth starting of Three phase machine,   PLC controlled Drive system  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+55 
+ SEMESTER – IX 
+Subject Code: 
+EE6P051 Name: Power Electronics 
+System Simulation 
+Laboratory  L-T-P: 0-0-3 Credits: 2  
+Introduction to schematic design, Design of power PCB, Design of sandwiched Bus -bar, 
+Introduction to DSP/FPGA programming for power application, PWM generation exercise, 
+Simulation of DC -DC converter, Grid connected Inverter, Loss estimation techniques, Po wer 
+Quality improvement studies, Input Filter design and noise reduction.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+56 
+ Syllabus for Elective Courses  
+Subject Code: 
+EE6L056  Name: Dynamics of Linear Systems  L-T-P: 3 -0-
+0 Credits: 3  
+Prerequisite:  None  
+ 
+Background material on matrix algebra, differential equations, linear operators, Representation 
+of dynamic systems, equilibrium points and linearization of nonlinear systems, Jordan form, 
+functions of matrices, norms of vectors and matrices, Stability of s ystems, Lyapunov matrix 
+equation, Natural and forced response of state equations, state space descriptions, canonical 
+realizations, Observability and controllability, minimal realization, canonical decomposition, 
+controllability and observability indices i n MIMO systems, Linear state variable feedback, 
+stabilization, pole -placement, methods for obtaining feedback gains in MIMO systems, 
+Asymptotic observers, compensator design, and separation principle, reduced order observers, 
+Considerations for system gain s, Discretization of CT systems.  
+ 
+Texts/References:  
+1. Chi-Tsong Chen, Linear Systems Theory and Design, 2nd edition, HBJ 1984.  
+2. K. Ogata, Modern Control Engineering, Prentice Hall, 2006.  
+ 
+Subject Code: 
+CS6L019 Name: Artificial Intelligence  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Introduction to Programing and Data Structures  
+ 
+Introduction to Artificial Intelligence: What is AI? Related Fields, Agents and Environments  
+Problem Solving: problem representation paradigms, state space, satisfiability vs optimality  
+Search  Techniques:   Principles of search, uninformed search, informed search, constraint 
+satisfaction problems, adversarial search and games  
+Knowledge Representation: Knowledge  representation :  First order and non -monotonic 
+logic;  rule based , frame and semantic network approaches, mixed representations, Theorem 
+Proving, knowledge bases and inference  
+Uncertainty  Treatment :  formal and empirical approaches including Bayesian theory, belief 
+functions, certainty factors  
+Fuzzy Logic: Tagaki -Sugeno  Fuzzy Logic;, Mamdani Fuzzy Logic, Fuzzy Bayesian Decision Method, 
+Membership Functions, Fuzzification and Defuzzification, Fuzzy system Modeling  
+Planning and making decisions  
+Reinforcement learning: MDPs, Q -learning algorithm, applications, Bandits and Monte carlo tree 
+search  
+Text books:  
+1. Russell and Norvig. Artifiicial  Intelligence: A Modern Approach. Pearson Education (Low Priced Edition), 
+2004.  
+2. Nils J. Nilsson, Artificial Intelligence - A New Synthesis, Morgan Kaufmann Publishers, 2000  
+3. George F.Luger  and William A. Stubblefield, AI:  Strcutures  and Strategies for Complex problem solving, 
+2nd edition, Benjamin Cummins Publishers  
+Refere nce books:  
+1. Mark Stefik, Introduction to Knowledge Systems, Morgan Kaufmann.  
+2. E. Rich and K.Knight, Artificial Intelligence, Tata McGraw Hill  
+3. E. Charniack  and D. Mcdermott, Artificial Intelligence, Addison Wesley  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+57 
+ Subject Code: 
+EC6L012  Name: Optical Communication  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Analog and Digital Communications  
+ Introduction: Fundamentals of Light, Optics, Optical Fibers, Dielectric waveguides: Attenuation, wavelength 
+dispersion, modes, fields; Light sources and optical amplifiers: Semiconductor laser, light -emitting diode, rate 
+equations, output power, modulation  response, chirp, noise, optical amplifiers. Detectors: PIN -diode, avalanche 
+diode, responsivity, bandwidth, noise. Transmission systems: Optical links, direct detection systems, soliton 
+systems, coherent systems, multilevel signaling, dispersion limitatio ns, attenuation limitations, additive noise, 
+signal dependent noise, bit error rate, optical networks, Wavelength -Division -Multiplexing and challenges, Optical 
+System Design and Performance analysis using software tools, Current issues & topics of optical fibre systems  
+Text Books:   
+1. G. Keiser, “Optical Fibre Communications”, Tata McGraw -Hill Education, 4th Ed., 2008.  
+2. Govind Agrawal, “Fibre -Optic Communication Systems,’ 4th Ed., Wiley, 2010.  
+References:   
+1. J. Senior, “Optical Fibre Communications: Principles and Practice,” 3rd Ed., Prentice Hall, 2008.  
+2. R. Ramaswami, K. N. Sivarajan, “Optical Networks: A Practical Perspective,” 3rd Ed., Morgan Kaufmann, 2009.  
+3. S. C. Gupta, “Textbook on Optical Fiber  Communication and Its Applications,” PHI Learning, 2004.  
+4. John A, “Buck Fundamental of Optical Fiber,” Wiley -Interscience, 2004.  
+ 
+Subject Code: 
+EC6L029 Name: Computer Vision  L-T-P: 3-0-0 Credits: 3  
+Prerequisite: Image & Video Processing  
+Introduction  to computer vision, geometric camera models, light and shading, local image 
+features: SIFT, HOG, texture and shape descriptors, active contour, segmentation, deformable 
+models, RANSAC, image registration, learning and classification strategies, image clas sification, 
+object detection and recognition, stereopsis, tracking, applications  
+Texts/References:  
+1. Forsyth and Ponce, “Computer vision: a modern approach,” 2nd Ed., Pearson, 2012.  
+2. Sonka, Hlavac  and Boyle, “Digital image processing and computer vision,” Cengage learning, 2008.  
+3. Rick Szeliski, “Computer Vision: Algorithms and Applications,” Springer,2011.  
+ 
+The syllabi  for other elective courses for dual degree program are 
+same as those  of B.  Tech . curriculum.  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+58 
+ List of Lateral Courses for Other Schools  
+ 
+Subject Name  Code  L-T-P Credit  Contact 
+Hour  Syllabus 
+Page No.  
+Lateral – 1 (Any one will be offered)    
+Transducers, Sensors and Measurement  EE2L002  3-0-0 3 3 59 
+Introduction to Electromagnetic Engineering  EE2L004  3-0-0 3 3 59-60 
+Lateral – 2 (Any one will be offered)    
+Control System Technology  EE3L005  3-0-0 3 3 60 
+Signals and Circuits  EE3L006  3-0-0 3 3  
+Lateral – 3 (Any one will be offered)    
+Soft Computing and Applications  EE3L008  3-0-0 3 3 61 
+Utilization of Electric Power  EE3L009  3-0-0 3 3 61-62 
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+59 
+ Syllabus for Lateral Courses (For other schools)  
+Subject Code: 
+EE2L002  Name: Transducers, Sensors and Measurement  L-T-P: 
+3-0-0 Credits: 
+3 
+Prerequisite: None  
+ 
+Introduction: Components of a sensor, Types of sensors, Applications; Static characteristics: 
+Static calibration, static error, correction, range, span, accuracy, precision, sensitivity, 
+linearity, hysteresis, dead time, dead zone, resolution, loading effect; Errors: Types of 
+errors, R andom errors: mean, variance, Gaussian curve of errors, precision errors and 
+precision index; Dynamic characteristics: Modelling a sensor, zero, first and second order 
+systems; Primary sensing elements:  Stain gauge, variable capacitance transducer, variab le 
+inductance transducer (LVDT), optical sensors, piezoelectric transducers, hall effect 
+transducer; Mechanical measurements: Measurement of force, pressure, flow, 
+displacement, acceleration, velocity; Temperature measurement: RTD, thermistor and 
+thermocou ple; Signal conditioning circuit:  Amplifiers, Filters, Bridge circuits, A/D and D/A 
+converters, Modern data acquisition systems.  
+Text Books:  
+1. E. O. Doebelin, “Measurement System: Application and Design,” 5th Ed., McGraw -Hill Education, 
+2003.  
+2. D. Patranabis,  “Principles of industrial instrumentation,” 2nd Ed.,Tata McGraw -Hill Education, 2001.  
+3. A.K Sawhney, “Electrical and Electronics Measurements and Instrumentation,” 19th Ed., Dhanpat Rai 
+& Co., 2011.  
+ 
+Subject Code: 
+EE2L004  Name: Introduction to Electromagnetic Engineering  L-T-P: 
+3-0-0 Credits: 
+3 
+Prerequisite: None  
+ 
+Introduction: Sources and effects of electromagnetic fields – Vector fields – Different 
+coordinate systems; Vector calculus – Gradient, Divergence and Curl - Divergence theorem 
+– Stoke’s theorem; Electrostatics: Coulomb’s Law – Electric field intensity – Field due to 
+point and continuous charges – Gauss’s law and application – Electric potential – Electric 
+field and equipotential plots – Electric field in free space, conductors, di electric -Dielectric 
+polarization - Dielectric strength - Electric field in multiple dielectrics – Boundary conditions, 
+Poisson’s and Laplace’s equations – Capacitance - Energy density; Magnetostatics: Lorentz 
+Law of force, magnetic field intensity – Biot–savart Law - Ampere’s Law – Magnetic field 
+due to straight conductors, circular loop, infinite sheet of current – Magnetic flux density 
+(B) – B in free space, conductor, magnetic materials – Magnetization – Magnetic field in 
+multiple media – Boundary condit ions – Scalar and vector potential – Magnetic force – 
+Torque – Inductance – Energy density – Magnetic circuits; Electrodynamic Fields: Faraday’s 
+laws, induced emf – Transformer and motional EMF – Forces and Energy in quasistationary 
+Electromagnetic Fields - Maxwell’s equations (differential and integral forms) – 
+Displacement current – Relation between field theory and circuit theory; Electromagnetic Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+60 
+ Waves: Generation – Electro Magnetic Wave equations – Wave parameters; velocity, 
+intrinsic impedance, propaga tion constant – Waves in free space, lossy and lossless 
+dielectrics, conductors -skin depth, Poynting vector – Plane wave reflection and refraction 
+– Transmission lines – Line equations – Input impedances – Standing wave ratio and power.  
+ 
+Text Books:  
+1. Mathew N. O. SADIKU, ‘Elements of Electromagnetics’, Oxford University press Inc. First India 
+edition, 2007.  
+2. Ashutosh Pramanik, ‘Electromagnetism – Theory and Applications’, Prentice -Hall of India Private 
+Limited, New Delhi, 2006.  
+3. Joseph. A.Edminister, ‘Th eory and Problems of Electromagnetics’, Second edition, Schaum Series, 
+Tata McGraw Hill, 1993.  
+4. William H.Hayt, ‘Engineering Electromagnetics’, Tata McGraw Hill edition, 2001.  
+5. Kraus and Fleish, ‘Electromagnetics with Applications’, McGraw Hill International  Editions, Fifth 
+Edition, 1999.  
+ 
+Subject Code: 
+EE3L005  Name: Control System Technology  L-T-P: 
+3-0-0 Credits: 
+3 
+Prerequisite:  None  
+ 
+Introduction to Control Systems: Definition, Examples of control systems, Open loop and 
+closed -loop control systems, Review of Laplace and inverse Laplace transforms; System 
+Modeling: Signal flow graph, Block diagram, Transfer function, Poles and zeros, Bl ock 
+diagram reduction using signal flow graph and block diagram reduction techniques, 
+Mechanical, electrical and electromechanical systems, First and second order models; 
+Control System Components: Introduction, Linear approximation of nonlinear systems, 
+Electrical systems, Stepper motor, Hydraulic systems, Pneumatic systems, Gyroscopes; 
+Transient Response and Steady State Error Analysis: Definitions of transient response 
+parameters, analysis of second order system as prototype, Routh -Hurwitz stability 
+criterion, Classification of systems based on steady state characteristics, Steady state error 
+coefficients; Root Locus Method: Definition of root locus, Properties of root locus, 
+Sketching of root locus, Effect of open loop poles and zeros, Root locus design concepts; 
+Frequency Response Analysis: Bode diagram, Polar plot, Nichols plot, Nyquist stability 
+criterion: nonmathematical description of Nyquist criterion, interpretation of stability, 
+Relative stability – Gain and Phase margin, Closed loop frequency res ponse – M and N 
+contours, Nichols chart; Compensation Techniques: Compensation techniques: lag, lead 
+and lag -lead compensation, PD, PI and PID controllers, Cascade compensation based on 
+root locus method, Introduction to feedback compensation.  
+Text Books:  
+1. R. Stefani, B. Shahrian, C. Savant & G. Hostetter, “Design of Feedback Control Systems”, Oxford 
+University Press, 2002.  
+2. K. Ogata, “Modern Control Engineering”, Prentice Hall, 1997.  
+3. B. C. Kuo & F. Golnaraghi, “Automatic Control Systems”, John Wiley, 2003.  
+4. M. Gopal, “Control Systems: Principles and Designs”, 2nd Edition, McGraw Hill, 2002.  
+5. R. C. Dorf & R. H. Bishop, “Modern Control Systems”, Prentice Hall, 2000.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+61 
+ Subject Code: 
+EE3L008  Name: Soft Computing and Applications  L-T-P: 
+3-0-0 Credits: 
+3 
+Prerequisite: None  
+ 
+Artificial Neural Networks (Theory and Applications): Single and multi -layer artificial neural 
+networks, radial basis function networks, recurrent neural network, functional link artificial 
+neural networks. Fuzzy logic (Theory and appl ications): Mamdani fuzzy models, T -S fuzzy 
+model, neuro -fuzzy systems, ANFIS. Evolutionary computing (Algorithms and Applications): 
+Genetic algorithms and variants, Differential evolution, Particle swarm optimization (PSO) 
+and variants, Bacterial foraging optimization (BFO), Ant colony optimization - travelling 
+salesman problem, Artificial immune systems, cat swarm optimization. Multi -objective 
+evolutionary algorithms: NSGA –II, multi -objective PSO and variants.  
+Text Books:  
+1. S. Haykin, ‘Neural Networks and Learning Machines’, Prentice Hall, 2009.  
+2. Y.H. Pao, ‘Adaptive pattern recognition and neural networks’, Addison -Wesley, 1989.  
+3. Rich, E., Knight, K. and Nair, S.B., ‘Artificial Intelligence’, 3rd Ed., Tata McGraw Hill. 2009  
+4. Deb, K., ‘Optimization for Engineering Design Algorithms and Examples’, Prentice Hall of India. 2009.  
+5. Jang, J.S.R., Sun, C.T. and Mizutani, E., ‘Neuro -fuzzy and Soft Computing: A Computational Approach 
+to Learning and Machine Intelligence’, Prentice Hall, 2009.  
+6. Hagan, M., ‘Neural Ne twork Design’, Nelson Candad, 2008.  
+7. K.A.D. Jong, ‘Evolutionary Computation – A Unified Approach’, PHI Learning, 2009.  
+ 
+ 
+Subject Code:  
+EE3L009   Name: Utilization of Electric Power  L-T-P: 
+3-0-0 Credits: 
+3 
+Prerequisite: Electrical Technology  
+ 
+Electric Drives: Advantages of electric drives, Types of motors used in electric drive, Electric 
+braking; Illumination: Definition: Luminous flux, solid angle, luminous intensity, 
+illumination, luminous, efficiency, depreciation factor, coefficient, of uti lization, space to 
+height ratio, reflection factor, glare, shadow, lux. Laws of illumination. Different type of 
+lamps, construction and working of in candescent and dischage lamps – their 
+characteristics. Calculation of number of light points for interior illumination; Electric 
+Heating: Advantages of electrical heating, Heating methods - Resistance heating, Induction 
+heating; Electric arc heating, Dielectric heating; Electric Welding: Advantages of electric 
+welding, Welding method, Principles of resistance w elding, Principle of arc production, 
+electric arc welding; Electrolytic Processes: Need of electro -deposition, Laws of electrolysis, 
+process of electro -deposition - clearing, operation, deposition of metals, polishing, buffing, 
+Equipment and accessories fo r electroplating; Electric Traction: Advantages of electric 
+traction, Different systems of electric traction, DC and AC systems, diesel electric system, 
+types of  services – urban, sub -urban, and main lines and their speed -time curves, Different 
+accessorie s for track electrification;  such as overhead capacitor wire, conductor rail 
+system, current collector -pantograph.  
+ 
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+62 
+ 1. J B Gupta, “Utilization of Electrical Energy and Traction”,  Kataria Publications, 2014.  
+2. O E Taylor, “Utilization of Electrical  Energy”, University Press -Hyderabad, 1981.  
+3. G. C. Garg, “Utilization of Electric Power and Electric Traction” Khanna Publishers, 2004.  
+4. Sivanagaraju “Generation and Utilization of Electrical Energy”, Pearson India, 2010.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+63 
+ Summary of Course Credits: (B.  Tech. in Electrical Engineering ) 
+Subject Name  Code  L-T-P Credit  
+SEMESTER I  
+Mathematics -1 MA1L001  3-1-0 4 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0/ 
+3-0-2 or  
+3-1-0 4 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -1 ID1T001  0-0-3 1 
+  Total  22/23+1  
+SEMESTER II  
+Mathematics -2 MA1L002  3-1-0 4 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-0-2 or              
+3-1-0/ 
+3-1-0 4 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -2 ID1T002  0-0-3 1 
+  Total  23/22+1  
+SEMESTER III  
+Breadth – 1  3-0-0 3 
+Introduction to Electronics  EC2L001  3-1-0 4 
+Introduction to  Material Science and 
+Engineering  ID2L001  2-0-0 2 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 
+Probability Statistics and Stochastic 
+Processes  MA2L003  3-1-0 4 
+Signals and Systems  EC2L002  3-1-0 4 
+Introduction to Electronics Laboratory  EC2P001  0-0-3 2 
+Signals and Systems Laboratory  EC2P002  0-0-3 2 
+Seminar  EE2S001  0-0-3 2 
+  Total  25 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+64 
+ SEMESTER IV  
+Lateral -1  3-0-0/3-1-0 3/4 
+Breadth – 2  3-0-0/3-1-0 3/4 
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 
+Network Theory  EE2L001  3-1-0 4 
+Electric Machines  EE2L003  3-1-0 4 
+Digital Electronics and Microprocessor  EC2L006  3-1-0 4 
+Electric Machines Laboratory  EE2P00 1 0-0-3 2 
+Digital Electronics and Microprocessor 
+Laboratory  EC2P006  0-0-3 2 
+  Total  24/25  
+SEMESTER V 
+ 
+Lateral - 2  3-0-0/3-1-0 3/4 
+Breadth - 3  3-0-0 3 
+Power Electronics  EE3L004  3-1-0 4 
+Electrical Power Transmission and 
+Distribution  EE3L007  3-1-0 4 
+Measurement and Instrumentation  EE3L010  3-0-0 3 
+Electromagnetic Field Theory  EE3L011  3-0-0 3 
+Power Electronics  Laboratory  EE3P004  0-0-3 2 
+Measurement and Instrumentation 
+Laboratory  EE3P005  0-0-3 2 
+  Total  24/25  
+SEMESTER VI  
+ 
+Lateral -3  3-0-0/3-1-0 3/4 
+Breadth – 4  3-0-0/3-1-0 3/4 
+Control Systems  EE3L003  3-1-0 4 
+Digital Signal Processing  EC3L003  3-1-0 4 
+Power System Operation and Control  EE3L012  3-1-0 4 
+Control Systems Laboratory  EE3P003  0-0-3 2 
+Digital Signal Processing Laboratory  EC3P002  0-0-3 2 
+Power Systems Laboratory  EE3P006  0-0-3 2 
+  Total  24/26  
+SEMESTER VII  
+ 
+Digital Control Systems  EE4L005  3-0-0 3 
+Renewable Energy Systems  EE4L006  3-0-0 3 
+Elective – 1  3-0-0 3 
+Elective – 2  3-0-0 3 
+Industrial Training  Defence  EE4T001   2 
+Project - Part 1  EE4D001  0-0-6 4 
+  Total  18 
+SEMESTER VIII  
+ 
+Elective – 3  3-0-0 3 
+Elective – 4  3-0-0 3 
+Elective – 5  3-0-0 3 
+Elective – 6  3-0-0 3 
+Renewable Energy Systems Laboratory  EE4P002  0-0-3 2 
+Project - Part 1  EE4D001  0-0-9 6 
+  Total  20 
+  Grand Total  175-180 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+65 
+ Summary of Course Credits: ( B. Tech. in Electrical Engineering  + M. 
+Tech. in Power Electronics and Drives ) 
+Subject Name  Code  L-T-P Credit  
+SEMESTER I  
+ 
+Mathematics -1 MA1L001  3-1-0 4 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0/ 
+3-0-2 or  
+3-1-0 4 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -1 ID1T001  0-0-3 1 
+  Total  22/23+1  
+SEMESTER II  
+ 
+Mathematics -2 MA1L002  3-1-0 4 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-0-2 or              
+3-1-0/ 
+3-1-0 4 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -2 ID1T002  0-0-3 1 
+  Total  23/22+1  
+SEMESTER III  
+ 
+Breadth – 1  3-0-0 3 
+Introduction to Electronics  EC2L001  3-1-0 4 
+Introduction to Material Science and 
+Engineering  ID2L001  2-0-0 2 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 
+Probability Statistics and Stochastic 
+Processes  MA2L003  3-1-0 4 
+Signals and Systems  EC2L002  3-1-0 4 
+Introduction to Electronics Laboratory  EC2P001  0-0-3 2 
+Signals and Systems Laboratory  EC2P002  0-0-3 2 
+Seminar  EE2S001  0-0-3 2 
+  Total  25 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+66 
+ SEMESTER IV  
+ 
+Lateral -1  3-0-0/3-1-0 3/4 
+Breadth – 2  3-0-0/3-1-0 3/4 
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 
+Network Theory  EE2L001  3-1-0 4 
+Electric Machines  EE2L003  3-1-0 4 
+Digital Electronics and Microprocessor  EC2L006  3-1-0 4 
+Electric Machines Laboratory  EE2P001  0-0-3 2 
+Digital Electronics and Microprocessor Laboratory  EC2P006  0-0-3 2 
+  Total  24/25  
+SEMESTER V  
+ 
+Lateral - 2  3-0-0/3-1-0 3/4 
+Breadth - 3  3-0-0 3 
+Power Electronics  EE3L004  3-1-0 4 
+Electrical Power Transmission and Distribution  EE3L007  3-1-0 4 
+Measurement and Instrumentation  EE3L010  3-0-0 3 
+Electromagnetic Field Theory  EE3L011  3-0-0 3 
+Power Electronics  Laboratory  EE3P004  0-0-3 2 
+Measurement and Instrumentation Laboratory  EE3P005  0-0-3 2 
+  Total  24/25  
+SEMESTER VI  
+ 
+Lateral -3  3-0-0/3-1-0 3/4 
+Breadth – 4  3-0-0/3-1-0 3/4 
+Control Systems  EE3L003  3-1-0 4 
+Digital Signal Processing  EC3L003  3-1-0 4 
+Power System Operation and Control  EE3L012  3-1-0 4 
+Control Systems Laboratory  EE3P003  0-0-3 2 
+Digital Signal Processing Laboratory  EC3P002  0-0-3 2 
+Power Systems Laboratory  EE3P006  0-0-3 2 
+  Total  24/26  
+SEMESTER VII  
+ 
+Switched Mode Power Conversion  EE6L051  3-1-0 4 
+Digital Control Systems  EE4L005  3-0-0 3 
+Renewable Energy Systems  EE4L006  3-0-0 3 
+Theory and Analysis of Electric Drives  EE6L052  3-1-0 4 
+Switched Mode Power Conversion Laboratory  EE6P052  0-0-3 2 
+Industrial Training  Defence  EE4T001  0-0-0 2 
+Project - Part 1  EE4D001  0-0-6 4 
+  Total  22 
+SEMESTER VIII  
+ 
+Advanced Power Electronic Converters  EE6L053  3-0-0 3 
+Advanced Machine Drives  EE6L055  3-1-0 4 
+Grid Integration of Renewable Energy Systems  EE6L013  3-0-0 3 
+Power Converter and Electric Drives Laboratory  EE6P053  0-0-3 2 
+Renewable Energy Systems Laboratory  EE4P002  0-0-3 2 
+Project - Part 2  EE4D002  0-0-9 6 
+  Total  20 Indian Institute of Technology Bhubaneswar  
+Curriculum  
+ 
+67 
+ SEMESTER IX  
+ 
+Elective I    3-0-0 3 
+Elective II   3-0-0/3-1-0 3/4 
+Power Electronics System Simulation 
+Laboratory  EE6P051  0-0-3 2 
+Thesis Part I  EE6D051  0-0-0 12 
+  Total  20/21  
+SEMESTER X  
+ 
+Elective III   3-0-0/3-1-0 3/4 
+Thesis Part II  EE6D053  0-0-0 13 
+  Total  16/17  
+  Grand 
+Total  220-228 
+ 

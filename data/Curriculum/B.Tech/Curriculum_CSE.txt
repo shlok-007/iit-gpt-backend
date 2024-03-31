@@ -1,0 +1,3952 @@
+Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+1 
+ Table of Content  
+1. Compliance Report  
+a. B.Tech Programme  
+b. Dual Degree Programme  
+2. Curriculum for B.Tech. in Computer Science and Engineering and Dual Degree Program with 
+B.Tech. in Computer Science and Engineering and M.Tech. in Computer Science and 
+Engineering  
+3. B. Tech and Dual Degree (1st and 2nd Semester Common Courses)  
+a. First Semester courses  
+b. Second Semester Courses  
+c. Syllabus  
+4. B. Tech ( 3rd to 8th Semester  Courses ) 
+a. Third – Eighth Semester Courses  
+b. Elective Courses  
+c. Syllabus  for Core Courses  
+d. Syllabus for Elective Co urses  
+5. Dual Degree ( 7th to 10th Semester  Courses ) 
+a. Seventh – Tenth Semester Courses  
+b. Elective Courses  
+c. Syllabus  
+6. Lateral Courses  Offered to Other Schools  
+a. List of Courses  
+b. Syllabus  
+7. Summary of Course Credits  
+a. B.Tech Programme  
+b. Dual Degree Programme  
+ 
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+2 
+ Complian ce Report  for B.Tech Programme  (Computer 
+Science and Engineering)  
+Components  Subjects  Credit 
+Recommended  Credit 
+Approved  
+1. Common Core  (i) English  4 4  
+(ii) Basic Science and 
+Mathematics  20 20 
+(iii) General Sciences  6 6 
+(iv) Engineering Sciences  27 27 
+2. Breadth Basket  (i) Breadth -1 
+(ii) Breadth -2 
+(iii) Breadth -3 
+(iv) Breadth -4 12-14 3/4 
+3  
+3/4 
+3/4 
+3. Misc ellaneous  (i) Seminar  
+(ii) Internship  
+(iii) Project  14 2 
+2 
+10 
+4. Laterals  (i) Lateral -1  
+(ii) Lateral -2  
+(iii) Lateral -3  9-12 3 
+3/4 
+3/4 
+5. Verticals  Theory  58-68 2nd year - 20 
+3rd year –23/24  
+4th year – 19/25  
+Laboratory  18-24 18 
+TOTAL   168-189 172/184  
+ 
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+3 
+ Compliance Report  for Dual Degree Programme - B. Tech. 
+(Computer Science and Engineering) and M.Tech. 
+(Computer Science and Engineering)   
+ 
+Components  Dual Degree 
+Curriculum 
+(Requirement)  Proposed Dual 
+Degree (CSE) 
+Curriculum  
+Subjects  Credits  Credits  
+Semester I to VI  
+(Theory + Lab + Electives+ Other)  
+ Semester I to VI 
+should be same as 
+B.Tech CSE 
+curriculum   All courses of Semester I -VI 
+of B.Tech (CSE) curriculum 
+with total credits of  
+138/145  
+ 
+Semester VII to X  
+Theory (Core, Breadth -4, Industrial 
+Training Defense)  
+ Compiler Design  
+ Advanced Algorithms  
+ Networks and Systems Security  
+ Industrial Training Defense  
+ Cloud Computing  
+ High performance Computer 
+Architecture  
+ Breadth -4 All compulsory 
+courses o f B.Tech 
+(CSE) Semester VII 
+and VIII, and all 
+M.Tech (CSE) core 
+theory courses)   All compulsory courses of 
+B.Tech (CSE) Semester VII 
+and VIII, and all M.Tech 
+(CSE) core theory courses) 
+with total credits of 25/26  
+ 
+ 
+Semester VII to X  
+Lab Courses  
+ Computer  Systems Lab  
+ Compiler Design Lab  
+ Security & Forensics Lab -I/ML 
+& DA Lab -I  
+ Security & Forensics Lab -II/ML 
+& DA Lab -II To include all 
+compulsory labs of 
+B.Tech CSE 
+semester VII and 
+VIII, and all 
+compulsory M.Tech 
+labs  All compulsory labs of 
+B.Tech (CSE) Se mester VII 
+and VIII, and all compulsory 
+M.Tech labs with total 
+credits of  
+8/8 
+Semester VII to X  
+Electives  4 Elective courses   12/13  
+1. B.Tech Project  Part-I (Semester VII)       4        
+     6 4 
+6 Part-II (Semester 
+VIII)  
+2. M.Tech Project/Thesis  Part-I (Semester IX)  12 
+13 
+ 12 
+13 Part- II (Semester X)  
+Research Review (Semester IX) 
+Equivalent to MTech Research 
+Review -1   4 
+Total   220/225  222/230 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+4 
+ Curriculum for B.Tech. in Computer Science and  Engineering  
+& 
+Dual Degree Program me ( B.Tech. in Computer Science and  Engineering and 
+M.Tech. in Computer Science and Engineering )  
+ 
+1. The curriculum for 1st and 2nd Semesters are same for all B Tech and dual degree programs.  
+2. The curriculum for (1) B. Tech. Degree in Electrical Engineering and (2) B. Tech.  Degree in 
+Electrical Engineering and M. Tech. Degree in Power Electronics and Drives Dual Degree 
+program are same up to 6th Semester.  
+3. For 7th and 8th Semester, the curriculum for B. Tech. program has a combination of core, 
+elective subjects and final year  B. Tech. project.  
+4. From 7th up to 10th Semester, there are combination of core and elective subjects for dual 
+degree program. All core subjects of B. Tech and M. Tech Programs are included.  
+5. There are final year B. Tech project part 1 and 2 in both B. Tech and Dual Degree programs.  
+6. In dual degree programme, there are M. Tech Thesis part 1 and 2 in the 9th and 10th Semesters, 
+respectively, similar to M. Tech programs.  
+7. The recommended total credit range for B. Tech program is 168 -189. For Dual Degree program 
+the recommended total credit range is 220 -225.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+5 
+  
+1st Semester and 2nd Semester  (Common to All Disciplines of Study)  
+SEMESTER – I 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -1 MA1L001  3-1-0 4 4 6 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 4 7-8 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0 
+ 4 4 
+ 8-11 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 4 12-13 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 3/4 13-14 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 3 14-15 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 15 
+Extra Academic Activity -1 ID1T001  0-0-3 1 3  
+  Total  22/23+1  25/27 or 26+3   
+SEMESTER – II 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Mathematics -2 MA1L002  3-1-0 4 4 16 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 4 7-8 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-1-0 4 4 8-11 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 4 12-13 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 4/3 13-14 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 3 14-15 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 3 15 
+Extra Academic Activity -2 ID1T002  0-0-3 1 3  
+  Total  23/22+1  27 or 26/ 25+3   
+ 
+ 
+Syllabus for each course is given in the following pages.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+6 
+ Syllabus for First Year Courses (Common to All Disciplines of Study)  
+SEMESTER – I 
+Subject Code:  MA1L001  Subject Name: 
+Mathematics -1 L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Calculus:  Rolle’s theorem, Lagranges theorem, Cauchy ’s mean value theorem 
+(Taylor’s and Maclaurin theorems with remainders), Indeterminate forms, Concavity 
+and convexity of a curve, points of inflexion, maximum, minimum of a function, 2nd  
+derivative test for max min, Asymptotes and curvature, Cartesian curve tracing, polar 
+curve  tracing.   
+Calculus of Several Variables :  Limit, continuity and differentiability of functions of 
+several variables, partial derivatives and their geometrical interpretation, differentials, 
+derivatives of composite and implicit functions, derivatives of higher order and their 
+commutativity, Euler’s theorem on homogeneous functions, harmonic functions, 
+Taylor’s expansion of functions of several variables, maxima and minima of functions 
+of several variables, Lagrange’s method of multipliers.   
+Vector Calculus:  Double and triple int egrals, Scalar and vector fields, level surfaces, 
+directional derivative, Gradient, Curl, Divergence, line and surface integrals, theorems 
+of Green, Gauss and Stokes. Beta and Gamma functions.  
+Ordinary Differential Equations:  First order differential equat ions, exact, linear and 
+Bernoulli’s form, second order differential equations with constant coefficients, Euler’s 
+equations, particular integrals by: variation of parameters, undetermined coefficients, 
+operator method, system of differential equations.   
+ 
+Text Books:  
+1. Narayan S. and Mittal P. K.  Differential Calculus and Integral Calculus , S. Chand & 
+Company Ltd.  
+2. Thomas   G. B.  and Finney   R. L.  Calculus and Analytic Geometry , Pearson  
+3. Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons  
+5. Simmons G. F. and Robertson J. S.  Differential Equations with applications and 
+Historical notes , Tata McGraw -Hill Publishing Company Limited, New Delhi, India  
+ 
+Reference Books:  
+1. Bartle R. G. and Sherbert D. R . Introduction to Real Analysis , Wiley India 
+2. Jain R. K. and Iyengar S. R. K.   Advanced Engineering Mathematics,  Narosa  
+3. Apostol T. M.  Calculus - Vol.2, Wiley India  
+4. Ross S. L.  Differential Equations , Wiley India  
+5. Coddington E. A.  An Introduction to Ordinary Differential Equations , Prentice Hall  
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+7 
+ Subject Code:  PH1L001  Subject Name:  Physics  L-T-P: 
+3-1-0 Credit : 4 
+Pre-requisite(s): Nil  
+Classical Physics: Review of Newtonian mechanics, Lagrangian mechanics, constraints, 
+principle of virtual work, D’Alembert’s  principle, Action Principle and Lagrange's 
+equations,   Velocity dependent potentials, Legendre Transformation and Hamiltonian 
+equations, Central forces, Kepler’s problem, Waves and Oscillations, Damped and 
+Forced Oscillations, normal modes, Basics of Spec ial Relativity, Galilean and Lorentz 
+transformations, Time dilation and length contraction, relativistic kinematics and 
+mass-energy equivalence. Electromagnetic Waves and Optics: Maxwell’s equations, 
+wave equation, plane electromagnetic waves, longitudinal  and transverse waves, 
+superposition, wave packets, two and three dimensional waves, energy - momentum, 
+Poynting’s theorem, electromagnetic boundary conditions, Laser, Young’s experiment, 
+interferometers, diffraction, Fraunhofer diffraction (single slit), d ispersion. Wave 
+Mechanics: Failure of classical physics, qualitative review of relevant experiments, de 
+Broglie waves, uncertainty principle, wave function and Schrodinger equation, 
+probability interpretation, particle on a chain, potential barrier and qua ntum tunneling, 
+potential well, Harmonic oscillator, operator algebra, Hydrogen atom and angular 
+momentum algebra.  
+ 
+Text/ Reference Books:  
+ 
+1.   Crawford F.S.   Waves,  Vol. 3, Berkely Physics Series . 
+2.   Goldstein,  Classical Mechanics , Pole and Safko, Pear son Education Inc.  
+3.   Saleh and Teich.  Fundamentals of Photonics , Wiley -Interscience.  
+4.   Ghatak A.  Optics , McGraw -Hill. 
+5.   Griffiths D.J.  Introduction to Quantum Mechanics , Pearson Education Inc.  
+6.   Pain H. J.  The Physics of Vibrations and Waves , Wiley. 
+7.   Resnick R.  Introduction to Special Relativity , John Wiley (Asia).  
+8.   Landau L. and Lifshitz E.  Mechanics , Oxford   
+9.   Zweibach B.   A First Course in String Theory , Cambridge University Press  
+10.  Hecht E.  Introduction to Optics , Addison -Wesley.   
+11.  Feynmann Lecture series on Physics.  
+12.  Sakurai J. J.  Modern Quantum Mechanics , Benjamin -Cummings.  
+ 
+Subject Code: CY1L001  Subject Name: Chemistry  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Energetics & Kinetics:  (a) Basic Concepts and Laws of Thermodynamics; Entropy; 
+Engineering Devices: Efficiency & Conversion; Thermochemistry; Bioenergetics. (b) 
+Basic Rate Laws; Multistep Reactions; Activation Energy. (c) Transport of Ions and 
+Gases in bi ofluids and across biom embranes; Equilibrium:  Proton Equilibrium (aqueous 
+& non -aqueous) including Buffers. Phase Equilibrium.  Redox & Electrochemistry:  Basic 
+Concepts & Laws; Battery (Automobile to Ni -Cd and beyond); Fuel Cells; Latimer, Frost, 
+and Pourbaix diagram; Corrosion.  Bonding Models & Properties:  (a) In Molecules, 
+Supramolecules, Metals and Metal Complexes; (b) Implications on electrical, ma gnetic, 
+and optical properties, (c) Absorption and  Emission Spectroscopy.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+8 
+ Functional Materials - Design & Application:  (a) Syntheti c Polymers (carbon framework, 
+silicon framework, fluorinated polymer), Bio & biodegradable polymers. (b) Surfactants. 
+(c) Nanostructures, Soft materials and Thin Films. (b) Emerging app lications in Energy 
+harvesting, Memory  Storage  and Micro -fabrication. Industrial & Bio -inspired 
+Chemistry:  (a) Case studies on Industrial organics with emphasis to Drugs (b) 
+Oxidation, Reduction, Catalytic hydrogenation and Electron transfer.  Molecules in Daily 
+Life: A short tour on molecules behind taste, smell, pain, colour  and sex.  
+ 
+ 
+Text/Reference Books:   
+1. Brown L. and Holme, T.  Chemistry for Engineering Students , Thomson Brooks.  
+2. Atkins P. and Paula J. D. Atkins’  Physical Chemistry , Oxford.  
+3. Shriver, D. F. and Atkins, P. W. Atkins’  Inorganic Chemistry , Oxford.  
+4. Morrison R. T. and Boyd R. N.  Organic Chemistry , Prentice Hall.  
+5. Steed J. W. and Atwood J. L.  Supramolecular Chemistry , John -Wiley.   
+6. Caruther W.  Reagents in Organic Chemistry , Cambridge University Press.  
+7. Wiseman P.  An Introduction to Industrial Org anic Chemistry , Applied Science.   
+8. Hall N.  The New Chemistry , Cambridge University Press.  
+9. Atkins P. Atkins’  Molecules  Cambridge University Press.  
+10. Cengel Y. A. and Boles M. A.  Thermodynamics -An Engineering Approach , Tata 
+McGraw - Hill 
+ 
+Subject Code :   ME1L001  Subject Name:   Mechanics  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Force systems:  Moment of a force about a point an d about an axis; couple moment; 
+reduction of a force system to a force and a couple.  Equilibrium:  Free body diagram; 
+equations of equilibrium; problems in two and three dimensions; plane frames and 
+trusses.  Friction:  Laws of Coulomb friction, problems involving large and small contact 
+surfaces;  square threaded screws; belt friction; rolling resistance.  Kinematics and 
+Kinetics of particles:  Particle dynamics in rectangular coordinates cylindrical coordinates 
+and in terms of path variables; central force motion.  Properties of areas:  Moments of 
+inertia and product of inertia of areas, polar moment of inertia, principal axes and 
+principal moments of inertia.  Concept of stress and strain:  Normal stress, shear stress, 
+state of stress at a point, ultimate strength, allowable stress, factor of safety; normal 
+strain, shear strain, Hooke’s law, Poisson’s ratio, generalized Hooke’s l aw; analysis of 
+axially loaded members.  Torsion:  Torsion of cylindrical bars, torsional stress, modulus 
+of rigidity and deformation.  Flexural loading:  Shear and moment in beams; load, shear 
+and moment relationship; shear and moment diagrams; flexure formul a; shear stress 
+in beams; differential equation of the elastic curve, deflection of beams.  Transformation 
+of stress and strain:  Transformation of stress and strain, principal stresses, principal 
+strains, Mohr’s circle for stress and strain.  Combined loadin g: Axial and torsional; axial 
+and bending; axial, torsional and bending.  Column:  Buckling of slender columns, Euler 
+bucking load for different end conditions . 
+ 
+ 
+Text/Reference Books:  
+1. Vector Mechanics for Engineers:   Statics and Dynamics  - Ferdinand P. Beer, E. 
+Russell   Johnston, Jr. (TMH)  
+2. Engineering Mechanics:  Statics and Dynamics  - I.H. Shames (Pearson)  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+9 
+ 3. Engineering Mechanics  - S. Timoshenko,   D. H. Young (TMH)  
+4. Mechanics of Materials  - Ferdinand Beer , E. Russell Johnston, Jr., J. DeWolf (TMH)  
+1. 5. Elements of Strength of Materials  - S. Timoshenko,   D. H. Young (East West Press)  
+2. 6. Mechanics of Materials  - James M. Gere, Barry J. Goodno (CL Engg)  
+3. 7. Engineering Mechanics  -  Stephan Timoshenko, D. Young (TMH)  
+4. 8. Strength of Materials (Part 1)  – S P Timoshenko (CBS)  
+ 
+Subject Code: 
+HS1L001  Subject Name: English for 
+Communication  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+English for Communication is an amalgamation of Literature, Language and  
+Communication.  The Literature component of the course  comprises of Prose and 
+Poetry.   
+Poetry :  
+A selection of poetry pieces spanning from 16th century to the Post -Modern Period in 
+English, American and Indian Literature are chosen to introduce to the students to the 
+different poets from different ages and countries and also to acquaint them with the 
+various poetic forms like Sonnet, Ballad, Elegy, Didactic, Dramatic, Nature, Lyric,  
+Romantic, etc. The list is an indicative one . 16th century - 17th century - Geoffrey 
+Chaucer, William Shakespeare, Edmund Spenser , Ben Johnson, Thomas Wyatt.  
+17th century - 18th century - John Milton, John Donne, George Herbert, John Dryden, 
+Oliver Goldsmith.  18th century - 19th century - Alexander  Pope, Thomas Gray, Robert 
+Burns, William Blake, William Wordsworth, Samuel Taylor Colerid ge, Lord Byron, P.B.  
+Shelley, John Keats, Robert Bridges, Robert Southey, Samuel Johnson.  19th century - 
+20th century - Alfred Tennyson, Robert Browning, Walter de la Mare, Thomas Hardy, 
+A.E. Housman, Rudyard Kipling, D.H. Lawrence, Wilfred Owen, D.G. Rosset ti, Christina 
+Rossetti, Emily Dickinson, Gerald Manley Hopkins, Charlotte Bronte, Lewis Caroll, 
+Edward Fitzgerald, Walt Whitman.  20th century - Present - Ted Hughes, Louis MacNeice, 
+W.B. Yeats, Stephen Spender, W.H. Auden, Nissim Ezekiel, Sarojini Naidu, Jay anta 
+Mahapatra, Robert Frost, , Ezra Pound, E.E. Cummings, T.S. Eliot, Walt Whitman, A.K. 
+Ramanujan, Kamala Das, Rabindranath Tagore, Jack Prelutsky,   Chinua Achebe, Maya 
+Angelou, Margaret Atwood, Leonard Cohen, Louise Erdrich, Leslie Marmon Silko.  
+Prose : 
+A selection of fictional and non -fictional prose pieces spanning from 17th century to the 
+Post-Modern Period.   Fiction and non -fictional pieces from English, American, Russian 
+and Indian Literature are chosen to introduce the students to different writings  from 
+different ages and countries. The list is an inclusive one consisting of short stories, 
+essays, excerpts, extracts from novels, biographies and memoirs, history, travel and 
+other forms.  17th century -18th century:  Charles Dickens, William Makepeace 
+Thackeray, George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudyard Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe , Jonathan Swift, Lewis 
+Carroll; 19th c entury -20th century:  Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughaum, Nathaniel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David Thoreau, 
+Anton Chekov, Maxim Gorky , Leo Tolstoy, George Orwell, Rabindranath Tagore, M.K. 
+Gandhi, J. Nehru, Virginia Woolf, Guy De Maupassant, Washington Irving, Margaret 
+Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, Ernest Hemingway, 
+Edgar Allan Poe.  20th century -Present:  J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. 
+Abdul Kalam, Khushwant Singh, Anita Desai, Yann Martel, Ken Kesey, Stephen King, Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+10 
+ Thomas King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, 
+Virginia Woolf, Gerald Vizenor,  Alice Walker, Chinua Achebe, Jeffrey Archer, Issac 
+Asimov, Roald Dahl, J.R.R. Tolkien, D.H. Lawrence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.            
+Communication : 
+Because communication is so important in business, businesses want and need people 
+with good communication skills. Business communication is a blend of skills like writing 
+and speaking well, displaying proper etiquettes and listening attentively.  
+Communications through technology greatly enhances one’s ability to communicate 
+effectively and articulately. For example, E -mails often result in a sender’s language 
+skills being placed in front of different people simultaneously; while audio and video will 
+reveal the calibre of one’s ver bal and diplomatic strengths. The communication aspect 
+of the English for Communication Course includes:   
+ 
+1. The Basics of Business Communication  
+2. Importance of Listening  
+3. Barriers in the Communication Process  
+4. Business Letters (Letter of Inquiry, C omplaint, Cover Letter)  
+5. Resume Writing  
+6. Memo and Memo Reports  
+7. Report Writing  
+8. Fax and E Mail  
+ 
+English Laboratory : 
+Objective: The laboratory component included in the course provides an ideal platform 
+for students to prepare themselves into confident and self -assured individuals. The Lab 
+course is designed to inculcate confidence and clarity in presentation and expression of 
+thought, views and ideas through practice and exercises. It constitutes six basic 
+components to improve listening, read ing and writing skill of the students.   
+Lessons:  
+1. Pronunciation (Basic sounds of English like   Long/Short Vowels; All consonants)  
+2. Stress Intonation (Rising and Falling)  
+3. Speaking - Oral Presentations, Group Discussions, Story Telling, Role Plays  
+4. Listening – Importance and Practice  
+5. Reading - Practice  
+6. Writing (Paragraph writing, good writing and bad writing with samples, Indianism),  
+Grammar (Basic - Articles, Prepositions, Verbs, Common Errors , etc)  
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman,  Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Communication , 
+Macmillan.   
+5. Herta A. Murphy, et al.,  Effective Business Communication , Tata Mc -Graw Hill: New 
+Delhi  
+6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Press:   New York  
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+11 
+ Subject Code: HS1L002  Subject Name: Learning 
+English  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+The Learning English Course is designed to improve the English Listening, Speaking, 
+Reading and Speaking skills of students.  
+I. Prose  
+A selection of fictional and non -fictional prose pieces spanning from 17th century to 
+the Post -Modern Period.   Fiction and non -fictional pieces from English, American, 
+Russian and Indian Literature are chosen to introduce the students to different 
+writings from different ages and countries. The list is an inclusive one consisting of 
+short stories, essays, excerpts, extracts from novels, biographies and memoirs, 
+history, travel and other forms.   
+17th century - 18th century - Charles Dickens, William Makepeace T hackeray, 
+George Eliot, Thomas Hardy, Lewis Carroll, Arthur Conan Doyle, John 
+Bunyan,   Rudyard Kipling, H.G. Wells, R.L, Stevenson, Jane Austen, Emily Bronte, 
+Charles Lamb, F.M. Dostoyevsky, Nikolai Gogol, Daniel Dafoe, Jonathan Swift, Lewis 
+Carroll.  
+19th century - 20th century - Oscar Wilde, O Henry, H.H. Munro, Mark Twain, 
+Somerset Maughaum, Nathaniel Hawthorne, G.B. Shaw, G.K. Chesterton, Agatha 
+Christie, Gerald Durrell, Will Durant, E.M. Forster, Aldous Huxley, Henry David 
+Thoreau, Anton Chekov, Maxim Gor ky, Leo Tolstoy, George Orwell, Rabindranath 
+Tagore, M.K. Gandhi, J. Nehru, Virginia Woolf, Guy De Maupassant, Washington 
+Irving, Margaret Fuller, Charles Darwin, Arthur Conan Doyle, F. Scott Fitzgerald, 
+Ernest Hemingway, Edgar Allan Poe.  
+20th century - Present- J.M. Coetzee, R.K. Narayan, R.K. Laxman, A.P.J. Abdul 
+Kalam, Khushwant Singh, Anita Desai, Yann Martel, Ken Kesey, Stephen King, Thomas 
+King, Richard Wright, N Scott Momaday, Chetan Bhagat, J. Krishnamurthy, Virginia 
+Woolf, Gerald Vizenor, Alice Walk er, Chinua Achebe, Jeffrey Archer, Issac Asimov, 
+Roald Dahl, J.R.R. Tolkien, D.H. Lawrence, James Joyce, Oran Pamuk, Salman 
+Rushdie, Bertrand Russell, Ruskin Bond, A.G. Gardiner, John Steinbeck.  
+II. Writing - Paragraph, Essay, Précis, Dictation, Comprehensi on, Letter Writing  
+III. English Tutorial - Practice Listening and Speaking English   
+IV. English Practice - Grammar Assignments and Workbook (Everyday English Level 
+I/II) 
+ 
+Text/Reference Books:  
+1. John Seely,  The Oxford Guide to Writing and Speaking , OUP  
+2. Krishna Mohan and Meenakshi Raman , Effective English Communication ,  TMH 
+3. R.W.Lesikar and John.D. Pettit,  Business Communication: Theory and 
+Application ,  All India Traveller Bookseller  
+4. Francis Soundaraj,  Speaking and Writing for Effective Business Co mmunication , 
+Macmillan.  
+5. Herta A. Murphy, et al.,  Effective Business Communication , Tata Mc -Graw Hill: New 
+Delhi 
+1. 6. Ronald B. Adler and George Rodman,   Understanding Human Communication , 
+Oxford University Press:   New York   
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+12 
+ Subject Code: 
+EE1L001  Subject Name: Electrical 
+Technology  L-T-P:  
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Introduction: Sources of energy; General structure of electrical power systems, Power 
+transmission and distribution via overhead lines and underground cables, Steam, 
+Hydel, and Nuclear power generation; DC Networks: Kirchhoff’s laws, node voltage 
+and mesh current methods, Delta -star and star -delta conversion, Superposition 
+principle, Thevenin’s, Norton’s theorems and Maximum power transfer theorem; 
+Single phase AC Circuits: Single phase EMF generation, average and effective values 
+of sinusoids, solution of R,L,C series circuits, the j operator, complex representation of 
+impedances, phasor diagram, power factor, power in complex notation, solution of 
+parallel and series – parallel circuits; Three phase AC Circuits: Three phase EMF 
+generation, delta and Y – connections, line and phase quantities, solution of three 
+phase circuits, balanced supply voltage and balanced load, phasor diagram, 
+measurement of power in three phase circuits, Three phase four wire circuits; 
+Magnetic Circuits: Ampere’s circuital law, B – H curve, solution of magnetic circuits, 
+hysteresis and eddy current losses; Transformers: Construction, EMF equation, 
+ratings, phasor diagram on no load and full load, equivalent circuit, regulation and 
+efficiency calculations, open and short circuit tests , auto -transformers; DC Machines: 
+Construction, EMF and Torque equations, Characteristics of DC generators and 
+motors, speed control of DC motors and DC motor starters; Electrical Measuring 
+Instruments: DC PMMC instruments, shunt and multipliers, multimete rs, Moving iron 
+ammeters and voltmeters, dynamometer, wattmeter, AC watthour meter, extension of 
+instrument ranges.   
+ 
+Text/Reference Books:  
+1. 1. E. Hughes , “Electrical Technology,”  Pearson Education, 2010.  
+2. 2. V. Del Toro,  “Electrical Engg Fundamentals,”  PHI Learning, 2009.  
+3. 3. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA Mc Graw Hill 
+Education, 2009.  
+4. 4. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1L001  Name: Introduction to 
+Programming and Data Structure  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Digital computer fundamentals, concepts of algorithms and introduction to 
+programming – examples; Constants and variables – data types, operators and 
+expressions - type conversions, types of expressions; Assignment statements, input -
+output statements - concepts of data formats; Control statements: branching – if-else 
+statements; iteration – while, do -while, for statements. nested control structures, 
+switch, break and continue statements; Funct ions and recursion – examples; concepts 
+of parameter passing by values and by reference; Arrays – single and 
+multidimensional, examples – searching and sorting; Introduction to pointers, 
+character strings and arrays, pointers and arrays; Structures, linked  lists, dynamic 
+allocation, stacks and queues, binary trees and tree traversals; Data files – creating, 
+opening, closing and operating data files; (The programming language C to be used as 
+the basis language).  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+13 
+ Text Books:  
+1. 1. B. Gottfried, “ Schaum’ s   Programming with C ,” Tata McGraw -Hill. 
+2. 2. E. Balaguruswamy, “ Programming in ANSI C ,” Tata McGraw -Hill. 
+3. 3. Y.  Kanetkar, “ Let us C ,” BPB Publications.  
+4. 4. S. Lipschutz, “ Data Structures, Schaum’s Outlines Series ,” Tata McGraw -Hill. 
+Reference Books:  
+1. 1. Brian W. Kernighan and Dennis M. Ritchie, “ The C Programming Language ,” 
+Prentice Hall of India.  
+2. 2. Ellis Horowitz, Satraj Sahni and Susan Anderson -Freed, “ Fundamentals of Data 
+Structures in C ,” W. H. Freeman and Company.  
+ 
+Subject Code: 
+ME1P001  Name: Introduction to 
+Manufacturing Processes  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Nil  
+Machining:  
+ Introducing to various machine tools and demonstration on machining  
+ Making a steel pin as per drawing by machining in centre lathe  
+ External screw thread on lathe  
+ Making a cast iron Vee block by shaping  
+ Making a regular polygon prism (MS)/ hexagon by milling machine  
+ Slot fitting by milling machine  
+ Study of machining in machining in machining centre (CNC)  
+ Study of Electro discharge machining (EDM)  
+Foundry Practice:     
+ Orientation, demonstration and practice on metal casting  
+ Practicing sand moulding using split and uneven parting line pattern  
+ Practice on CO2 moulding and machine moulding  
+ Mechanised sand preparation and melting practice  
+Welding Practice:  
+ Practice on el ectric arc welding  
+ Practice on oxy -acetylene gas welding  
+ Introduction and demonstration on submerged arc welding  
+Metal Forming:   
+Demonstration of deep drawing and other forming process   
+ 
+Text/Reference Books:  
+1. Chapman W.A.J.,  Workshop Technology - Part I , CBS Publishers.  
+2. Chapman W.A.J.,  Workshop Technology - Part II , CBS Publishers.  
+3. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. I , Media Promoters.  
+4. Hajra Choudhury S.K.,  Elements of workshop Technology Vol. II , Media Promoters.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+14 
+ Subject Code:   CE1P001  Subject Name: Engineering 
+Drawing  and Graphics  L-T-P: 
+1-0-3 Credit: 3  
+Pre-requisite(s): Nil  
+Introduction to IS code of drawing; Conics and Engineering Curves – ellipse, parabola, 
+hyperbola, cycloid, trochoid, involute; Projection of lines – traces, true length; Projection 
+of planes and solids; sold objects – cube, prism, pyramid, cylinder, cone and sphere; 
+Projection on Auxiliary planes; Isometric projection, isometric scale; Section of solids – 
+true shape of section; Introduction to CAD tools – basics; Introduction of Development 
+and Intersection of surfaces.  
+Text/Reference Books:  
+1. Bhatt N.D. Elementary Engineering Drawing , Charotar Publishing House.  
+2. Gill P.S. Engineering Drawing & Engg. Graphics , S. K. Kataria & Sons.  
+3. Lakshminarayan  L.V.  and Vaish R.S. Engineering Graphics , Jain Brothers.  
+Subject 
+Code:   PH1P001  Subject Name:   Physics 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-Requisite(s): Nil  
+1. To determine the damping constant of the pendulum for different eddy damping current.  
+2. To verify Malus’s Law of polarization of light.  
+3. To determine the wave length of the prominent lines of mercury source by a plane 
+transmission diffraction grating and to calculate the resolving power and dispersive power 
+of the grating.  
+4. To study the intensity distribution of Fraunhofer diffraction pattern by a single slit and 
+measure the width of the slit for a given wavelength of laser light.  
+5. To determine the wavelength of the given source using the Michelson interferometer.  
+6. To determine the wave length of the  given source using Fresnel’s biprism.  
+7. To find out the resonance and beat time period of the coupled pendulum and find out the 
+spring constant.  
+8. To study the interference pattern and determine the radius of curvature of the plano 
+convex lens using Newton’s rings apparatus.  
+Text/Reference Books:  
+1. 1. Ghatak  A. Optics , McGraw -Hill. 
+2. 2. Pain H. J.  The Physics of Vibrations and Waves , Wiley.  
+ 
+Subject Code: 
+CY1P001  Subject Name: Chemistry 
+Laboratory  L-T-P: 0-
+0-3 Credit: 2  
+Prerequisite(s): Nil  
+Experiment -1: Determination of the surface tension and parachor of a homologous 
+series.  
+Experiment -2: Measurement of the coefficient of viscosity of ethanol & ethanol -water 
+system.  
+Experiment -3: Studies on acid -base conductometric titration.  
+Experiment - 4: Studies on PH metric titration of strong base with strong acid.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+15 
+ Experiment -5: Estimation of sulphate ion in tap water by nepheloturbidimetric 
+analysis.  
+Experiment - 6: Spectrophotometric determination of acid dissociation constant (pka) 
+of methyl red (MR) an acid base indicator.  
+Experiment -7: Determination of solubility and solubility product of a sparingly soluble 
+salt at room temperature by conductometric method.  
+Experiment - 8: Potentiometric titration of a given sodium carbonate solution with 
+aques ous hydrochloric acid solution.  
+Experiment -9:  kinetics of ester hydrolysis.  
+Experiment -10: Detection of functional groups in an organic compound for solid 
+sample.  
+Experiment -11:  Detection of functional groups in an organic compound for liquid 
+sample.  
+Experiment -12: Thin layer chromatography (TLC).  
+ 
+Text/Reference Books:  
+1. 1. Nad, A. K.; Mahapatra, B. and Ghoshal A.  An advanced course in practical 
+chemistry , New Central Book Agency (P) Ltd.  
+2. 2. Elias A. J.  A collection of general chemistry experiments , University Press.  
+3. 3. Maity S. and Ghosh N.  Physical Chemistry Practical , New Central Book Agency (P) 
+Ltd. 
+ 
+Subject Code: 
+EE1P001  Subject Name: Electrical 
+Technology Laboratory  L-T-P: 
+0-0-3 Credits: 2  
+Prerequisite(s): Electrical Technology  
+Experiments as per the topics in the syllabus for the course `Electrical Technology’ 
+(EE1L001) will be conducted in the laboratory class.  
+Text Books:  
+1. E. Hughes,  “Electrical Technology,”  Pearson Education, 2010.  
+2. V. Del Toro, “Electrical Engg  Fundamentals,” PHI Learning, 2009.  
+Reference Books:  
+1. 1. I. J. Nagrath and D. P. Kothari, ‘ Basic Electrical Engineering’  TATA McGraw Hill 
+Education, 2009.  
+2. 2. D. A. Bell,  “Electric Circuits,”  7th Ed., Oxford Higher Education, 2009.  
+ 
+Subject Code: 
+CS1P001  Subject Name: Introduction to 
+Programming and Data Structures 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Prerequisite(s): Introduction to Programing and Data Structures  
+Familiarization of a computer and the environment; Execution of sample programs 
+related to Expression evaluation, Conditionals and branching, Iteration, Functions, 
+Recursion, Tail -recursion, Arrays, String manipulation, Structures, Linked lists, 
+Doubly -linked lists and Binary Trees. Execution of programs involving abstract data 
+types like Stacks  and Queues.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+16 
+ SEMESTER – II 
+Subject Code:   MA1L002  Subject Name: 
+Mathematics -II L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Linear Algebra:  Vector spaces, subspaces, span,   Linear dependence, independence 
+of vectors, basis, dimension,   linear transformations, range, kernel, rank, nullity of 
+linear transformation, space of all linear transformations, Operator equations, matrix 
+associated with a linear map, linear map associated with a matrix, elementary row 
+operations, solution of algebraic equa tions, consistency conditions. Matrix inversion by 
+row operations, Eigenvalues and eigenvectors, Hermitian and skew Hermitian 
+matrices, orthogonal and unitary matrices, application to reduction of quadrics.   
+Complex Analysis:  Limit, continuity, differentia bility and analyticity of functions 
+Cauchy -Riemann equations (cartesian and polar), Harmonic functions,   Elementary 
+complex functions, Line integrals, upper bounds for moduli of contour integrals, 
+Cauchy’s integral theorem, Cauchy’s integral formula, deriv atives of analytic functions, 
+Power series, Taylor’s series, Laurent’s series, Zeros and singularities, Residue 
+theorem, evaluation of improper integrals by residue theorem.   
+ 
+Text books:  
+1.   Strang G.  Linear Algebra and its applications, Cengage Learning  
+2.   Churchill R.V. and Brown J.W.  Complex Variables and Applications , Mc-Graw Hill  
+3.   Kreyszig E.  Advanced Engineering Mathematics , John Wiley & Sons   
+ 
+Reference Books:  
+J1. ain  R. K. and Iyengar S. R. K.  Advanced Engineering Mathematics , Narosa  
+1. 2. Krishnamurthy V., Mainra V. P. and Arora J.L.   An Introduction to Linear Algebra , 
+Affiliated East -West Press Pvt Ltd New Delhi  
+2. 3. Axler S.  Linear Algebra Done Right , UTM, Springer  
+3. 4. Poole D.  Linear Algebra : A Modern Introduction , Brooks/Cole  
+ 
+All other courses are same as Semester -I Courses.  
+  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+17 
+ B. Tech in Computer Science and Engineering  
+(3rd Semester – 8th Semester Courses)  
+SEMESTER – III 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Introduction to Electronics  EC2L001  3-1-0 4 4 20 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 2 20-21 
+Discrete Structures  CS2L001  3-1-0 4 4 21 
+Data Structures  CS2L004  3-0-0 3 3 22 
+Signals & Systems  EC2L002  3-1-0 4 4 22 
+Breadth – 1  3-0-0 3 3 - 
+Introduction  to Electronics Laboratory  EC2P001  0-0-3 2 3 23 
+Signals & Systems Laboratory  EC2P002  0-0-3 2 3 23 
+Data Structure Laboratory  CS2P002  0-0-3 2 3 23-24 
+  Total  26 29  
+SEMESTER – IV 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Lateral -1  3-0-0 3 3 - 
+Breadth – 2  3-0-0 3 3 - 
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 2 - 
+Combinatory, Probability and Statistics  MA2L006  3-1-0 4 4 - 
+Design and Analysis of Algorithms     CS2L002  3-1-0 4 4 25 
+Digital Electronic Circuits  EC2L004  3-1-0 4 4 25-26 
+Design and Analysis of Algorithms 
+Laboratory  CS2P001  0-0-3 2 3 26 
+Digital Electronic Circuits Laboratory  EC2P004  0-0-3 2 3 27 
+Project Seminar   CS2S001    0-0-3 2 0 - 
+  Total  26 26  
+SEMESTER – V 
+Lateral -2   3-0/1-0 3 / 4 3 / 4 - 
+Breadth -3  3-0/1-0 3 / 4 3 / 4 - 
+Formal Languages and Automata Theory  CS3L001  3-1-0 4 4 28 
+Computer Organization and Architecture  CS3L002  4-0-0 4 4 28 
+Operating Systems  CS3L005  4-0-0 4 4 29 
+Computer Organization and Architecture 
+Laboratory  CS3P001  0-0-3 2 3 30 
+Operating Systems Laboratory  CS3P003  0-0-3 2 3 30 
+  Total  22/24  24/26   
+SEMESTER – VI 
+Lateral -3  3-0/1-0 3/4 3/4 - 
+Database Systems  CS3L003  3-1-0 4 4 31 
+Computer Networks  CS3L006  3-1-0 4 4 31-32 
+Elective -1  3-0/1-0 3/4 3/4 - 
+Database Systems Laboratory  CS3P002  0-0-3 2 3 32 
+Computer Networks Laboratory  CS3P004  0-0-3 2 3 33 
+  Total  18/20  20/21  
+      Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+18 
+ SEMESTER – VII 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Compiler Design  CS4L001  3-1-0 4 4 34 
+Elective -2  3-0/1-0 3/4 3/4 - 
+Elective -3  3-0/1-0 3/4 3/4 - 
+Elective -4  3-0/1-0 3/4 3/4 - 
+Compiler Design Laboratory  CS4P001  0-0-3 2 3 34-35 
+Project - Part 1  CS4D001  0-0-6 4 0 - 
+Industrial Training Defense  CS4T001  0-0-3 2 0 - 
+  Total  21/24 16/19  
+SEMESTER – VIII  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Breadth -4  3/4-0-0 3/4 3/4 - 
+Elective -5  3-0/1-0 3/4 3/4 - 
+Elective -6  3-0/1-0 3/4 3/4 - 
+Project - Part 2  CS4D002  0-0-9 6 0 - 
+  Total  15/18  9/12 - 
+ 
+List of electives, and s yllabus for each course is given in the following pages.  The syllabus for Lateral 
+and Breadth Courses are available in the syllabus document of the Schools offering the courses.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+19 
+  
+List of Elective Courses  
+Subject Name  Code  L-T-P Credit  Contact 
+Hours  Syllabus  
+Page No.  
+Computational Geometry  CS4L030  3-0-0 3 3 36 
+Computer Graphics  CS4L010  3-1-0 4 4 36-37 
+Computer Vision  EC6L029  3-0-0 3 3 37-38 
+Multimedia Systems  CS6L013  3-0-0 3 3 28 
+Mathematical Foundations of Computer 
+Science  CS6L015  3-0-0 3 3 38-39 
+VLSI circuits  CS6L016  3-0-0 3 3 39-40 
+Embedded Systems  EC4L008  3-0-0 3 3 40 
+Digital Signal Processing  EC3L003  3-1-0 4 4 40-41 
+Mobile Computing  EC4L007  3-0-0 3 3 41 
+Applied Graph Theory  CS4L005  3-0-0 3 3 41 
+Advanced Algorithms  CS6L007  3-1-0 4 4 42 
+Principles of Programming Languages  CS4L029  3-0-0 3 3        42-43 
+Complexity Theory  CS6L012  3-0-0 3 3 43-44 
+Parallel and Distributed Algorithms   CS6L032  3-0-0 3 3 44-45 
+Data Mining  CS4L012  3-0-0 3 3 45 
+Machine Learning and Data Analytics - I ID6L004  3-0-0 3 3 45-46 
+Machine Learning & Data Analytics -II ID6L005  3-0-0 3 3 46-47 
+Natural Language Processing  CS6L027  3-0-0 3 3 47 
+Dependable Computing  CS6L033  3-0-0 3 3 47-48 
+Complex Networks  CS6L022  3-0-0 3 3 48 
+Internet of Things  CS6L024  3-0-0 3 3 49 
+Computational Aspects of Smart Grids  CS6L028  3-0-0 3 3 49 
+Wireless Sensor Networks  CS6L026  3-0-0 3 3 49-50 
+Sensor Networks  EC4L009  3-0-0 3 3 50-51 
+Fault -Tolerant Systems  CS6L006  3-0-0 3 3 51 
+High Performance Computer Architecture  CS6L009  3-1-0 4 4 51-52 
+Symbolic Logic and Automated Reasoning  CS4L015  3-0-0 3 3 52 
+Web Technology  CS6L011  3-0-0 3 3 53 
+Enterprise and Network Forensics  CS6L021  3-0-0 3 3 53-54 
+Networks and Systems Security  CS6L002  3-1-0 4 4 54 
+Cryptography  CS6L005  3-0-0 3 3 54-55 
+Cloud Computing  CS6L008  3-1-0 4 4 55 
+Interconnection Networks  EC4L010  3-0-0 3 3 55-56 
+Object Oriented System Design  CS6L025  3-0-0 3 3 56 
+Software Testing and Verification  CS6L023  3-0-0 3 3 56-57 
+Theory of Computation   CS6L035  3-0-0 3 3 57-58 
+Software Engineering  CS6L034  3-0-0 3 3 58-59 
+Software Reliability  CS6L003  3-0-0 3 3 59 
+Digital Forensics -I CS6L010  3-0-0 3 3 59-60 
+Digital Forensics -II CS6L020  3-0-0 3 3 60 
+Advanced Databases and Mining  CS6L017  3-0-0 3 3 60-61 
+Artificial Intelligence  CS6L019  3-0-0 3 3 62 
+Game Theory  CS6L031  3-0-0 3 3 62-63 
+Image and  Video Processing  EC6L002  3-1-0 4 4 63-64 
+Information Theory and Coding  EC6L003  3-0-0 3 3 64 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+20 
+  
+Syllabus for Core Courses for B.Tech Program   
+SEMESTER – III 
+Subject Code:   EC2L001  Subject Name: Introduction to 
+Electronics  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Introduction to Electronic Devices: passive devices, Diode, bipolar junction transistor 
+(BJT), metal oxide semiconductor field -effect transistor (MOSFET); Diode: basic 
+structure and types, operating principle, current -voltage characteristic, large and 
+small signal models; Diode Applications: rectifier circuits, zener voltage regulator 
+Regards, clipper and clamper circuits; BJT and their Application: structure and modes 
+of operation; NPN and PNP transistor in active mode, DC analysis, BJT as a swi tch and 
+amplifier, small signal equivalent circuits, single stage CE amplifier; MOSFET and 
+Applications: switch and amplifier; Operational Amplifier and applications: Basics, 
+summing amplifier, inverting and non -inverting configuration, voltage follower, 
+differentiat or and integrator; Feedback: Basic concepts of feedback, ideal feedback 
+topologies; Oscillators: Basic principle of sinusoidal oscillation, phase -shift oscillator, 
+wien-bridge oscillator; Digital Electronics: Boolean algebra and rules of simplification 
+and combinational circuits.  
+ 
+Text B ooks:  
+1. S. Sedra, K. C. Smith, “ Microelectronic Circuits ,” Oxford University Press, India, 
+2005.  
+2. A Malvino, D J Bates; “ Electronic Principles ,” Tata McGraw Hill, India, 2007.  
+ 
+Reference Books:  
+1. R C Jaeger, T N Blalock, Microelectronic Circuit Design ; Tata McGraw Hill, India, 
+2006.  
+4.  
+Subject Code:   ID2L002  Subject Name: Introduction to 
+Bioscience & Technology  L-T-P: 
+2-0-0 Credit: 2 
+Pre-requisite(s): Nil  
+Cell: The Unit of Life : The concept of cell in the perspective of a whole living body; 
+Concept of cell, tissue system, organ and whole organism. Brief overview of plant and 
+animal cell.  
+Genes are DNA & Bioinformatics : DNA is the genetic material; Structural aspects –
+components of DNA and RNA, Nucleosides & Nucleotides (introduction, structure & 
+bonding), Double helical structure of DNA (Watson and Crick model). Mutations 
+change the sequence of DNA, a gene codes for a single polypeptide, recombination 
+occurs by physical exchange DNA, genetic code is triplet. NCBI, protein primary 
+sequence analysis, DNA sequence analysis, sequence alignment, BLAST, multiple 
+sequence alignment; CLUSTALW.  
+Expression of genetic information : Central dogma: The Relationship between 
+genes and protein, V isualization of protein structure using PyMol, The Central dogma; Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+21 
+ The basic processes of DNA replication, RNA Transcription and Protein translation; 
+Protein function : Enzymes as a case study.  
+Mutation and Disease : Occurrence, kinds of Mutation, spontaneou s & induced 
+Mutation, Mutagens, detection of Mutation, Lethal Mutations, Biochemical Mutations, 
+Phenotypic effects of Mutation, Molecular basis of Mutation, Significance & Practical 
+applications of Mutation.  
+Immune system : An overview of immune system.  
+Genetic Engineering : Recombinant DNA technology and basic genetic engineering 
+techniques; some case studies: Cholera Toxin, Bt toxins, GM food, transgenic plants.  
+ 
+ 
+Reference Books:  
+1. Nelson D. L. and Cox M. M. Lehninger Principles of Biochemistry , W. H. Freeman & 
+Company.  
+2. Lodish H.; Berk A. and Kaiser C. A. Molecular Cell Biology  & eBook, W. H. Freeman 
+& Company.  
+5. 3. Voet and Voet. Biochemistry , Wiley.  
+Subject Code:   CS2L001  Subject Name: Discrete 
+Structure  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Set Theory:  Paradoxes in set theory; inductive definition of sets and proof by 
+induction;  
+Peono postulates; Relations; representation of relations by graphs; properties of 
+relations; equivalence relations and partitions; Partial orderings; Posets ; Linear and 
+well-ordered sets; Size of a set: Finite and infinite sets, countable and uncountable 
+sets, Cantor's diagonal argument and the power set theorem, Schroeder -Bernstein 
+theorem; Functions:  injection and surjections; composition of functions; inv erse 
+functions; special functions; Algebraic structures and morphisms: Algebraic structures 
+with one and two binary operations: semi groups, monoids, groups, rings, lattices, 
+Boolean Algebra; Propositional logic: Syntax, semantics, validity of formulas, 
+satisfiable and unsatisfiable formulas, encoding and examining the validity of some 
+logical arguments; soundness and completeness; Proof techniques: Proof by 
+Induction, proof by contradiction, contrapositive proofs, proof of necessity and 
+sufficiency; First order Logic: Brief introduction; Basics of soundness and 
+completeness; Introduction to graphs: Graphs and their basic properties - degree, 
+path, cycle, subgraphs, isomorphism, Eulerian and Hamiltonian walks, graph coloring, 
+planar graphs, trees.  
+ 
+Text B ooks: 
+1.  Kenneth H. Rosen : Discrete Mathematics and Its Applications , Kenneth H. Rosen, 
+McGraw Hill, 6th edition, 2007  
+2.  J.P.Tremblay & R. Manohar, Discrete Mathematical Structure with Applications to 
+Computer Science , Tata McGraw Hill, 2008.  
+ 
+Reference Books:  
+1.  Norman L. Biggs, Discrete Mathematics , Oxford University Press, 2nd edition, 
+2002.  
+2.  Liu and Mahapatra, Elements of Discrete Mathematics , Tata McGraw Hill, 3rd 
+edition, 2008.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+22 
+ Subject Code:   CS2L004  Subject Name: Data 
+Structures  L-T-P: 
+3-0-0 Credit: 3  
+Pre-requisite(s): Programming and Data Structure  
+Application of stacks queues and linked lists. Trees, traversals, binary search trees, 
+Balanced BST: AVL Trees, 2 -4 trees, Red -black trees, B -trees, Interval Trees.  
+ 
+Dictionaries. Tries, Compressed Tries and suffix trees.  
+ 
+Sorting: comparison based sorting - quick sort, heap sort, merge sort: worst and 
+average case analysis. Decision tree model and (worst case) lower bound on sorting. 
+Sorting in linear time - radix sort, bucket sort, count ing sort, etc. Hashing.  
+ 
+Priority queues and binary heaps, binomial and Fibonacci heaps, Skip lists. Data 
+Structure of Disjoint Sets.  
+ 
+Text B ooks:  
+1.  Thomas H. Cormen, Char les E. Leiserson, R.L. Rivest. Introduction to Algorithms , 
+Prentice Hall of India Publications, 3rd Edition 2015.  
+2.  J. Kleinberg and E. Tardos. Algorithm Design , Pearson, 2006.  
+ 
+Reference Books:  
+1.  Fundamentals of Data Structures in C  by Horowitz, Sahni, and Anderson -Freed, 
+Universities Press  
+2.  Algorithm Design: Foundations, Analysis and Internet Examples  by Goodrich and 
+Tamassia, John Wiley  
+3.  Computer Algorithms  by Baase and Van Gelder, Pearson.  
+6. 4.  Algorithms  by Sedgewick and Wayne, Addison Wesley, 2011  
+Subject Code:   EC2L002  Subject Name: Signals and 
+Systems  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil  
+Objective and overview, signal and system types and classifications, LTI system: 
+Causality, stability, step response, impulse response and convolution integral; Periodic 
+signal analysis: Fourier series and properties; Aperiodic signal analysis : Fourier 
+Transform - its properties and sinusoidal steady state analysis of systems; Discrete -
+time Fourier transform; Fourier transform for periodic signals; Time and frequency 
+characterization of signals and systems: magnitude -phase representation of Fourier 
+transfo rms; Unilateral and Bilateral Laplace Transforms and properties: Analysis and 
+characterization of LTI systems using Laplace transform; System function and block 
+diagram representation, Bode plot; Discrete signals: Sampling, digitization and 
+reconstruction of analog signals; Fourier transform of discrete signals: DFT, z -
+transforms; Discrete systems, transfer functions and convolution; Analog filter design: 
+Butterworth, Sallen Key, frequency transformation and scaling.  
+ 
+Text/Reference Books : 
+1.  A. V. Oppenhe im, A. S. Willsky and S. H. Nawab, “ Signals and Systems ,” 2nd Ed., 
+Pearson Prentice Hall, 2008.  
+2.  S. Haykin and B. V. Veen, “ Signals and Systems ,” 2nd Ed., Wiley India, 2007.  
+3.  H. P. Hsu, “ Signals and Systems  – Schaum’s  Outline Series,” McGraw Hill, 1995.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+23 
+  
+Subject Code:   EC2P001  Subject Name: Introduction 
+to Electronics Lab  L-T-P:  
+0-0-3 Credit: 2 
+Pre-requisite(s): Nil 
+Familiarization with electronic components; Familiarization and usage with 
+oscilloscope, signal generator, multimeter; Frequency -response of R -C, C-R and R -L 
+networks; Square -wave testing, V -I characteristics of PN junction diode and zener 
+diode; Voltage R ectifiers; Common -Emitter amplifiers; Analog circuits using OP -AMP; 
+logic gates.  
+ 
+Text B ooks:  
+1.  S. Sedra, K. C. Smith, “ Microelectronic Circuits ,” Oxford University Press, India, 
+2005.  
+2.  A Malvino, D J Bates; “ Electronic Principles ,” Tata McGraw Hill, India, 2007.  
+ 
+Reference Books:  
+7. 1.  R C Jaeger, T N Blalock,  “Microelectronic Circuit Design ,” Tata McGraw Hill, India, 
+2006.  
+Subject Code:   EC2P002  Subject Name: Signals and 
+Systems Laboratory  L-T-P: 
+0-0-3 Credit: 2 
+Pre-requisite(s): Nil 
+Basic MATLAB Programming: Manipulation of Vectors, Arrays and Matrices, Arithmetic 
+Operations, Logical Operations, Loops, M -files & Functions, Mathematical Functions; 
+Graphics and 3 -D Visualization: Plotting of One -dimensional and Two -dimensional 
+Signals, Plotting Symb olic Functions, 3 -D Plotting; Mathematical Functions: Finding 
+Roots of Polynomials, Computing Integration and Differentiation, Solving Differential 
+and Difference Equations, Polynomial Curve Fitting, Recording, Storing, Reading, and 
+M-File; Functions: Reco rding and Playing Signals, Storing and Reading Data in 
+Different Formats, Creating M -Functions for Generating Different Elementary Signals, 
+Creating M -Functions for Computing Different Statistical Parameters; Analysis of 
+Systems: Finding Convolution, Findi ng Laplace and Inverse Laplace Transforms, 
+Finding Z -and Inverse -Z Transforms, Zero -Pole Analysis; Analysis of Signals and 
+Systems: Sampling of Signals, Fourier Series of Signals, Finding Magnitude and Phase 
+Spectrum of Signals, Frequency Response of Syste m; Convolution and Filtering, 
+Creating GUI in MATLAB, MATLAB Simulink Modelling.  
+ 
+Text/Reference  Books:  
+1.  A. V. Oppenheim, A. S. Willsky and S. H. Nawab, “ Signals and Systems ,” 2nd Ed., 
+Pearson Prentice Hall, 2008.  
+2.  S. Haykin and B. V. Veen, “ Signals and Systems ,” 2nd Ed., Wiley India, 2007.  
+3.  H. P. Hsu, “ Signals and Systems  – Schaum’s Outline Series,” McGraw Hill, 1995.  
+8.  
+Subject Code:   CS2P002  Subject Name: Data 
+Structure Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Programing and Data Structures  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+24 
+ Applications of the Data Structures discussed in the class: Two -way Stack, Dequeue, 
+Priority queue, Sorting Algorithms, Dictionary data structures for string handling, 
+Cycle detection and removal, Application of BST, AVL Trees, Data structure for big 
+data maintenance, Tree traversal algorithms, efficient insertion and deletion algorithm 
+with variations across different applications, Hashing Techniques, Application of Union -
+Find Data Structure for set theoretic problems.  
+ 
+Text B ooks:  
+1.  Al Kell ey and Ira Pohl. A book on C , 4th Edition, Pearson India, 1998.  
+2.  Brain W. Kernighan & Dennis Ritche, The C Programming Language , Prentice Hall 
+of India.  
+ 
+Reference Books:  
+1.  Ellis Horowitz, Satraj Sahni and Susan Anderson -Freed, Fundamentals of Data 
+Structures in C , W.  H. Freeman and Company.  
+2.  Byron Gottfried, Schaum's Outline of Programming with C , McGraw -Hill. 
+9.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+25 
+ SEMESTER – IV 
+Subject Code:   CS2L002  Subject Name: Design and  
+Analysis of  Algorithms  L-T-P: 
+3-1-0 Credit: 4 
+Pre-requisite(s): Programing and Data Structures ,  Data Structure  
+Analysis Techniques: Introduction to algorithms and its importance, mathematical 
+foundations: growth functions, complexity analysis of algorithms, summations, 
+recurrences, Master’s Theorem,  Amortized Analysis.  
+ 
+Design Techniques: Divide and conquer, Greedy Algorithm; Dynamic Programming, 
+Branch and Bound, Backtracking Techniques.  
+ 
+Elementary Graph algorithms: DFS, BFS, Topological Sort, Strongly Connected 
+Components, Minimum Spanning Trees,  Single source shortest path, All pair shortest 
+path; Network Flows: Ford Fulkerson Algorithm, Max Flow -Min Cut; Bipartite Matching.  
+String matching Algorithm: Rabin – Karp algorithm, Knuth – Morris Pratt algorithm.  
+ 
+NP-Completeness: Polynomial -time verif ication, NP -completeness and reducibility, NP -
+completeness proofs, NP -complete problems. Introduction to Approximation 
+Algorithms.  
+ 
+Text books:  
+1.  Thomas H. Cormen, Charles E. Leiserson, R.L. Ri vest. Introduction to Algorithms , 
+Prentice Hall of India Publications, 3rd Edition 2015.  
+2.  J. Kleinberg and E. Tardos. Algorithm Design , Pearson 2006.  
+ 
+Reference Books:  
+1.  Sara Baase and Allen Van Gelder. Computer Algorithms: Introduction to Design 
+and Analysis , Pearson education (Singapore) Pvt. Ltd, New Delhi 2007.  
+2.  Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman.  The Design and Analysis of 
+Computer Algorithms , Pearson Education (Singapore) 2006.  
+3.  Algorithmics: Theory and Practice  by Brassard and Bratley, Prentice Hall  
+Subject Code:   EC2L004  Subject Name: Digital 
+Electronics Circuits  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Introduction to Electronics  
+Logic gates – AND, OR, NOT, XOR, XNOR, NAND, NOR. combinational  logic circuits. 
+Switching functions, Boolean algebra – axioms and laws, minimization of switching 
+functions – algebraic method, K -map, Quine -McCluskey’s method; Number systems & 
+representation – binary, octal, decimal and hexadecimal, code conversion of n umbers. 
+Addition and subtraction of binary and decimal numbers; Comparators, multiplexer -
+demultiplexer, codes and code conversion, PLA; Universal logic gates – NAND -NOR, 
+circuit realization; TTL logic family – circuit operations, fan -in and fan -out, noise 
+margin, tri -state, open -collector circuits; CMOS – circuit operations, fan -in and fan -
+out, noise margin; TTL -to-CMOS and CMOS -to-TTL interfacing; IC555 chip circuit 
+operation and applications; Astable, monostable, bistable multivibrators – discrete 
+compone nt and IC555 based circuits; Different types of flip -flops – RS, JK, D and T 
+flip-flops; gated, master -slave and edge triggered flip -flops; Different types of 
+Registers; Counters - asynchronous and synchronous counters, design of synchronous 
+counters with any specified sequence; Finite state machine – Moore and Mealey Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+26 
+ models – examples; Synchronous sequential circuit synthesis: state transition 
+diagrams, state tables, minimization, state assignments, realization with different 
+types of flip -flops; Analysis of  synchronous sequential circuits; Concepts of 
+asynchronous sequential circuits - races.  
+ 
+Text Books:  
+1.  S. Lee, “ Digital Circuits and Logic Design ” Prentice Hall India.  
+2.  D. P. Leach, A. P. Malvino and G. Saha, “ Digital Principles and Applications ,” Tata 
+McGraw Hill.  
+3.  M. Morris Mano, “ Digital Logic and Computer Design ,” Prentice Hall.  
+ 
+Reference Books:  
+1.  Z. Kohavi and N. K. Jha,  “Switching and Finite Automata Theory,”  Tata McGraw 
+Hill. 
+ 
+Subject Code:   CS2P001  Subject Name: Design and 
+Analysis of  Algorithms 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2 
+Pre-requisite(s): Data Structures  
+Implementation of Algorithms covered in Theory Class:  Sorting, Matrix Multiplications, 
+Trees, Graph Traversals, Shortest Paths, Network Flows, Algorithms, Network Flows.  
+[This will involve running the algorithms under varying input sets and measuring 
+running times, use of different data structures for the same algorithm (wherever 
+applicable) to see its effect on time and space, comparison of different algorithms for 
+the sa me problem etc.]  
+Design of Algorithms:  This will involve design and implementation of algorithms for 
+problems not covered in class but related to topics covered in class.  
+[The exact set of algorithms to design and implement is to be decided by the instru ctor. 
+In addition, there will be at least one significantly large design project involving some 
+real world application. An efficient design of the project should require the use of 
+multiple data structures and a combination of different algorithms/techniqu es.] 
+Text Books:  
+1.  Thomas H. Cormen, Charles E. Leiserson, R.L. Rivest.. Introduction to Algorithms , 
+Prentice Hall of India Publications, Fourth Edition 2011.  
+ 
+Reference Books:  
+1.  Sara Baase and Allen Van Gelder. Computer Algorithms: Introduction to Design 
+and Analysis , Pearson education (Singapore) Pte. Ltd, New Delhi 2007.  
+2.  Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman.. The Design and Analysis of 
+Computer Algorithms , Pearson Education (Singapore) 2006  
+3.  J. Kleinberg and E. Tardos, Algorithm Design , Addison -Wesley.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+27 
+ Subject Code:   EC2P004  Subject Name: Digital 
+Electronic  Circuits  Laboratory  L-T-P: 
+0-0-3 Credit: 2 
+Pre-requisite(s): Nil 
+Truth tables of Logic gates; Half Adder and Full Adder; Multiplexer and De -
+multiplexer; Comparators; Encoders; Schmitt Trigger; Multivibrators: Astable, 
+Monostable and Bi -stable; Flip Flops: S -R, J-K and D; Asynchronous and Synchronous 
+Counters: Up -Down, Ripple counter, Ring counter  
+1. Text B ooks:  
+1.  S. Lee, “ Digital Circuits and Logic Design ” Prentice Hall India.  
+2. 2.  D. P. Leach, A. P. Malvino and G. Saha, “ Digital Principles and Applications ,” Tata 
+McGraw Hill.  
+3. 3.  M. Morris Mano, “ Digital Logic and Computer Design ,” Prentice Hall.  
+ 
+Reference Books:  
+1.  Z. Kohavi and N. K. Jha, “ Switching and Finite Automata Theory ,” Tata McGraw 
+Hill. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+28 
+ SEMESTER – V 
+Subject Code:   CS3L001  Subject Name: Formal 
+Languages and Automata 
+Theory  L-T-P: 
+3-1-0 Credit: 4 
+Pre-requisite(s): Nil 
+Finite Automata: Basic Concepts, Deterministic Finite Automata (DFA), Non -
+deterministic Finite Automata  (NFA), Equivalence between NFA and DFA; Regular 
+Languages: Regular expression and equivalence to Finite Automata (FA),  Algebraic 
+laws for regular expr essions,  pumping lemma and applications, properties of regular 
+languages, minimization of automata and applications; Context -free languages: 
+Context -free grammars (CFG)and languages, pushdown automaton (PDA), various 
+forms of PDA, equivalence between CFG and PDA, Chmosky normal form of CFG, 
+pumping lemma, properties of CFLs; Turing Machines: Turing machines, decidability 
+and undecidability  
+Text B ooks:  
+1.  S. 1. Michael Sipser: Introduction to the Theory of Computation , 3rd edition,  PWS  
+Publishing Company,  2012.  
+2.  E. Hopcroft, R. Motwani and J. D. Ullman: Introduction to Automata Theory , 
+Languages and Computation. Low priced paperback edition, published by Pearson 
+Education, 2007.  
+ 
+Reference Books:  
+1.  H. R. Lewis and C. H. Papadimitriou. Elements of the Theory of Computation , 
+Eastern economy edition, 1998.  
+Subject Code:   CS3L002  Subject Name: Computer 
+Organization and Architecture  L-T-P: 
+4-0-0 Credit: 4  
+Pre-requisite(s): Digital Electronic Circuits  
+Overview of computer organization – components and system buses, Concepts of 
+assembly and machine language programs, Machine language program execution – 
+instruction cycles, machine cycles and bus cycles; Overview of memory and I/O 
+addressing; CPU organiza tion – components and subsystems, register banks, internal 
+bus structure, information flow; Instruction set – characteristics and functions, types 
+of operation and operands. Addressing modes – various ways of addressing memory 
+and input -output devices and their timing characteristics; CISC and RISC architectures 
+– examples; ALU – flags, logical operations, fixed point number representations and 
+arithmetic, floating point number representations and arithmetic, exceptions; Control 
+Unit – how it operates, hard wired control unit, concepts of microprograms and 
+microprogrammed control unit; Memory hierarchy – main memory – types and 
+interfacing; Cache memory – its organizations and operations, levels of caches; 
+Memory management module – paging and segmentation, v irtual memory; Disk 
+memory, RAIDs. Back -up memory; Interrupts and interrupt structures – interrupt 
+cycles, handling multiple simultaneous interrupts, programmable interrupt controllers; 
+I/O interfacing and modes of I/O data transfer. Direct memory access – DMA Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+29 
+ controller; Instruction level parallelism – instruction pipelining, pipeline hazards; 
+Concepts of multiprocessor systems. Examples will be drawn from real life RISC and 
+CISC processors.  
+Text Books:  
+1.  Computer Organization and Architecture – Designing for Performance  by W 
+Stallings – Pearson  
+2.  Computer Architecture and Organization   by J P Hayes – McGraw -Hill 
+3.  Computer Organization and Design – The Hardware/Software Interface  (ARM 
+Edition) by D A Patterson and J L Hennessy – Morgan Kaufma nn 
+ 
+Reference Books:  
+1.  Structured Computer Organization by A S Tennenbaum – Prentice Hall  
+2.  Computer Organization  by Carl Hamacher, Zvonko Vranesic and Safwat Zaky – 
+McGraw Hill  
+3.  Computer Architecture – A Quantitative Approach  by D A Patterson and J L 
+Hennessy – Morgan Kaufmann   
+Subject Code:   CS3L005  Subject Name: Operating 
+Systems  L-T-P: 
+4-0-0 Credit: 4  
+Pre-requisite(s): Nil 
+Operating systems – overview and objectives; Process concept – process control 
+block, process life cycle; multi -processing and process management, multi -threaded 
+programming;  
+Process scheduling – long and short time scheduling, preemptive and non -preempti ve 
+scheduling, dispatching, scheduling criteria and algorithms; Concurrent cooperating 
+sequential processes – process synchronization, critical section, synchronization 
+hardware, semaphores, monitors; Deadlocks – conditions for deadlock, deadlock 
+preventio n, avoidance, detection and recovery, classic problems. Memory 
+management – partitioning, paging, segmentation, segmentation with paging. Virtual 
+memory – demand paging, page replacement policies; I/O systems – I/O interfaces 
+and busses, interrupt structur es and interrupt handlers, Direct memory access. File 
+systems – disk structures and disk accesses, blocking and buffering, directories and 
+file allocation strategies, protection. RAID structures; Overview of Security and 
+protection. Concepts of distributed  and real time systems; Examples will be drawn 
+from existing operating systems.  
+ 
+Text books:  
+1.  A. Silberschatz, P. B. Galvin and G. Gagne, “ Operating System Principles ,”  John 
+Wiley & Sons.  
+2.  Stallings, “ Operating Systems – Internals & Design Principles ,” Pearson Education.  
+   
+Reference Books:  
+1.   A. S. Tenenbaum, “ Modern Operating Systems ,” Prentice Hall.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+30 
+ Subject Code:   CS3P001  Subject Name: Computer 
+Organization and Architecture 
+Laboratory  L-T-P: 
+0-0-3 Credit: 2 
+Pre-requisite(s): Digital Electronics  
+Familiarization with assembly language programming, Synthesis/design of simple data 
+paths and controllers, processor design, Interfacing - DAC, ADC, keyboard -display 
+modules, etc., Development kits as well as Microprocessors/PCs may be used for the 
+laboratory, along with design/simulat ion tools as and when necessary . 
+Text Books:  
+1.  David A. Patterson and John L. Hennessy, Computer Organization and Design: The 
+Hardware/Software Interface,  Elsevier.  
+2.  Carl Hamachar, Zvonco Vranesic and Safwat Zaky, Computer Organization , 
+McGraw Hill.   
+Reference Books:  
+1.  John P. Hayes, Computer Architecture and Organization , McGraw Hill.  
+2. William Stallings, Computer Organization and Architecture: Designing for 
+Performance , Pearson Education.  
+3.   Vincent P. Heuring and Harry F. Jordan, Computer Systems Design and Architecture , 
+Pearson Education.  
+ 
+Subject Code:   CS3P003  Subject Name: Operating 
+Systems Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Nil 
+Familiarization with UNIX system calls for process management and inter -process 
+communication; Experiments on process scheduling and other operating system tasks 
+through simulation/implementation under a simulated environment.  
+Text B ooks:  
+1.  Avi Silberschatz, Peter Galvin, Greg Gagne , Operating System Con cepts , Wiley Asia 
+Student Edition.  
+2.  William Stallings, Operating Systems: Internals and Design Principles , Prentice Hall 
+of India.  
+    
+Reference Books:  
+1.  Gary J. Nutt, Operating Systems: A Modern Perspective , Addison -Wesley.  
+2.  Maurice Bach, Design  of the Unix Operating Systems , Prentice -Hall of India.  
+3. Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel , O'Reilly and 
+Associates.  
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+31 
+ SEMESTER – VI 
+Subject Code:   CS3L003  Subject Name: Database 
+Systems  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil 
+Introduction:  General introduction to database systems; Database -DBMS distinction, 
+Approaches to building a database, Data models, Database management system, 
+Three -schema architecture of a database, Challenges in building a DBMS, V arious 
+components of a DBMS;  
+Entity Relationship Model: Conceptual data modeling - motivation, Entities, Entity 
+types, Various types of attributes, Relationships, Relationship types, E/R diagram 
+notation, Specialization and Generalization, Examples; Relational Data Model: Concept 
+of relations, Schema -instance distinction, Keys, referential integrity and foreign keys; 
+Relational Algebra: Selection, Projection, Cross product, Various types of joins, 
+Division, Example queries;  
+Introduction to Tuple relation calculus, Domain relational ca lculus, Converting the 
+database specification in E/R notation to the relational schema; SQL: Introduction, 
+Data definition in SQL, Table, key and foreign key definitions, Update behaviors, 
+Querying in SQL, Basic select - from- where block and its semantics,  Nested queries - 
+correlated and uncorrelated, Notion of aggregation, Aggregation functions group by 
+and having clauses, Embedded SQL;  
+Functional Dependencies and Normal forms: Importance of a good schema design, 
+Problems encountered with bad schema desig ns, Motivation for normal forms, 
+dependency theory - functional dependencies, Armstrong's axioms for FD's, Closure of 
+a set of FD's, Minimal covers; Definitions of 1NF, 2NF, 3NF and BCNF, Decompositions 
+and desirable properties of them, Algorithms for 3NF and BCNF normalization; Multi -
+valued dependencies and 4NF, Join dependencies and definition of 5NF; Data Storage 
+and Indexes: File organizations, Primary, Secondary index structures, Various index 
+structures - hash-based, Dynamic hashing techniques, Multi -level indexes, B trees, B+ 
+trees; Transaction processing and Error recovery: Concepts of transaction processing, 
+ACID properties,  Concurrency control, Locking based protocols for CC, Error recovery 
+and logging, Undo, Redo, Undo -redo logging and recovery m ethods.  
+ 
+Text Books:  
+1.  R. Elmasri and S. B. Navathe, Fundamentals of Database systems , Sixth Edition, 
+Addison Wesley 2010.  
+2.  A. Silberschatz, H. F. Korth, S. Sudarshan, Database System Concepts , Sixth 
+Edition McGraw Hill 2010.  
+ 
+Reference Books:  
+1.  Ramakrishnan, Raghu, and Johannes Gehrke. Database Management Systems . 3rd 
+ed. McGraw -Hill, 2002  
+ 
+Subject Code:   CS3L006  Subject Name: Computer 
+Networks  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+32 
+ Introduction: goals of networking, well -known applications such as web, e -mail and 
+ftp, need for a layered architecture, OSI model and Internet; Host -to-host data 
+communication: RS -232 over serial line; handshaking and error handling – EDC, ECC; 
+packet swi tching; circuit switching; reliable transmission - stop-and-wait, sliding 
+window protocols; logical connection;   
+Multiple co -located hosts data communication: addressing, LAN access methods; 
+CSMA/CD, Ethernet, Token passing, Token Ring, FDDI, wireless LANs; Simple 
+performance models; WAN access methods – Point to Point protocol (PPP); Remotely 
+located hosts data comm unication: addressing, interconnection of LANs; repeaters, 
+bridges, routers; ATM cell -switching; IP: routing protocols (distance vector, link state 
+packet routing); congestion control concepts and mechanisms (choke packets, leaky 
+bucket, token bucket); IPv 4, CIDR (Classless Inter -domain routing); End -to-end 
+reliability: the end -to-end argument; protocols - TCP, UDP, RPC; connection 
+establishment, flow control; Application protocols for email, ftp, web, DNS; Advanced 
+Networking: overview to network managemen t systems; security threats and 
+solutions – Firewalls, Access Control Lists, IPSec, IDS.  
+ 
+Text Books:  
+1.  W. Stallings. Data and Computer Communications , 7th Edition, Prentice Hall, 2004.   
+2.  A. S. Tanenbaum. Computer Networks , 3rd Edition, Prentice Hall  PTR, 1996.       
+ 
+Reference Books:  
+1.  L. L. Peterson and B. S. Davie. Computer networks: a systems approach , 3rd 
+Edition, Morgan Kaufmann Publishers, 2001.  
+2.  Behrouz A. Forouzan, Data Communication and Networking , McGraw -Hill.   
+3.  W. Richard Stevens, TCP/IP Illustrated , Volume 1, Addison -Wesley.  
+ 
+Subject Code:   CS3P002  Subject Name: Database 
+Systems Laboratory  L-T-P: 
+0-0-3 Credit: 2 
+Pre-requisite(s): Nil 
+Database schema design, database creation, SQL programming on database creation, 
+update and querying; Report generation using a commercial RDBMS like ORACLE and 
+SQL-Server, PL/SQL programming, Stored Procedures, Triggers, Accessing through 
+views, Students are to be exposed to front end development tools, ODBC and CORBA 
+calls from application Programs, internet based access to databases and database 
+administration.  
+ 
+Text Books  
+1. R. Elmasri and S. B. Navathe, Fundamentals of Database systems , Sixth 
+Edition, Addison Wesley 2010.  
+2. A. Silberschatz, H. F. Korth, S. Sudarshan, Database System Concepts , Sixth 
+Edition McGraw Hill 2010.  
+ 
+Reference Books  
+ 
+1. Ramakrishnan, Raghu, and Johannes Gehrke. Database Management Systems . 
+3rd ed. McGraw -Hill, 2002.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+33 
+ Subject Code:   CS3P004  Subject Name: Computer 
+Networks Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Nil 
+Simulation experiments for Network and Transport layer protocols performance – 
+OSPF, RIP, BGP, TCP, IP, etc., Configuring, testing and measuring network devices 
+(e.g., switches, routers, firewalls) and parameters/policies (interfaces, bandwidth, 
+access control, etc.), Network management experiments; Exercises on network 
+programming, Projects on Network Service Management and Communications.  
+ 
+Text Books  
+1.  W. Stallings. Data and Computer Communications , 7th Edition, Prentice Hall, 2004.   
+2.  A. S. Tanenbaum. Computer Networks , 3rd Edition, Prentice Hall PTR, 1996.       
+ 
+Reference Books  
+1.  L. L. Peterson and B. S. Davie. Computer networks: a systems approach , 3rd 
+Edition, Morgan Kaufmann Publishers, 2 001.  
+2.  Behrouz A. Forouzan, Data Communication and Networking , McGraw -Hill.   
+3.  W. Richard Stevens, TCP/IP Illustrated , Volume 1, Addison -Wesley.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+34 
+ SEMESTER – VII 
+Subject Code:   CS4L001  Subject Name: Compiler 
+Design  L-T-P: 3-
+1-0 Credit:  4 
+Pre-requisite(s): Programming and Data Structure s, Formal Languages and 
+Automata Theory  
+Introduction: Overview and phases of compilation; Lexical Analysis: Non -deterministic 
+and deterministic finite automata (NFA &  DFA), regular grammar, regular expressions 
+and regular languages, design of a lexical analyser as a DFA, lexical analyser 
+generator; Syntax Analysis: Role of a parser, context free grammars and context free 
+languages, parse trees and derivations, ambiguou s grammar; Top Down Parsing: 
+Recursive descent parsing, LL(1) grammars, non -recursive predictive parsing, error 
+reporting and recovery; Bottom Up Parsing: Handle pruning and shift reduces parsing, 
+SLR parsers and construction of SLR parsing tables, LR(1) p arsers and construction of 
+LR(1) parsing tables, LALR parsers and construction of efficient LALR parsing tables, 
+parsing using ambiguous grammars, error reporting and recovery, parser generator; 
+Syntax Directed Translation: Syntax directed definitions (SDD ), inherited and 
+synthesized attributes, dependency graphs, evaluation orders for SDD, semantic rules, 
+application of syntax directed translation; Symbol Table: Structure and features of 
+symbol tables, symbol attributes and scopes; Intermediate Code Genera tion: DAG for 
+expressions, three address codes - quadruples and triples, types and declarations, 
+translation of expressions, array references, type checking and conversions, 
+translation of Boolean expressions and control flow statements, back patching, 
+intermediate code generation for procedures; Run Time Environment: storage 
+organizations, static and dynamic storage allocations, stack allocation, handlings of 
+activation records for calling sequences; Code Generations: Factors involved, registers 
+allocation , simple code generation using stack allocation, basic blocks and flow graphs, 
+simple code generation using flow graphs; Elements of Code Optimization: Objective, 
+peephole optimization, elimination of local common sub -expressions, redundant and 
+un-reachabl e codes, flow of control optimization.  
+ 
+Text Books:  
+1.  K. D. Cooper and L. Torczon, “ Engineering a Compiler ,” Morgan Kaufman.  
+2.  Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman, “ Compilers: 
+Principles, Techniques and Tools ,” Pearson Education.  
+ 
+Reference Book s: 
+1.  Compiler Design  in C by Holub – PHI. 
+2.  Modern Compiler Design  by Dick Grune et al – Wiley India.  
+ 
+Subject Code:   CS4P001  Subject Name: Compiler 
+Design  Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Programming and Data Structure s, Formal Language s and 
+Automata Theory  
+Familiarity with compiled codes (assembly language) of RISC and CISC machines, 
+writing a scanner, writing predictive parser for a small language, small experiment 
+with scanner (lex/flex) and parser ( yacc/byson) generator (such as translation of Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+35 
+ regular expression to NFA or the construction or parse tree), writing scanner -parse 
+specification for a small language, translation of the language to an intermediate form 
+(e.g. three -address code), generation of target code (in assembly language). Code 
+improvement (optional).  
+ 
+Text Books : 
+1.  Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and 
+Tools, Addison -Wesley.  
+2.  Michael L. Scott, Programming Language Pragmatics , Elsevier.  
+ 
+Reference Books : 
+1.  Andrew W. Appel, Modern Compiler Implementation in C/Java , Cambridge 
+University Press.  
+2.  Keith D. Cooper and Linda Torczon, Engineering a Compiler , Elsevier.  
+3.  Allen I. Holob, Compiler Design in C , Prentice -Hall. 
+4.  Steven S. Muchnik, Advanced Compiler Design and Implementation , Elsevier.  
+5.  Randy Allen and Ken Kennedy, Optimizing Compilers for Modern Architectures , 
+Elsevier.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+36 
+ Syllabus for Elective  Courses  
+Subject Code : 
+CS4L030  Subject Name:  
+Computational Geometry  L-T-P: 3-0-0 Credits : 3 
+Prerequisite:  Programming and Data Structure, Designing and Analysis of Algorithms  
+Syllabus:  History of Computational Geometry, CG theory, CG in Applications. Basic 
+Euclidean geometry: Plane, space, point, li ne, half -plane, line segment, intersection, 
+proper intersection, polygon, edges, vertices, circle, and distances.  Convexity, convex 
+hull, finding convex hull, development of a slow convex hull algorithm, alternate 
+approaches of convex hull, proof of corre ctness, computational complexity analysis, 
+divide -and conquer approach, convex hull in 3D (convex polyhedron).  Map overlay 
+problem, line segment intersection, finding intersection points of n line segments in a 
+plane, input sensitive and output sensitive algorithms, 1D problem, 2D line segment, 
+plane sweep algorithm, data structure for line sweep algorithm, storage and 
+computation complexity of the algorithm, how to deal with degenerate cases. Map 
+overlay problem, subdivision representation, planar subdivi sion, important 
+components to represent planar subdivision, Euler’s formula for planar graph, 
+representing subdivision, doubly connected edge list representation of planar 
+subdivision, map -overlay: plane sweep algorithm,  Boolean operations on polygons, 
+complexity of the plane weep algorithm. Triangulation of polygon, Art gallery problem, 
+proof of existence of triangulation, dual graph and 3 -coloring, finding minimum 
+number of cameras to monitor a closed geographical area, y -monotone polygon, 
+segmenting a p olygon into y -monotone polygons, a line sweep algorithm, 
+computational complexity, degenerate cases, triangulation of a monotone polygon and 
+its complexity. Smallest closing circles, randomized incremental construction, smallest 
+closing circles with two po ints, finding the narrowest strip, rotating caslipers algorithm, 
+minimum bounding box, lowest point in circle, separation of set of points (RED BLUE). 
+Range searching, 1 -D range query problem, balanced binary search tree 
+representation for 1D range query,  computational and storage complexity analysis, 
+range queries in 2D, KD -trees, KD -trees for range query, computational complexity 
+analysis. Planar point locations, trapezoidal decomposition, vertical decomposition and 
+faces, point location solution using v ertical decomposition. Voronoi diagrams, 
+construction of Voronoi diagram for a given set of points, plane sweep algorithm for 
+Voronoi diagram construction, data structure to implement the plane sweep algorithm, 
+events during execution of plane sweep algori thm, computational complexity of the 
+algorithm, Voronoi diagram for line segments. Delaunay triangulation, terrains by 
+interpolation, angle vector of triangulation, edge flipping, illegal edges, Thales 
+theorem, legal triangulation, Voronoi diagram and Dela unay graph, planarity of the 
+Delaunay graph, Angle optimality, Applications of Delaunay triangulation, Euclidean 
+MST, Euclidean TSP.  
+Text Books:  
+1. M. de Berg, M. Van Kreveld, M. Overmars, and O. Schwarzkopf, Computational 
+Geometry: Algorithms and Applications  (3rd Edition), Springer, 2008.  
+Reference Books:  
+1. Computational Geometry Algorithm Library  (CGAL): http://www.cgal.org  
+Subject Code:  
+CS4L010  Subject Name:  
+Computer Graphics  L-T-P: 3-1-0 Credits : 4 
+Prerequisite: Programming and Data Structure, Designing and Analysis of Algorithms  
+Syllabus:   Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+37 
+ Graphics display devices, Input devices, Rendering pipeline, Raster Graphics: Line and 
+Circle drawing algorithms, Windowing, Clipping: Cohen and Sutherland line c lipping, 
+Cyrus -beck clipping method, 2D and 3D Geometrical Transformations, Viewing 
+Transformations: parallel and perspective projection, Curves and Surfaces: Cubic 
+splines, Bezier curves, B -splines, Tensor product surfaces, Surface of revolution Sweep 
+surfaces, Fractal curves and surfaces, Hidden line/surface removal methods, 
+Illumination model, Polygon Shading: Gouraud, Phong, Introduction to Ray -tracing, 
+Animation.  
+Graphics Programming: Getting started with OpenGL, Input and Interaction in 
+OpenGL, Geomet rical Objects and Transformations in 2D and 3D, homogeneous 
+coordinates, matrix representation, windows and viewports, Viewing in 3D, 
+projections, hidden surface removal, Light, shading and materials. Illumination and 
+Shading, light sources, (surface detai l, ray tracing, radiosity), and possibly one or 
+more from the following in less detail: From Vertices to Fragments: modeling, 
+geometry processing, rasterization, fragment processing. Clipping, hidden surface 
+removal, antialiasing. Discrete techniques: buff ers, bit and pixel operations, texture 
+mapping, compositing. Programmable shaders: OpenGL shading language, fragment 
+shaders, cub and bump maps. Modelling Techniques, trees, scene graphs. Curve and 
+surface representation Advanced rendering techniques: ray tracing, radiosity, image 
+based rendering.  
+Text Books:  
+1. Donald Hearn, M. Pauline Baker, Computer Graphics , 2nd edition, C version, Prentice 
+Hall, 1996.  
+2. James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes, Computer 
+Graphics : Principles & Pract ices, Addison Wesley Longman, 2nd edition in C, 1994  
+Reference Books:  
+1. Computational Geometry Algorithm Library  (CGAL): http://www.cgal.org  
+2. M. de Berg, M. Van Kreveld, M. Overmars, and O. Schwarzkopf, Computational 
+Geometry: Algorithms and Applications  (3rd Edition), Springer, 2008.  
+ 
+Subject Code:  
+EC6L029  Subject Name:  
+Computer Vision  L-T-P: 3-0-0 Credits:  3 
+Prerequisite: Programming and Data Structure  
+Syllabus:   
+Introduction to computer vision, fundamentals of image formation, camera imaging 
+geometry. Filtering, Image Representations, and Texture Models, Color Vision, Multi -
+view Geometry, Projective Reconstruction, Bayesian Vision; Statistical Classifiers, 
+Clusteri ng & Segmentation; Voting Methods, Tracking and Density Propagation, Visual 
+Surveillance and Activity Monitoring, Medical Imaging, Image Databases, Image -Based 
+Rendering.  
+Feature detection and matching, stereo, motion estimation and tracking, image 
+classif ication, scene understanding, and deep learning with neural networks. Basic 
+methods for applications , finding known models in images, depth recovery from stereo, Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+38 
+ camera calibration, image stabilization, automated alignment, tracking, boundary 
+detection, a nd recognition. Intuitions and mathematics of vision algorithms.  
+Text B ooks:  
+1. Richard Szeliski, Computer Vision: Algorithms and Applications, Springer -Verlag 
+London Limited 2011.  
+2. Computer Vision: A Modern Approach, D. A. Forsyth, J. Ponce, Pearson Educatio n, 
+2003.  
+Reference Books:  
+1. Richard Hartley and Andrew Zisserman, Multiple View Geometry in Computer Vision, 
+Second Edition, Cambridge University Press, March 2004.  
+2. K. Fukunaga; Introduction to Statistical Pattern Recognition, Second Edition, 
+Academic Press,  Morgan Kaufmann, 1990.  
+3. R.C. Gonzalez and R.E. Woods, Digital Image Processing, Addison - Wesley, 1992.  
+Subject Code:  
+CS6L013  Subject Name:  
+Multimedia Systems  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Programming and Data Structures  
+Syllabus:   
+Fundamentals of  multimedia, media and data streams, sound/audio, image, graphics, 
+video and animation. Topics in data compression including coding requirements, 
+source, entropy, and hybrid coding, JPEG, H.261 (px64), MPEG, MP3 and etc. 
+Computer technology issues such as communication architecture, multimedia 
+workstations, cache systems, storage systems and optical storage. Multimedia 
+operating system issues such as real -time operation, resource management, process 
+management, file systems, and Multimedia networking. Multi media synchronization, 
+presentation requirements, reference model, and synchronization techniques. 
+Multimedia database issues such as data organization, indexing and retrieval. 
+Multimedia applications including digital libraries, system software, toolkits,  
+conferencing paradigms, structured interaction support, and examples from 
+video/audio/graphics conferencing. Latest Web technologies, such as XML, X3D and 
+Semantic Web.  
+Text Books:  
+1. Fundamentals of Multimedia , Ze-Nian Li, and Mark S. Drew, Pearson Prentice  Hall, 
+October 2003.  
+Reference Books:  
+1. Multimedia Database Management Systems , B. Prabhakaran, Kluwer Academic 
+publishers.  
+Subject Code:  
+CS6L015  Subject Name:  
+Mathematical 
+Foundations of 
+Computer Science  L-T-P: 3-0-0 Credits:  3 
+Prerequisite: None  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+39 
+ Syllabus:   
+Discrete Structures -- Sets, Relations and Functions; Algebraic Structures, Morphisms, 
+Lattices and Boolean Algebras.  Logic -- Propositional calculus and Predicate Calculus, 
+Satisfiabiliy and validity, Soundness and completeness  Languages & Au tomata Theory 
+-- Chomsky Hierarchy of Grammars and language acceptors, Turing Machines, 
+Recursive and Recursively Enumerable Languages  Computability -- Church -Turing 
+Thesis, Decision Problems, Decidability and Undecidability, Halting Problem of Turing 
+Machines  Computational Complexity -- Time Complexity, The class P, The class NP, 
+NP-Completeness, Reduction, co -NP, Polynomial Hierarchy. Space Complexity -- 
+Savich's Theorem, The class PSPACE.  
+Text B ooks:  
+1. J.P. Trembley and R. Manohar -- Discrete Mathematic al Structures with Applications 
+to Computer Science , McGraw Hill Book Co.  
+2. John E. Hopcroft, Motwani and J.D.Ullman -- Inrtroduction to Automata Theory, 
+Languages and Computation , Narosa Pub. House, N. Delhi.  
+3. R.L. Graham, D. Knuth, O. Patashnik, Concrete Mathematics: A foundation to 
+Computer Science,  Addison Wesley  
+Reference B ooks:  
+1. Michael Sipser -- Introduction to the Theory of Computation , Thomson Course 
+Technology.  
+2. H.R. Lewis and C.H.Papadimitrou -- Elements of the Theory of Computation , Prentice 
+Hall International.  
+Subject Code:  
+CS6L016  Subject Name:  
+VLSI Circuits  L-T-P: 3-0-0 Credits : 3 
+Prerequisite:  Introduction to Electronics , Digital Electronics Circuit  
+Syllabus:   
+Introduction: Design hierarchy, layers of abstraction, integration density and Moore’s 
+law, VLSI design styles, packaging styles, design automation principles; Fabrication 
+Technology: Basic steps of fabrication, bipolar, CMOS and Bi -CMOS fabrication 
+proces ses, layout design rules; MOS and Bi -CMOS characteristics and circuits: MOS 
+transistor characteristics, MOS switch and inverter, Bi -CMOS inverter, latch -up in 
+CMOS inverter, super -buffers, propagation delay models, switching delay in logic 
+circuits, CMOS a nalog amplifier; Logic Design: switch logic, gate restoring logic, 
+various logic families and logic gates, PLA; Dynamic Circuits: Basic concept, noise 
+considerations, charge sharing, cascading dynamic gates, domino logic, clocking 
+schemes; Sequential Circu its: Basic regenerative circuits, bi -stable circuit elements, 
+CMOS SR latch, clocked latch and flip -flops; Low -power Circuits: low -power design 
+through voltage scaling, estimation and optimization of switching activity, reduction of 
+switched capacitance, a diabatic logic circuits; Subsystem Design: design of arithmetic 
+building blocks like adders, multipliers, shifters, area -speed -power tradeoff; 
+Semiconductor Memories: SRAM, DRAM, non -volatile memories; Bipolar ECL Inverter: 
+Features of ECL gate, logic desi gn in ECL, single -ended and differential ECL gates; 
+Testability of VLSI: Fault models, scan -based techniques, BIST, test vector generation; 
+Physical Design: Brief ideas on partitioning, placement, routing and compaction.  
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+40 
+ 1. CMOS VLSI Design: A C ircuits and Systems Perspective , 4e, Neil Weste , David 
+Harris , Pearson.  
+2. S. Kang and Y Leblebici, “ CMOS Digital Integrated Circuits: Analysis and Design ,” 
+3rd Ed., Tata McGraw Hill, New Delhi, 2003.  
+3. J. P. Uyemura, “ Introduction to VLSI circuits and Systems ,” John Wiley,  New Delhi, 
+2002.  
+Reference Books:  
+1. L Wang, C.Wu and X. wen, VLSI Test Principles and Architecture , Morgan Kaufmann, 
+San Francisco, 2006.  
+Subject Code: 
+EC4L008  Subject Name:  
+Embedded Systems  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Digital Electronics , Computer Organization and Architecture  
+Syllabus:   
+Embedded Processing Systems: Introduction, Components of Embedded Systems – 
+Embedded Processor, Microcontrollers (PIC and ARM architectures), DSP and ASICs 
+and SoC, Memory Devices: ROM and RAM family, Inter facing Memory, Simple I/O 
+programming, Interrupts and their servicing, Timing Devices and Interfacing, Analog 
+I/O Techniques, Introduction to HDL, Design of Embedded Processors and 
+Components, Design Case Studies, Embedded Communication: Parallel Bus Stand ards, 
+Serial Bus Standards, Networking Standards and Wireless Standards, Real Time 
+Operating Systems (RTOS): Introduction, Memory Management, I/O Management and 
+Device Drivers, Scheduling, Introduction to Software Design: Embedded System Life 
+Cycle, Multic ore and Heterogeneous Embedded Systems.  
+Text Books:  
+1. W. Wolf, Computers as Components: Principles of Embedded Computing System 
+Design , 2nd Ed., Burlington, 2008.  
+2. T Noergaard, Embedded Systems Architecture: A comprehensive Guide for 
+Engineers and Pr ogrammers , Elsevier,  Oxford, 2005.  
+Reference Books:  
+1. Steve Heath, Embedded System Design, 2nd Edition, Newnes, Burlington, 2003.  
+Subject Code:  
+EC3L003  Subject Name:  
+Digital Signal 
+Processing  L-T-P: 3-1-0 Credits : 4 
+Prerequisite: Signals and Systems  
+Syllabus:   
+Introduction to DSP, Signals and Systems Characterization, FIR and IIR : Recursive 
+and Non Recursive, Z -Transform, Discrete Time Signals and Systems in Frequency 
+Domain, Sampling, Quantization, Discrete Fourier Transform, Fast Fourier Transform,  
+Short -time Fourier Transform, Digital Filter Structure, Analog Filter Design, Digital 
+Filter Design.  
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+41 
+ 1. J. G. Proakis and D. G. Manolakis, “ Digital Signal Processing: Principles, Algorithms 
+and Applications , 4th Ed., Pearson, 2012.  
+2.  A. V. Oppen heim and R. W. Shafer, “ Discrete -Time Signal Processing ,” Prentice Hall, 
+2009.  
+Reference Books:  
+1. R. G. Lyons, “ Understanding Digital Signal Processing ,” 3rd Ed., Prentice Hall, 2010.  
+2. V. K. Ingle and J. G. Proakis, “ Digital Signal Processing using MATLAB ,” Thomson 
+Learning, 2000.  
+Subject Code : 
+EC4L007  Subject Name:  
+Mobile Computing  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Computer Networks  
+Syllabus:   
+Introduction to mobile computing highlighting requirements for design of mobile 
+applications. Computational model and distributed algorithms for mobile environment. 
+Mobility management including handoff, location management and IP mobility Cellular 
+wireles s communication, FDMA, TDMA, CDMA, MAC protocols. Wireless LAN, Personal 
+Area Wireless Network: Bluetooth, and zigbee. A hoc and sensor networks. Data 
+delivery models, broadcast disks, and application of caching for speeding up data 
+dissemination and deliv ery. Distributed file system and indexing techniques for mobile 
+environment. Mobile Agent System.  
+Text Books:  
+1. T. Rappaport, " Wireless Communication: Principles and Practice ", Pearson 
+Education.  
+2. Paolo Bellavista and Antonio Corradi (Eds.), " Handbook of Mob ile Middleware ", 
+Auerbach Publication.  
+Reference Books:  
+1. Reza B'Far (Ed), " Mobile Computing Principles ", Cambridge University Press.  
+Subject Code:  
+CS4L005  Subject Name:  
+Applied Graph 
+Theory  L-T-P: 3-0-0 Credits:  3 
+Prerequisite: Discrete Structure  
+ 
+Introduction, Paths and Cycles, Trees and Distances, Matching and Covering, 
+Connectivity and Flow, Coloring, Planarity.  
+Text Books:  
+1. Introduction to Graph Theory , by Douglas B. West.  
+Reference Books:  
+1. Graph Theory , by Reinhard Diestel.  
+2. Modern Graph Theory , by Bela Bollobas.  
+3. Graph Theory with Applications , by J. A. Bondy and U. S. R. Murty.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+42 
+ Subject Code : 
+CS6L007  Subject Name : 
+Advanced 
+Algorithms  L-T-P: 3-1-0 Credits : 4 
+Prerequisite: None  
+Syllabus:   
+Models of computation: RAM model, Asymptotic Complexity, Amortized complexity.  
+Algorithmic paradigms: divide and conquer, recursion, dynamic programming, greedy, 
+branch and bound, backtracking.  
+Randomized algorithms: Randomized algorithms for Binary Search Tree, Quick Sort, 
+Quick Select etc.  
+Graph Algorithms: Sh ortest Path, Spanning Tree, Maximum Flows: Augmenting Paths 
+and Push -Relabel Methods. Minimum Cost Flows. Bipartite Matching.  
+Reducibility between problems and NP -completeness: discussion of different NP -
+complete problems like satisfiability, clique, verte x cover, independent set, Hamiltonian 
+cycle, TSP, knapsack, set cover, bin packing, etc.  
+Approximation algorithms: Constant ratio approximation algorithms, PTAS, FPTAS.  
+Geometric algorithms: Convex hulls, Closest pair of points, Voronoi diagram, etc.  
+Algeb raic and number -theoretic algorithms: FFT, primality testing, etc.  
+Optimization techniques: Linear programming  
+Text Books:  
+1. Thomas H. Cormen, Charles E. Leiserson, R.L. Rivest.. Introduction to Algorithms , 
+Prentice Hall of India Publications.  
+2. Algorithm Design  by Kleinberg and Tardos, Pearson.  
+Reference Books:  
+1. Sara Baase and Allen Van Gelder. Computer Algorithms: Introduction to Design and 
+Analysis , Pearson education (Singapore) Pvt. Ltd, New Delhi 2007.  
+2. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman .. The Design and Analysis of 
+Computer Algorithms , Pearson Education (Singapore) 2006.   
+3. Algorithmics: Theory and Practice  by Brassard and Bratley, Prentice Hall.  
+4. Rajeev Motwani and Prabhakar Raghavan, Randomized Algorithms , Cambridge 
+University Press.  
+5. Vijay Vazirani, Approximation Algorithms , Springer.  
+6. Merc De -Berg eta al. Computational Geometry: Algorithms and Applications,  3rd 
+Edition, Springer.  
+Subject Code:  
+CS4L029  Subject Name:  
+Principles of 
+Programming 
+Languages  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Data Structures, and Computer Architecture.  
+Syllabus:   Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+43 
+ Syllabus:   
+Theory: The aim is to study and appreciate different types of languages and the 
+underlying mathematical theories. This may help to design and also to appreciate new 
+language fe atures.  
+Introduction: Overview of different programming paradigms e.g. imperative, object 
+oriented, functional, logic and concurrent programming.  
+Syntax and semantics of programming languages: A quick overview of syntax 
+specification and semiformal semanti c specification using attribute grammar.  
+Imperative and OO Languages: Names, their scope, life and binding. Control -flow, 
+control abstraction; in subprogram and exception handling. Primitive and constructed 
+data types, data abstraction, inheritance, type checking and polymorphism.  
+Functional Languages: Typed -calculus, higher order functions and types, evaluation 
+strategies, type checking, implementation, case study.  
+Logic Programming Languages: Computing with relation, first -order logic, SLD -
+resolution, un ification, sequencing of control, negation, implementation, case study.  
+Concurrency: Communication and synchronization, shared memory and message 
+passing, safety and liveness properties, multithreaded program.  
+Formal Semantics: Operational, denotational an d axiomatic semantics of toy 
+languages, languages with higher order constructs and types, recursive type, subtype, 
+semantics of nondeterminism and concurrency.  
+Text Books:  
+1. Ravi Sethi, Programming Languages: Concepts and Constructs , Addison -Wesley.  
+2. H. P. Barendregt, The Lambda Calculus: Its Syntax and Semantics , North -Holland.  
+3. Michael Scott, Programming Language Pragmatics , Morgan Kaufmann, 2000.  
+4. Tennant. Principles of Programming Languages , PHI, 1981.  
+Reference Books:  
+1. Glynn Winskel, A Formal Semantics of  Programming Languages : An Introduction, 
+MIT Press.  
+2. John C. Mitchell, Foundations for Programming Language s, MIT Press.  
+3. Benjamin C. Pierce, Types and Programming Languages , MIT Press.  
+4. Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes, Essentials of 
+Programming Languages,  Prentice Hall of India.  
+Subject Code:  
+CS6L012  Subject Name:  
+Complexity  Theory  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Formal Languages and Automata Theory  
+Syllabus:   
+Models of computation, resources (time and space), algorithms, computability, 
+complexity; complexity classes, P/NP/PSPACE, reductions, hardness, completeness, 
+hierarchy, relationships between complexity classes; Randomized computation and 
+complexity; Logic al characterizations, incompleteness; approximability; circuit 
+complexity, lower bounds; parallel computation and complexity; counting problems; Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+44 
+ interactive proofs; probabilistically checkable proofs; communication complexity; 
+Quantum computation.  
+Text Boo ks: 
+1. Michael Sipser, Introduction to the Theory of Computation , PWS Publishing.  
+2. John E. Hopcroft and Jeffrey D. Ullman, Introduction to Automata, Languages and 
+Computation , Addison -Wesley, 1979.  
+Reference Books:  
+1. J. Balcazar, J. Diaz, and J. Gabarro, Structural Complexity , Volumes I and II, 
+Springer.  
+2. Christos H. Papadimitriou, Computational Complexity , Addison -Wesley Longman.  
+3. Sanjeev Arora and Boaz Barak, Computational Complexity: A Modern Approach  
+Subject Code : 
+CS6L032  Subject Name:  
+Parallel and 
+Distributed 
+Algorithms  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Design and Analysis of Algorithms / Advanced Algorithms  
+Syllabus:   
+Parallel Algorithms: Parallel Programming Models: Shared -memory model (PRAM, 
+MIMD, SIMD), network model (line, ring, mesh, hypercube), performance 
+measurement of parallel algorithms.  
+Algorithm Design Techniquess for PRAM Models: Balancing, divide and conquer, 
+parallel prefix computation, pointer jumping, symmetry breaking, pipelining, 
+accelerated cascading.  
+Algorit hms for PRAM Models: List ranking, sorting and searching, tree algorithms, 
+graph algorithms, string algorithms.  
+Algorithms for Network Models: Matrix algorithms, sorting, graph algorithms, routing, 
+Relationship with PRAM models.  
+Parallel Complexity: Lower bounds for PRAM models, the complexity class NC, P -
+completeness.  
+Distributed Algorithms:  
+Basic concepts. Models of computation: shared memory and message passing 
+systems, synchronous and asynchronous systems.  
+Logical time and event ordering. Global state and snapshot algorithms, clock 
+synchronization.  
+Distributed Operating Systems: Mutual exclusion, deadlock detection  
+Classical Algorithms: Leader election, termination detection, distributed graph 
+algorithms.  
+Fault tolerance and recovery: basic concepts, f ault models, agreement problems and 
+its applications, commit protocols, voting protocols, checkpointing and recovery, 
+reliable communication.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+45 
+ Security and Authentication: basic concepts, Kerberos. Resource sharing and load 
+balancing.  
+Text Books:  
+1. Joseph F  Jájá, An Introduction to Parallel Algorithms , Addison -Wesley, 1992.  
+2. Mukesh Singhal and Niranjan Shivaratri, Advanced Concepts in Operating Systems , 
+McGraw -Hill. 
+Reference Books:  
+1. Michael J Quinn, Parallel Computing: Theory and Practice , second edition, McGraw 
+Hill, 1994/2002.  
+2. Michael J Quinn, Parallel Programming in C with MPI and OpenMP , first edition, 
+McGraw Hill, 2004/2003.  
+3. Ananth Grama, Anshul Gupta, George Karypis and Vipin Kumar, Introduction to 
+Parallel Computing , second edition, Addison -Wesley/Pe arson, 1994/2003.  
+4. Nancy Lynch, Distributed Algorithms, Morgan Kaufmann.  
+5. Andrew S. Tanenbaum, Distributed Operating Systems , ACM Press.  
+6. Jie Wu, Distributed Systems, CRC Press.  
+7. Hagit Attiya, Jennifer Welch, Distributed Computing: Fundamentals, Simulations an d 
+Advanced Topics , McGraw -Hill. 
+Subject Code:  
+CS4L012  Subject Name : 
+Data Mining  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus: Introduction: Prediction, Classification, Forecasting, Filtering, Regression, 
+Clustering. Data Exploration and Pre-processing: Data Objects and Attributes; 
+Statistical Measures, Visualization, Data Cleaning and Integration. Dimensionality 
+reduction: Principal Component Analysis. Classification: Nearest -neighbor and Decision 
+Tree. Regression: Linear and Ridge Regres sion. Clustering: K -means; agglomerative 
+clustering; density -based clustering. Association Analysis: Frequent Itemset 
+Generation and Rule Generation; Apriori Algorithm. Time Series Analysis: Time Series 
+clustering, Time series alignment, Dynamic Time Warpi ng; Discrete Sequence Mining. 
+Introduction to Optimization: Newton -Raphson; Gradient -Descent; constrained 
+optimization. Information Retrieval: Precision, Recall, True/False Positives and 
+negatives. Graph -theoretic Approaches: social and complex networks, c ommunity 
+detection.  
+Text Books:  
+1. Duda, Hart, Stork. “ Pattern Classification ”, Wiley  
+2. Tan, Steinbach, Kumar. “ Introduction to Data Mining ”, Pearson  
+3. Charu Aggarwal. “ Data Mining ”, Springer, 2015  
+Reference B ooks:  
+Subject Code:  
+ID6L004  Subject Name:  
+Machine Learning 
+and Data Analytics -I L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+46 
+ Introduction: Prediction, Classification, Forecasting, Filtering, Regression, Clustering. 
+Review of Linear Algebra, Probability and Statistics. Data Exploration and Pre-
+processing: Data Objects and Attributes; Statistical Measures, Visualization, Data 
+Cleaning and Integration. Dimensionality Reduction: Linear Discriminant Analysis; 
+Principal Component Analysis; Transform Domain and Statistical Feature Extraction 
+and R eduction. Regression: Least Mean Square Regression; Ridge Regression and 
+LASSO regression; Support Vector Regression. Clustering: K -Means, Hierarchical, and 
+Density -based Clustering, Spectral Clustering. Classification: K -nearest -neighbor, 
+Bayesian and Naï ve Bayes Classifier, Decision Tree Induction including Attribute 
+Selection, and Tree Pruning, Random Forests, Logistic Regression; Support Vector 
+Machine; Ensemble Classification including Adaboost. Artificial Neural Networks: Single 
+Layer Neural Network, Multilayer Perceptron, Back Propagation Learning, Functional 
+Link Artificial Neural Network, and Radial Basis Function Network, Recurrent Neural 
+Networks, Deep Learning, Convolutional Neural Networks.  
+Text Books:  
+1. Bishop, C., “ Pattern Recognition and Machi ne Learning ”, Springer, 2006.  
+2. Mitchell, T. “ Machine Learning ”, 1997 (freely available online)   
+3. Duda, Hart, Stork. “ Pattern Classification ”. Wiley  
+4. Daumé, H. III, “ A Course in Machine Learning ”, 2015 (freely available online).  
+5. Haykin S., “ Neural Networks a nd Learning Machines ”, Third Edition, Prentice Hall, 
+2008.  
+6. Goodfellow I.,Bengio Y. and Courville A.; “ Deep Learning ”, MIT Press, 2016  
+Reference  Books:  
+1 Hastie, T., R. Tibshirani, J. Friedman, “ The Elements of Statistical Learning ”, 
+Springer 2009 (freely available online).  
+2 Shai Shalev -Shwartz and Shai Ben -David. “ Understanding Machine Learning: From 
+Theory to Algorithms ”, Cambridge University Press, 2014  
+Subject Code:  
+ID6L005  Subject Name:  
+Machine Learning 
+and Data Analytics -
+II L-T-P: 3-0-0 Credits : 3 
+Prerequisite: MLDA -I 
+Syllabus: Probability -based Machine Learning: Review of statistics; Parameter 
+Estimation by Maximum -Likelihood and Bayesian approach; Probabilistic classification 
+and PCA; Random Projections. Generative Models: Bayesian and Markov Networks; 
+Hidden Markov Model; Mark ov Random Fields; EM Algorithm; Probabilistic inference – 
+Metropolis -Hastings Algorithm, Gibbs Sampling. Topic Models: PLSI, Latent Dirichlet 
+Allocation, HMM -LDA, modern variants. Introduction to Bayesian Nonparametrics: 
+Chinese Restaurant Process and vari ants, Indian Buffet Process, Dirichlet Process, 
+Gaussian Process. Online Algorithms: Online Clustering, online learning, Frequent 
+Itemset mining on streaming data. Reinforcement Learning: Markov Decision 
+Processes, and Q -Learning. Learning Theory: PAC Lear ning, Sample Complexity and 
+VC Dimension, and Structural Risk Minimization.  Spectral Methods. Applications to 
+Vision, text, climate, finance domains.  
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+47 
+ 1. Bishop, C., “ Pattern Recognition and Machine Learning ”, Springer, 2006.  
+2. Murphy, K., “ Machin e Learning: A Probabilistic Perspective ”, MIT Press, 2012.  
+3. Koller D. and Friedman N.: “ Probabilistic Graphical Models: Principles and 
+Techniques ”, MIT Press, 2009  
+Reference B ooks:  
+1. Montgomery, D. C., and G. C. Runger, “ Applied Statistics and Probability fo r 
+Engineers ”. John Wiley & Sons, Sixth Edition, 2013.  
+2. Shai Shalev -Shwartz and Shai Ben -David. “ Understanding Machine Learning: From 
+Theory to Algorithms ”, Cambridge University Press, 2014  
+Subject Code:  
+CS6L027  Subject Name:  
+Natural Language 
+Processing  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: MLDA -1 or Data Mining  
+Syllabus:   
+NLP tasks in syntax, semantics and pragmatics; Applications such as information 
+extraction, question answering, and machine translation, The problem of ambiguity, 
+The role of machine learning, brief history of the field POS -tagging, POS -tagging 
+perspective, POS tagging and HMM, Hidden Markov models (Forward and Viterbi 
+algorithm and EM training), POS -tag set, Machine translation, Parsing algorithms, 
+Probabilistic parsing, Parser Compar ison Grammar, constituency and dependency, CYK 
+algorithm, Parse tree construction, Semantics, Word sense disambiguation Knowledge 
+based and supervised WSD, Unsupervised EM based WSD, Multilingual Resource 
+constrained WSD Linear and logistic Regression, Mac hine translation, Statistical 
+Machine translation, Binding Theory and Merger, X -bar theory  
+Text Books:  
+1. James Allen, “Natural Language Understanding”  
+2. Benjamin/Cummins E. Charniack, “Statistical Language Learning”, MIT Press  
+3. Daniel Jurafsky and J.H. Martin , “Speech and Language Processing”, Prentice Hall  
+Reference Books:  
+1. H. Lane, H. Hapke, C. Howard, “Natural language processing in Action: 
+Understanding, analyzing, and generating text with Python”, Manning publications.  
+2. B. Bengfort, R. Bilbro, “Applied Tex t Analysis with Python: Enabling Language 
+Aware Data Products with Machine Learning”, O”Reilly  
+Subject Code: 
+CS6L033  Subject Name:  
+Dependable 
+Computing  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus:  Introduction to dependable computing; Fault, error, failure, dependability, 
+and reliability. Combinatorial and state -space modeling; combinatorial and non -
+combinatorial languages; Redundancy. Hardware Fault Tolerance; Circuit Testing. 
+Software Fault Tolerance: Checkpoints and Recovery. Error C ontrol codes: Parity bits, 
+checksums, Cyclic Redundancy Checks, Algebraic Codes; codes for bus systems, 
+memory and disc. Dependability of distributed Systems:   Byzantine problem, Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+48 
+ dependability of storages and networks; recovery and atomic transactions in 
+concurrent and distributed systems  
+ Text Books:  
+1. S. Lin and D.J. Costello , Error Control Coding  (2nd edition), Prentice -Hall, 2004.  
+2. Pankaj Jalote, " Fault Tolerance in Distributed Systems " (Prentice Hall)  
+Reference Books:  
+     1.  Daniel J. Sorin. " Fault Tolerant Computer Architecture ." Synthesis Lectures on 
+Computer Architecture , Morgan & Claypool Publishers, 2009.  
+Subject Code:  
+CS6L022  Subject Name:  
+Complex Networks  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Probability statistics  
+Syllabus:   
+Introduction: Overview of Network science, Motivation, Large scale dynamic networks, 
+Challenges of graph theory, Basic Concepts related to Networks, Small world effect, 
+transitivity and clustering, degree distribution, scale free networks, maximum degree; 
+network resilience; mixing patterns; degree correlations; community structures; 
+network navigation, Community Structure Analysis, Basic concepts of network 
+communities, Modularity, various community finding approaches like Girvan -Newman 
+Algorithm, Spectral  Bisection Algorithm, Radicchi Edge Clustering Algorithm (for binary 
+as well as weighted graphs), Wu -Hubermann Algorithm, and Random Walk based 
+Algorithm, Louvain, InfoMap, Random Graphs, Poisson random graphs, generalized 
+random graphs, the configuration model, generating functions, power -law degree 
+distribution, directed graph, bipartite graph, degree correlations, Models of Network 
+Growth, Price model, Barabasi & Albert model, other growth models, vertex copying 
+models, Bipartite Network, Processes takin g place on Networks  
+Percolation theory and network resilience, Epidemiological processes, Cascades and 
+information spread, Social Network, Homophily, Cohesiveness, Cliques, Clans, Clubs, 
+Plex, Equivalence of ties, Ego -centric networks, Cascade formation an d information 
+diffusion in Social media (say Twitter).  
+Applications, Search on networks, exhaustive network search, guided network search, 
+network navigation; network visualization and semantic zooming. Advanced topics, 
+Temporal network, Multilayer network s, Interdependent networks, Controllability of 
+complex networks, Economic and financial network analytics.  
+Text Books:  
+1. Networks: An Introduction, Oxford University Press, Oxford, 2010.  
+ 
+Reference Books:  
+1. Evolution of Networks, Oxford University Press, Oxford, 2003.  
+ 
+2. The structure and function of complex networks, SIAM Review 45, 167 -256, 2003.  
+ 
+3. Statistical mechanics of complex networks, Rev. Mod. Phys., 74(1), 2002.   
+ 
+4. Papers from the ACM and IEEE digita l libraries.   Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+49 
+ Subject Code:  
+CS6L024  Subject Name:  
+Internet -of-Things  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus:   
+Introduction to IoT : Sensing, Actuation, Basics of Networking, Communication 
+Protocols, Sensor Networks, Machine -to-Machine Communications, Interoperability in 
+IoT.  
+Introduction to Arduino Programming, Integration of Sensors and Actuators with 
+Arduino, Introduction to Pytho n programming, Introduction to Raspberry Pi, 
+Implementation of IoT with Raspberry Pi  
+Introduction to SDN, SDN for IoT Data Handling and Analytics, Cloud Computing, 
+Sensor -Cloud , Fog Computing, Smart Cities and Smart Homes, Connected Vehicles, 
+Smart Grid, Industrial IoT, Case Study: Agriculture, Healthcare, Activity Monitoring  
+Text Books:  
+1. "The Internet of Things: Enabling Technologies, Platforms, and Use Cases ", by 
+Pethuru Raj and Anupama C. Raman (CRC Press)  
+Reference Books:  
+1. "Internet of Things: A Hands -on Approach ", by Arshdeep Bahga and Vijay Madisetti    
+(Universities Press)  
+Subject Code:  
+CS6L028  Subject Name:  
+Computational 
+aspects of Smart -
+Grid L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus:   Introduction : Introduction to Smart Grid, Introduction to Cloud Computing, 
+Introduction to Big Data Analytics, Fundamental Mathematical Prerequisites, Cloud 
+Computing Applications for Smart Grid: Demand Response, Geographical Load -
+Balancing, Dynamic Pricing, Virtual Power Plant, Advanced Metering Infrastructure, 
+Cloud -Based Security and Privacy, Smart Grid Data Management and Applications : 
+Smart Meter Data Management, PHEVs: Internet of Vehicles, S mart Buildings, Smart 
+Grid Design and Deployment : Simulation Tools, Worldwide Initiatives  
+Text Books:  
+1. Smart Grid Technology: A Cloud Computing and Data Management Approach , 
+Sudip Misra and Samaresh Bera, Publisher: Cambridge University Press, ISBN: 
+978110 8475204, May 2018  
+Reference Books:  
+ 
+Subject Code : 
+CS6L026  Subject Name : 
+Wireless Sensor 
+Networks  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Computer Networks  
+Syllabus:   Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+50 
+ Introduction: Overview, Broad application areas of WSN, Specialty and constrains;  
+ 
+Hardware and software: Overview of hardware architecture of the sensor motes, 
+Types of operating systems for WSN, Overview of event driven programming  
+ 
+MAC layer issues: Types of MAC protocols for WSN, Contention -based and reservation 
+based protocols. Deta iled study of specific protocols such as SMAC, RMAC, TMAC, DW -
+MAC, DMAC, Aloha, CSMA -CA, BMAC, LPL, LPP  
+ 
+Network layer issues: Routing, classification of the protocols, specific protocols such as 
+SPIN, LEACH etc. Data collection, Data dissemination, Data a ggregation, Time 
+synchronization.  
+Text Books:  
+1. Holger Karl, Andreas Willig, Protocols and Architectures for Wireless Sensor 
+Network , John Wiley & Sons, 2005, ISBN 0470095105  
+Reference Books:  
+1. Ibrahiem M. M. El Emary, S. Ramakrishnan, Wireless Sensor Network s: From 
+Theory to Applications , CRC Press, 2013, ISBN 9781466518100.  
+2. Ian F. Akyildiz, Mehmet Can Vuran , Wireless Sensor Networks , John Wiley & Sons, 
+2010, ISBN 9780470036013.  
+3. J Zheng, and A Jamalipour. Wireless sensor networks: a networking perspective , 
+John Wiley & Sons, 2009, ISBN 9780470167632.  
+4. Anna Hac, Wireless Sensor Network Designs , John Wiley & Sons, 2003, ISBN 
+0470867361.  
+ 
+Subject Code:  
+EC4L009  Subject Name:  
+Sensor Networks  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus:  Introduction: Overview, Broad application areas of WSN, Speciality and 
+constrains;  Hardware and software: Overview of hardware architecture of the sensor 
+motes, Types of operating systems for WSN, Overview of event driven programming, 
+Basics of communicat ions, wired communication and wireless communication. Basic 
+communications protocols and requirements, Different layers of communication 
+protocol stack. Basics of Computer Hardware and Operating systems, Data link and 
+MAC layer issues: Basic protocols – ALOHA, Slotted -ALOHA, CSMA/CD, CSMA/CA, 
+SMAC, DMAC, TMAC, RMAC, DW -MAC etc, Network layer issues: Routing, classification 
+of the protocols, SPIN, LEACH, Data collection protocols.  
+Text B ooks:  
+1. Holger Karl, Andreas Willig, Protocols and Architectures for Wireless Sensor 
+Network , John Wiley & Sons, 2005, ISBN 0470095105  
+Reference B ooks:  
+1. Ibrahiem M. M. El Emary, S. Ramakrishnan, Wireless Sensor Networks: From 
+Theory to Applications , CRC Press, 2013, ISBN 9781466518100.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+51 
+ 2. Ian F. Akyildiz, Mehmet Can Vuran, Wireless Sensor Networks , John Wiley & Sons, 
+2010, ISBN 9780470036013.  
+3. J Zheng, and A Jamalipour. Wireless sensor networks: a networking perspective , 
+John Wiley & Sons, 2009, ISBN 9780470167632.  
+4. Anna Hac, Wireless Sensor Network Designs , John Wiley & Son s, 2003, ISBN 
+0470867361.  
+Subject Code:  
+CS6L006  Subject Name:  
+Fault-Tolerant 
+Systems  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Programming and Data Structures, Computer Organization and 
+Architecture  
+Syllabus:   
+Introduction:   Fault Classification, Types of Redundancy, Fault tolerant metrics  
+Hardware Fault Tolerance: Fault rate, Reliability, MTTF, Canonical and Resilient  
+structures, Reliability evaluation techniques, Processor level techniques, Byzantine 
+failures, Information Redundancy: Coding techniques, R esilient Disk Systems,  Data 
+replication, Algorithm based fault tolerance,  Fault tolerant Networks: Network 
+topologies and their Resilience,  Fault tolerant routing, Software Fault tolerance: 
+Single version fault tolerance,  N -version programming, Recover y blocks, Conditions 
+and assertions, Exception handling,  Fault tolerant remote procedure calls, 
+Checkpointing: Checkpointing in Analytical model, shared memory systems, real -time 
+systems, Case studies: Non -stop systems, Itanium, Defect tolerance in VLSI c ircuits: 
+Basic yield models, Yield enhancement through redundancy,  
+Faults in Cryptographic Systems: Security attacks, Countermeasures  
+Text B ooks:  
+1. I. Koren, C Mani Krishna, Fault tolerant systems , Morgan Kaufmann.  
+ 
+Reference B ooks:  
+1. D. Pradhan , Fault tolerant Computer Design , Prentice Hall.  
+2. E. Dubrova, Fault tolerant Design , Springer, 2013.  
+3. K. Trivedi, Probability and statictics with reliability, queuing and computer science 
+applications,  John Wiley.  
+Subject Code:  
+CS6L009  Subject Name : 
+High Performance 
+Computing 
+Architecture  L-T-P: 3-1-0 Credits : 4 
+Prerequisite: Computer Organization and Architecture  
+Syllabus: Introduction: review of basic computer architecture, quantitative techniques 
+in computer design, measuring and reporting performance.  CISC and RISC processors. 
+Pipelining: Basic concepts, instruction and arithmetic pipeline, data hazards, control 
+hazards, and structural hazards, techniques for handling hazards. Exception handling. 
+Pipeline optimization techniques. Compiler techniques fo r improving performance.  
+Hierarchical memory technology: Inclusion, Coherence and locality properties; Cache 
+memory organizations, Techniques for reducing cache misses; Virtual memory 
+organization, mapping and management techniques, memory replacement pol icies. 
+Instruction -level parallelism: basic concepts, techniques for increasing ILP, 
+superscalar, superpipelined and VLIW processor architectures. Array and vector Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+52 
+ processors. Multiprocessor architecture: taxonomy of parallel architectures. 
+Centralized sha red-memory architecture: synchronization, memory consistency, 
+interconnection networks. Distributed shared -memory architecture. Cluster computers. 
+Non von Neumann architectures: data flow computers, reduction computer 
+architectures, systolic architectures.   GPU architectures: NVIDEA and AMD 
+architectures, gem5 and GPGPU -sim simulators, GPU Computing: CUDA and OpenCL 
+programming with case studies.  
+Text B ooks:  
+1. John L. Hennessy and David A. Patterson, Computer Architecture -- A Quantitative 
+Approach, Morgan Kaufmann  
+2. David Patterson and J.L. Hennessy, Computer Organization and Design MIPS: The 
+hardware/software interface  
+3. Benedict Gaster, Lee Howes, David R.  Kaeli, Heterogeneous Computing with 
+OpenCL, Elsevier  
+ 
+Reference B ooks:  
+1. P. Pacheco, Parallel Programming with MPI, Elsevier  
+2. Shane Cook, CUDA programming, Morgan Kaufmann  
+ 
+Subject Code : 
+CS4L015  Subject Name:  
+Symbolic Logic and 
+Automated 
+Reasoning  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Formal Language and Automata Theory, Discrete Structure  
+Syllabus:  Introduction and motivation: Role of logic in Computer Science, problem 
+representation. Basic notions: language, models, interpretations, validity, proof, 
+decision problems in logic. Decidability. Propositional logic: Syntax, semantics, proof 
+systems, Val idity, satisfiability and unsatisfiability, soundness and completeness. 
+Machinasation: truth tables, normal forms, semantic tableaux, resolution, proof by 
+contradiction, example.First order predicate logic theory: Quantifiers, first order 
+models, validity and satisfiability, semantic tableaux. Normal forms, skolemization: 
+elimination of quantifiers, unification, resolution and various resolution strategies, 
+equality axioms and para -modulation. Horn formulas and programs. Prolog as a 
+restricted resolution -based theorem prover. Undecidability and incompleteness in 
+logic, compactness Theorem. Other topics: Introduction to Modal Logic, Temporal 
+Logic and other logics for concurrency. Some exposure to theorem proving systems 
+such as Prolog, PVS, SPIN, etc  
+Text B ooks: 
+1. Michael Huth and Mark Ryan, Logic in Computer Science : Modelling and Reasoning 
+about Systems, Cambridge University Press.  
+2. Arindama Singh, Logics for Computer Science , Prentice Hall of India.  
+ 
+Reference B ooks:  
+1. C. L. Chang and R. C. T. Lee, Symbolic Logic and Mechanical Theorem Proving , 
+Academic Press.  
+2. M. Ben -Ari, Mathematical Logic for Computer Science , Springer.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+53 
+ 3. E. Mendelson, Introduction to Mathematical Logic, Chapman and Hall.  
+Subject Code : 
+CS6L011  Subject Name : 
+Web Technology  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Programming and Data Structure, Computer Networks  
+Syllabus: Basic design and implementation of websites, Discussion of different 
+navigation and organizational strategies, Client -side technologies including HTML5, 
+CSS, JavaScript, JSON, and JQuery, Server -side technologies emphasizing 
+implementations in PhP, Back -end data management, Security issues, Emerging 
+technologies.  
+Text B ooks:  
+1. Developing Web Applications , Ralph Moseley and M. T. Savaliya, Wiley -India 
+ 
+Reference B ooks:  
+1. Web Design , Joel Sklar, Cengage Learning Publishing  
+ 
+Subject Code : 
+CS6L021  Subject Name : 
+Enterprise and 
+Network Forensics  L-T-P:3-0-0 Credits :3 
+ 
+Prerequisite: computer network, programming and data structure, network and 
+system security  
+Syllabus:  Network forensic: collecting and analyzing  network -based evidence, 
+reconstructing web browsing, e -mail activity, and windows registry changes, intrusion 
+detection, tracking offenders, etc.  Mobile network forensic: introduction, mobile 
+network technology, investigations, collecting evidence, where  to seek digital data for 
+further investigations, interpretation of digital evidence on mobile network, network 
+management tools. Enterprise forensic: Organizational relationship between activities 
+directed toward policy enforcement, computer forensics, da ta recovery, incident 
+response, and privacy protection.  Information systems control governance and policy 
+enforcement.  Strategies for organizational readiness for computer incident response 
+such that collection, preservation, presentation and preparation  of computer -based 
+evidence will optimally satisfy the requirements of business continuity, criminal law 
+enforcement and civil litigation.  Organizational information services policies for 
+incident response and business continuity.  Strategic and technical  levels the 
+organization’s computer incident response systems, architecture, and staff capabilities.  
+Organization’s computer incident response processes and computer forensics 
+investigation processes.  Ethical, technical and economic rationale for specifi c 
+organization information systems incident response and forensic capabilities.  
+Text books:  
+ 
+1. Digital Forensics with Open Source Tools . Cory Altheide and Harlan Carvey, ISBN: 
+978-1-59749 -586-8, Elsevier publication, April 2011.  
+2. Computer Forensics and Cyber  Crime: An Introduction  (3rd Edition) by Marjie T. 
+Britz, 2013.  
+3. Handbook of Digital Forensics and Investigation , Academic press Inc., Eoghan 
+Casey.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+54 
+ Reference books:  
+ 
+1. Guide to Computer Forensics and Investigations  5th Edition, Nelson, Phillips, 
+Steuart, C engage Learning, 2015.  
+ 
+Subject Code:  
+CS6L002  Subject Name : 
+Networks and 
+Systems Security  L-T-P: 3-1-0 Credits : 4 
+ 
+Prerequisite: operating systems, computer network, programming, and information 
+security  
+ 
+Syllabus:  
+ 
+Introduction to Networking principles:  Introduction to networking, datalink layer, 
+network layer and transport layer protocols, DNS, mail servers, web servers, peer to 
+peer network Security, wireless communication protocol.  Overview of System 
+Security: Exploiting bugs in programs. Buffer over flows, fuzzing, Certification, secure 
+socket layer (SSL), Kerberos, SQL injection, concepts of vulnerability, risk 
+management, worm, virus, malwares, IDS, anti -viruses. Basics of Cryptography:  
+Basic cryptography and techniques, block ciphers, message authe ntication, 
+symmetric key encryption, hash functions, public key encryption, digital signatures. 
+Data Privacy:  Privacy changing online, mathematical definitions of privacy, attacks on 
+privacy and anonymity, K -anonymity, Differential privacy, Private informa tion 
+retrieval, basics of multiparty computation and relationship to privacy. Network 
+Security:  Access control, stateful firewall, IPSec, modeling and analysis of various 
+security violation in wireless and sensor networks, trusted computing techniques, ARP  
+Poisoning, IP spoofing, hidden tunnels, denial of service attack, firewalls.  
+Text Books:  
+ 
+1. Network Security Essentials (Applications and Standards) by William Stallings 
+Pearson Education.  
+2. Hack Proofing your network by Ryan Russell, Dan Kaminsky, Rain Forest Puppy, 
+Joe Grand, David Ahmad, Hal Flynn IdoDubrawsky, Steve W.Manzuik and Ryan 
+Permeh, Wiley Dreamtech.  
+Reference B ooks:  
+ 
+1. Network Security and Cryptography:  Bernard Menezes, CENGAGE Lea rning.  
+2. Network Security - Private Communication in a Public World by Charlie Kaufman, 
+Radia Perlman and Mike Speciner, Pearson/PHI.  
+3. Cryptography and network Security , Third edition, Stallings, PHI/Pearson  
+4. Principles of Information Security , Whitman, Cengage  Learning  
+ 
+Subject Code : 
+CS6L005  Subject Name : 
+Cryptography  L-T-P: 3-0-0 Credits : 3 
+ 
+Prerequisite: Computer Network, Number Theory  
+ 
+Syllabus: Introductory Concepts:  Basic Cryptographic Goals (Confidentiality, 
+Integrity, and Availability), Encryption, Decryption, Types of Cryptosystems, Active 
+and Passive attacks, One Time Pad Mathematical Background: Shannon’s Theory, Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+55 
+ Computational Complexity,  Number Theory, Modular Arithmetic, Polynomial 
+Arithmetic, Groups, Finite Fields, Rings, Fermat’s   Theorem, Euclidian Algorithm, 
+Extended Euclidian Algorithms, Euler Totient Function, Chinese remainder Theorem, 
+Discrete logarithm Problem, Primarily test, Factorization algorithms. Traditional 
+Ciphers:  Substitution Cipher (Hill cipher, Vigenere cipher, Playfair cipher) and 
+Transposition Cipher Symmetric Cryptosystems: Stream ciphers (RC4 and LFSR), 
+Block ciphers (DES and AES), Modes of Block ciphers  
+Attack Models for Block Ciphers:  Linear and Differential Analysis and Interpolation 
+attack Public Key Cryptosystems: One way and Trapdoor Functions, RSA 
+cryptosystem, Elgamal Cryptosystems, and Elliptic Curve cryptography Key 
+Exchange: The Diffie Hellman Case Hash Functions: SHA -1, MD4, Keyed Hash 
+Functions Message Authentication and Signatures: Digital Signatures, RSA signature, 
+Elgamal signature, MAC.  
+Text B ooks:  
+ 
+1. Cryptography and Network Security : (7th Edition)  by William Stalling  
+ 
+Reference B ooks:  
+ 
+1. Cryptography: Theory and Practice : 4th Edition by Douglas Robert Stinson, Maura 
+Paterson  
+ 
+Subject Code : 
+CS6L008  Subject Name:  
+Cloud Computing  L-T-P: 3-1-0 Credits : 4 
+ 
+Prerequisite: operating systems, computer network  
+ 
+Syllabus:  
+Enabling Technologies and System Models for Cloud Computing, Introduction to Cloud 
+Computing including benefits, challenges, and risks, Cloud Computing Models including 
+Infrastructure/Platform/Software – as-a-service, Virtualization concepts: Types of 
+virtualization and its benefits, Virtualization operating systems, Virtual Machine  
+migration, Public cloud, private cloud and hybrid clouds, Cloud OS, Cloud Architectures 
+including Federated Clouds, Scalability, Performance, QoS, Data centers for Cloud 
+Comput ing, Principles of Virtualization platforms, Security and Privacy issues in the 
+Cloud, VMWare ESX Memory Management, Capacity Planning and Disaster Recovery in 
+Cloud Computing  
+ 
+Text books:  
+1. Cloud Computing Best Practices for Managing and Measuring Processes  for On -
+demand Computing : by Haley Beard  
+ 
+Reference books:  
+ 
+1. Cloud computing Black Book : by  Kailash Jayaswal, Jagannath Kallakurchi, Donald 
+J. Houde,  and Deven Shah  
+Subject Code:  
+EC4L010  Subject Name:  
+Interconnection 
+Networks  L-T-P: 3-0-0 Credits : 3 
+ 
+Prerequisite:  computer network,  Computer Architecture  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+56 
+ Syllabus: Introduction to Interconnection Networks, Topology, Switching Techniques, 
+Taxonomy of Routing Algorithms, Flow Control, Router Micro -architecture, Technology 
+and Architecture -Speci c Explora tion, Case Study on Software Defined Network (SDN) 
+Architecture, Content Delivery Network (CDN) Architecture.  
+ 
+Text B ooks:  
+ 
+1. Interconnection Networks: An Engineering Approach :  by Jos Duato, Sudhakar 
+Yalamanchili, Lionel M. Ni  
+ 
+Reference B ooks:  
+ 
+1. Principles  and Practices of Interconnection Networks : by  William Dally and Brian  
+Towles.  
+ 
+Subject Code:  
+CS6L025  Subject Name : 
+Object Oriented 
+System Design  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Programming and Data Structure  
+Syllabus:  
+The purpose of this course is to familiarize students with concepts, methods, and tools 
+for object oriented analysis and design of software systems, with emphasis on 
+methods applied in large product development projects. The course introduces 
+common design principles and patterns th at support the development of maintainable, 
+reusable and extensible software. The course gives an introduction to UML. Analysis - 
+and design models are expressed using UML models such as use case diagrams, class 
+diagram, sequence diagrams, and state diagram s. Furthermore,  
+techniques and guidelines are introduced for analysis of software domain and 
+requirements.  
+ 
+Text Books:  
+1. Systems Analysis and Design: an Object -oriented Approach with UML  (5th 
+edition),  Alan Dennis,  Barbara Haley Wixom,  David Tegarden.  ISBN-13: 978-
+1118804674 ISBN -10: 1118804678  
+Reference Books:  
+1. Some particularly practical are: 'UML Distilled ' by Martin Fowler  
+2. The Unified Modeling Language User Guide  (2nd Edition) by Grady Booch,   James 
+Rumbaugh, Ivar Jacobson  
+3. Design Patterns: Elements of Reusable Object -Oriented Software . By Erich 
+Gamma, Richard Helm, Ralph Johnson, John Vlissides  
+Subject Code:  
+CS6L023  Subject Name : 
+Software Testing 
+and Verification  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Discrete Structure  
+Syllabus: The course is about how to convince oneself that a program unit really does 
+what it should. There are different methods for verifying programs that will be covered 
+in this course.  Testing: which has the purpose of finding errors in a program in a Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+57 
+ systemat ic way (terminology, coverage, unit tests, a unit test framework). Debugging 
+which has the purpose to systematically trace and eliminate an error (control, 
+workflow, localization, tools). Proving or formal verification: reasoning about the 
+program in order  to guarantee correctness (formal specifications (pre -/postconditions, 
+invariants), automatic test case generation, formal verification (logics, tool support)). 
+Verifying a program only makes sense if we can precisely specify what the program is 
+supposed t o do. Many specifications are written in natural language which might lead 
+to imprecision and misunderstandings. In the course you will learn how to use precise 
+methods for specifying functional requirements. Such precise specifications will then 
+be our ba sis for the verification of programs. But they will also be useful to automatize 
+the generation of test cases. Throughout, the course is concerned with imperative 
+programs in general, and object -oriented programs in particular.  
+Text B ooks:  
+1. Introduction to Software Testing  by Paul Ammann, Jeff Offutt  
+Reference B ooks:  
+1. Why Programs Fail: A Guide to Systematic Debugging  by Andreas Zeller  
+A definitive and modern treatment of debugging.  
+2. The Art of Software Testing , 3rd Edition by Glenford J Myers  
+The second edition of what is considered to be THE classic book on testing.  
+3. The Science of Programming  by David Gries.  
+Covers topics related to program verification and the weakest pre -condition 
+calculus.  
+4. Code Complete , 2nd Edition by Steve McConnell  
+Subject Code : 
+CS6L035  Subject Name : 
+Theory of 
+Computation  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Discrete Structure, Data Structures, Design and Analysis of Algorithms  
+Syllabus:  
+Introduction: Motivation for studying theory of computation, a quick overview of the 
+subject. Notion of formal language. Language membership problem.  
+Finite automata and regular expressions: DFA, NFA (with and without transitions), 
+their equivalence. Proof that for some languages NFAs can be exponentially more 
+succinct than DFAs. De ntition of regular expressions. Proof that FAs recognize, and 
+regular expressions denote the same class of languages (regular languages).  
+Properties of regular languages: Pumping lemma and its use to prove non -regularity of 
+a language, closure properties o f class of regular languages, decision properties: 
+converting among representations, testing emptiness, etc. Minimization of DFAs, 
+Myhill -Nerode theorem.  
+Context -free grammars and languages: Derivation, parse trees. Language generated 
+by a CFG. Eliminating  useless symbols, epsilon -productions, unit productions. 
+Chomsky normal form.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+58 
+ Pushdown automata: Dentition, instantaneous description as a snapshot of PDA 
+computation, notion of acceptance for PDAs. Proof that CFGs generate the same class 
+of languages that  PDAs accept.  
+Properties of context -free languages: Pumping lemma for context -free languages and 
+its use to prove a language to be not context -free. Closure properties of the class of 
+context - free languages. CYK algorithm for CFL membership, testing empti ness of 
+CFLs.  
+Turing machines: Historical context, informal proofs of undecidability. Dentition of TM, 
+instantaneous description as a snapshot of TM computation, notion of acceptance. 
+Robustness of the model: both natural generalizations and restrictions k eep the class 
+of languages accepted invariant. (Generalizations: multi -track, multi -tape, 
+nondeterministic, etc.). Church -Turing hypothesis.  
+Undecidability: Dentitions of r.e. and recursive languages. Turing machine codes, the 
+diagonalization language and proof that it is not r.e. Universal Turing machine. 
+Universal language, its semi -decidability. Reducibility and its use in proving 
+undecidability. Rices theorem. Undecidability of Posts correspondence problem.  
+Intractability: Motivation for the notion. The  class P as consensus class of tractable 
+sets. Classes NP, co -NP. Polynomial time reductions. NP -completeness, NP -hardness. 
+Cook- Levin theorem. Mention about boundary of tractability: 2SAT vs. 3SAT, 2D 
+matching vs. 3D matching. Some NP -completeness proofs : vertex cover, clique, 
+independent sets, Hamiltonian graphs, subset -sum, set cover.  
+Text B ooks:  
+1. M Sipser, Introduction to the Theory of Computation , 2nd Ed., Thomson, 2005.  
+2. J Hopcroft, JD Ullman, R Motwani, Introduction to Automata Theory , Languages 
+and Computation, 3rd Ed., Pearson, 2008.  
+Reference B ooks:  
+1. M Sipser, Theory of Computation , Brooks -Cole, 2008.  
+2. Daniel I. A. Cohen, Introduction to Computer Theory  
+ 
+Subject Code : 
+CS6L034  Subject Name : 
+Software 
+Engineering  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Programming and Data Structure  
+Syllabus: The course provides a broad but practical view of industrial software 
+development. Students learn the main problems, models and methods of software 
+engineering, including traditional and agile/lean sof tware development. The main 
+software engineering activities, including software requirements engineering, design, 
+implementation, testing and deployment are covered. Supporting workflows, e.g. 
+configuration management and project management are  also discus sed. After the 
+course, students have a working understanding of software development in industry, 
+and the necessary knowledge and skills to pursue further studies in software 
+engineering.  
+Text books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+59 
+ 1. Software Engineering  10th Edition  by Ian Sommerville  
+Reference books:  
+1. A Concise Introduction to Software Engineering  by Pankaj Jalote  
+2. Software Engineering: A Precise Approach by Pankaj Jalote  
+3. An Integrated Approach to Software Engineering  by Pankaj Jalote  
+Subject Code : 
+CS6L003  Subject Name:  
+Software Reliability  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Probability and Statistics  
+Syllabus:  
+Introduction, Definition of Software Reliability: basic Reliability Mathematics: Key 
+concepts in Software Reliability: Software failure mechanisms: The bathtu b curve for 
+software reliability: Available tools and techniques and metrics: Software reliability 
+models: Software reliability metrics: Software reliability improvement techniques: 
+Relation of software reliability to domains like Software fault tolerance:  software 
+testing and Hardware reliability.  
+Text books:  
+1 M.R Lyu: Handbook of Software Reliability Engineering : Mc Graw Hill, 1995.  
+ 
+Reference books  
+1 M.Xie: Software Reliability Modelling , World Scientific, 1991.  
+2 J.D. Musa, A. lannino, K. Okumoto: Software Reliability: Measurement, Prediction, 
+Application , 1999  
+Subject Code : 
+CS6L010  Subject Name : 
+Digital Forensics -1 L-T-P: 3-0-0 Credits : 3 
+Prerequisite: None  
+Syllabus:   Introduction: Understanding the need for computer forensics, digital 
+investigations and evidence, digital crime scene investigation process, data analysis, 
+an overview of  sleuthkit  toolkit, Computer foundations: Data 
+organizations,  booting  process, Handling evidence: Hardware write/blockers, Hard 
+drive acquisitions, Hard disk basics, Differen t ways of wiping and formatting the 
+evidence, processing  the scene, Forensically sound evidence collection, Forensic file 
+images, Volume level analysis: Understanding dos partition table and Global partition 
+table, File system  analysis: FAT 12, FAT 16, FAT  32 basic concepts, FAT data 
+Structures, Analysing the   evidence with  FAT file system, NTFS basics, NTFS data 
+structures, analysing the evidence with NTFS file system, Window artifacts: My 
+documents, Recycle bin, Installed programs, Windows analysis: Windo ws volatile data 
+acquisition, Windows memory acquisition and analysis, cold boot dump attack for 
+memory dump, Windows Registry, File signature analysis: File signatures, File 
+extensions, Detecting file manipulation, Forensic software: Sleuthkit, Basic sear ch 
+queries, ASCII, UNICODE, Regular expressions, viewing and managing keywords and 
+cases, Antiforensic techniques: Encryption, password protection, Password recovery 
+tools, Forensic Reports: Proper report writing, Explaining forensics to the uneducated  
+ 
+Text B ooks:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+60 
+ 1. Brian Carrier. File System Forensic Analysis , Addison -Wesley Professional  
+2. Cory Altheide, Harlan Carvey. Digital Forensics with Open Source Tools , Syngress  
+Reference B ooks:  
+1. A. J. Marcella, G. Guillossou, Cyber Forensics: from data to digital int elligence , 
+Wiley  
+2. R. Boddington, Practical Digital Forensics , Packt Publishing  
+Subject Code : 
+CS6L020  Subject Name : 
+Digital Forensics -2 L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Digital Forensics -1 
+Syllabus:   CyberSecurity  Fundamentals: Overview of cybersecurity, Definition and 
+types of  cyberthreats,  Usecases: Morris worm,  DDos  Attack  
+ 
+Definition and Types of  Malwares : Malware Basics, Worms, Virus, Rootkits, Trojan 
+Horses: Trojans, Ransomware, Spyware, Malware analysis tool s, Advanced  persistent 
+threat   
+ 
+E-mail Analysis:  Finding E -mail Artifcats, converting e -mail formats, Client -based e -
+mail, web -based e -mail, internet hosted  mail, investigating e -mail headers  
+Tracking User Activity: Tracking Web usage, Internet explorer fo rensics, 
+firefox/ mozilla  forensics, operating system user logs  
+Memory Forensics: Memory acquisition, Memory analysis, memory analysis tools  
+Incident Response: Introduction to incident response, preparing for incident response, 
+mac time analysis  
+Forensic An alysis of Mobile  Devices:  Collecting and analyzing mobile device, password -
+protected windows devices  
+Recent Advances in Digital Forensics: Discussing latest papers in the field  
+Text Books:  
+1. Davis, Philipp, and Cowen, Hacking Exposed: Computer Forensics,  McGraw Hill 
+Education  
+2. K. Mandia , M Pepe, J. Luttgens, Incident Response & Computer Forensics , Third 
+Edition  
+Reference B ooks:  
+1. M.H. Ligh, A. Case, J. Levy, A. waters, The art of memory Forensics: Detecting 
+Malware and Threats in Windows, Linux, and Mac Memory , Wile 
+2. A book from honeynet project. Know your enemy: Learning about security threats , 
+Addison Wesley  
+Subject Code: 
+CS6L017  Subject Name:  
+Advanced 
+Databases and 
+Mining  L-T-P: 3-0-0 Credits : 3 Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+61 
+ Prerequisite:  Database Management System  
+Syllabus:   Transaction  Processing: Consistency, Atomicity, Isolation and Durability, 
+Serializable Schedule, Recoverable Schedule, Concurrency Control, Time -stamp based 
+protocols, Isolation Levels, Online Analytical Processing    
+ 
+Database performance Tuning and Query optimizatio n: Query Tree, Cost of Query, 
+Join, Selection and Projection Implementation Algorithms and Optimization   
+ 
+Database Security: Access Control, MAC, RBAC, Authorization, SQL Injection Attacks  
+ 
+Data Mining: stages and techniques, knowledge representation metho ds, data mining 
+approaches (OLAP, DBMS, Statistics and ML)   
+ 
+Data warehousing: data warehouse and DBMS, multidimensional data model, OLAP 
+operations.   
+ 
+Data processing: cleaning, transformation, reduction, filters and discretization with 
+weka.   
+ 
+Knowledge representation: background knowledge, representing input data and output 
+knowledge, visualization techniques and experiments with weka, Ontologies and 
+knowledge graph  
+ 
+Mining real data: preprocessing  data from a real medical domain, data mining 
+techniques to create a comprehensive and accurate model of data.   
+ 
+Parallel Databases: Avenues for parallelism: I/O parallelism, interquery, inter -query 
+and intra operation parallelism, databases for multi -core machines.  
+ 
+Distributed Databases: Distributed data storage, distributed transactions, commit 
+protocols, concurrency control in distributed databases, heterogeneous and cloud -
+based databases.  
+Information Retrieval: relevance ranking using terms and hyperlinks,page rank, 
+indexing of documents, measuring retrieval effectiveness.  
+XML and semi -structured data: necessity, XML document schema, querying: XPath 
+and XQuery languages, applications.  
+ 
+Advanced topics: text mining, text classification, web mining , data mining software    
+ 
+Text B ooks:  
+1. Michael Steinbach, Pang -Ning Tan, and Vipin Kumar . Introduction to Data Mining , 
+Pearson Education  
+2. P. Valduriez, M. TamerOzsu. Principles of Distributed Database Systems , Prentice 
+Hall  
+3. Bing Liu. Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data,  
+Springer -Verlag Berlin and Heidelberg GmbH & Co. K  
+ 
+Reference B ooks:  
+1. J. Han and M. Kamber, Data Mining: Concepts and Techniques , Morgan Kaufmann.  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+62 
+ 2. Ramez Elmasri, Shamkant B. Navathe, Fundamentals of Database Systems , 
+Addison -Wesley  
+3. M. Stonebraker. Readings in Database Systems , Morgan Kaufmann  
+Subject Code : 
+CS6L019  Subject Name:  
+Artificial Intelligence  L-T-P: 3-0-0 Credits : 3 
+Prerequisite:  None  
+Syllabus:   
+Introduction to Artificial Intelligence: What is AI? Related Fields, Agents and 
+Environments  
+ 
+Problem Solving: problem representation paradigms, state space, satisfiability vs 
+optimality  
+ 
+Search  Techniques:   Principles of search, uninformed search, informed search, 
+constraint satisfaction problems, adversarial search and games  
+ 
+Knowledge Representation: Knowledge  representation :  First order and non -monotonic 
+logic;  rule based , frame and semantic network approaches, mixed representations, 
+Theorem Proving, knowledge bases and inference  
+ 
+Uncertainty  Treatment :  formal and empirical approaches including Bayesian theory, 
+belief functions, certainty factors  
+ 
+Fuzzy Logic: Tagaki -Sugeno Fuzzy Logic;, Mamdani Fuzzy Logic, Fuzzy Bayesian 
+Decision Method, Membership Functions, Fuzzification and Defuzzificatio n, Fuzzy 
+system Modeling  
+ 
+Planning and making decisions  
+ 
+Reinforcement learning: MDPs, Q -learning algorithm, applications, Bandits and Monte 
+carlo tree search  
+ 
+Text B ooks:  
+1. Russell and Norvig. Artifiicial  Intelligence: A Modern Approach . Pearson Education 
+(Low Priced Edition), 2004.  
+2. Nils J. Nilsson, Artificial Intelligence - A New Synthesis , Morgan Kaufmann 
+Publishers, 2000  
+3. George F.Luger and William A. Stubblefield, AI: Strcutures  and Strategies for 
+Complex problem solving , 2nd edition, Benjamin Cummins P ublishers  
+ 
+Reference B ooks:  
+1. Mark Stefik, Introduction to Knowledge Systems , Morgan Kaufmann.  
+2. E. Rich and K.Knight, Artificial Intelligence , Tata McGraw Hill  
+3. E. Charniack  and D. Mcdermott , Artificial Intelligence , Addison Wesley  
+Subject Code:  
+CS6L031  Subject Name:  
+Game Theory  L-T-P: 3-0-0 Credits : 3 
+Prerequisite:  None  
+Syllabus:  Introduction: Introduction to game theory, current trends and modern 
+applications.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+63 
+ Non-Cooperative Game Theory: Key notions, strategic form games, extensive form 
+games, dominant strategy equilibrium, pure strategy Nash equilibrium, mixed strategy 
+Nash equilibrium, two player zero sum game, existence of Nash equilibrium, 
+computation of Nash equilibrium, complexity analysis of Nash equilibrium, Bayesian 
+games  
+ 
+Mechanism Des ign: Introduction, social choice functions, incentive compatibility and 
+revelation theorem, Gibbart -Satterthwaite impossibility theorem, Arrow’s impossibility 
+theorem, VCG mechanisms, Quasilinear environment, revenue equivalence theorem, 
+optimal mechanisms  and Myerson auction  
+Cooperative Game Theory: Correlated equilibrium, coalition games, core of coalition 
+games, Shapley value, Benzhaf index, stable matching  
+ 
+Text B ooks:  
+1. Y. Narahari. Game Theory and Mechanism Design . IISc Press and the World 
+Scientific. 2 014.  
+2. Michael Maschler, Eilan Solan, and Schmuel Zamir. Game Theory . Cambridge 
+University Press, 2013  
+3. Roger B. Myerson. Game Theory: Analysis of Conflict . Harvard University Press, 
+September 1997  
+ 
+Reference B ooks:  
+1. Roger B. Myerson. Game Theory: Analysis of  Conflict . Harvard University Press, 
+September 1997.  
+2. Andreu Mas -Colell, Michael D. Whinston, and Jerry R. Green. Microeconomic 
+Theory . Oxford University Press, New York, 1995.  
+3. Martin J. Osborne, Ariel Rubinstein. A Course in Game Theory . The MIT Press, 
+August 1994.  
+4. Philip D. Straffin, Jr. Game Theory and Strategy.  The Mathematical Association of 
+America, January 1993.  
+5. Ken Binmore, " Fun and Games : A Text On Game Theory ", D. C. Heath & 
+Company, 1992.  
+6. Paul Klemperer,  Auctions: Theory and Practice , The Toulouse Lectures in 
+Economics, Princeton University Press, 2004.  
+Subject Code : 
+EC6L002  Subject Name : 
+Image and Video 
+processing  L-T-P: 3-1-0 Credits : 4 
+Prerequisite: Digital Signal Processing  
+Syllabus:   
+Introduction to digital image processing, intensity transformation, spatial filtering, 
+frequency domain filtering, point and line detection, edge detection, Hough Transform, 
+image restoration, color processing, thresholding, image segmentation, affine 
+transformation, image transforms, multi -resolution image analysis, shape and texture 
+representation and description, introduction to object recognition, image compression, 
+JPEG, introduction to digital video, video compression standards, motion estimation.  
+Text Books:  
+1. Gonzalez  and Woods, “ Digital Image processing ,” 3rd Ed., Pearson and Prentice 
+Hall, 2009.  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+64 
+ Reference B ooks:  
+1. W.K. Pratt, “ Digital image processing ,” 4th Ed., Wiley India, 2007.  
+2. K.R. Castleman, “ Digital image processing ,” 2nd Ed., Pearson, 2012.  
+3. A.K. Jain, “ Fundamentals of digital image processing ,” Prentice Hall, 1989.  
+ 
+Subject Code : 
+EC6L003  Subject Name:  
+Information Theory 
+and Coding  L-T-P: 3-0-0 Credits : 3 
+Prerequisite: Digital Communication  
+Syllabus:   
+Introduction: Entropy and mutual information theory: joint entropy, conditional 
+entropy, relationship between entropy and mutual information, chain rules for entropy, 
+relative entropy, mutual information, jensen’s inequality fano’s inequality; An 
+introduct ion to codes: coding: kraft inequality, optimal codes, bounds on optimal code 
+length, kraft inequality for uniquely decodable codes, shannon and huffman codes, 
+shannon, fano, elias codes, block codes, linear block codes, cyclic codes; Efficient 
+encoding, i nformation sources; average code word length; huffman encoding; 
+noiseless coding: the noiseless coding theorem; Channel capacity: discrete 
+memoryless channels and capacity, examples of channel capacity, symmetric 
+channels, properties of channel capacity, c hannel coding theorem; Theory and practice 
+of error -control coding: trellis diagram and the viterbi algorithm, convolution coding in 
+mobile communications and modern graph -based codes (turbo -codes and ldpc codes), 
+the main coding theory problem.  
+Text Books: 
+1. T. M. Cover and J. A. Thomas, “Elements of Information Theory,” 2nd Ed., 
+Wiley -Inter Science, 2006.  
+2. S. Lin and D. J. Costello, “Error Control Coding,” 2nd Ed., Pearson Prentice Hall, 
+2004.  
+ 
+Reference B ooks:  
+1.  R. G. Gallager , “Information Theory and Reliable Communication,” Wiley, 
+1968.  
+2. I Csiszar and J. Korner, “Information Theory: Coding Theorems for Discrete 
+Memoryless Systems,” Akademiai Kiado, December 1981.  
+3.  T. S. Han, “Information -Spectrum Methods in Information Theor y,” Springer, 
+2002.  
+4. Andre Neubauer, Jurgen Freedenberg, Volker Kuhn, “Coding theory Algorithm, 
+Architectures and Applications,” Willey India Editions, 2007.  
+5. Ranjan Bose, “Information theory, Coding and Cryptography,” TMH publication, 
+2008.  
+6.  Roman, Steve n, “Introduction to Coding and Information Theory”, Springer, 
+2000.  
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+65 
+ Dual Degree : B Tech in CSE + M Tech in CSE  
+ (7th Semester to 10th Semester Courses)  
+SEMESTER – VII 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Compiler Design  CS4L001  3-1-0 4 4 67 
+Advanced Algorithms  CS6L007  3-1-0 4 4 67-68 
+Networks and Systems Security  CS6L002  3-1-0 4 4 68-69 
+Elective -2  3-0-0 3 3 - 
+Compiler Design Lab  CS4P001  0-0-3 2 3 69 
+Security & Forensics Lab -I/ML & DA Lab -I CS6P002/CS6P
+003 0-0-3 2 3 69-70 
+Project - Part 1  CS4D001  0-0-6 4 0 - 
+Industrial Training Defense  CS4T001  0-0-3 2 0 - 
+  Total  25 21  
+SEMESTER – VIII  
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Breadth -4  3/4-0-0 3/4 3/4 - 
+Cloud Computing  CS6L008  3-1-0 4 4 71 
+High performance Computer Architecture  CS6L009  3-1-0 4 4 71-72 
+Elective -3  3-0-0 3 3 - 
+Security & Forensics Lab -II/ML & DA Lab -II CS6P004/CS6
+P005  0-0-3   2 3 72 
+Project - Part 2  CS4D002  0-0-0 6 0 - 
+  Total  22/23  17/18   
+SEMESTER – IX 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Elective -4  3-0/1-0 3/4 3/4 - 
+Computer Systems Lab  CS6P001  0-0-3 2 3 73 
+Research Review  CS6D001   4 0 - 
+Thesis (Part –I) CS6D002  0-0-0 12 0 - 
+  Total  21/22  6/7  
+SEMESTER – X 
+Subject Name  Code  L-T-P Credit  Contact Hour  Syllabus  
+Page No.  
+Elective -5  3-0-0 3 3 - 
+Thesis (Part –II) CS6D004  0-0-0 13 0 - 
+  Total  16 3  
+ 
+List of electives and syllabus for each course is given in the following pages.   
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+66 
+  
+List of Elective Courses  
+Subject Name  Code  L-T-P Credit  Contact 
+Hours  Syllabus  
+Page No.  
+Computational Geometry  CS4L030  3-0-0 3 3 36 
+Computer Graphics  CS4L010  3-1-0 4 4 36-37 
+Computer Vision  EC6L029  3-0-0 3 3 37-38 
+Multimedia Systems  CS6L013  3-0-0 3 3 28 
+Mathematical Foundations of Computer 
+Science  CS6L015  3-0-0 3 3 38-39 
+VLSI circuits  CS6L016  3-0-0 3 3 39-40 
+Embedded Systems  EC4L008  3-0-0 3 3 40 
+Digital Signal Processing  EC3L003  3-1-0 4 4 40-41 
+Mobile Computing  EC4L007  3-0-0 3 3 41 
+Applied Graph Theory  CS4L005  3-0-0 3 3 41 
+Principles of Programming Languages  CS4L029  3-0-0 3 3        42-43 
+Complexity Theory  CS6L012  3-0-0 3 3 43-44 
+Parallel and Distributed Algorithms   CS6L032  3-0-0 3 3 44-45 
+Data Mining  CS4L012  3-0-0 3 3 45 
+Machine Learning and Data Analytics - I ID6L004  3-0-0 3 3 45-46 
+Machine Learning & Data Analytics -II ID6L005  3-0-0 3 3 46-47 
+Natural Language Processing  CS6L027  3-0-0 3 3 47 
+Dependable Computing  CS6L033  3-0-0 3 3 47-48 
+Complex Networks  CS6L022  3-0-0 3 3 48 
+Internet of Things  CS6L024  3-0-0 3 3 49 
+Computational Aspects of Smart Grids  CS6L028  3-0-0 3 3 49 
+Wireless Sensor Networks  CS6L026  3-0-0 3 3 49-50 
+Sensor Networks  EC4L009  3-0-0 3 3 50-51 
+Fault -Tolerant Systems  CS6L006  3-0-0 3 3 51 
+Symbolic Logic and Automated Reasoning  CS4L015  3-0-0 3 3 52 
+Web Technology  CS6L011  3-0-0 3 3 53 
+Enterprise and Network Forensics  CS6L021  3-0-0 3 3 53-54 
+Cryptography  CS6L005  3-0-0 3 3 54-55 
+Interconnection Networks  EC4L010  3-0-0 3 3 55-56 
+Object Oriented System Design  CS6L025  3-0-0 3 3 56 
+Software Testing and  Verification  CS6L023  3-0-0 3 3 56-57 
+Theory of Computation   CS6L035  3-0-0 3 3 57-58 
+Software Engineering  CS6L034  3-0-0 3 3 58-59 
+Software Reliability  CS6L003  3-0-0 3 3 59 
+Digital Forensics -I CS6L010  3-0-0 3 3 59-60 
+Digital Forensics -II CS6L020  3-0-0 3 3 60 
+Advanced Databases and Mining  CS6L017  3-0-0 3 3 60-61 
+Artificial Intelligence  CS6L019  3-0-0 3 3 62 
+Game Theory  CS6L031  3-0-0 3 3 62-63 
+Image and  Video Processing  EC6L002  3-1-0 4 4 63-64 
+Information Theory and Coding  EC6L003  3-0-0 3 3 64 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+67 
+  
+Syllabus for 7th to 10th Semester  Courses  (Dual Degree ) 
+SEMESTER – VII 
+Subject Code:   CS4L001  Subject Name: Compiler 
+Design  L-T-P: 3-
+1-0 Credit: 4  
+Pre-requisite(s): Programming and Data Structures, Formal Languages and 
+Automata Theory  
+Introduction: Overview and phases of compilation; Lexical Analysis: Non -deterministic 
+and deterministic finite automata (NFA & DFA), regular grammar, regular expressions 
+and regular languages, design of a lexical analyser as a DFA, lexical analyser 
+generat or; Syntax Analysis: Role of a parser, context free grammars and context free 
+languages, parse trees and derivations, ambiguous grammar; Top Down Parsing: 
+Recursive descent parsing, LL(1) grammars, non -recursive predictive parsing, error 
+reporting and reco very; Bottom Up Parsing: Handle pruning and shift reduces parsing, 
+SLR parsers and construction of SLR parsing tables, LR(1) parsers and construction of 
+LR(1) parsing tables, LALR parsers and construction of efficient LALR parsing tables, 
+parsing using amb iguous grammars, error reporting and recovery, parser generator; 
+Syntax Directed Translation: Syntax directed definitions (SDD), inherited and 
+synthesized attributes, dependency graphs, evaluation orders for SDD, semantic rules, 
+application of syntax direc ted translation; Symbol Table: Structure and features of 
+symbol tables, symbol attributes and scopes; Intermediate Code Generation: DAG for 
+expressions, three address codes - quadruples and triples, types and declarations, 
+translation of expressions, array  references, type checking and conversions, 
+translation of Boolean expressions and control flow statements, back patching, 
+intermediate code generation for procedures; Run Time Environment: storage 
+organizations, static and dynamic storage allocations, sta ck allocation, handlings of 
+activation records for calling sequences; Code Generations: Factors involved, registers 
+allocation, simple code generation using stack allocation, basic blocks and flow graphs, 
+simple code generation using flow graphs; Elements of Code Optimization: Objective, 
+peephole optimization, elimination of local common sub -expressions, redundant and 
+un-reachable codes, flow of control optimization.  
+ 
+Text Books:  
+1.  K. D. Cooper and L. Torczon, “ Engineering a Compiler ,” Morgan Kaufman.  
+2.  Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman, “ Compilers: 
+Principles, Techniques and Tools ,” Pearson Education.  
+ 
+Reference Book s: 
+1.  Compiler Design  in C by Holub – PHI. 
+2.  Modern Compiler Design  by Dick Grune et al – Wiley India.  
+ 
+Subject Code:   CS6L007  Subject Name: Advanced 
+Algorithms  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Nil Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+68 
+ Models of computation : RAM model, Asymptotic Complexity, Amortized complexity.  
+Algorithmic paradigms : divide and conquer, recursion, dynamic programming, greedy, 
+branch and bound, backtracking.  
+Randomized algorithms: Randomized algorithms for Binary Search Tree, Quick Sort, 
+Quick Select etc.  
+Graph Algorithms : Shortest Path, Spanning Tree, Maximum Flows: Augmenting Paths 
+and Push -Relabel Methods . Minimum Cost Flows. Bipartite Matching.  
+Reducibility between problems and NP -completeness: discussion of different NP -
+complete problems like satisfiability, clique, vertex cover, independent set, 
+Hamiltonian cycle, TSP, knapsack, set cover, bin packing, etc. 
+Approximation algorithms : Constant ratio approximation algorithms, PTAS, FPTAS.  
+Geometric algorithms : Convex hulls, Closest pair of points, Voronoi diagram, etc.  
+Algebraic and number -theoretic algorithms: FFT, primality testing, etc.  
+Optimization tech niques : Linear programming  
+ 
+Text B ooks:  
+1.  Thomas H. Cormen, Cha rles E. Leiserson, R.L. Rivest.  Introduction to Algorithms , 
+Prentice Hall of India Publications.  
+2.  Algorithm Design  by Kleinberg and Tardos, Pearson.  
+ 
+Reference B ooks:  
+1.  Sara Baase  and Allen Van Gelder. Computer Algorithms: Introduction to Design 
+and Analysis , Pearson education (Singapore) Pvt. Ltd, New Delhi 2007.  
+2.  Alfred V. Aho, John E . Hopcroft, Jeffrey D. Ullman. The Design and Analysis of 
+Computer Algorithms , Pearson Educat ion (Singapore) 2006.   
+3.  Algorithmics: Theory and Practice  by Brassard and Bratley, Prentice Hall.  
+4.  Rajeev Motwani and Prabhakar Raghavan , Randomized Algorithms,  Cambridge 
+University Press.  
+ 
+Subject Code:   CS6L002  Subject Name: Networks and 
+Systems Security  L-T-P: 
+3-0-0 Credit: 3  
+Pre-requisite(s): Operating systems, computer network, programming, and 
+information security  
+Introduction to Networking principles: Introduction to networking, datalink layer, 
+network layer and transport layer protocols, DNS, mail servers, web servers, peer to 
+peer network Security, wireless communication protocol.  Overview of System 
+Security: Ex ploiting bugs in programs. Buffer overflows, fuzzing, Certification, secure 
+socket layer (SSL), Kerberos, SQL injection, concepts of vulnerability, risk 
+management, worm, virus, malwares, IDS, anti -viruses. Basics of Cryptography: Basic 
+cryptography and te chniques, block ciphers, message authentication, symmetric key 
+encryption, hash functions, public key encryption, digital signatures. Data Privacy: 
+Privacy changing online, mathematical definitions of privacy, attacks on privacy and 
+anonymity, K -anonymity,  Differential privacy, Private information retrieval, basics of 
+multiparty computation and relationship to privacy. Network Security: Access control, 
+stateful firewall, IPSec, modeling and analysis of various security violation in wireless 
+and sensor netwo rks, trusted computing techniques, ARP Poisoning, IP spoofing, 
+hidden tunnels, denial of service attack, firewalls.  
+ 
+Text B ooks:  
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+69 
+ 1.  Network Security Essentials  (Applications and Standards) by William Stallings 
+Pearson Education.  
+2.  Hack Proofing your network  by Ryan Russell, Dan Kaminsky, Rain Forest Puppy, 
+Joe Grand, David Ahmad, Hal Flynn IdoDubrawsky, Steve W.Manzuik and Ryan 
+Permeh, Wiley Dreamtech.  
+ 
+Reference B ooks:  
+ 
+1.  Network Security and Cryptography : Bernard Menezes, CENGAGE Learning.  
+2.  Network Security - Private Communication in a Public World  by Charlie Kaufman, 
+Radia Perlman and Mike Speciner, Pearson/PHI.  
+3.  Cryptography and network Security , Third edition, Stallings, PHI/Pearson  
+4.  Principles of Information Security , Whitman, Cengage Learning  
+ 
+Subject Code:   CS4P001  Subject Name: Compiler 
+Design  Laboratory  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Programming and Data Structure s, Formal Language s and 
+Automata Theory  
+Familiarity with compiled codes (assembly language) of RISC and CISC machines, 
+writing a scanner, writing predictive parser for a small language, small experiment 
+with scanner (lex/flex) and parser (yacc/byson) generator (such as translation of 
+regular expression to NFA or the construction or parse tree), writing s canner -parse 
+specification for a small language, translation of the language to an intermediate form 
+(e.g. three -address code), generation of target code (in assembly language). Code 
+improvement (optional).  
+ 
+Text Books : 
+1.  Alfred V. Aho, Ravi Sethi , Jeffrey D. Ullman, Compilers: Principles, Techniques and 
+Tools, Addison -Wesley.  
+2.  Michael L. Scott, Programming Language Pragmatics , Elsevier.  
+ 
+Reference Books : 
+1.  Andrew W. Appel, Modern Compiler Implementation in C/Java , Cambridge 
+University Press.  
+2.  Keith D. Cooper and Linda Torczon, Engineering a Compiler , Elsevier.  
+3.  Allen I. Holob, Compiler Design in C , Prentice -Hall. 
+4.  Steven S. Muchnik, Advanced Compiler Design and Implementation , Elsevier.  
+5.  Randy Allen and Ken Kennedy, Optimizing Comp ilers for Modern Architectures , 
+Elsevier.  
+ 
+Subject Code:   CS6P002  Subject Name: : Security 
+and Forensics Lab -I L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Computer Networks, Programming and Data Structures  
+Experiments related to Digital Signatures and MITM attacks; Hashing, password 
+cracking, and biometrics, Memory Corruption Exploits: Buffer overflows, Format string Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+70 
+ attacks, Code injection attacks, Heap -spraying, Memory Protection with Page guards, 
+SQL inje ction, XSS, Cross -site scripting and CSRF attacks, Bit -Torrent File Sharing, 
+Torrent Attacks, Botnets, Malware Detection and Forensics  
+IP Spoofing, Sniffing, SYN Flooding and DoS Attacks using Wireshark, TCPDump and 
+Smurf Tools, Stateful  Firewalls, Network Intrusion Detection, Honeypots Penetration 
+Testing Tools, Null -pointer dereference, code integrity, system call filters, Sandboxing 
+Security and Forensics Tools:  BitTorrent, Sleuthkit, WinHex  
+ 
+Text Books : 
+1.  William Stallings, Lawrie Brown, Computer Security - Principles and Practice , 
+Addison Wesley Professional, 2008  
+ 
+Reference Books : 
+1.   Introduction to Computer Networks and Cybersecurity ,  Chwan -Hwa (John) Wu, J. 
+David Irwin, CRC Press, Edition 2013  
+ 
+Subject 
+Code:   CS6P003  Subject Name: : Machine Learning 
+and Data Analytics Lab -I L-T-P: 
+0-0-3 Credit: 
+2 
+Pre-requisite(s): Nil 
+Softwares: Matlab/R/Python, Weka  
+Implementation of Clustering, Classification and Regression Algorithms  
+SVM toolboxes: SVMlight, SVMtorch etc  
+Deep Learning platforms: Tensorflow/Caffe/Theano, implementation of popular 
+architectures related to CNN, RNN, LSTM, Auto -encoder etc  
+Implementation of Time Series clustering and alignment algorithms  
+ 
+Text Books : 
+1.   R.P. Deng, R Programming for Data Science , (https://leanpub.com/rprogramming ) 
+2.  J. Verzani, Using R for Introductory Statistics , Chapman & Hall/CRC . 
+ 
+Reference Books:  
+1.  H. Wickham, Advanced R , Chapman & Hall/CRC.   
+2. P.K. Janert, Data Analysis with Open Source Tools: A Hands -On Guide for 
+Programmers and Data Scientists , O’ Reilly  
+3.  Dan Van Boxel, Hands -On Deep Learning with TensorFlow  
+4.  Deron A., Hands -on Machine Learning with Scikit -learn and Tensorflow , O’Reilly  
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+71 
+ SEMESTER – VIII  
+Subject Code:   CS6L008  Subject Name: Cloud 
+Computing  L-T-P: 
+3-0-0 Credit: 3  
+Pre-requisite(s): Operating systems, computer network s 
+Enabling Technologies and System Models for Cloud Computing, Introduction to Cloud 
+Computing including benefits, challenges, and risks, Cloud Computing Models 
+including Infrastructure/Platform/Software – as-a-service, Virtualization concepts: 
+Types of virt ualization and its benefits, Virtualization operating systems, Virtual 
+Machine  migration, Public cloud, private cloud and hybrid clouds, Cloud OS, Cloud 
+Architectures including Federated Clouds, Scalability, Performance, QoS, Data centers 
+for Cloud Comput ing, Principles of Virtualization platforms, Security and Privacy issues 
+in the Cloud, VMWare ESX Memory Management, Capacity Planning and Disas ter 
+Recovery in Cloud Computing  
+Text Books:  
+1.  Cloud Computing Best Practices for Managing and Measuring Processes for On -
+demand Computing : by Haley Beard  
+Reference Books:  
+1.  Cloud computing Black Book : by  Kailash Jayaswal, Jagannath Kallakurchi, Donald 
+J. Houde,  and Deven Shah  
+ 
+Subject 
+Code:   CS6L009  Subject Name: : High 
+Performance Computing 
+Architecture  L-T-P: 
+3-1-0 Credit: 4  
+Pre-requisite(s): Computer Organization and Architecture  
+Introduction: review of basic computer architecture, quantitative techniques in 
+computer design, measuring and reporting performance. CISC and RISC processors. 
+Pipelining: Basic concepts, instruction and arithmetic pipeline, data hazards, control 
+hazards, and structural hazards, techniques for handling hazards. Exception handling. 
+Pipeline optimization techniques. Compiler techniques for improving performance.  
+Hierarchical memory technology: Inclusion, Coherence and locality properties; Cache 
+memory organi zations, Techniques for reducing cache misses; Virtual memory 
+organization, mapping and management techniques, memory replacement policies. 
+Instruction -level parallelism: basic concepts, techniques for increasing ILP, 
+superscalar, superpipelined and VLIW p rocessor architectures. Array and vector 
+processors. Multiprocessor architecture: taxonomy of parallel architectures. 
+Centralized shared -memory architecture: synchronization, memory consistency, 
+interconnection networks. Distributed shared -memory architect ure. Cluster 
+computers. Non von Neumann architectures: data flow computers, reduction 
+computer architectures, systolic architectures.  GPU architectures: NVIDEA and AMD 
+architectures, gem5 and GPGPU -sim simulators, GPU Computing: CUDA and OpenCL 
+programmin g with case studies.  
+ 
+Text Books:  Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+72 
+ 1.  John L. Hennessy and David A. Patterson, Computer Architecture -- A Quantitative 
+Approach, Morgan Kaufmann  
+2.  David Patterson and J.L. Hennessy, Computer Organization and Design MIPS: The 
+hardware/software interface  
+3.  Benedict Gaster, Lee Howes, David R. Kaeli, Heterogeneous Computing with 
+OpenCL, Elsevier  
+ 
+Reference Books:  
+1.  P. Pacheco, Parallel Programming with MPI, Elsevier  
+2.  Shane Cook, CUDA programming, Morgan Kaufmann  
+ 
+Subject Code:   CS6P004  Subject Name: Security and 
+Forensics Lab -II L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Security and Forensics Lab -I 
+Experiments related to Hard drive acquisition, searching evidence, email analysis lab, 
+Hash analysis lab, Recycle bin analysis, Parsing FAT, Parsing NFTS, Tracking Activity, 
+Malware Analysis, Thumbnail cache analysis, Live/Online forensics, Reverse 
+Enginee ring,  
+Forensics Tools: Sleuthkit, Splunk, FireWalk, Windows Forensics Toolchest (WFT), 
+Computer   Online   Forensic   Evidence (COFE).  
+ 
+Text Books:  
+1.  Davis, Philipp, and Cowen, Hacking Exposed: Computer Forensics , Second Edition, 
+McGraw -Hill Education  
+ 
+Reference Books:  
+1.  H. Carvey, Windows Forensics Analysis DVD Toolkit , Syngress publishers  
+ 
+Subject 
+Code:   CS6P005  Subject Name: Machine Learning 
+and Data Analytics Lab -II L-T-P: 
+0-0-3 Credit: 
+2 
+Pre-requisite(s): Machine Learning and Data Analytics Lab -I 
+Probabilistic Modeling Toolboxes: GMM, HMM, MRF/CRF etc  
+Implementation of Topic Modeling Algorithms, Topic Modeling toolboxes  
+Implementation of Online learning and Reinforcement Learning algorithms  
+ 
+Text Books:  
+1.  Murphy, K., Machine Learning: A Probabilistic Perspective , MIT Press, 2012  
+ 
+Reference Books:  
+1.  Blei, D. (2014). Build, compute, critique, repeat: Data analysis with latent variable 
+models . Annual Review of Statistics and Its Application, 1:203 –232 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+73 
+ SEMESTER – IX 
+Subject Code:   CS6P00 1 Subject Name: Computer 
+Systems Lab  L-T-P: 
+0-0-3 Credit: 2  
+Pre-requisite(s): Programming and Data Structures  
+Object -oriented programming concepts and UML, Implementation of graph algorithms, 
+Randomized and approximation algorithms, Numerical computing algorithms, Basics of 
+System programming: process creation, Inter process communication (IPC), 
+Implementation of scheduling algorithms, synchronization, shared memory and 
+semaphore, shell programming and imp lementation of file management.  
+ 
+Text Books : 
+1.  Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts , Wiley Asia 
+Student Edition.  
+2.  William Stallings, Operating Systems: Internals and Design Principles , Prentice Hall 
+of India.  
+ 
+Reference Books : 
+1.  Systems Analysis and Design: an Ob ject-oriented Approach with UML  (5th edition), 
+Alan Dennis,  Barbara Haley Wixom,  David Tegarden. ISBN -13: 978 -1118804674 ISBN -
+10: 1118804678  
+ 
+The syllabus for elective courses for dual degree program is same as 
+that of B.Tech curriculum.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+74 
+ List of Lateral Courses for Other Schools  
+ 
+Subject Name  Code  L-T-P Credit  Contact 
+Hour  Syllabus  
+Page No.  
+Lateral – I (Any one will be offered)    
+Digital Logic and Systems  CS2L003  3-1-0 4 4 75 
+Lateral – II (Any one will be offered)    
+Microcontrollers and Embedded 
+Systems  CS3L004  3-1-0 4 4 75-76 
+Lateral – III (Any one will be offered)    
+Computer Networks and Security  CS3L007  3-1-0 4 4 76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+75 
+ Syllabus for Lateral Courses  (for other schools)  
+Subject Code : 
+CS2L003  (LT -1) Subject Name : 
+Digital Logic and 
+Systems  
+ L-T-P: 3-1-0 Credit : 4 
+Prerequisite : None  
+Syllabus : Boolean Algebra and combinatorial circuits: Boolean algebra: De -Morgan’s 
+theorem, switching functions and simplification using K -maps & Quine McCluskey  
+method, Design of adder, subtractor, comparators, code converters, encoders, 
+decoders, multiplexers and demultiplexers; Synchronous sequential circuits: Flip flops 
+- SR, D, JK and T. Analysis of synchronous sequential circuits; design of synchronous 
+seque ntial circuits – Counters, state diagram; state reduction; state assignment; 
+Asynchronous sequential circuits: Analysis of asynchronous sequential machines, state 
+assignment, asynchronous design problem; PROGRAMMABLE LOGIC DEVICES, 
+MEMORY AND LOGIC FAMILIE S: Memories: ROM, PROM, EPROM, PLA, PLD, FPGA, 
+digital logic families: TTL, ECL, CMOS; VHDL:  RTL Design – combinational logic – 
+Types – Operators – Packages – Sequential circuit – Sub programs – Test benches. 
+(Examples: adders, counters, flipflops, FSM, M ultiplexers / Demltiplexers).  
+Text Books  
+1. Raj Kamal, Digital systems -Principles and Design , Pearson education 2nd edition, 
+2007.  
+2. M. Morris Mano, Digital D esign , Pearson Education, 2006.  
+3. John M.Yarbrough, Digital Logic, Application & Design , Thomson, 2002.  
+ 
+Reference Books  
+1. Charles H.Roth, Fundamentals Logic Design , Jaico Publishing, IV edition, 2002.  
+2. Floyd and Jain, Digital Fundamentals , 8th edition, Pearson Education, 2003.  
+3. John F.Wakerly, Digital Design Principles and Practi ce, 3rd edition, Pearson 
+Educatio n, 2002.  
+4. Tocci, Digital Systems : Principles and applications , 8th Edition, Pearson Education.  
+Subject Code : 
+CS3L004 (LT -2) Subject Name:  
+Microcontrollers and 
+Embedded Systems  
+ L-T-P: 3-1-0 Credit : 4 
+Prerequisite : None.  
+Syllabus : Microcontrollers: 8051 Architecture, Functional block diagram - Instruction 
+format and addressing modes – Timing Diagram, Interrupt structure Input / Output 
+Ports and Circuits, External Memory, Counters and Timers, PIC Controllers. Interfacing 
+Processor (8051, PIC), Memory Interfacing, I/O Devices, Memory Controller and 
+Memory arbitration Schemes;  
+Embedded Systems: Overview of  Embedded  Systems, Processor Embedded into a 
+system, Embedded Hardware Units and Devices in system, Embedded Software, 
+Complex System Design, Design Process in Embedded System, Formalization of 
+System Design, and Classification of  Embedded  Systems; Embedded Process ors: PSOC 
+(Programmable System -on-Chip) architectures, Continuous Timer blocks, Switched 
+Capacitor blocks, I/O blocks, Digital blocks, Programming of PSOC, Embedded RISC 
+Processor architecture – ARM Processor architecture, Register Set, Modes of operation 
+and overview of Instructions; Interrupts and Device Drivers: Exceptions and Interrupt 
+handling Schemes – Context & Periods for Context Switching, Deadline & interrupt 
+latency. Device driver using Interrupt Service Routine, Serial port Device Driver, Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+76 
+ Device  drivers for Internal Programmable timing devices; Real Time Systems : Basic 
+Concepts, Hard and Soft Real Time Systems, Tasks – periodic and aperiodic tasks, 
+Timing parameters – release time, execution time, deadline, period, Basic real time 
+Task Scheduling  Algorithms, Resource Contention, Deadlocks, Priority Inversion, 
+Basics of Re -entrancy and Thread Safety in Embedded Software Developments  
+Text Books : 
+1. Embedded Microcomputer Systems, Real Time Interfacing  – Jonathan W. Valvano – 
+Brookes / Cole, 1999, Thom as Learning.  
+2. Muhammad Ali Mazidi & Janice Gilli Mazidi, R.D.Kinely ‘ The 8051 Micro Controller 
+and Embedded Systems ’, PHI Pearson Education, 5th Indian reprint, 2003.  
+Subject Code : 
+CS3L007  (LT -3) Subject Name : 
+Computer Networks 
+and Security  
+ L-T-P: 3-1-0 Credit : 4 
+Prerequisite : None.  
+Syllabus : Data Communication: Communication Elements, direction of data flow,  
+Networks, components and categories, types of connections, topologies, basic protocol 
+and standards, ISO/OSI model, Transmission Media – Fibre Optics, Coaxial Cables, 
+Line coding, Modem , RS 232 Interfacing sequences; Data Link Layer: Error Detection 
+and Correction, Parity – LRC – CRC – Hamming code, basics of flow control and error 
+control, LAN – Ethernet; Network Layer:  Internetworking, Packet switching and 
+Datagram, IP addressing, Sub nets – routing – distance vector and link state routing – 
+routers; Transport and Application Layer: Functions, Multiplexing, basics of TCP and 
+UDP, Congestion control, QoS, DNS, SMTP – FTP – HTTP, WWW; Network Security: 
+Basic Concepts, Access control, Cryp tography, Network security, Firewalls, IDS, 
+Security on the Internet and the World Wide Web, Vulnerabilities, Threats, Attack 
+Techniques, Denial of Service.    
+ Text Books:  
+1. Data Communications and Networking , B. A. Forouzan, McGrawHill, 4th Edition 
+2007 
+2. Computer Networks , A. Tanenbaum,  
+3. Computer Security , Mat Bishop, Pearson Education 2003  
+4. Fundamentals of Computer Security , Pieprzyk et.al, Allied Publishers 2004  
+ 
+Reference Books:  
+1. R. Anderson. Security Engineering , 2nd edition, Prentice Hall, 2008  
+2. W. Stallings. Data and Computer Communications , 7th Edition, Prentice Hall, 2004.      
+ 
+ 
+ 
+ 
+ Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+77 
+ Summary of Course Credits ( B.Tech. in CSE ) 
+SEMESTER – I 
+Subject Name  Code  L-T-P Credit  
+Mathematics -1 MA1L001  3-1-0 4 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0 
+ 4 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -1 ID1T001  0-0-3 1 
+  Total  22/23+1  
+SEMESTER – II 
+Subject Name  Code  L-T-P Credit  
+Mathematics -2 MA1L002  3-1-0 4 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-1-0 4 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -2 ID1T002  0-0-3 1 
+  Total  23/22+1  
+SEMESTER – III 
+Subject Name  Code  L-T-P Credit  
+Introduction to Electronics  EC2L001  3-1-0 4 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 
+Discrete Structures  CS2L001  3-1-0 4 
+Data Structures  CS2L004  3-0-0 3 
+Signals & Systems  EC2L002  3-1-0 4 
+Breadth – 1  3-0-0 3 
+Introduction  to Electronics Laboratory  EC2P001  0-0-3 2 
+Signals & Systems Laboratory  EC2P002  0-0-3 2 
+Data Structure Laboratory  CS2P002  0-0-3 2 
+  Total  26 Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+78 
+ SEMESTER – IV 
+Subject Name  Code  L-T-P Credit  
+Lateral -1  3-0-0 3 
+Breadth – 2  3-0-0 3 
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 
+Combinatory, Probability and Statistics  MA2L006  3-1-0 4 
+Design and Analysis of Algorithms     CS2L002  3-1-0 4 
+Digital Electronic Circuits  EC2L004  3-1-0 4 
+Design and Analysis of Algorithms 
+Laboratory  CS2P001  0-0-3 2 
+Digital Electronic Circuits Laboratory  EC2P004  0-0-3 2 
+Project Seminar   CS2S001    0-0-3 2 
+  Total  26 
+SEMESTER – V 
+Lateral -2   3-0/1-0 3 / 4 
+Breadth -3  3-0/1-0 3 / 4 
+Formal Languages and Automata Theory  CS3L001  3-1-0 4 
+Computer Organization and Architecture  CS3L002  4-0-0 4 
+Operating Systems  CS3L005  4-0-0 4 
+Computer Organization and Architecture 
+Laboratory  CS3P001  0-0-3 2 
+Operating Systems Laboratory  CS3P003  0-0-3 2 
+  Total  22/24  
+SEMESTER – VI 
+Lateral -3  3-0/1-0 3/4 
+Database Systems  CS3L003  3-1-0 4 
+Computer Networks  CS3L006  3-1-0 4 
+Elective -1  3-0/1-0 3/4 
+Database Systems Laboratory  CS3P002  0-0-3 2 
+Computer Networks Laboratory  CS3P004  0-0-3 2 
+  Total  18/20  
+SEMESTER – VII 
+Subject Name  Code  L-T-P Credit  
+Compiler Design  CS4L001  3-1-0 4 
+Elective -2  3-0/1-0 3/4 
+Elective -3  3-0/1-0 3/4 
+Elective -4  3-0/1-0 3/4 
+Compiler Design Laboratory  CS4P001  0-0-3 2 
+Project - Part 1  CS4D001  0-0-6 4 
+Industrial Training Defense  CS4T001  0-0-3 2 
+  Total  21/24  
+SEMESTER – VIII  
+Subject Name  Code  L-T-P Credit  
+Breadth -4  3/4-0-0 3/4 
+Elective -5  3-0/1-0 3/4 
+Elective -6  3-0/1-0 3/4 
+Project - Part 2  CS4D002  0-0-9 6 
+  Total  15/18  
+Total Credit: 1 74/186 Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+79 
+ Summary of Course Credits ( Dual Degree  Programme ) 
+SEMESTER – I 
+Subject Name  Code  L-T-P Credit  
+Mathematics -1 MA1L001  3-1-0 4 
+Physics/  
+Chemistry  PH1L001/ 
+CY1L001  3-1-0 4 
+ Mechanics / English for Communications  or  
+ Learning English  ME1L001/  
+HS1L001  
+or HS1L002  3-1-0 
+ 4 
+Electrical Technology / Introduction to 
+Programing and Data Structures  EE1L001 / 
+CS1L001   
+3-1-0 4 
+Introduction to Manufacturing Processes /  
+Engineering Drawing and Graphics  ME1P001/ 
+CE1P001  0-0-3/ 
+1-0-3 2/3 
+Physics Laboratory/  Chemistry Laboratory  PH1P001/ 
+CY1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -1 ID1T001  0-0-3 1 
+  Total  22/23+1  
+SEMESTER – II 
+Subject Name  Code  L-T-P Credit  
+Mathematics -2 MA1L002  3-1-0 4 
+Chemistry/  
+Physics  CY1L001/ 
+PH1L001  3-1-0 4 
+English for Communication   or Learning 
+English /   Mechanics  HS1L001 or  
+HS 1L002/ 
+ME1L001  3-1-0 4 
+Introduction to Programming and Data 
+Structures/ Electrical Technology  CS1L001/ 
+EE1L001  3-1-0 4 
+Engineering Drawing and Graphics  / 
+Introduction to Manufacturing Processes  CE1P001/ 
+ME1P001  1-0-3/  
+0-0-3 3/2 
+Chemistry Laboratory/ Physics Laboratory  CY1P001/ 
+PH1P001  0-0-3 2 
+Electrical Technology Laboratory   / 
+Introduction to Programing and Data 
+Structures Laboratory  EE1P001/  
+CS1P001  0-0-3 2 
+Extra Academic Activity -2 ID1T002  0-0-3 1 
+  Total  23/22+1  
+SEMESTER – III 
+Subject Name  Code  L-T-P Credit  
+Introduction to Electronics  EC2L001  3-1-0 4 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 
+Discrete Structures  CS2L001  3-1-0 4 
+Data Structures  CS2L004  3-0-0 3 
+Signals & Systems  EC2L002  3-1-0 4 
+Breadth – 1  3-0-0 3 
+Introduction  to Electronics Laboratory  EC2P001  0-0-3 2 
+Signals & Systems Laboratory  EC2P002  0-0-3 2 
+Data Structure Laboratory  CS2P002  0-0-3 2 
+  Total  26 Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+80 
+ SEMESTER – IV 
+Subject Name  Code  L-T-P Credit  
+Lateral -1  3-0-0 3 
+Breadth – 2  3-0-0 3 
+Environmental Science Technology and 
+Management  ID2L003  2-0-0 2 
+Combinatory, Probability and Statistics  MA2L006  3-1-0 4 
+Design and Analysis of Algorithms     CS2L002  3-1-0 4 
+Digital Electronic Circuits  EC2L004  3-1-0 4 
+Design and Analysis of Algorithms 
+Laboratory  CS2P001  0-0-3 2 
+Digital Electronic Circuits Laboratory  EC2P004  0-0-3 2 
+Project Seminar   CS2S001    0-0-3 2 
+  Total  26 
+SEMESTER – V 
+Lateral -2   3-0/1-0 3 / 4 
+Breadth -3  3-0/1-0 3 / 4 
+Formal Languages and Automata Theory  CS3L001  3-1-0 4 
+Computer Organization and Architecture  CS3L002  4-0-0 4 
+Operating Systems  CS3L005  4-0-0 4 
+Computer Organization and Architecture 
+Laboratory  CS3P001  0-0-3 2 
+Operating Systems Laboratory  CS3P003  0-0-3 2 
+  Total  22/24  
+SEMESTER – VI 
+Lateral -3  3-0/1-0 3/4 
+Database Systems  CS3L003  3-1-0 4 
+Computer Networks  CS3L006  3-1-0 4 
+Elective -1  3-0/1-0 3/4 
+Database Systems Laboratory  CS3P002  0-0-3 2 
+Computer Networks Laboratory  CS3P004  0-0-3 2 
+  Total  18/20  
+SEMESTER – VII 
+Subject Name  Code  L-T-P Credit  
+Compiler Design  CS4L001  3-1-0 4 
+Advanced Algorithms  CS6L007  3-1-0 4 
+Networks and Systems Security  CS6L002  3-1-0 4 
+Elective -2  3-0-0 3 
+Compiler Design Lab CS4P001  0-0-3 2 
+Security & Forensics Lab -I/ML & DA Lab -I CS6P002/CS6P
+003 0-0-3 2 
+Project - Part 1  CS4D001  0-0-6 4 
+Industrial Training Defense  CS4T001  0-0-3 2 
+  Total  25 
+SEMESTER – VIII  
+Subject Name  Code  L-T-P Credit  
+Breadth -4  3/4-0-0 3/4 
+Cloud Computing  CS6L008  3-1-0 4 
+High performance Computer Architecture  CS6L009  3-1-0 4 
+Elective -3  3-0-0 3 Indian Institute of Technology Bhubaneswar  
+Curriculum  (CSE)  
+ 
+81 
+ Security & Forensics Lab -II/ML & DA Lab -II CS6P004/CS6
+P005  0-0-3  2 
+Project - Part 2  CS4D002  0-0-0 6 
+  Total  22/23 
+SEMESTER – IX 
+Subject Name  Code  L-T-P Credit  
+Elective -4  3-0/1-0 3/4 
+Computer Systems Lab  CS6P001  0-0-3 2 
+Research Review  CS6D001   4 
+Thesis (Part –I) CS6D002  0-0-0 12 
+  Total  21/22  
+SEMESTER – X 
+Subject Name  Code  L-T-P Credit  
+Elective -5  3-0-0 3 
+Thesis (Part –II) CS6D004  0-0-0 13 
+  Total  16 
+  
+Total Credit: 222/230  
+ 
+As per regulations the credit requirement: 220 -225 
+ 

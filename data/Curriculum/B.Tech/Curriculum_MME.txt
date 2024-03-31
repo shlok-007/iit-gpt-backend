@@ -1,0 +1,179 @@
+Curriculum for B. Tech. (Metallurgical and 
+Materials Engineering) 3rd Sem to 8th Sem  
+ 
+  
+Subject Name  Code  L-T-
+P  Credit  Contact 
+Hour  
+SEMESTER - III 
+Basic Electronics  EC2L005  3-1-0 4 4 
+Introduction to Materials Science and Engineering  ID2L001  2-0-0 2 2 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 2 
+Numerical Methods  MA2L007  3-1-0 4 4 
+     
+Breadth - I     3/4 3/4 
+Thermodynamics of Materials  ML2L002  3-0-0 3 3 
+Basic Electronics Laboratory  EC2P005  0-0-3 2 3 
+Introduction to Materials Laboratory  ML2P001  0-0-3 2 3 
+Seminar  ML2S001  0-0-0 2 0 
+    Total  24/25  24/25  
+SEMESTER – IV 
+Breadth - II     3/4 3/4 
+Lateral 1      3/4 3/4 
+Environmental Science, Technology and Management  ID3L003  2-0-0 2 2 
+Materials Processing  ML2L003  3-0-0 3 3 
+Transport Phenomena and Kinetics of Metallurgical 
+Processes  ML2L004  3-1-0 4 4 
+Physical Metallurgy  ML2L005  3-0-0 3 3 
+Materials Processing Laboratory  ML2P002  0-0-3 2 3 
+Physical Metallurgy Laboratory  ML2P003  0-0-3 2 3 
+Thermodynamics of Materials Laboratory  ML2P004  0-0-3 2 3 
+    Total  24/26  27/29  
+SEMESTER - V 
+Breadth - III     3/4 3/4 
+Lateral - II     3/4 3/4 
+ID2L003Mineral processing  ML3L001  3-0-0 3 3 
+Corrosion and surface engineering  ML3L002  3-0-0 3 3 
+Mechanical properties and testing of materials  ML3L003  3-0-0 3 3 
+Phase transformation of materials  ML3L004  3-0-0 3 3 
+Chemical metallurgy  ML3L005  3-0-0 3 3 
+Mechanical testing & working laboratory  ML3P001  0-0-3 2 3 
+    Total  23/25  24/26  
+SEMESTER - VI 
+Breadth - IV     3/4 3/4 
+Lateral - III     3/4 3/4 
+Materials characterization  ML3L006  3-0-0 3 3 
+Iron and Steel making  ML3L007  3-0-0 3 3 
+Deformation and mechanical working of materials  ML3L008  3-0-0 3 3 
+Introduction to simulation and modeling in materials  ML3L009  3-0-0 3 3 
+Materials characterization laboratory - I ML3P002  0-0-3 2 3 
+Simulation and modeling laboratory  ML3P003  0-0-3 2 3 
+    Total  22/24  24/26  
+SEMESTER - VII 
+Light metals and alloys  ML4L001  3-0-0 3 3 
+Elements of electroceramics  ML4L002  3-0-0 3 3 
+Polymers and nanocomposites  ML4L003  3-0-0 3 3 
+Elective - I ML4LXXX  3-0-0 3 3 
+Materials characterization laboratory - II ML4P001  0-0-3 2 3 
+Process control and instrumentation laboratory  ML4P002  0-0-3 2 3 
+Industrial training defense  ML4T001  0-0-0 2 0 
+Project - I ML4D001  0-0-6 4 0 
+    Total  22 18 
+SEMESTER - VIII  
+Elective – II ML4LXXX  3-0-0 3 3 
+Elective – III ML4LXXX  3-0-0 3 3 
+Elective – IV ML4LXXX  3-0-0 3 3 
+Elective – V ML4LXXX  3-0-0 3 3 
+Project – II ML4D002  0-0-9 6 0 
+     Total  18 12 
+List of Electives  
+Metallurgical Engineering based Electives  
+Joining of metals and alloys  ML4L001  3-0-0 3 3 
+Solidification of metals and alloys  ML4L002  3-0-0 3 3 
+Electrochemical methods in metallurgy  ML4L003  3-0-0 3 3 
+Powder metallurgy  ML4L004  3-0-0 3 3 
+Material Engineering based Electives  
+Materials design and selection  ML4L005  3-0-0 3 3 
+Energy materials  ML4L006  3-0-0 3 3 
+Crystallography and x -ray diffraction  ML4L007  3-0-0 3 3 
+Micro Electro Mechanical Systems  ML4L008  3-0-0 3 3 
+Physics of materials  ML4L009  3-0-0 3 3 
+Science and technology of composite materials  ML4L010  3-0-0 3 3 
+Biomaterials  ML4L011  3-0-0 3 3 
+Materials i n archaeology  ML4L012  3-0-0 3 3 
+Minerals and resources based Electives  
+Mineral process plant design  ML4L013  3-0-0 3 3 
+Fuels, furnaces and refractories  ML4L014  3-0-0 3 3 
+Materials recycling and sustainability  ML4L015  3-0-0 3 3 
+List of Laterals  
+Advances in nanoscience and nanotechnology  ML2L006  3-0-0 3 3 
+Recent advances in composite materials  ML3L011  3-0-0 3 3 
+Mineral processing plant design  ML3L012  3-0-0 3 3 
+Subject Name  Code  L-T-
+P  Credit  Contact 
+Hour  
+SEMESTER - III 
+Basic Electronics  EC2L005  3-1-0 4 4 
+Introduction to Materials Science and Engineering  ID2L001  2-0-0 2 2 
+Introduction to Bio Science and Technology  ID2L002  2-0-0 2 2 
+Numerical Methods  MA2L007  3-1-0 4 4 
+     
+Breadth - I     3/4 3/4 
+Thermodynamics of Materials  ML2L002  3-0-0 3 3 
+Basic Electronics Laboratory  EC2P005  0-0-3 2 3 
+Introduction to Materials Laboratory  ML2P001  0-0-3 2 3 
+Seminar  ML2S001  0-0-0 2 0 
+    Total  24/25  24/25  
+SEMESTER – IV 
+Breadth - II     3/4 3/4 
+Lateral 1      3/4 3/4 
+Environmental Science, Technology and Management  ID3L003  2-0-0 2 2 
+Materials Processing  ML2L003  3-0-0 3 3 
+Transport Phenomena and Kinetics of Metallurgical 
+Processes  ML2L004  3-1-0 4 4 
+Physical Metallurgy  ML2L005  3-0-0 3 3 
+Materials Processing Laboratory  ML2P002  0-0-3 2 3 
+Physical Metallurgy Laboratory  ML2P003  0-0-3 2 3 
+Thermodynamics of Materials Laboratory  ML2P004  0-0-3 2 3 
+    Total  24/26  27/29  
+SEMESTER - V 
+Breadth - III     3/4 3/4 
+Lateral - II     3/4 3/4 
+Mineral processing  ML3L001  3-0-0 3 3 
+Corrosion and surface engineering  ML3L002  3-0-0 3 3 
+Mechanical properties and testing of materials  ML3L003  3-0-0 3 3 
+Phase transformation of materials  ML3L004  3-0-0 3 3 
+Chemical metallurgy  ML3L005  3-0-0 3 3 
+Mechanical testing & working laboratory  ML3P001  0-0-3 2 3 
+    Total  23/25  24/26  
+SEMESTER - VI 
+Breadth - IV     3/4 3/4 
+Lateral - III     3/4 3/4 
+Materials characterization  ML3L006  3-0-0 3 3 
+Iron and Steel making  ML3L007  3-0-0 3 3 
+Deformation and mechanical working of materials  ML3L008  3-0-0 3 3 
+Introduction to simulation and modeling in materials  ML3L009  3-0-0 3 3 
+Materials characterization laboratory - I ML3P002  0-0-3 2 3 
+Simulation and modeling laboratory  ML3P003  0-0-3 2 3 
+    Total  22/24  24/26  
+SEMESTER - VII 
+Light metals and alloys  ML4L001  3-0-0 3 3 
+Elements of electroceramics  ML4L002  3-0-0 3 3 
+Polymers and nanocomposites  ML4L003  3-0-0 3 3 
+Elective - I ML4LXXX  3-0-0 3 3 
+Materials characterization laboratory - II ML4P001  0-0-3 2 3 
+Process control and instrumentation laboratory  ML4P002  0-0-3 2 3 
+Industrial training defense  ML4T001  0-0-0 2 0 
+Project - I ML4D001  0-0-6 4 0 
+    Total  22 18 
+SEMESTER - VIII  
+Elective – II ML4LXXX  3-0-0 3 3 
+Elective – III ML4LXXX  3-0-0 3 3 
+Elective – IV ML4LXXX  3-0-0 3 3 
+Elective – V ML4LXXX  3-0-0 3 3 
+Project – II ML4D002  0-0-9 6 0 
+     Total  18 12 
+List of Electives  
+Metallurgical Engineering based Electives  
+Joining of metals and alloys  ML4L001  3-0-0 3 3 
+Solidification of metals and alloys  ML4L002  3-0-0 3 3 
+Electrochemical methods in metallurgy  ML4L003  3-0-0 3 3 
+Powder metallurgy  ML4L004  3-0-0 3 3 
+Material Engineering based Electives  
+Materials design and selection  ML4L005  3-0-0 3 3 
+Energy materials  ML4L006  3-0-0 3 3 
+Crystallography and x -ray diffraction  ML4L007  3-0-0 3 3 
+Micro Electro Mechanical Systems  ML4L008  3-0-0 3 3 
+Physics of materials  ML4L009  3-0-0 3 3 
+Science and technology of composite materials  ML4L010  3-0-0 3 3 
+Biomaterials  ML4L011  3-0-0 3 3 
+Materials i n archaeology  ML4L012  3-0-0 3 3 
+Minerals and resources based Electives  
+Mineral process plant design  ML4L013  3-0-0 3 3 
+Fuels, furnaces and refractories  ML4L014  3-0-0 3 3 
+Materials recycling and sustainability  ML4L015  3-0-0 3 3 
+List of Laterals  
+Advances in nanoscience and nanotechnology  ML2L006  3-0-0 3 3 
+Recent advances in composite materials  ML3L011  3-0-0 3 3 
+Mineral processing plant design  ML3L012  3-0-0 3 3 
+ 

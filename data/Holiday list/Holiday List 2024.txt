@@ -1,0 +1,22 @@
+Holiday List 2024  
+S.N. Holiday  Month  Date  Day 
+1 Republic Day  January  26 Friday  
+2 Maha Shivratri  March  8 Friday  
+3 Holi March  25 Monday  
+4 Good Friday  March  29 Friday  
+5 Id u’l Fitr  April  11 Thursday  
+6 Mahavir Jayanti  April  21 Sunday  
+7 Buddha Purnima  May 23 Thursday  
+8 Id u’l Zuha (Bakrid)  June 17 Monday  
+9 Muharram  July 17 Wednesday  
+10 Independence Day  August  15 Thursday  
+11 Id-e-Milad  September  16 Monday  
+12 Mahatma Gandhi’s Birth Day  October  2 Wednesday  
+13 Dussehra (Sasthi)  October  9 Wednesday  
+14 Dussehra (Saptami)  October  10 Thursday  
+15 Dussehra (Mahashtami / Mahanabami)  October  11 Friday  
+16 Dussehra (Vijay Dasami)  October  12 Saturday  
+17 Diwali  October  31 Thursday  
+18 Guru Nanak’s Birthday  November  15 Friday  
+19 Christmas Day  December  25 Wednesday  
+ 
