@@ -2,6 +2,9 @@ import os
 import sys
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 
 import openai
 from langchain.chains import ConversationalRetrievalChain, RetrievalQA
@@ -16,8 +19,6 @@ from langchain.vectorstores import Chroma
 import constants
 
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
-
-app = Flask(__name__)
 
 # Initializing the index
 PERSIST = True
@@ -39,11 +40,16 @@ chain = ConversationalRetrievalChain.from_llm(
   retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
 )
 
+app = Flask(__name__)
+CORS(app)  # Enable CORS for all domains
+limiter = Limiter(app, key_func=get_remote_address)  # Rate limiter
+
 @app.route('/', methods=['GET'])
 def index():
     return 'Hello, World!'
 
 @app.route('/query', methods=['POST'])
+@limiter.limit("10 per minute")  # Allow only 10 requests per minute
 def query():
     data = request.json
     query = data.get('query')
@@ -57,4 +63,4 @@ def query():
     return jsonify(result)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

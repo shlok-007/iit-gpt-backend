@@ -10,6 +10,8 @@ openai = "*"
 chromadb = "*"
 tiktoken = "*"
 unstructured = "*"
+Flask-Cors = "*"
+flask-limiter = "*"
 
 [requires]
 python_version = "3.10"
