@@ -29,7 +29,7 @@ if PERSIST and os.path.exists("persist"):
   index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
   #loader = TextLoader("data/data.txt") # Use this line if you only need data.txt
-  loader = DirectoryLoader("data/")
+  loader = DirectoryLoader("/var/www/iit-gpt-backend/data/")
   if PERSIST:
     index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory":"persist"}).from_loaders([loader])
   else:
@@ -42,11 +42,11 @@ chain = ConversationalRetrievalChain.from_llm(
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all domains
-limiter = Limiter(app, key_func=get_remote_address)  # Rate limiter
+limiter = Limiter(get_remote_address, app=app, default_limits=["200 per day", "50 per hour"])
 
 @app.route('/', methods=['GET'])
 def index():
-    return 'Hello, World!'
+    return 'IIT GPT is live!'
 
 @app.route('/query', methods=['POST'])
 @limiter.limit("10 per minute")  # Allow only 10 requests per minute
@@ -54,6 +54,7 @@ def query():
     data = request.json
     query = data.get('query')
     chat_history = data.get('chat_history', [])
+    chat_history = [tuple(sublist) for sublist in chat_history]
 
     if not query:
         return jsonify({'error': 'Query parameter is missing.'}), 400
@@ -63,4 +64,4 @@ def query():
     return jsonify(result)
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(port=5011)

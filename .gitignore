@@ -1,8 +1,17 @@
 # Secrets
 contants.py
+/node_modules
+/ARP
+token.pickle
+links.txt
+linkt.txt
 
 # Logs
 /logs/*
+
+/persist
+
+client_secret.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
