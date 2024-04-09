@@ -3,13 +3,23 @@ import sys
 
 import openai
 from langchain.chains import ConversationalRetrievalChain, RetrievalQA
-from langchain.chat_models import ChatOpenAI
-from langchain.document_loaders import DirectoryLoader, TextLoader
-from langchain.embeddings import OpenAIEmbeddings
+# from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_openai import OpenAIEmbeddings
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
-from langchain.llms import OpenAI
-from langchain.vectorstores import Chroma
+from langchain_community.llms import OpenAI
+from langchain_community.vectorstores import Chroma
+
+# from langchain.chains import ConversationalRetrievalChain, RetrievalQA
+# from langchain.chat_models import ChatOpenAI
+# from langchain.document_loaders import DirectoryLoader, TextLoader
+# from langchain.embeddings import OpenAIEmbeddings
+# from langchain.indexes import VectorstoreIndexCreator
+# from langchain.indexes.vectorstore import VectorStoreIndexWrapper
+# from langchain.llms import OpenAI
+# from langchain.vectorstores import Chroma
 
 import constants
 
@@ -19,6 +29,8 @@ os.environ["OPENAI_API_KEY"] = constants.APIKEY
 PERSIST = True
 
 query = None
+if len(sys.argv) > 1:
+  query = sys.argv[1]
 
 if PERSIST and os.path.exists("persist"):
   print("Reusing index...\n")
@@ -28,6 +40,7 @@ else:
   #loader = TextLoader("data/data.txt") # Use this line if you only need data.txt
   loader = DirectoryLoader("data/")
   if PERSIST:
+    print("\n\n\n\n --------------creating and storing index----------------------\n\n\n\n")
     index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory":"persist"}).from_loaders([loader])
   else:
     index = VectorstoreIndexCreator().from_loaders([loader])

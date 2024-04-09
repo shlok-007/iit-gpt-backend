@@ -5,13 +5,21 @@ name = "pypi"
 
 [packages]
 flask = "*"
-langchain = "*"
+langchain-community = "0.0.29"
+flask-cors = "*"
+flask-limiter = "*"
+langchain = "0.1.13"
+langchain-openai = "*"
 openai = "*"
 chromadb = "*"
 tiktoken = "*"
-unstructured = "*"
-Flask-Cors = "*"
-flask-limiter = "*"
+pdf2image = "*"
+poppler-utils = "*"
+pytesseract = "*"
+"unstructured.pytesseract" = "*"
+unstructured = {extras = ["csv","pdf","doc","docx","ppt","pptx","xlsx","rtf"], version = "*"}
+
+[dev-packages]
 
 [requires]
 python_version = "3.10"
